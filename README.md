@@ -340,7 +340,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 #### Further reading
 
-[The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus) ([original text in Russian](../socionics-rus))
+[The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus) ([original text in Russian](https://github.com/kiwi0fruit/misc/tree/master/src/socionics-rus/README.md))
 
 #### Notable discussions
 
@@ -349,4 +349,4 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 --------
 
-*([Source code](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/README.md) at GitHub)*
+*([Source code](https://github.com/kiwi0fruit/jats/README.md) at GitHub)*
