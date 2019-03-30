@@ -349,4 +349,4 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 --------
 
-*([Source code](https://github.com/kiwi0fruit/jats/README.md) at GitHub)*
+*([Source code](https://github.com/kiwi0fruit/jats/blob/master/README.md) at GitHub)*
