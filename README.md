@@ -87,13 +87,13 @@ In my translation of socionics types names to English the 4 letter code shows th
 | quadra | EP      | IJ           | IP           | EJ      |
 |:-------|:-------:|:------------:|:------------:|:-------:|
 | alpha  | **ENTP⁠-⁠Ne-dom.**  ILE  ENTP  **1**  | **INTJ⁠-⁠Ti-dom.**  LII  INTx  **2**  | **ISFP⁠-⁠Si-dom.**  SEI  ISFx  **3**  | **ESFJ⁠-⁠Fe-dom.**  ESE  ESFJ  **4**  |
-|        | **NeT** | **TiN-INTJ** | **SiF-ISFP** | **FeS** |
+|        | **NeT-ENTP** | **TiN-INTJ** | **SiF-ISFP** | **FeS-ESFJ** |
 | beta   | **ESTP⁠-⁠Se-dom.**  SLE  ESTP  **5**  | **ISTJ⁠-⁠Ti-dom.**  LSI  ISTx  **6**  | **INFP⁠-⁠Ni-dom.**  IEI  INFx  **7**  | **ENFJ⁠-⁠Fe-dom.**  EIE  ENFJ  **8**  |
-|        | **SeT** | **TiS-ISTJ** | **NiF-INFP** | **FeN** |
+|        | **SeT-ESTP** | **TiS-ISTJ** | **NiF-INFP** | **FeN-ENFJ** |
 | gamma  | **ESFP⁠-⁠Se-dom.**  SEE  ESFP  **9**  | **ISFJ⁠-⁠Fi-dom.**  ESI  ISFx  **10** | **INTP⁠-⁠Ni-dom.**  ILI  INTx  **11** | **ENTJ⁠-⁠Te-dom.**  LIE  ENTJ  **12** |
-|        | **SeF** | **FiS-ISFJ** | **NiT-INTP** | **TeN** |
+|        | **SeF-ESFP** | **FiS-ISFJ** | **NiT-INTP** | **TeN-ENTJ** |
 | delta  | **ENFP⁠-⁠Ne-dom.**  IEE  ENFP  **13** | **INFJ⁠-⁠Fi-dom.**  EII  INFx  **14** | **ISTP⁠-⁠Si-dom.**  SLI  ISTx  **15** | **ESTJ⁠-⁠Te-dom.**  LSE  ESTJ  **16** |
-|        | **NeF** | **FiN-INFJ** | **SiT-ISTP** | **TeS** |
+|        | **NeF-ENFP** | **FiN-INFJ** | **SiT-ISTP** | **TeS-ESTJ** |
 
 For example INTJ-Ti-dom. / TiN-INTJ is *intuitive task-oriented judging introvert* with dominant Ti (or *dominant introverted tasker & judging intuiter*). So the first part of the name is given by:
 
@@ -115,18 +115,18 @@ Or if you want to use names that more explicitly differ from MBTI see this table
 
 | quadra    |    EP   |     IJ         |     IP         |    EJ   |
 |:--------- |:-------:|:--------------:|:--------------:|:-------:|
-| **alpha** | **NeT** | **TiN-INTJ**   | **SiF-ISFP**   | **FeS** |
+| **alpha** | **NeT-ENTP** | **TiN-INTJ**   | **SiF-ISFP**   | **FeS-ESFJ** |
 | meaning   | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & perceiving feeler   | dominant extraverted feeler & judging sensor   |
-| pronounce | N.E.T.  | T.I.N.I.N.T.J. | S.I.F.I.S.F.P. | F.E.S.  |
-| **beta**  | **SeT** | **TiS-ISTJ**   | **NiF-INFP**   | **FeN** |
+| pronounce | N.E.T.E.N.T.P.  | T.I.N.I.N.T.J. | S.I.F.I.S.F.P. | F.E.S.E.S.F.J.  |
+| **beta**  | **SeT-ESTP** | **TiS-ISTJ**   | **NiF-INFP**   | **FeN-ENFJ** |
 | meaning   | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
-| pronounce | S.E.T.  | T.I.S.I.S.T.J. | N.I.F.I.N.F.P. | F.E.N.  |
-| **gamma** | **SeF** | **FiS-ISFJ**   | **NiT-INTP**   | **TeN** |
+| pronounce | S.E.T.E.S.T.P.  | T.I.S.I.S.T.J. | N.I.F.I.N.F.P. | F.E.N.E.N.F.J.  |
+| **gamma** | **SeF-ESFP** | **FiS-ISFJ**   | **NiT-INTP**   | **TeN-ENTJ** |
 | meaning   | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
-| pronounce | S.E.F.  | F.I.S.I.S.F.J. | N.I.T.I.N.T.P. | T.E.N.  |
-| **delta** | **NeF** | **FiN-INFJ**   | **SiT-ISTP**   | **TeS** |
+| pronounce | S.E.F.E.S.F.P.  | F.I.S.I.S.F.J. | N.I.T.I.N.T.P. | T.E.N.E.N.T.J.  |
+| **delta** | **NeF-ENFP** | **FiN-INFJ**   | **SiT-ISTP**   | **TeS-ESTJ** |
 | meaning   | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
-| pronounce | N.E.F.  | F.I.N.I.N.F.J. | S.I.T.I.S.T.P. | T.E.S.  |
+| pronounce | N.E.F.E.N.F.P.  | F.I.N.I.N.F.J. | S.I.T.I.S.T.P. | T.E.S.E.S.T.J.  |
 
 
 ### 5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
@@ -135,22 +135,22 @@ Both translations and names were revised. Lytov's translation of Gulenko's names
 
 | ID | JATS¹    | Mnemonic              | Revised Gulenko's | Literal Gulenko (Gulenko-Lytov), Keirsey³ (Keirsey-1984²) |
 | --:| -------- | ---------------------- | ---------------- |:---------------------------------:|
-|  1 | NeT      | The very first curious | **Inventor**     | Seeker, Inventor                  |
+|  1 | NeT-ENTP | The very first curious | **Inventor**     | Seeker, Inventor                  |
 |  2 | TiN⁠-⁠INTJ | The second one curious | Analyst          | Analyst, Mastermind (Scientist)   |
 |  3 | SiF⁠-⁠ISFP | Three Musketeers Dumas | Mediator         | Mediator, Composer (Artist)       |
-|  4 | FeS      | Four elements          | **Enthusiast**   | Enthusiast (Bonvivant), Provider (Seller) |
-|  5 | SeT      | The five senses        | **General**      | Marshal (Commander), Promoter     |
+|  4 | FeS-ESFJ | Four elements          | **Enthusiast**   | Enthusiast (Bonvivant), Provider (Seller) |
+|  5 | SeT-ESTP | The five senses        | **General**      | Marshal (Commander), Promoter     |
 |  6 | TiS⁠-⁠ISTJ | Has no sixth sense     | Inspector        | Inspector, Inspector (Trustee)    |
 |  7 | NiF⁠-⁠INFP | Seven Sins / Wonders   | **Poet**         | Lyricist, Healer (Questor)        |
-|  8 | FeN      | Eight-bit              | **Inspirer**     | Mentor, Teacher (Pedagogue)       |
-|  9 | SeF      | Nine lives of a cat    | Politician       | Politician, Performer (Entertainer) |
+|  8 | FeN-ENFJ | Eight-bit              | **Inspirer**     | Mentor, Teacher (Pedagogue)       |
+|  9 | SeF-ESFP | Nine lives of a cat    | Politician       | Politician, Performer (Entertainer) |
 | 10 | FiS⁠-⁠ISFJ | Proper as a dozen      | Guardian         | Guardian, Protector (Conservator) |
 | 11 | NiT⁠-⁠INTP | 11 football players    | **Foreseer**     | Critic, Architect                 |
-| 12 | TeN      | 12 hours, dozen        | **Entrepreneur** | Entrepreneur (Enterpriser), Fieldmarshal |
-| 13 | NeF      | Devil's/Baker's dozen  | **Journalist**   | Advise-giver (Psychologist), Champion\* (Journalist) |
+| 12 | TeN-ENTJ | 12 hours, dozen        | **Entrepreneur** | Entrepreneur (Enterpriser), Fieldmarshal |
+| 13 | NeF-ENFP | Devil's/Baker's dozen  | **Journalist**   | Advise-giver (Psychologist), Champion\* (Journalist) |
 | 14 | FiN⁠-⁠INFJ | Twice sinful as 7 type | Humanist         | Humanist, Counselor (Author)      |
 | 15 | SiT⁠-⁠ISTP | Finishes the job too   | Craftsman        | Craftsman, Crafter (Artisan)      |
-| 16 | TeS      | Finishes the job       | Administrator    | Administrator, Supervisor (Administrator) |
+| 16 | TeS-ESTJ | Finishes the job       | Administrator    | Administrator, Supervisor (Administrator) |
 
 ¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
 ² David Keirsey, Marilyn Bates, *Please understand Me, Character and Temperament Types*, 1984,  
@@ -330,8 +330,8 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | ENxP<1;1~13>               | ENTP-Ne-dom. v ENuP(1~13) v ... (but not ENFP-Ne-dom.) | ENTP(1<-13)    |
 | xNTx<2;1~2>                | INTJ-Ti-dom. v uNTu(1~2) v ... (but not ENTP-Ne-dom.) | INTJ(2<-1)     |
 | IxTJ<2;2\~6>               | INTJ-Ti-dom. v IuTJ(2~6) v ... (but not ISTJ-Ti-dom.) | INTJ(2<-6) |
-| xNxx(AD)⁠<1,2,13,14>        | INTJ-Ti-dom. v ENTP-Ne-dom. v INFJ-Fi-dom. v ENFP-Ne-dom. v ENuP(1~13) v ... | ? |
-| Ixxx(BG)⁠<6,7,10,11>        | ISTJ-Ti-dom. v INFP-Ni-dom. v ISFJ-Fi-dom. v INTP-Ni-dom. v INuP(7~11) v ... | ? |
+| NAD⁠<1,2,13,14>        | INTJ-Ti-dom. v ENTP-Ne-dom. v INFJ-Fi-dom. v ENFP-Ne-dom. v ENuP(1~13) v ... | ? |
+| IBG⁠<6,7,10,11>        | ISTJ-Ti-dom. v INFP-Ni-dom. v ISFJ-Fi-dom. v INTP-Ni-dom. v INuP(7~11) v ... | ? |
 | xNxP<1,7,11,13>            | ENTP-Ne-dom. v INFP-Ni-dom. v INTP-Ni-dom. v ENFP-Ne-dom. v ENuP(1~13) v INuP-Ni-dom. v ... | ? |
 | IxTx<2,6,11,15>            | INTJ-Ti-dom. v ISTJ-Ti-dom. v INTP-Ni-dom. v ISTP-Si-dom. v IuTJ-Ti-dom. v ... | ? |
 
