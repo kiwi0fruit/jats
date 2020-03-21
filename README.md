@@ -135,22 +135,22 @@ Both translations and names were revised. Lytov's translation of Gulenko's names
 
 | ID | JATS¹    | Mnemonic              | Revised Gulenko's | Literal Gulenko (Gulenko-Lytov), Keirsey³ (Keirsey-1984²) |
 | --:| -------- | ---------------------- | ---------------- |:---------------------------------:|
-|  1 | NeT-ENTP | The very first curious | **Inventor**     | Seeker, Inventor                  |
+|  1 | NeT⁠-⁠ENTP | The very first curious | **Inventor**     | Seeker, Inventor                  |
 |  2 | TiN⁠-⁠INTJ | The second one curious | Analyst          | Analyst, Mastermind (Scientist)   |
 |  3 | SiF⁠-⁠ISFP | Three Musketeers Dumas | Mediator         | Mediator, Composer (Artist)       |
-|  4 | FeS-ESFJ | Four elements          | **Enthusiast**   | Enthusiast (Bonvivant), Provider (Seller) |
-|  5 | SeT-ESTP | The five senses        | **General**      | Marshal (Commander), Promoter     |
+|  4 | FeS⁠-⁠ESFJ | Four elements          | **Enthusiast**   | Enthusiast (Bonvivant), Provider (Seller) |
+|  5 | SeT⁠-⁠ESTP | The five senses        | **General**      | Marshal (Commander), Promoter     |
 |  6 | TiS⁠-⁠ISTJ | Has no sixth sense     | Inspector        | Inspector, Inspector (Trustee)    |
 |  7 | NiF⁠-⁠INFP | Seven Sins / Wonders   | **Poet**         | Lyricist, Healer (Questor)        |
-|  8 | FeN-ENFJ | Eight-bit              | **Inspirer**     | Mentor, Teacher (Pedagogue)       |
-|  9 | SeF-ESFP | Nine lives of a cat    | Politician       | Politician, Performer (Entertainer) |
+|  8 | FeN⁠-⁠ENFJ | Eight-bit              | **Inspirer**     | Mentor, Teacher (Pedagogue)       |
+|  9 | SeF⁠-⁠ESFP | Nine lives of a cat    | Politician       | Politician, Performer (Entertainer) |
 | 10 | FiS⁠-⁠ISFJ | Proper as a dozen      | Guardian         | Guardian, Protector (Conservator) |
 | 11 | NiT⁠-⁠INTP | 11 football players    | **Foreseer**     | Critic, Architect                 |
-| 12 | TeN-ENTJ | 12 hours, dozen        | **Entrepreneur** | Entrepreneur (Enterpriser), Fieldmarshal |
-| 13 | NeF-ENFP | Devil's/Baker's dozen  | **Journalist**   | Advise-giver (Psychologist), Champion\* (Journalist) |
+| 12 | TeN⁠-⁠ENTJ | 12 hours, dozen        | **Entrepreneur** | Entrepreneur (Enterpriser), Fieldmarshal |
+| 13 | NeF⁠-⁠ENFP | Devil's/Baker's dozen  | **Journalist**   | Advise-giver (Psychologist), Champion\* (Journalist) |
 | 14 | FiN⁠-⁠INFJ | Twice sinful as 7 type | Humanist         | Humanist, Counselor (Author)      |
 | 15 | SiT⁠-⁠ISTP | Finishes the job too   | Craftsman        | Craftsman, Crafter (Artisan)      |
-| 16 | TeS-ESTJ | Finishes the job       | Administrator    | Administrator, Supervisor (Administrator) |
+| 16 | TeS⁠-⁠ESTJ | Finishes the job       | Administrator    | Administrator, Supervisor (Administrator) |
 
 ¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
 ² David Keirsey, Marilyn Bates, *Please understand Me, Character and Temperament Types*, 1984,  
@@ -268,13 +268,13 @@ Dominant function in Socionics is called **1st** function. And Socionics splits 
 | **Quadra**    | **EP**  | **IJ**       | **IP**       | **EJ**  |
 |:--------------|:--------|:-------------|:-------------|:--------|
 | α alpha **A** | ENTP(NeT) ENTP(1Ne2Ti8Te) | INTJ(TiN) INTJ(1Ti2Ne8Ni) | ISFP(SiF) ISFP(1Si2Fe8Fi) | ESFJ(FeS) ESFJ(1Fe2Si8Se) |
-|               | **NeT** | **TiN-INTJ** | **SiF-ISFP** | **FeS** |
+|               | **NeT-ENTP** | **TiN-INTJ** | **SiF-ISFP** | **FeS-ESFJ** |
 | β beta **B**  | ESTP(SeT) ESTP(1Se2Ti8Te) | ISTJ(TiS) ISTJ(1Ti2Se8Si) | INFP(NiF) INFP(1Ni2Fe8Fi) | ENFJ(FeN) ENFJ(1Fe2Ni8Ne) |
-|               | **SeT** | **TiS-ISTJ** | **NiF-INFP** | **FeN** |
+|               | **SeT-ESTP** | **TiS-ISTJ** | **NiF-INFP** | **FeN-ENFJ** |
 | γ gamma **G** | ESFP(SeF) ESFP(1Se2Fi8Fe) | ISFJ(FiS) ISFJ(1Fi2Se8Si) | INTP(NiT) INTP(1Ni2Te8Ti) | ENTJ(TeN) ENTJ(1Te2Ni8Ne) |
-|               | **SeF** | **FiS-ISFJ** | **NiT-INTP** | **TeN** |
+|               | **SeF-ESFP** | **FiS-ISFJ** | **NiT-INTP** | **TeN-ENTJ** |
 | δ delta **D** | ENFP(NeF) ENFP(1Ne2Fi8Fe) | INFJ(FiN) INFJ(1Fi2Ne8Ni) | ISTP(SiT) ISTP(1Si2Te8Ti) | ESTJ(TeS) ESTJ(1Te2Si8Se) |
-|               | **NeF** | **FiN-INFJ** | **SiT-ISTP** | **TeS** |
+|               | **NeF-ENFP** | **FiN-INFJ** | **SiT-ISTP** | **TeS-ESTJ** |
 
 One of the shortest notations is given as the last name. It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
