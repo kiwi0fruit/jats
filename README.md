@@ -328,10 +328,10 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | INxx<2,7>                  | INTJ-Ti-dom. v INFP-Ni-dom. v INuu(2~7) v ...   | INuu(2~7)      |
 | IxxJ<2,10>                 | INTJ-Ti-dom. v ISFJ-Fi-dom. v IuuJ(2~10) v ...  | IuuJ(2~10)     |
 | ENxP<1;1~13>               | ENTP-Ne-dom. v ENuP(1~13) v ... (but not ENFP-Ne-dom.) | ENTP(1<-13)    |
-| xNTx<2;1~2>                | INTJ-Ti-dom. v uNTu(1~2) v ... (but not ENTP-Ne-dom.) | INTJ(2<-1)     |
+| xNTx<2;1\~2>               | INTJ-Ti-dom. v uNTu(1~2) v ... (but not ENTP-Ne-dom.) | INTJ(2<-1)     |
 | IxTJ<2;2\~6>               | INTJ-Ti-dom. v IuTJ(2~6) v ... (but not ISTJ-Ti-dom.) | INTJ(2<-6) |
-| NAD⁠<1,2,13,14>        | INTJ-Ti-dom. v ENTP-Ne-dom. v INFJ-Fi-dom. v ENFP-Ne-dom. v ENuP(1~13) v ... | ? |
-| IBG⁠<6,7,10,11>        | ISTJ-Ti-dom. v INFP-Ni-dom. v ISFJ-Fi-dom. v INTP-Ni-dom. v INuP(7~11) v ... | ? |
+| xNxxAD⁠<1,2,13,14>        | INTJ-Ti-dom. v ENTP-Ne-dom. v INFJ-Fi-dom. v ENFP-Ne-dom. v ENuP(1~13) v ... | ? |
+| IxxxBG⁠<6,7,10,11>        | ISTJ-Ti-dom. v INFP-Ni-dom. v ISFJ-Fi-dom. v INTP-Ni-dom. v INuP(7~11) v ... | ? |
 | xNxP<1,7,11,13>            | ENTP-Ne-dom. v INFP-Ni-dom. v INTP-Ni-dom. v ENFP-Ne-dom. v ENuP(1~13) v INuP-Ni-dom. v ... | ? |
 | IxTx<2,6,11,15>            | INTJ-Ti-dom. v ISTJ-Ti-dom. v INTP-Ni-dom. v ISTP-Si-dom. v IuTJ-Ti-dom. v ... | ? |
 
