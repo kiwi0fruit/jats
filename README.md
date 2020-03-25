@@ -307,29 +307,29 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 ## 9. Intermediate and unknown types names
 
-1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value (capital is M - Mu). We also automatically get **explicit notation** like IxTJ-Ti-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones
+1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value (capital is M - Mu). We also automatically get **explicit notation** like **IxTJ-Ti-dom**. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones
 2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne-dom** if the person is a mixture equally of ENTP-Ne-dom, ENTJ-Te-dom and INTJ-Ti-dom: ENTJ(1\~2~12). But at the moment it's a speculation only.
 3. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example **INTx[2,11]** = INTJ-Ti-dom or INTP-Ni-dom or INTu(2~11). But if we take MBTI types then **INTx** = INTP-Ti-dom or INTJ-Ni-dom or INTu.
 
-| **Unknown types**          | **Meaning of unknown types**                  | **Mixed type** |
-|:--------------------------:|:---------------------------------------------:|:--------------:|
-| ExTJ[12,16]                | ENTJ-Te-dom v ESTJ-Te-dom v EuTJ(12~16) v ... | EuTJ(12~16)    |
-| ENxJ[8,12]                 | ENTJ-Te-dom v ENFJ-Fe-dom v ENuJ(8~12) v ...  | ENuJ(8~12)     |
-| INTx[2,11]                 | INTJ-Ti-dom v INTP-Ni-dom v INTu(2~11) v ...  | INTu(2~11)     |
-| IxTJ[2,6], IxTJ⁠-⁠⁠Ti⁠-⁠dom     | INTJ-Ti-dom v ISTJ-Ti-dom v IuTJ(2~6) v ...   | IuTJ(2~6)      |
-| xNTx[1,2]                  | ENTP-Ne-dom v INTJ-Ti-dom v uNTu(1~2) v ...   | uNTu(1~2)      |
-| xNTJ[2,12]                 | ENTJ-Te-dom v INTJ-Ti-dom v uNTJ(2~12) v ...  | uNTJ(2~12)     |
-| INxJ[2,14]                 | INTJ-Ti-dom v INFJ-Fi-dom v INuJ(2~14) v ...  | INuJ(2~14)     |
-| IxTx[2,15]                 | INTJ-Ti-dom v ISTP-Si-dom v IuTu(2~15) v ...  | IuTu(2~15)     |
-| INxx[2,7]                  | INTJ-Ti-dom v INFP-Ni-dom v INuu(2~7) v ...   | INuu(2~7)      |
-| IxxJ<2,10>                 | INTJ-Ti-dom v ISFJ-Fi-dom v IuuJ(2~10) v ...  | IuuJ(2~10)     |
-| ENxP[1;1~13]               | ENTP-Ne-dom v ENuP(1~13) v ... (but not ENFP-Ne-dom) | ENTP(1<-13)    |
-| xNTx[2;1\~2]               | INTJ-Ti-dom v uNTu(1~2) v ... (but not ENTP-Ne-dom) | INTJ(2<-1)     |
-| IxTJ[2;2\~6]               | INTJ-Ti-dom v IuTJ(2~6) v ... (but not ISTJ-Ti-dom) | INTJ(2<-6) |
-| xNxxAD[1,2,13,14]          | INTJ-Ti-dom v ENTP-Ne-dom v INFJ-Fi-dom v ENFP-Ne-dom v ENuP(1~13) v ... | ? |
-| IxxxBG[6,7,10,11]          | ISTJ-Ti-dom v INFP-Ni-dom v ISFJ-Fi-dom v INTP-Ni-dom v INuP(7~11) v ... | ? |
-| xNxP[1,7,11,13]            | ENTP-Ne-dom v INFP-Ni-dom v INTP-Ni-dom v ENFP-Ne-dom v ENuP(1~13) v INuP-Ni-dom v ... | ? |
-| IxTx[2,6,11,15]            | INTJ-Ti-dom v ISTJ-Ti-dom v INTP-Ni-dom v ISTP-Si-dom v IuTJ-Ti-dom v ... | ? |
+| **Unknown types** | **Meaning of unknown types**           | **Mixed type** |
+|:-----------------:|:--------------------------------------:|:--------------:|
+| ExTJ[12,16]       | TeN v TeS v EuTJ(12~16) v ...          | EuTJ(12~16)    |
+| ENxJ[8,12]        | TeN v FeN v ENuJ(8~12) v ...           | ENuJ(8~12)     |
+| INTx[2,11]        | TiN-intj v NiT-intp v INTu(2~11) v ... | INTu(2~11)     |
+| IxTJ[2,6]         | TiN-intj v TiS-istj v IuTJ(2~6) v ...  | IuTJ(2~6)      |
+| xNTx[1,2]         | NeT v TiN-intj v uNTu(1~2) v ...       | uNTu(1~2)      |
+| xNTJ[2,12]        | TeN v TiN-intj v uNTJ(2~12) v ...      | uNTJ(2~12)     |
+| INxJ[2,14]        | TiN-intj v FiN-infj v INuJ(2~14) v ... | INuJ(2~14)     |
+| IxTx[2,15]        | TiN-intj v SiT-istp v IuTu(2~15) v ... | IuTu(2~15)     |
+| INxx[2,7]         | TiN-intj v NiF-infp v INuu(2~7) v ...  | INuu(2~7)      |
+| IxxJ[2,10]        | TiN-intj v FiS-isfj v IuuJ(2~10) v ... | IuuJ(2~10)     |
+| ENxP[1;1~13]      | NeT v ENuP(1~13) v ... (not NeF)       | ENTP(1<=13)    |
+| xNTx[2;1\~2]      | TiN-intj v uNTu(1~2) v ... (not NeT)   | INTJ(2<=1)     |
+| IxTJ[2;2\~6]      | TiN-intj v IuTJ(2~6) v ... (not TiS-istj) | INTJ(2<=6)  |
+| xNxxAD[1,2,13,14] | TiN-intj v NeT v FiN-infj v NeF v ENuP(1~13) v ...              | ? |
+| IxxxBG[6,7,10,11] | TiS-istj v NiF-infp v FiS-isfj v NiT-intp v INuP(7~11) v ...    | ? |
+| xNxP[1,7,11,13]   | NeT v NiF-infp v NiT-intp v NeF v ENuP(1~13) v INuP(7~11) v ... | ? |
+| IxTx[2,6,11,15]   | TiN-intj v TiS-istj v NiT-intp v SiT-istp v IuTJ(2~6) v ...     | ? |
 
 
 ## 10. Further reading and notable discussions
