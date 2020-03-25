@@ -24,11 +24,11 @@ This is an alternative translation of one of the braches of Socionics to English
 3. All cognitive functions are called **kinds of perceprion** and **kinds of judging**. “**Sensory perceprion**” is used instead of Sensing/Sensorics, “**Intuitive perceprion**” is used instead of Intuition, “**Task-oriented judging**” is used instead of Thinking/Logic, “**Feelings-oriented judging**” is used instead of Feeling/Ethics. I also like HBDI approach [en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument](https://en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument) that calls all them the kinds of thinking.
 4. Single-noun terms like **intuiter, sensor, feeler and tasker** are used (also **perceiver** and **judger**).
 5. **Rational/Irrational** names were replaced with **Judging/Perceiving** as these are more accurate names: please remember Rationalism and it’s attitude to emotional thinking. This also helps to make Socionics vs. MBTI contradictions more clear.
-6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INTJ⁠-⁠Ti-dom.** vs. **INTP⁠-⁠Ni-dom.** (or **Ti⁠N⁠-⁠INTJ** vs. **Ni⁠T⁠-⁠INTP**) that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker. Extraverted types don't need explicit notation so very short names like **NeT** and **FeN** are used.
+6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INTJ⁠-⁠Ti-dom** vs. **INTP⁠-⁠Ni-dom** (or **Ti⁠N⁠-intj** vs. **Ni⁠T⁠-intp**) that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker. Extraverted types don't need explicit notation so very short names like **NeT** and **FeN** are used.
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types.
 8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx<1,2>, uNTu(1~2)** that are unknown and mixed types from NeT and TiN-INTJ (u stands for μ that stands for mean).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
-10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT, Enthusiast for FeS, General for SeT, Poet for NiF-INFP, **Inspirer** for FeN, **Foreseer** for NiT-INTP, Entrepreneur for TeN, **Journalist** for NeF.
+10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT, Enthusiast for FeS, General for SeT, Poet for NiF-infp, **Inspirer** for FeN, **Foreseer** for NiT-intp, Entrepreneur for TeN, **Journalist** for NeF.
 11. The set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions is given. Together hypotheses give **Model A** as consequences.
 12. Further reading: [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus).
 13. **Notable discussions**: [reddit.com/r/JungianTypology/comments/b5pase](https://www.reddit.com/r/JungianTypology/comments/b5pase/model_a_as_consequence_of_a_set_of_hypotheses/), [reddit.com/r/JungianTypology/comments/b12uju](https://www.reddit.com/r/JungianTypology/comments/b12uju/translation_of_some_useful_socionics_terms/).
@@ -86,16 +86,16 @@ In my translation of socionics types names to English the 4 letter code shows th
 
 | quadra | EP      | IJ           | IP           | EJ      |
 |:-------|:-------:|:------------:|:------------:|:-------:|
-| alpha  | **ENTP⁠-⁠Ne-dom.**  ILE  ENTP  **1**  | **INTJ⁠-⁠Ti-dom.**  LII  INTx  **2**  | **ISFP⁠-⁠Si-dom.**  SEI  ISFx  **3**  | **ESFJ⁠-⁠Fe-dom.**  ESE  ESFJ  **4**  |
-|        | **NeT-ENTP** | **TiN-INTJ** | **SiF-ISFP** | **FeS-ESFJ** |
-| beta   | **ESTP⁠-⁠Se-dom.**  SLE  ESTP  **5**  | **ISTJ⁠-⁠Ti-dom.**  LSI  ISTx  **6**  | **INFP⁠-⁠Ni-dom.**  IEI  INFx  **7**  | **ENFJ⁠-⁠Fe-dom.**  EIE  ENFJ  **8**  |
-|        | **SeT-ESTP** | **TiS-ISTJ** | **NiF-INFP** | **FeN-ENFJ** |
-| gamma  | **ESFP⁠-⁠Se-dom.**  SEE  ESFP  **9**  | **ISFJ⁠-⁠Fi-dom.**  ESI  ISFx  **10** | **INTP⁠-⁠Ni-dom.**  ILI  INTx  **11** | **ENTJ⁠-⁠Te-dom.**  LIE  ENTJ  **12** |
-|        | **SeF-ESFP** | **FiS-ISFJ** | **NiT-INTP** | **TeN-ENTJ** |
-| delta  | **ENFP⁠-⁠Ne-dom.**  IEE  ENFP  **13** | **INFJ⁠-⁠Fi-dom.**  EII  INFx  **14** | **ISTP⁠-⁠Si-dom.**  SLI  ISTx  **15** | **ESTJ⁠-⁠Te-dom.**  LSE  ESTJ  **16** |
-|        | **NeF-ENFP** | **FiN-INFJ** | **SiT-ISTP** | **TeS-ESTJ** |
+| alpha  | **ENTP⁠-⁠Ne-dom**,  ILE,  ENTP,  **1**  | **INTJ⁠-⁠Ti-dom**,  LII,  INTx,  **2**  | **ISFP⁠-⁠Si-dom**,  SEI,  ISFx,  **3**  | **ESFJ⁠-⁠Fe-dom**,  ESE,  ESFJ,  **4**  |
+|        | **NeT** | **TiN-intj** | **SiF-isfp** | **FeS** |
+| beta   | **ESTP⁠-⁠Se-dom**,  SLE,  ESTP,  **5**  | **ISTJ⁠-⁠Ti-dom**,  LSI,  ISTx,  **6**  | **INFP⁠-⁠Ni-dom**,  IEI,  INFx,  **7**  | **ENFJ⁠-⁠Fe-dom**,  EIE,  ENFJ,  **8**  |
+|        | **SeT** | **TiS-istj** | **NiF-infp** | **FeN** |
+| gamma  | **ESFP⁠-⁠Se-dom**,  SEE,  ESFP,  **9**  | **ISFJ⁠-⁠Fi-dom**,  ESI,  ISFx,  **10** | **INTP⁠-⁠Ni-dom**,  ILI,  INTx,  **11** | **ENTJ⁠-⁠Te-dom**,  LIE,  ENTJ,  **12** |
+|        | **SeF** | **FiS-isfj** | **NiT-intp** | **TeN** |
+| delta  | **ENFP⁠-⁠Ne-dom**,  IEE,  ENFP,  **13** | **INFJ⁠-⁠Fi-dom**,  EII,  INFx,  **14** | **ISTP⁠-⁠Si-dom**,  SLI,  ISTx,  **15** | **ESTJ⁠-⁠Te-dom**,  LSE,  ESTJ,  **16** |
+|        | **NeF** | **FiN-infj** | **SiT-istp** | **TeS** |
 
-For example INTJ-Ti-dom. / TiN-INTJ is *intuitive task-oriented judging introvert* with dominant Ti (or *dominant introverted tasker & judging intuiter*). So the first part of the name is given by:
+For example INTJ-Ti-dom / TiN-intj is *intuitive task-oriented judging introvert* with dominant Ti (or *dominant introverted tasker & judging intuiter*). So the first part of the name is given by:
 
 - **NT** is intuitive task-oriented (or intuiter and tasker),
 - **NF** is intuitive feelings-oriented (or intuiter and feeler),
@@ -115,18 +115,14 @@ Or if you want to use names that more explicitly differ from MBTI see this table
 
 | quadra    |    EP   |     IJ         |     IP         |    EJ   |
 |:--------- |:-------:|:--------------:|:--------------:|:-------:|
-| **alpha** | **NeT-ENTP** | **TiN-INTJ**   | **SiF-ISFP**   | **FeS-ESFJ** |
+| **alpha** | **NeT** | **TiN-intj**   | **SiF-isfp**   | **FeS** |
 | meaning   | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & perceiving feeler   | dominant extraverted feeler & judging sensor   |
-| pronounce | N.E.T.E.N.T.P.  | T.I.N.I.N.T.J. | S.I.F.I.S.F.P. | F.E.S.E.S.F.J.  |
-| **beta**  | **SeT-ESTP** | **TiS-ISTJ**   | **NiF-INFP**   | **FeN-ENFJ** |
+| **beta**  | **SeT** | **TiS-istj**   | **NiF-infp**   | **FeN** |
 | meaning   | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
-| pronounce | S.E.T.E.S.T.P.  | T.I.S.I.S.T.J. | N.I.F.I.N.F.P. | F.E.N.E.N.F.J.  |
-| **gamma** | **SeF-ESFP** | **FiS-ISFJ**   | **NiT-INTP**   | **TeN-ENTJ** |
+| **gamma** | **SeF** | **FiS-isfj**   | **NiT-intp**   | **TeN** |
 | meaning   | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
-| pronounce | S.E.F.E.S.F.P.  | F.I.S.I.S.F.J. | N.I.T.I.N.T.P. | T.E.N.E.N.T.J.  |
-| **delta** | **NeF-ENFP** | **FiN-INFJ**   | **SiT-ISTP**   | **TeS-ESTJ** |
+| **delta** | **NeF** | **FiN-infj**   | **SiT-istp**   | **TeS** |
 | meaning   | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
-| pronounce | N.E.F.E.N.F.P.  | F.I.N.I.N.F.J. | S.I.T.I.S.T.P. | T.E.S.E.S.T.J.  |
 
 
 ### 5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
@@ -135,22 +131,22 @@ Both translations and names were revised. Lytov's translation of Gulenko's names
 
 | ID | JATS¹    | Mnemonic              | Revised Gulenko's | Literal Gulenko (Gulenko-Lytov), Keirsey³ (Keirsey-1984²) |
 | --:| -------- | ---------------------- | ---------------- |:---------------------------------:|
-|  1 | NeT⁠-⁠ENTP | The very first curious | **Inventor**     | Seeker, Inventor                  |
-|  2 | TiN⁠-⁠INTJ | The second one curious | Analyst          | Analyst, Mastermind (Scientist)   |
-|  3 | SiF⁠-⁠ISFP | Three Musketeers Dumas | Mediator         | Mediator, Composer (Artist)       |
-|  4 | FeS⁠-⁠ESFJ | Four elements          | **Enthusiast**   | Enthusiast (Bonvivant), Provider (Seller) |
-|  5 | SeT⁠-⁠ESTP | The five senses        | **General**      | Marshal (Commander), Promoter     |
-|  6 | TiS⁠-⁠ISTJ | Has no sixth sense     | Inspector        | Inspector, Inspector (Trustee)    |
-|  7 | NiF⁠-⁠INFP | Seven Sins / Wonders   | **Poet**         | Lyricist, Healer (Questor)        |
-|  8 | FeN⁠-⁠ENFJ | Eight-bit              | **Inspirer**     | Mentor, Teacher (Pedagogue)       |
-|  9 | SeF⁠-⁠ESFP | Nine lives of a cat    | Politician       | Politician, Performer (Entertainer) |
-| 10 | FiS⁠-⁠ISFJ | Proper as a dozen      | Guardian         | Guardian, Protector (Conservator) |
-| 11 | NiT⁠-⁠INTP | 11 football players    | **Foreseer**     | Critic, Architect                 |
-| 12 | TeN⁠-⁠ENTJ | 12 hours, dozen        | **Entrepreneur** | Entrepreneur (Enterpriser), Fieldmarshal |
-| 13 | NeF⁠-⁠ENFP | Devil's/Baker's dozen  | **Journalist**   | Advise-giver (Psychologist), Champion\* (Journalist) |
-| 14 | FiN⁠-⁠INFJ | Twice sinful as 7 type | Humanist         | Humanist, Counselor (Author)      |
-| 15 | SiT⁠-⁠ISTP | Finishes the job too   | Craftsman        | Craftsman, Crafter (Artisan)      |
-| 16 | TeS⁠-⁠ESTJ | Finishes the job       | Administrator    | Administrator, Supervisor (Administrator) |
+|  1 | NeT      | The very first curious | **Inventor**     | Seeker, Inventor                  |
+|  2 | TiN⁠-⁠intj | The second one curious | Analyst          | Analyst, Mastermind (Scientist)   |
+|  3 | SiF⁠-⁠isfp | Three Musketeers Dumas | Mediator         | Mediator, Composer (Artist)       |
+|  4 | FeS      | Four elements          | **Enthusiast**   | Enthusiast (Bonvivant), Provider (Seller) |
+|  5 | SeT      | The five senses        | **General**      | Marshal (Commander), Promoter     |
+|  6 | TiS⁠-⁠istj | Has no sixth sense     | Inspector        | Inspector, Inspector (Trustee)    |
+|  7 | NiF⁠-⁠infp | Seven Sins / Wonders   | **Poet**         | Lyricist, Healer (Questor)        |
+|  8 | FeN      | Eight-bit              | **Inspirer**     | Mentor, Teacher (Pedagogue)       |
+|  9 | SeF      | Nine lives of a cat    | Politician       | Politician, Performer (Entertainer) |
+| 10 | FiS⁠-⁠isfj | Proper as a dozen      | Guardian         | Guardian, Protector (Conservator) |
+| 11 | NiT⁠-⁠intp | 11 football players    | **Foreseer**     | Critic, Architect                 |
+| 12 | TeN      | 12 hours, dozen        | **Entrepreneur** | Entrepreneur (Enterpriser), Fieldmarshal |
+| 13 | NeF      | Devil's/Baker's dozen  | **Journalist**   | Advise-giver (Psychologist), Champion\* (Journalist) |
+| 14 | FiN⁠-⁠infj | Twice sinful as 7 type | Humanist         | Humanist, Counselor (Author)      |
+| 15 | SiT⁠-⁠istp | Finishes the job too   | Craftsman        | Craftsman, Crafter (Artisan)      |
+| 16 | TeS      | Finishes the job       | Administrator    | Administrator, Supervisor (Administrator) |
 
 ¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
 ² David Keirsey, Marilyn Bates, *Please understand Me, Character and Temperament Types*, 1984,  
@@ -184,7 +180,7 @@ It’s worth mentioning that the Socionics hypothesis of correlations between di
 
 So if we are talking about type of particular person not about reference types then using I/E and J/P dichotomies can be misleading or inaccurate. So the noting person’s dominant function is a better option. For example: Ne-dom., Ti-dom. Auxilary function also worth noting but Socionics research shown that for example in case of Ne-dom. and task-oriented thinking (T) both Te (8) and Ti (2) may play importaint role in assisting dominant Ne. So they both can be viewed as auxilary function as Jung meant it (actually Jung didn’t say whether auxilary function for Ne-dom. is Ti or Te). There need to be more invesigations on this topic but for now it’s more accurate to think that the auxilary function is just T, F, S or N withount specifying whether it is Te ot Ti, etc.
 
-***Explicit notation*** for Socionics types are **INTJ-Ti-dom.** and **INTP-Ni-dom.** **J**/**P** in Socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom.** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
+***Explicit notation*** for Socionics types are **INTJ-Ti-dom** and **INTP-Ni-dom** **J**/**P** in Socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
 
 
 ## 7. Model A
@@ -267,14 +263,14 @@ Dominant function in Socionics is called **1st** function. And Socionics splits 
 
 | **Quadra**    | **EP**  | **IJ**       | **IP**       | **EJ**  |
 |:--------------|:--------|:-------------|:-------------|:--------|
-| α alpha **A** | ENTP(NeT) ENTP(1Ne2Ti8Te) | INTJ(TiN) INTJ(1Ti2Ne8Ni) | ISFP(SiF) ISFP(1Si2Fe8Fi) | ESFJ(FeS) ESFJ(1Fe2Si8Se) |
-|               | **NeT-ENTP** | **TiN-INTJ** | **SiF-ISFP** | **FeS-ESFJ** |
-| β beta **B**  | ESTP(SeT) ESTP(1Se2Ti8Te) | ISTJ(TiS) ISTJ(1Ti2Se8Si) | INFP(NiF) INFP(1Ni2Fe8Fi) | ENFJ(FeN) ENFJ(1Fe2Ni8Ne) |
-|               | **SeT-ESTP** | **TiS-ISTJ** | **NiF-INFP** | **FeN-ENFJ** |
-| γ gamma **G** | ESFP(SeF) ESFP(1Se2Fi8Fe) | ISFJ(FiS) ISFJ(1Fi2Se8Si) | INTP(NiT) INTP(1Ni2Te8Ti) | ENTJ(TeN) ENTJ(1Te2Ni8Ne) |
-|               | **SeF-ESFP** | **FiS-ISFJ** | **NiT-INTP** | **TeN-ENTJ** |
-| δ delta **D** | ENFP(NeF) ENFP(1Ne2Fi8Fe) | INFJ(FiN) INFJ(1Fi2Ne8Ni) | ISTP(SiT) ISTP(1Si2Te8Ti) | ESTJ(TeS) ESTJ(1Te2Si8Se) |
-|               | **NeF-ENFP** | **FiN-INFJ** | **SiT-ISTP** | **TeS-ESTJ** |
+| α alpha **A** | ENTP(NeT), ENTP(1Ne2Ti8Te) | INTJ(TiN), INTJ(1Ti2Ne8Ni) | ISFP(SiF), ISFP(1Si2Fe8Fi) | ESFJ(FeS), ESFJ(1Fe2Si8Se) |
+|               | **NeT** | **TiN-intj** | **SiF-isfp** | **FeS** |
+| β beta **B**  | ESTP(SeT), ESTP(1Se2Ti8Te) | ISTJ(TiS), ISTJ(1Ti2Se8Si) | INFP(NiF), INFP(1Ni2Fe8Fi) | ENFJ(FeN), ENFJ(1Fe2Ni8Ne) |
+|               | **SeT** | **TiS-istj** | **NiF-infp** | **FeN** |
+| γ gamma **G** | ESFP(SeF), ESFP(1Se2Fi8Fe) | ISFJ(FiS), ISFJ(1Fi2Se8Si) | INTP(NiT), INTP(1Ni2Te8Ti) | ENTJ(TeN), ENTJ(1Te2Ni8Ne) |
+|               | **SeF** | **FiS-isfj** | **NiT-intp** | **TeN** |
+| δ delta **D** | ENFP(NeF), ENFP(1Ne2Fi8Fe) | INFJ(FiN), INFJ(1Fi2Ne8Ni) | ISTP(SiT), ISTP(1Si2Te8Ti) | ESTJ(TeS), ESTJ(1Te2Si8Se) |
+|               | **NeF** | **FiN-infj** | **SiT-istp** | **TeS** |
 
 One of the shortest notations is given as the last name. It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
@@ -297,43 +293,43 @@ Examples:
 
 Let's explain this in the example of the delta quadra.
 
-Deltas are: ENFP-Ne-dom., INFJ-Fi-dom., ESTJ-Te-dom., ISTP-Si-dom. So as commonly believed in MBTI xNFP and xSTJ are not delta. As believed in Socionics:
+Deltas are: ENFP-Ne-dom, INFJ-Fi-dom, ESTJ-Te-dom, ISTP-Si-dom. So as commonly believed in MBTI xNFP and xSTJ are not delta. As believed in Socionics:
 
-* ENFP-Ne-dom. has auxiliary Fi, and Si as most inferior function (to the point of not controlling it so it has its own motivation and becomes valuable function),
-* INFJ-Fi-dom. has auxiliary Ne, and Te as most inferior,
-* ESTJ-Te-dom. has auxiliary Si, and Fi as most inferior,
-* ISTP-Si-dom. has auxiliary Te, and Ne as most inferior.
+* ENFP-Ne-dom has auxiliary Fi, and Si as most inferior function (to the point of not controlling it so it has its own motivation and becomes valuable function),
+* INFJ-Fi-dom has auxiliary Ne, and Te as most inferior,
+* ESTJ-Te-dom has auxiliary Si, and Fi as most inferior,
+* ISTP-Si-dom has auxiliary Te, and Ne as most inferior.
 
-So the functions the type values most are dominant, auxiliary and the most inferior. For some reason commonly ENFP-Ne-dom. also values Te, INFJ-Fi-dom. also values Si, ESTJ-Te-dom. also values Ne, ISTP-Si-dom. also values Fi (as believed in Socionics).
+So the functions the type values most are dominant, auxiliary and the most inferior. For some reason commonly ENFP-Ne-dom also values Te, INFJ-Fi-dom also values Si, ESTJ-Te-dom also values Ne, ISTP-Si-dom also values Fi (as believed in Socionics).
 
 So this can be seen that these 4 types has the same 4 most valued functions.
 
 
 ## 9. Intermediate and unknown types names
 
-1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value (capital is M - Mu). We also automatically get **explicit notation** like IxTJ-Ti-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different oneS
-2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne-dom.** if the person is a mixture equally of ENTP-Ne-dom., ENTJ-Te-dom. and INTJ-Ti-dom.: ENTJ(1\~2~12). But at the moment it's a speculation only.
-3. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example **INTx<2,11>** = INTJ-Ti-dom. or INTP-Ni-dom. or INTu(2~11). But if we take MBTI types then **INTx** = INTP-Ti-dom. or INTJ-Ni-dom. or INTu.
+1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value (capital is M - Mu). We also automatically get **explicit notation** like IxTJ-Ti-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones
+2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne-dom** if the person is a mixture equally of ENTP-Ne-dom, ENTJ-Te-dom and INTJ-Ti-dom: ENTJ(1\~2~12). But at the moment it's a speculation only.
+3. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example **INTx<2,11>** = INTJ-Ti-dom or INTP-Ni-dom or INTu(2~11). But if we take MBTI types then **INTx** = INTP-Ti-dom or INTJ-Ni-dom or INTu.
 
-| **Unknown types**          | **Meaning of unknown types**                    | **Mixed type** |
-|:--------------------------:|:-----------------------------------------------:|:--------------:|
-| ExTJ<12,16>                | ENTJ-Te-dom. v ESTJ-Te-dom. v EuTJ(12~16) v ... | EuTJ(12~16)    |
-| ENxJ<8,12>                 | ENTJ-Te-dom. v ENFJ-Fe-dom. v ENuJ(8~12) v ...  | ENuJ(8~12)     |
-| INTx<2,11>, INTx<2;11>     | INTJ-Ti-dom. v INTP-Ni-dom. v INTu(2~11) v ...  | INTu(2~11)     |
-| IxTJ<2,6>, IxTJ-⁠Ti-dom.    | INTJ-Ti-dom. v ISTJ-Ti-dom. v IuTJ(2~6) v ...   | IuTJ(2~6)      |
-| xNTx<1,2>                  | ENTP-Ne-dom. v INTJ-Ti-dom. v uNTu(1~2) v ...   | uNTu(1~2)      |
-| xNTJ<2,12>                 | ENTJ-Te-dom. v INTJ-Ti-dom. v uNTJ(2~12) v ...  | uNTJ(2~12)     |
-| INxJ<2,14>                 | INTJ-Ti-dom. v INFJ-Fi-dom. v INuJ(2~14) v ...  | INuJ(2~14)     |
-| IxTx<2,15>                 | INTJ-Ti-dom. v ISTP-Si-dom. v IuTu(2~15) v ...  | IuTu(2~15)     |
-| INxx<2,7>                  | INTJ-Ti-dom. v INFP-Ni-dom. v INuu(2~7) v ...   | INuu(2~7)      |
-| IxxJ<2,10>                 | INTJ-Ti-dom. v ISFJ-Fi-dom. v IuuJ(2~10) v ...  | IuuJ(2~10)     |
-| ENxP<1;1~13>               | ENTP-Ne-dom. v ENuP(1~13) v ... (but not ENFP-Ne-dom.) | ENTP(1<-13)    |
-| xNTx<2;1\~2>               | INTJ-Ti-dom. v uNTu(1~2) v ... (but not ENTP-Ne-dom.) | INTJ(2<-1)     |
-| IxTJ<2;2\~6>               | INTJ-Ti-dom. v IuTJ(2~6) v ... (but not ISTJ-Ti-dom.) | INTJ(2<-6) |
-| xNxxAD⁠<1,2,13,14>        | INTJ-Ti-dom. v ENTP-Ne-dom. v INFJ-Fi-dom. v ENFP-Ne-dom. v ENuP(1~13) v ... | ? |
-| IxxxBG⁠<6,7,10,11>        | ISTJ-Ti-dom. v INFP-Ni-dom. v ISFJ-Fi-dom. v INTP-Ni-dom. v INuP(7~11) v ... | ? |
-| xNxP<1,7,11,13>            | ENTP-Ne-dom. v INFP-Ni-dom. v INTP-Ni-dom. v ENFP-Ne-dom. v ENuP(1~13) v INuP-Ni-dom. v ... | ? |
-| IxTx<2,6,11,15>            | INTJ-Ti-dom. v ISTJ-Ti-dom. v INTP-Ni-dom. v ISTP-Si-dom. v IuTJ-Ti-dom. v ... | ? |
+| **Unknown types**          | **Meaning of unknown types**                  | **Mixed type** |
+|:--------------------------:|:---------------------------------------------:|:--------------:|
+| ExTJ<12,16>                | ENTJ-Te-dom v ESTJ-Te-dom v EuTJ(12~16) v ... | EuTJ(12~16)    |
+| ENxJ<8,12>                 | ENTJ-Te-dom v ENFJ-Fe-dom v ENuJ(8~12) v ...  | ENuJ(8~12)     |
+| INTx<2,11>                 | INTJ-Ti-dom v INTP-Ni-dom v INTu(2~11) v ...  | INTu(2~11)     |
+| IxTJ<2,6>, IxTJ-⁠Ti-dom.    | INTJ-Ti-dom v ISTJ-Ti-dom v IuTJ(2~6) v ...   | IuTJ(2~6)      |
+| xNTx<1,2>                  | ENTP-Ne-dom v INTJ-Ti-dom v uNTu(1~2) v ...   | uNTu(1~2)      |
+| xNTJ<2,12>                 | ENTJ-Te-dom v INTJ-Ti-dom v uNTJ(2~12) v ...  | uNTJ(2~12)     |
+| INxJ<2,14>                 | INTJ-Ti-dom v INFJ-Fi-dom v INuJ(2~14) v ...  | INuJ(2~14)     |
+| IxTx<2,15>                 | INTJ-Ti-dom v ISTP-Si-dom v IuTu(2~15) v ...  | IuTu(2~15)     |
+| INxx<2,7>                  | INTJ-Ti-dom v INFP-Ni-dom v INuu(2~7) v ...   | INuu(2~7)      |
+| IxxJ<2,10>                 | INTJ-Ti-dom v ISFJ-Fi-dom v IuuJ(2~10) v ...  | IuuJ(2~10)     |
+| ENxP<1;1~13>               | ENTP-Ne-dom v ENuP(1~13) v ... (but not ENFP-Ne-dom) | ENTP(1<-13)    |
+| xNTx<2;1\~2>               | INTJ-Ti-dom v uNTu(1~2) v ... (but not ENTP-Ne-dom) | INTJ(2<-1)     |
+| IxTJ<2;2\~6>               | INTJ-Ti-dom v IuTJ(2~6) v ... (but not ISTJ-Ti-dom) | INTJ(2<-6) |
+| xNxxAD⁠<1,2,13,14>          | INTJ-Ti-dom v ENTP-Ne-dom v INFJ-Fi-dom v ENFP-Ne-dom v ENuP(1~13) v ... | ? |
+| IxxxBG⁠<6,7,10,11>          | ISTJ-Ti-dom v INFP-Ni-dom v ISFJ-Fi-dom v INTP-Ni-dom v INuP(7~11) v ... | ? |
+| xNxP<1,7,11,13>            | ENTP-Ne-dom v INFP-Ni-dom v INTP-Ni-dom v ENFP-Ne-dom v ENuP(1~13) v INuP-Ni-dom. v ... | ? |
+| IxTx<2,6,11,15>            | INTJ-Ti-dom v ISTJ-Ti-dom v INTP-Ni-dom v ISTP-Si-dom v IuTJ-Ti-dom v ... | ? |
 
 
 ## 10. Further reading and notable discussions
