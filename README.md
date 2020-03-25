@@ -261,16 +261,16 @@ Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type wit
 
 Dominant function in Socionics is called **1st** function. And Socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti-dom. it would be 1Ti2Ne8Ni. 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities (and are the reference type's strongest functions). And may be also they are the most important from the point of view of the type’s self-identification. 2nd and 8th functions both are like auxilary function as Jung meant it. But only 1st and 2nd are valuable functions.
 
-| **Quadra**    | **EP**  | **IJ**       | **IP**       | **EJ**  |
-|:--------------|:--------|:-------------|:-------------|:--------|
-| α alpha **A** | ENTP(NeT), ENTP(1Ne2Ti8Te) | INTJ(TiN), INTJ(1Ti2Ne8Ni) | ISFP(SiF), ISFP(1Si2Fe8Fi) | ESFJ(FeS), ESFJ(1Fe2Si8Se) |
-|               | **NeT** | **TiN-intj** | **SiF-isfp** | **FeS** |
-| β beta **B**  | ESTP(SeT), ESTP(1Se2Ti8Te) | ISTJ(TiS), ISTJ(1Ti2Se8Si) | INFP(NiF), INFP(1Ni2Fe8Fi) | ENFJ(FeN), ENFJ(1Fe2Ni8Ne) |
-|               | **SeT** | **TiS-istj** | **NiF-infp** | **FeN** |
-| γ gamma **G** | ESFP(SeF), ESFP(1Se2Fi8Fe) | ISFJ(FiS), ISFJ(1Fi2Se8Si) | INTP(NiT), INTP(1Ni2Te8Ti) | ENTJ(TeN), ENTJ(1Te2Ni8Ne) |
-|               | **SeF** | **FiS-isfj** | **NiT-intp** | **TeN** |
-| δ delta **D** | ENFP(NeF), ENFP(1Ne2Fi8Fe) | INFJ(FiN), INFJ(1Fi2Ne8Ni) | ISTP(SiT), ISTP(1Si2Te8Ti) | ESTJ(TeS), ESTJ(1Te2Si8Se) |
-|               | **NeF** | **FiN-infj** | **SiT-istp** | **TeS** |
+| **Quadra** | **EP**  | **IJ**       | **IP**       | **EJ**  |
+|:-----------|:--------|:-------------|:-------------|:--------|
+| α alpha    | ENTP(1Ne2Ti8Te) | INTJ(1Ti2Ne8Ni) | ISFP(1Si2Fe8Fi) | ESFJ(1Fe2Si8Se) |
+| **A**      | **NeT** | **TiN-intj** | **SiF-isfp** | **FeS** |
+| β beta     | ESTP(1Se2Ti8Te) | ISTJ(1Ti2Se8Si) | INFP(1Ni2Fe8Fi) | ENFJ(1Fe2Ni8Ne) |
+| **B**      | **SeT** | **TiS-istj** | **NiF-infp** | **FeN** |
+| γ gamma    | ESFP(1Se2Fi8Fe) | ISFJ(1Fi2Se8Si) | INTP(1Ni2Te8Ti) | ENTJ(1Te2Ni8Ne) |
+| **G**      | **SeF** | **FiS-isfj** | **NiT-intp** | **TeN** |
+| δ delta    | ENFP(1Ne2Fi8Fe) | INFJ(1Fi2Ne8Ni) | ISTP(1Si2Te8Ti) | ESTJ(1Te2Si8Se) |
+| **D**      | **NeF** | **FiN-infj** | **SiT-istp** | **TeS** |
 
 One of the shortest notations is given as the last name. It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
@@ -323,9 +323,9 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | IxTx[2,15]        | TiN-intj v SiT-istp v IuTu(2~15) v ... | IuTu(2~15)     |
 | INxx[2,7]         | TiN-intj v NiF-infp v INuu(2~7) v ...  | INuu(2~7)      |
 | IxxJ[2,10]        | TiN-intj v FiS-isfj v IuuJ(2~10) v ... | IuuJ(2~10)     |
-| ENxP[1;1~13]      | NeT v ENuP(1~13) v ... (not NeF)       | NeT(1<=13)     |
-| xNTx[2;1\~2]      | TiN-intj v uNTu(1~2) v ... (not NeT)   | TiN(2<=1)      |
-| IxTJ[2;2\~6]      | TiN-intj v IuTJ(2~6) v ... (not TiS-istj) | TiN(2<=6)   |
+| ENxP[1;1~13]      | NeT v ENuP(1~13) v ... (not NeF)       | NeT(1<~13)     |
+| xNTx[2;1\~2]      | TiN-intj v uNTu(1~2) v ... (not NeT)   | TiN(2<~1)      |
+| IxTJ[2;2\~6]      | TiN-intj v IuTJ(2~6) v ... (not TiS-istj) | TiN(2<~6)   |
 | xNxxAD[1,2,13,14] | TiN-intj v NeT v FiN-infj v NeF v ENuP(1~13) v ...                | ? |
 | IxxxBG[6,7,10,11] | TiS-istj v NiF-infp v FiS-isfj v NiT-intp v INuP(7~11) v ...      | ? |
 | xNxP[1,7,11,13]   | NeT v NiF-infp v NiT-intp v NeF v ENuP(1\~13) v INuP(7\~11) v ... | ? |
