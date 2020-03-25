@@ -26,7 +26,7 @@ This is an alternative translation of one of the braches of Socionics to English
 5. **Rational/Irrational** names were replaced with **Judging/Perceiving** as these are more accurate names: please remember Rationalism and it’s attitude to emotional thinking. This also helps to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INTJ⁠-⁠Ti-dom** vs. **INTP⁠-⁠Ni-dom** (or **Ti⁠N⁠-intj** vs. **Ni⁠T⁠-intp**) that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker. Extraverted types don't need explicit notation so very short names like **NeT** and **FeN** are used.
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types.
-8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx<1,2>, uNTu(1~2)** that are unknown and mixed types from NeT and TiN-INTJ (u stands for μ that stands for mean).
+8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx<1,2>, uNTu(1~2)** that are unknown and mixed types from NeT and TiN-intj (u stands for μ that stands for mean).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT, Enthusiast for FeS, General for SeT, Poet for NiF-infp, **Inspirer** for FeN, **Foreseer** for NiT-intp, Entrepreneur for TeN, **Journalist** for NeF.
 11. The set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions is given. Together hypotheses give **Model A** as consequences.
@@ -80,20 +80,20 @@ This approach is also useful in determining of 1-3 closest reference types witho
 
 Names are in the following order:
 
-- **Socionics reference type long name**, Socionics name literal translation, MBTI name, **Number name**, **Reference type short name**.
+- **Socionics reference type long name**, Socionics name literal translation, MBTI name, **Socionics reference type short name**, **Number name**.
 
 In my translation of socionics types names to English the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti-dom. is INTx that is one of two types INTJ/INTP (or their mixture).
 
 | quadra | EP      | IJ           | IP           | EJ      |
 |:-------|:-------:|:------------:|:------------:|:-------:|
-| alpha  | **ENTP⁠-⁠Ne-dom**,  ILE,  ENTP,  **1**  | **INTJ⁠-⁠Ti-dom**,  LII,  INTx,  **2**  | **ISFP⁠-⁠Si-dom**,  SEI,  ISFx,  **3**  | **ESFJ⁠-⁠Fe-dom**,  ESE,  ESFJ,  **4**  |
-|        | **NeT** | **TiN-intj** | **SiF-isfp** | **FeS** |
-| beta   | **ESTP⁠-⁠Se-dom**,  SLE,  ESTP,  **5**  | **ISTJ⁠-⁠Ti-dom**,  LSI,  ISTx,  **6**  | **INFP⁠-⁠Ni-dom**,  IEI,  INFx,  **7**  | **ENFJ⁠-⁠Fe-dom**,  EIE,  ENFJ,  **8**  |
-|        | **SeT** | **TiS-istj** | **NiF-infp** | **FeN** |
-| gamma  | **ESFP⁠-⁠Se-dom**,  SEE,  ESFP,  **9**  | **ISFJ⁠-⁠Fi-dom**,  ESI,  ISFx,  **10** | **INTP⁠-⁠Ni-dom**,  ILI,  INTx,  **11** | **ENTJ⁠-⁠Te-dom**,  LIE,  ENTJ,  **12** |
-|        | **SeF** | **FiS-isfj** | **NiT-intp** | **TeN** |
-| delta  | **ENFP⁠-⁠Ne-dom**,  IEE,  ENFP,  **13** | **INFJ⁠-⁠Fi-dom**,  EII,  INFx,  **14** | **ISTP⁠-⁠Si-dom**,  SLI,  ISTx,  **15** | **ESTJ⁠-⁠Te-dom**,  LSE,  ESTJ,  **16** |
-|        | **NeF** | **FiN-infj** | **SiT-istp** | **TeS** |
+| alpha  | **ENTP⁠-⁠Ne-dom**,  ILE,  ENTP  | **INTJ⁠-⁠Ti-dom**,  LII,  INTx  | **ISFP⁠-⁠Si-dom**,  SEI,  ISFx  | **ESFJ⁠-⁠Fe-dom**,  ESE,  ESFJ  |
+|        | **NeT**,  **1** | **TiN-intj**,  **2** | **SiF-isfp**,  **3** | **FeS**,  **4** |
+| beta   | **ESTP⁠-⁠Se-dom**,  SLE,  ESTP  | **ISTJ⁠-⁠Ti-dom**,  LSI,  ISTx  | **INFP⁠-⁠Ni-dom**,  IEI,  INFx  | **ENFJ⁠-⁠Fe-dom**,  EIE,  ENFJ  |
+|        | **SeT**,  **5** | **TiS-istj**,  **6** | **NiF-infp**,  **7** | **FeN**,  **8** |
+| gamma  | **ESFP⁠-⁠Se-dom**,  SEE,  ESFP  | **ISFJ⁠-⁠Fi-dom**,  ESI,  ISFx | **INTP⁠-⁠Ni-dom**,  ILI,  INTx | **ENTJ⁠-⁠Te-dom**,  LIE,  ENTJ |
+|        | **SeF**,  **9** | **FiS-isfj**,  **10** | **NiT-intp**,  **11** | **TeN**,  **12** |
+| delta  | **ENFP⁠-⁠Ne-dom**,  IEE,  ENFP | **INFJ⁠-⁠Fi-dom**,  EII,  INFx | **ISTP⁠-⁠Si-dom**,  SLI,  ISTx | **ESTJ⁠-⁠Te-dom**,  LSE,  ESTJ |
+|        | **NeF**,  **13** | **FiN-infj**,  **14** | **SiT-istp**,  **15** | **TeS**,  **16** |
 
 For example INTJ-Ti-dom / TiN-intj is *intuitive task-oriented judging introvert* with dominant Ti (or *dominant introverted tasker & judging intuiter*). So the first part of the name is given by:
 
