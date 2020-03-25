@@ -26,7 +26,7 @@ This is an alternative translation of one of the braches of Socionics to English
 5. **Rational/Irrational** names were replaced with **Judging/Perceiving** as these are more accurate names: please remember Rationalism and it’s attitude to emotional thinking. This also helps to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INTJ⁠-⁠Ti-dom** vs. **INTP⁠-⁠Ni-dom** (or **Ti⁠N⁠-intj** vs. **Ni⁠T⁠-intp**) that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker. Extraverted types don't need explicit notation so very short names like **NeT** and **FeN** are used.
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types.
-8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx[1,2], uNTu(1~2)** that are unknown and mixed types from NeT and TiN-intj (u stands for μ that stands for mean).
+8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx-1-2, uNTu:1~2** that are unknown and mixed types from NeT and TiN-intj (u stands for μ that stands for mean).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT, Enthusiast for FeS, General for SeT, Poet for NiF-infp, **Inspirer** for FeN, **Foreseer** for NiT-intp, Entrepreneur for TeN, **Journalist** for NeF.
 11. The set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions is given. Together hypotheses give **Model A** as consequences.
@@ -308,28 +308,28 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 ## 9. Intermediate and unknown types names
 
 1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value (capital is M - Mu). We also automatically get **explicit notation** like **IxTJ-Ti-dom**. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones
-2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne-dom** if the person is a mixture equally of ENTP-Ne-dom, ENTJ-Te-dom and INTJ-Ti-dom: ENTJ(1\~2~12). But at the moment it's a speculation only.
-3. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example **INTx[2,11]** = INTJ-Ti-dom or INTP-Ni-dom or INTu(2~11). But if we take MBTI types then **INTx** = INTP-Ti-dom or INTJ-Ni-dom or INTu.
+2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne-dom** if the person is a mixture equally of ENTP-Ne-dom, ENTJ-Te-dom and INTJ-Ti-dom: ENTJ:1\~2\~12. But at the moment it's a speculation only.
+3. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example **INTx-2-11** = INTJ-Ti-dom or INTP-Ni-dom or INTu:2~11. But if we take MBTI types then **INTx** = INTP-Ti-dom or INTJ-Ni-dom or INTu.
 
 | **Unknown types** | **Meaning of unknown types**           | **Mixed type** |
 |:-----------------:|:--------------------------------------:|:--------------:|
-| ExTJ[12,16]       | TeN v TeS v EuTJ(12~16) v ...          | EuTJ(12~16)    |
-| ENxJ[8,12]        | TeN v FeN v ENuJ(8~12) v ...           | ENuJ(8~12)     |
-| INTx[2,11]        | TiN-intj v NiT-intp v INTu(2~11) v ... | INTu(2~11)     |
-| IxTJ[2,6]         | TiN-intj v TiS-istj v IuTJ(2~6) v ...  | IuTJ(2~6)      |
-| xNTx[1,2]         | NeT v TiN-intj v uNTu(1~2) v ...       | uNTu(1~2)      |
-| xNTJ[2,12]        | TeN v TiN-intj v uNTJ(2~12) v ...      | uNTJ(2~12)     |
-| INxJ[2,14]        | TiN-intj v FiN-infj v INuJ(2~14) v ... | INuJ(2~14)     |
-| IxTx[2,15]        | TiN-intj v SiT-istp v IuTu(2~15) v ... | IuTu(2~15)     |
-| INxx[2,7]         | TiN-intj v NiF-infp v INuu(2~7) v ...  | INuu(2~7)      |
-| IxxJ[2,10]        | TiN-intj v FiS-isfj v IuuJ(2~10) v ... | IuuJ(2~10)     |
-| ENxP[1;1~13]      | NeT v ENuP(1~13) v ... (not NeF)       | NeT(1<~13)     |
-| xNTx[2;1\~2]      | TiN-intj v uNTu(1~2) v ... (not NeT)   | TiN(2<~1)      |
-| IxTJ[2;2\~6]      | TiN-intj v IuTJ(2~6) v ... (not TiS-istj) | TiN(2<~6)   |
-| xNxxAD[1,2,13,14] | TiN-intj v NeT v FiN-infj v NeF v ENuP(1~13) v ...                | ? |
-| IxxxBG[6,7,10,11] | TiS-istj v NiF-infp v FiS-isfj v NiT-intp v INuP(7~11) v ...      | ? |
-| xNxP[1,7,11,13]   | NeT v NiF-infp v NiT-intp v NeF v ENuP(1\~13) v INuP(7\~11) v ... | ? |
-| IxTx[2,6,11,15]   | TiN-intj v TiS-istj v NiT-intp v SiT-istp v IuTJ(2~6) v ...       | ? |
+| ExTJ-12-16        | TeN v TeS v EuTJ:12~16 v ...           | EuTJ:12~16     |
+| ENxJ-8-12         | TeN v FeN v ENuJ:8~12 v ...            | ENuJ:8~12      |
+| INTx-2-11         | TiN-intj v NiT-intp v INTu:2~11 v ...  | INTu:2~11      |
+| IxTJ-2-6          | TiN-intj v TiS-istj v IuTJ:2~6 v ...   | IuTJ:2~6       |
+| xNTx-1-2          | NeT v TiN-intj v uNTu:1~2 v ...        | uNTu:1~2       |
+| xNTJ-2-12         | TeN v TiN-intj v uNTJ:2~12 v ...       | uNTJ:2~12      |
+| INxJ-2-14         | TiN-intj v FiN-infj v INuJ:2~14 v ...  | INuJ:2~14      |
+| IxTx-2-15         | TiN-intj v SiT-istp v IuTu:2~15 v ...  | IuTu:2~15      |
+| INxx-2-7          | TiN-intj v NiF-infp v INuu:2~7 v ...   | INuu:2~7       |
+| IxxJ-2-10         | TiN-intj v FiS-isfj v IuuJ:2~10 v ...  | IuuJ:2~10      |
+| ENxP-1-1~13       | NeT v ENuP:1~13 v ... (not NeF)        | NeT-13to1      |
+| xNTx-2-1\~2       | TiN-intj v uNTu:1~2 v ... (not NeT)    | TiN-1to2       |
+| IxTJ-2-2\~6       | TiN-intj v IuTJ:2~6 v ... (not TiS-istj) | TiN-6to2    |
+| xNxxAD-1-2-13-14  | TiN-intj v NeT v FiN-infj v NeF v ENuP:1~13 v ...               | ? |
+| IxxxBG-6-7-10-11  | TiS-istj v NiF-infp v FiS-isfj v NiT-intp v INuP:7~11 v ...     | ? |
+| xNxP-1-7-11-13    | NeT v NiF-infp v NiT-intp v NeF v ENuP:1\~13 v INuP:7\~11 v ... | ? |
+| IxTx-2-6-11-15    | TiN-intj v TiS-istj v NiT-intp v SiT-istp v IuTJ:2~6 v ...      | ? |
 
 
 ## 10. Further reading and notable discussions
