@@ -189,13 +189,13 @@ So if we are talking about type of particular person not about reference types t
 
 A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions that together give Model A as consequences is given below. Decomposition to separate hypotheses gave rise to a pair of new assumptions.
 
-| ENTP       |            | Strength | Conscious | Value   |
-|------------|------------|--------|--------|--------------|
-| **_1 Ne_** |    2 Ti    | strong | mental | valuable     |
-|    4 Fi    | **_3 Se_** | weak   | mental | not valuable |
-|   _5 Si_   |  **6 Fe**  | weak   | vital  | valuable     |
-|  **8 Te**  |   _7 Ni_   | strong | vital  | not valuable |
-|            |   | 1>8>2,7>3,6>4,5 |        | 1>2; 5>6; 4>3; 8>7; form long-term life goals: 1, 5 |
+| Functions |           | Strength | Conscious | Value   |
+|-----------|-----------|--------|--------|--------------|
+| **_[1]_** |    [2]    | strong | mental | valuable     |
+|    [4]    | **_[3]_** | weak   | mental | not valuable |
+|   _[5]_   |  **[6]**  | weak   | vital  | valuable     |
+|  **[8]**  |   _[7]_   | strong | vital  | not valuable |
+|           |   | 1>8>2,7>3,6>4,5 |        | 1>2; 5>6; 4>3; 8>7; form long-term life goals: 1, 5 |
 
 * functions numbers given are standard numbers from [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 * **pronal** vs. **antinal** functions:
