@@ -216,6 +216,32 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 * **valuable** vs. **not valuable** functions:
   * The work of valuable functions and its nuances are important for the type, they are interesting, type can listen and talk on these topics with pleasure. Valuable functions provide an active exchange of information between people, what is associated with the work of these functions is easily discussed. The work of not valuable functions is what the type considers in life not the most important, something that can be neglected, something that makes sense only as an addition to valuable functions. As a rule, the discussion of the work of these functions is not interesting and does not give pleasure (but there are exceptions), it is preferred to help each other without further ado. The type in most cases limits the activity of the not valuable functions to the needs of valuable ones (that mostly 1st and 2nd functions), the demands of society or circumstances.
 
+| **Alpha**  |            |              |            |              |            | **Alpha**  |            |
+|-----------:|:-----------|-------------:|:-----------|-------------:|:-----------|-----------:|:-----------|
+| **NeT**    |            | **TiN-intj** |            | **SiF-isfp** |            | **FeS**    |            |
+| ***1 Ne*** | 2 Ti       | ***1 Ti***   | 2 Ne       | ***1 Si***   | 2 Fe       | ***1 Fe*** | 2 Si       |
+| 4 Fi       | ***3 Se*** | 4 Se         | ***3 Fi*** | 4 Te         | ***3 Ni*** | 4 Ni       | ***3 Te*** |
+| *5 Si*     | **6 Fe**   | *5 Fe*       | **6 Si**   | *5 Ne*       | **6 Ti**   | *5 Ti*     | **6 Ne**   |
+| **8 Te**   | *7 Ni*     | **8 Ni**     | *7 Te*     | **8 Fi**     | *7 Se*     | **8 Se**   | *7 Fi*     |
+| **Beta**   |            |              |            |              |            | **Beta**   |            |
+| **SeT**    |            | **TiS-istj** |            | **NiF-infp** |            | **FeN**    |            |
+| ***1 Se*** | 2 Ti       | ***1 Ti***   | 2 Se       | ***1 Ni***   | 2 Fe       | ***1 Fe*** | 2 Ni       |
+| 4 Fi       | ***3 Ne*** | 4 Ne         | ***3 Fi*** | 4 Te         | ***3 Si*** | 4 Si       | ***3 Te*** |
+| *5 Ni*     | **6 Fe**   | *5 Fe*       | **6 Ni**   | *5 Se*       | **6 Ti**   | *5 Ti*     | **6 Se**   |
+| **8 Te**   | *7 Si*     | **8 Si**     | *7 Te*     | **8 Fi**     | *7 Ne*     | **8 Ne**   | *7 Fi*     |
+| **Gamma**  |            |              |            |              |            | **Gamma**  |            |
+| **SeF**    |            | **FiS-isfj** |            | **NiT-intp** |            | **TeN**    |            |
+| ***1 Se*** | 2 Fi       | ***1 Fi***   | 2 Se       | ***1 Ni***   | 2 Te       | ***1 Te*** | 2 Ni       |
+| 4 Ti       | ***3 Ne*** | 4 Ne         | ***3 Ti*** | 4 Fe         | ***3 Si*** | 4 Si       | ***3 Fe*** |
+| *5 Ni*     | **6 Te**   | *5 Te*       | **6 Ni**   | *5 Se*       | **6 Fi**   | *5 Fi*     | **6 Se**   |
+| **8 Fe**   | *7 Si*     | **8 Si**     | *7 Fe*     | **8 Ti**     | *7 Ne*     | **8 Ne**   | *7 Ti*     |
+| **Delta**  |            |              |            |              |            | **Delta**  |            |
+| **NeF**    |            | **FiN-infj** |            | **SiT-istp** |            | **TeS**    |            |
+| ***1 Ne*** | 2 Fi       | ***1 Fi***   | 2 Ne       | ***1 Si***   | 2 Te       | ***1 Te*** | 2 Si       |
+| 4 Ti       | ***3 Se*** | 4 Se         | ***3 Ti*** | 4 Fe         | ***3 Ni*** | 4 Ni       | ***3 Fe*** |
+| *5 Si*     | **6 Te**   | *5 Te*       | **6 Si**   | *5 Ne*       | **6 Fi**   | *5 Fi*     | **6 Ne**   |
+| **8 Fe**   | *7 Ni*     | **8 Ni**     | *7 Fe*     | **8 Ti**     | *7 Se*     | **8 Se**   | *7 Ti*     |
+
 
 #### Set of hypotheses:
 
