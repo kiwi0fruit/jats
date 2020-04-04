@@ -189,17 +189,16 @@ So if we are talking about type of particular person not about reference types t
 
 A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions that together give Model A as consequences is given below. Decomposition to separate hypotheses gave rise to a pair of new assumptions.
 
-| Functions |           | Strength | Conscious | Value   |
-|-----------|-----------|--------|--------|--------------|
-| **_[1]_** |    [2]    | strong | mental | valuable     |
-|    [4]    | **_[3]_** | weak   | mental | not valuable |
-|   _[5]_   |  **[6]**  | weak   | vital  | valuable     |
-|  **[8]**  |   _[7]_   | strong | vital  | not valuable |
-|           |   | 1>8>2,7>3,6>4,5 |        | 1>2; 5>6; 4>3; 8>7; set long-term life goals: 1, 5 |
+|     Functions     |                     | Strength | Conscious | Value   |
+|-------------------|---------------------|--------|--------|--------------|
+| **_1 Dominant_**  |    2 Auxiliary      | strong | mental | valuable     |
+|    4 Vulnerable   | **_3 Role_**        | weak   | mental | not valuable |
+|   _5 Suggestible_ |  **6 Activational** | weak   | vital  | valuable     |
+|  **8 Background** |   _7 Restricting_   | strong | vital  | not valuable |
+|  | | 1>8>2,7>3,6>4,5 |  | 1>2; 5>6; 4>3; 8>7; set long-term life goals: 1, 5 |
 
 **NEW: [Cognitive functions descriptions per position in Model A (8x8 auto-translated table)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fkiwi0fruit.tumblr.com%2Ffunctions&sandbox=1)**.
 
-* functions numbers given are standard numbers from [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 * **pronal** vs. **antinal** functions:
   * [*italic*]  functions are **pronal** functions: 1, 3, 5, 7.  
     For judging types that's judging functions. For perceiving types that's perceiving functions, 
@@ -220,6 +219,7 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
   * Mental functions are characterized by the fact that the overwhelming majority of the time type reflects and ponders using these functions. Well aware of such thoughts and reflections. The work of vital functions happens most of the time as if by itself. These functions regularly work as if automatically, notice something, process something and provide the result of their work to mental functions, but the process of their work is not in the focus of attention. If you ask to consciously think with the help of vital functions, the consciousness will try to get away from this activity, go to thinking with the help of mental functions.
 * **valuable** vs. **not valuable** functions:
   * The work of valuable functions and its nuances are important for the type, they are interesting, type can listen and talk on these topics with pleasure. Valuable functions provide an active exchange of information between people, what is associated with the work of these functions is easily discussed. The work of not valuable functions is what the type considers in life not the most important, something that can be neglected, something that makes sense only as an addition to valuable functions. As a rule, the discussion of the work of these functions is not interesting and does not give pleasure (but there are exceptions), it is preferred to help each other without further ado. The type in most cases limits the activity of the not valuable functions to the needs of valuable ones (that mostly 1st and 2nd functions), the demands of society or circumstances.
+* Additional info on Model A can be found in [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 
 | **Alpha**  |            |              |            |              |            | **Alpha**  |            |
 |-----------:|:-----------|-------------:|:-----------|-------------:|:-----------|-----------:|:-----------|
