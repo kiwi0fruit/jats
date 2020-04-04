@@ -194,8 +194,8 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 | **_1 Dominant_**  |    2 Auxiliary    | strong | mental | valuable     |
 |    4 Vulnerable   | **_3 Role_**      | weak   | mental | not valuable |
 |   _5 Suggestible_ |  **6 Activating** | weak   | vital  | valuable     |
-|  **8 Background** |   _7 Restricting_ | strong | vital  | not valuable |
-|  | | 1>8>2,7>3,6>4,5 |  | 1>2; 5>6; 4>3; 8>7; set long-term life goals: 1, 5 |
+|  **8 Background** |   _7 Restrictive_ | strong | vital  | not valuable |
+| | | 1>8>2&7>3&6>4&5 | | 1>2; 5>6; 4>3; 8>7; Set long-term life goals: 1, 5 |
 
 **NEW: [Cognitive functions descriptions per position in Model A (8x8 auto-translated table)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fkiwi0fruit.tumblr.com%2Ffunctions&sandbox=1)**.
 
