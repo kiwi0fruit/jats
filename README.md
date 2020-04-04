@@ -195,7 +195,7 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 |    [4]    | **_[3]_** | weak   | mental | not valuable |
 |   _[5]_   |  **[6]**  | weak   | vital  | valuable     |
 |  **[8]**  |   _[7]_   | strong | vital  | not valuable |
-|           |   | 1>8>2,7>3,6>4,5 |        | 1>2; 5>6; 4>3; 8>7; form long-term life goals: 1, 5 |
+|           |   | 1>8>2,7>3,6>4,5 |        | 1>2; 5>6; 4>3; 8>7; set long-term life goals: 1, 5 |
 
 * functions numbers given are standard numbers from [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 * **pronal** vs. **antinal** functions:
@@ -203,11 +203,14 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
     For judging types that's judging functions. For perceiving types that's perceiving functions, 
   * [not italic] functions are **antinal** functions: 2, 4, 6, 8.  
     For judging types that's perceiving functions. For perceiving types that's judging functions,
+  * 1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only.
 * **proverted** vs. **antiverted** functions:
   * [**bold**] functions (or having the same index as dominant function) are **proverted** functions: 1, 3, 6, 8.  
     For extraverts that's extraverted functions. For introverts that's introverted functions,
   * [not bold] functions (or having different index to dominant function) are **antiverted** functions: 2, 4, 5, 7.  
     For introverts that's extraverted functions. For extraverts that's introverted functions.
+  * **strong proverted** functions are stronger than **strong antiverted** functions,
+  * **weak proverted** functions are stronger than **weak antiverted** functions.
 * *italic* and **bold** can be **_combined_**.
 * **strong** vs. **weak** functions:
   * Strong functions think and solve their tasks competently, efficiently, confidently, quickly, easily. In contrast, weak functions tend to be less competent, work slowly, uncertainly, and require much more effort. [There is an opinion](http://socionica74.narod.ru/about4.html) that strong functions are more robust, i.e. able to work longer at the same level of quality without overexertion, and that strong functions are “resistant to interference,” that is, they are able to ignore distracting and interfering factors in their work, to work effectively in spite of them. Weak functions are not durable and not resistant to interference. It is best to compare the functions of one person.
