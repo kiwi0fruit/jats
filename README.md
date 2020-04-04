@@ -197,6 +197,8 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 |  **[8]**  |   _[7]_   | strong | vital  | not valuable |
 |           |   | 1>8>2,7>3,6>4,5 |        | 1>2; 5>6; 4>3; 8>7; set long-term life goals: 1, 5 |
 
+**NEW: [Cognitive functions descriptions per position in Model A (8x8 auto-translated table)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fkiwi0fruit.tumblr.com%2Ffunctions&sandbox=1)**.
+
 * functions numbers given are standard numbers from [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 * **pronal** vs. **antinal** functions:
   * [*italic*]  functions are **pronal** functions: 1, 3, 5, 7.  
