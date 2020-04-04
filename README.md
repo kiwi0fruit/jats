@@ -189,13 +189,13 @@ So if we are talking about type of particular person not about reference types t
 
 A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions that together give Model A as consequences is given below. Decomposition to separate hypotheses gave rise to a pair of new assumptions.
 
-| Functions |           | Strength | Conscious | Value   |
-|-----------|-----------|--------|--------|--------------|
-| **_[1]_** |    [2]    | strong | mental | valuable     |
-|    [4]    | **_[3]_** | weak   | mental | not valuable |
-|   _[5]_   |  **[6]**  | weak   | vital  | valuable     |
-|  **[8]**  |   _[7]_   | strong | vital  | not valuable |
-|           |   | 1>8>2,7>3,6>4,5 |        | 1>2; 5>6; 4>3; 8>7; set long-term life goals: 1, 5 |
+|     Functions     |                     | Strength | Conscious | Value   |
+|-------------------|---------------------|--------|--------|--------------|
+| **_1 Dominant_**  |    2 Auxiliary      | strong | mental | valuable     |
+|    4 Vulnerable   | **_3 Role_**        | weak   | mental | not valuable |
+|   _5 Suggestible_ |  **6 Activational** | weak   | vital  | valuable     |
+|  **8 Background** |   _7 Restricting_   | strong | vital  | not valuable |
+|  | | 1>8>2,7>3,6>4,5 |  | 1>2; 5>6; 4>3; 8>7; set long-term life goals: 1, 5 |
 
 **NEW: [Cognitive functions descriptions per position in Model A (8x8 auto-translated table)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fkiwi0fruit.tumblr.com%2Ffunctions&sandbox=1)**.
 
