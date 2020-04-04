@@ -189,13 +189,13 @@ So if we are talking about type of particular person not about reference types t
 
 A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions that together give Model A as consequences is given below. Decomposition to separate hypotheses gave rise to a pair of new assumptions.
 
-|     Functions     |                   | Strength | Conscious | Value   |
-|-------------------|-------------------|--------|--------|--------------|
-| **_1 Dominant_**  |    2 Auxiliary    | strong | mental | valuable     |
-|    4 Vulnerable   | **_3 Role_**      | weak   | mental | not valuable |
-|   _5 Suggestible_ |  **6 Activating** | weak   | vital  | valuable     |
-|  **8 Background** |   _7 Restrictive_ | strong | vital  | not valuable |
-| | | 1>8>2&7>3&6>4&5 | | 1>2; 5>6; 4>3; 8>7; Set long-term life goals: 1, 5 |
+| Functions        |                  | Strength | Conscious | Value        | Example    | NeT        |
+| ---------------- | ---------------- | -------- | --------- | ------------ | ---------: | :--------- |
+| **_1 Dominant_** | 2 Auxiliary      | strong   | mental    | valuable     | **_1 Ne_** | 2 Ti       |
+| 4 Vulnerable     | **_3 Role_**     | weak     | mental    | not valuable | 4 Fi       | **_3 Se_** |
+| _5 Suggestible_  | **6 Activating** | weak     | vital     | valuable     | _5 Si_     | **6 Fe**   |
+| **8 Background** | _7 Restrictive_  | strong   | vital     | not valuable | **8 Te**   | _7 Ni_     |
+| | | 1 > 8 > 2&7 > 3&6 > 4&5 | | 1>2; 5>6; 4>3; 8>7; Set long-term life goals: 1, 5 | | |
 
 **NEW: [Cognitive functions descriptions per position in Model A (8x8 auto-translated table)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fkiwi0fruit.tumblr.com%2Ffunctions&sandbox=1)**.
 
