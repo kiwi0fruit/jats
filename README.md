@@ -107,7 +107,6 @@ For example INTJ-Ti-dom / TiN-intj is *intuitive task-oriented judging introvert
 - **NF** is intuitive feelings-oriented (or intuiter and feeler),
 - **ST** is sensory task-oriented (or sensor and tasker),
 - **SF** is sensory feelings-oriented (or sensor and feeler).
-
 - **EP** is perceiving extravert (or extraverted perceiver),
 - **IJ** is judging introvert (or introverted judger),
 - **EP** is perceiving introvert (or introverted perceiver),
