@@ -78,13 +78,14 @@ This approach is also useful in determining of 1-3 closest reference types witho
 
 ## 4. Socionics reference types names vs. MBTI types names
 
-Names are in the following order:
-
-- **Socionics reference type long name**, Socionics name literal translation, MBTI name, **Socionics reference type short name**, **Number name**.
-
 In my translation of socionics types names to English the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (where MBTI J/P axis measures roughly the same as big Five conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti-dom is INTx that is one of two types INTJ/INTP (or their mixture).
 
 Short (and main) names like NeT and TiN-intj were obtained from cognitive functions stack (see 7. Model A chapter).
+
+Names are in the following order:
+
+- **Socionics reference type short name**, **Number name**,
+- **Socionics reference type long name**, Socionics name literal translation, MBTI name.
 
 | quadra  | EP      | IJ           | IP           | EJ      |
 |:--------|:-------:|:------------:|:------------:|:-------:|
