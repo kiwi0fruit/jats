@@ -84,20 +84,20 @@ Names are in the following order:
 
 In my translation of socionics types names to English the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti-dom is INTx that is one of two types INTJ/INTP (or their mixture).
 
-| quadra | EP      | IJ           | IP           | EJ      |
-|:-------|:-------:|:------------:|:------------:|:-------:|
-| alpha  | **NeT**,  **1** | **TiN-intj**,  **2** | **SiF-isfp**,  **3** | **FeS**,  **4** |
-|        | **ENTP⁠-⁠Ne-dom**,  ILE,  ENTP  | **INTJ⁠-⁠Ti-dom**,  LII,  INTx  | **ISFP⁠-⁠Si-dom**,  SEI,  ISFx  | **ESFJ⁠-⁠Fe-dom**,  ESE,  ESFJ  |
-|        | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & perceiving feeler   | dominant extraverted feeler & judging sensor   |
-| beta   | **SeT**,  **5** | **TiS-istj**,  **6** | **NiF-infp**,  **7** | **FeN**,  **8** |
-|        | **ESTP⁠-⁠Se-dom**,  SLE,  ESTP  | **ISTJ⁠-⁠Ti-dom**,  LSI,  ISTx  | **INFP⁠-⁠Ni-dom**,  IEI,  INFx  | **ENFJ⁠-⁠Fe-dom**,  EIE,  ENFJ  |
-|        | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
-| gamma  | **SeF**,  **9** | **FiS-isfj**,  **10** | **NiT-intp**,  **11** | **TeN**,  **12** |
-|        | **ESFP⁠-⁠Se-dom**,  SEE,  ESFP  | **ISFJ⁠-⁠Fi-dom**,  ESI,  ISFx | **INTP⁠-⁠Ni-dom**,  ILI,  INTx | **ENTJ⁠-⁠Te-dom**,  LIE,  ENTJ |
-|        | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
-| delta  | **NeF**,  **13** | **FiN-infj**,  **14** | **SiT-istp**,  **15** | **TeS**,  **16** |
-|        | **ENFP⁠-⁠Ne-dom**,  IEE,  ENFP | **INFJ⁠-⁠Fi-dom**,  EII,  INFx | **ISTP⁠-⁠Si-dom**,  SLI,  ISTx | **ESTJ⁠-⁠Te-dom**,  LSE,  ESTJ |
-|        | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
+| quadra  | EP      | IJ           | IP           | EJ      |
+|:--------|:-------:|:------------:|:------------:|:-------:|
+| α Alpha | **NeT**,  **1** | **TiN-intj**,  **2** | **SiF-isfp**,  **3** | **FeS**,  **4** |
+|         | **ENTP⁠-⁠Ne-dom**,  ILE,  ENTP  | **INTJ⁠-⁠Ti-dom**,  LII,  INTx  | **ISFP⁠-⁠Si-dom**,  SEI,  ISFx  | **ESFJ⁠-⁠Fe-dom**,  ESE,  ESFJ  |
+|         | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & perceiving feeler   | dominant extraverted feeler & judging sensor   |
+| β Beta  | **SeT**,  **5** | **TiS-istj**,  **6** | **NiF-infp**,  **7** | **FeN**,  **8** |
+|         | **ESTP⁠-⁠Se-dom**,  SLE,  ESTP  | **ISTJ⁠-⁠Ti-dom**,  LSI,  ISTx  | **INFP⁠-⁠Ni-dom**,  IEI,  INFx  | **ENFJ⁠-⁠Fe-dom**,  EIE,  ENFJ  |
+|         | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
+| γ Gamma | **SeF**,  **9** | **FiS-isfj**,  **10** | **NiT-intp**,  **11** | **TeN**,  **12** |
+|         | **ESFP⁠-⁠Se-dom**,  SEE,  ESFP  | **ISFJ⁠-⁠Fi-dom**,  ESI,  ISFx | **INTP⁠-⁠Ni-dom**,  ILI,  INTx | **ENTJ⁠-⁠Te-dom**,  LIE,  ENTJ |
+|         | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
+| δ Delta | **NeF**,  **13** | **FiN-infj**,  **14** | **SiT-istp**,  **15** | **TeS**,  **16** |
+|         | **ENFP⁠-⁠Ne-dom**,  IEE,  ENFP | **INFJ⁠-⁠Fi-dom**,  EII,  INFx | **ISTP⁠-⁠Si-dom**,  SLI,  ISTx | **ESTJ⁠-⁠Te-dom**,  LSE,  ESTJ |
+|         | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
 
 
 
@@ -214,26 +214,26 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
   * The work of valuable functions and its nuances are important for the type, they are interesting, type can listen and talk on these topics with pleasure. Valuable functions provide an active exchange of information between people, what is associated with the work of these functions is easily discussed. The work of not valuable functions is what the type considers in life not the most important, something that can be neglected, something that makes sense only as an addition to valuable functions. As a rule, the discussion of the work of these functions is not interesting and does not give pleasure (but there are exceptions), it is preferred to help each other without further ado. The type in most cases limits the activity of the not valuable functions to the needs of valuable ones (that mostly 1st and 2nd functions), the demands of society or circumstances.
 * Additional info on Model A can be found in [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 
-| **Alpha**  |            |              |            |              |            | **Alpha**  |            |
+| **α Alpha** |            |              |            |              |            | **α Alpha** |            |
 |-----------:|:-----------|-------------:|:-----------|-------------:|:-----------|-----------:|:-----------|
 | **NeT**    | **1**      | **TiN-intj** | **2**      | **SiF-isfp** | **3**      | **FeS**    | **4**      |
 | ***1 Ne*** | 2 Ti       | ***1 Ti***   | 2 Ne       | ***1 Si***   | 2 Fe       | ***1 Fe*** | 2 Si       |
 | 4 Fi       | ***3 Se*** | 4 Se         | ***3 Fi*** | 4 Te         | ***3 Ni*** | 4 Ni       | ***3 Te*** |
 | *5 Si*     | **6 Fe**   | *5 Fe*       | **6 Si**   | *5 Ne*       | **6 Ti**   | *5 Ti*     | **6 Ne**   |
 | **8 Te**   | *7 Ni*     | **8 Ni**     | *7 Te*     | **8 Fi**     | *7 Se*     | **8 Se**   | *7 Fi*     |
-| **Beta**   |            |              |            |              |            | **Beta**   |            |
+| **β Beta** |            |              |            |              |            | **β Beta** |            |
 | **SeT**    | **5**      | **TiS-istj** | **6**      | **NiF-infp** | **7**      | **FeN**    | **8**      |
 | ***1 Se*** | 2 Ti       | ***1 Ti***   | 2 Se       | ***1 Ni***   | 2 Fe       | ***1 Fe*** | 2 Ni       |
 | 4 Fi       | ***3 Ne*** | 4 Ne         | ***3 Fi*** | 4 Te         | ***3 Si*** | 4 Si       | ***3 Te*** |
 | *5 Ni*     | **6 Fe**   | *5 Fe*       | **6 Ni**   | *5 Se*       | **6 Ti**   | *5 Ti*     | **6 Se**   |
 | **8 Te**   | *7 Si*     | **8 Si**     | *7 Te*     | **8 Fi**     | *7 Ne*     | **8 Ne**   | *7 Fi*     |
-| **Gamma**  |            |              |            |              |            | **Gamma**  |            |
+| **γ Gamma** |            |              |            |              |            | **γ Gamma** |            |
 | **SeF**    | **9**      | **FiS-isfj** | **10**     | **NiT-intp** | **11**     | **TeN**    | **12**     |
 | ***1 Se*** | 2 Fi       | ***1 Fi***   | 2 Se       | ***1 Ni***   | 2 Te       | ***1 Te*** | 2 Ni       |
 | 4 Ti       | ***3 Ne*** | 4 Ne         | ***3 Ti*** | 4 Fe         | ***3 Si*** | 4 Si       | ***3 Fe*** |
 | *5 Ni*     | **6 Te**   | *5 Te*       | **6 Ni**   | *5 Se*       | **6 Fi**   | *5 Fi*     | **6 Se**   |
 | **8 Fe**   | *7 Si*     | **8 Si**     | *7 Fe*     | **8 Ti**     | *7 Ne*     | **8 Ne**   | *7 Ti*     |
-| **Delta**  |            |              |            |              |            | **Delta**  |            |
+| **δ Delta** |            |              |            |              |            | **δ Delta** |            |
 | **NeF**    | **13**     | **FiN-infj** | **14**     | **SiT-istp** | **15**     | **TeS**    | **16**     |
 | ***1 Ne*** | 2 Fi       | ***1 Fi***   | 2 Ne       | ***1 Si***   | 2 Te       | ***1 Te*** | 2 Si       |
 | 4 Ti       | ***3 Se*** | 4 Se         | ***3 Ti*** | 4 Fe         | ***3 Ni*** | 4 Ni       | ***3 Fe*** |
