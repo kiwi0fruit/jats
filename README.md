@@ -86,14 +86,20 @@ In my translation of socionics types names to English the 4 letter code shows th
 
 | quadra | EP      | IJ           | IP           | EJ      |
 |:-------|:-------:|:------------:|:------------:|:-------:|
-| alpha  | **ENTP⁠-⁠Ne-dom**,  ILE,  ENTP  | **INTJ⁠-⁠Ti-dom**,  LII,  INTx  | **ISFP⁠-⁠Si-dom**,  SEI,  ISFx  | **ESFJ⁠-⁠Fe-dom**,  ESE,  ESFJ  |
-|        | **NeT**,  **1** | **TiN-intj**,  **2** | **SiF-isfp**,  **3** | **FeS**,  **4** |
-| beta   | **ESTP⁠-⁠Se-dom**,  SLE,  ESTP  | **ISTJ⁠-⁠Ti-dom**,  LSI,  ISTx  | **INFP⁠-⁠Ni-dom**,  IEI,  INFx  | **ENFJ⁠-⁠Fe-dom**,  EIE,  ENFJ  |
-|        | **SeT**,  **5** | **TiS-istj**,  **6** | **NiF-infp**,  **7** | **FeN**,  **8** |
-| gamma  | **ESFP⁠-⁠Se-dom**,  SEE,  ESFP  | **ISFJ⁠-⁠Fi-dom**,  ESI,  ISFx | **INTP⁠-⁠Ni-dom**,  ILI,  INTx | **ENTJ⁠-⁠Te-dom**,  LIE,  ENTJ |
-|        | **SeF**,  **9** | **FiS-isfj**,  **10** | **NiT-intp**,  **11** | **TeN**,  **12** |
-| delta  | **ENFP⁠-⁠Ne-dom**,  IEE,  ENFP | **INFJ⁠-⁠Fi-dom**,  EII,  INFx | **ISTP⁠-⁠Si-dom**,  SLI,  ISTx | **ESTJ⁠-⁠Te-dom**,  LSE,  ESTJ |
-|        | **NeF**,  **13** | **FiN-infj**,  **14** | **SiT-istp**,  **15** | **TeS**,  **16** |
+| alpha  | **NeT**,  **1** | **TiN-intj**,  **2** | **SiF-isfp**,  **3** | **FeS**,  **4** |
+|        | **ENTP⁠-⁠Ne-dom**,  ILE,  ENTP  | **INTJ⁠-⁠Ti-dom**,  LII,  INTx  | **ISFP⁠-⁠Si-dom**,  SEI,  ISFx  | **ESFJ⁠-⁠Fe-dom**,  ESE,  ESFJ  |
+|        | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & perceiving feeler   | dominant extraverted feeler & judging sensor   |
+| beta   | **SeT**,  **5** | **TiS-istj**,  **6** | **NiF-infp**,  **7** | **FeN**,  **8** |
+|        | **ESTP⁠-⁠Se-dom**,  SLE,  ESTP  | **ISTJ⁠-⁠Ti-dom**,  LSI,  ISTx  | **INFP⁠-⁠Ni-dom**,  IEI,  INFx  | **ENFJ⁠-⁠Fe-dom**,  EIE,  ENFJ  |
+|        | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
+| gamma  | **SeF**,  **9** | **FiS-isfj**,  **10** | **NiT-intp**,  **11** | **TeN**,  **12** |
+|        | **ESFP⁠-⁠Se-dom**,  SEE,  ESFP  | **ISFJ⁠-⁠Fi-dom**,  ESI,  ISFx | **INTP⁠-⁠Ni-dom**,  ILI,  INTx | **ENTJ⁠-⁠Te-dom**,  LIE,  ENTJ |
+|        | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
+| delta  | **NeF**,  **13** | **FiN-infj**,  **14** | **SiT-istp**,  **15** | **TeS**,  **16** |
+|        | **ENFP⁠-⁠Ne-dom**,  IEE,  ENFP | **INFJ⁠-⁠Fi-dom**,  EII,  INFx | **ISTP⁠-⁠Si-dom**,  SLI,  ISTx | **ESTJ⁠-⁠Te-dom**,  LSE,  ESTJ |
+|        | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
+
+
 
 For example INTJ-Ti-dom / TiN-intj is *intuitive task-oriented judging introvert* with dominant Ti (or *dominant introverted tasker & judging intuiter*). So the first part of the name is given by:
 
@@ -110,19 +116,6 @@ And the last part of the name is given by:
 - **EJ** is judging extravert (or extraverted judger).
 
 Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor detectors. My favourite is "sensing feelers" 🐙.
-
-Or if you want to use names that more explicitly differ from MBTI see this table:
-
-| quadra    |    EP   |     IJ         |     IP         |    EJ   |
-|:--------- |:-------:|:--------------:|:--------------:|:-------:|
-| **alpha** | **NeT** | **TiN-intj**   | **SiF-isfp**   | **FeS** |
-| meaning   | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & perceiving feeler   | dominant extraverted feeler & judging sensor   |
-| **beta**  | **SeT** | **TiS-istj**   | **NiF-infp**   | **FeN** |
-| meaning   | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
-| **gamma** | **SeF** | **FiS-isfj**   | **NiT-intp**   | **TeN** |
-| meaning   | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
-| **delta** | **NeF** | **FiN-infj**   | **SiT-istp**   | **TeS** |
-| meaning   | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
 
 
 ### 5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
