@@ -101,16 +101,16 @@ Short (and main) names like NeT and TiN-intj were obtained from cognitive functi
 |         | **ENFP⁠-⁠Ne-dom**,  IEE,  ENFP | **INFJ⁠-⁠Fi-dom**,  EII,  INFx | **ISTP⁠-⁠Si-dom**,  SLI,  ISTx | **ESTJ⁠-⁠Te-dom**,  LSE,  ESTJ |
 |         | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
 
-For example INTJ-Ti-dom / TiN-intj is *intuitive task-oriented judging introvert* with dominant Ti (or *dominant introverted tasker & judging intuiter*).
+For example INTJ-Ti-dom / TiN-intj is *intuitive task-oriented judging introvert with dominant Ti* or *dominant introverted tasker & judging intuiter*.
 
-- **NT** is intuitive task-oriented (or intuiter and tasker),
-- **NF** is intuitive feelings-oriented (or intuiter and feeler),
-- **ST** is sensory task-oriented (or sensor and tasker),
-- **SF** is sensory feelings-oriented (or sensor and feeler).
-- **EP** is perceiving extravert (or extraverted perceiver),
-- **IJ** is judging introvert (or introverted judger),
-- **EP** is perceiving introvert (or introverted perceiver),
-- **EJ** is judging extravert (or extraverted judger).
+- **N** - intuitive, intuiter,
+- **S** - sensory, sensor,
+- **T** - task-oriented, tasker,
+- **F** - feelings-oriented, feeler,
+- **E** - extraverted, extravert,
+- **I** - introverted, introvert.
+- **P** - perceiving, perceiver,
+- **J** - judging, judger,
 
 Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor detectors. My favourite is "sensing feelers" 🐙.
 
