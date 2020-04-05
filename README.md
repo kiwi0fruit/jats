@@ -190,7 +190,7 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 | **8 Background** | _7 Restrictive_  | strong   | vital     | not valuable | **8 Te**   | _7 Ni_     |
 | | | 1 > 8 > 2&7 > 3&6 > 4&5 | | 1>2; 5>6; 4>3; 8>7; Set long-term life goals: 1, 5 | | |
 
-__\*__ _5 Suggestible_ can also be called _5 The most inferior_ function.
+__\*__ _5 Suggestible_ can also be called _5 Autonomous inferior_ function.
 
 **NEW: [Cognitive functions descriptions per position in Model A (8x8 auto-translated table)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fkiwi0fruit.tumblr.com%2Ffunctions&sandbox=1)**.
 
@@ -293,12 +293,12 @@ Let's explain this in the example of the delta quadra.
 
 Deltas are: ENFP-Ne-dom, INFJ-Fi-dom, ESTJ-Te-dom, ISTP-Si-dom. So as commonly believed in MBTI xNFP and xSTJ are not delta. As believed in Socionics:
 
-* ENFP-Ne-dom has auxiliary Fi, and Si as the most inferior function (to the point of not controlling it so it has its own motivation and becomes valuable function),
-* INFJ-Fi-dom has auxiliary Ne, and Te as the most inferior,
-* ESTJ-Te-dom has auxiliary Si, and Fi as the most inferior,
-* ISTP-Si-dom has auxiliary Te, and Ne as the most inferior.
+* ENFP-Ne-dom has auxiliary Fi, and Si as the most inferior function (to the point of dominant function not controlling it so it has its own motivation and becomes valuable function) - _autonomous inferior_ function aka _suggestible_,
+* INFJ-Fi-dom has auxiliary Ne, and suggestible Te,
+* ESTJ-Te-dom has auxiliary Si, and suggestible Fi,
+* ISTP-Si-dom has auxiliary Te, and suggestible Ne.
 
-So the functions the type values most are 1-dominant, 2-auxiliary and 5-the-most-inferior. For some reason in Socionics believed that commonly ENFP-Ne-dom also values Te, INFJ-Fi-dom also values Si, ESTJ-Te-dom also values Ne, ISTP-Si-dom also values Fi (6-activating).
+So the functions the type values most are 1-dominant, 2-auxiliary and 5-suggestible. For some reason in Socionics believed that commonly ENFP-Ne-dom also values Te, INFJ-Fi-dom also values Si, ESTJ-Te-dom also values Ne, ISTP-Si-dom also values Fi (6-activating).
 
 So this can be seen that these 4 types has the same 4 most valued functions (1st, 2nd, 5th, 6th):
 
