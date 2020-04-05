@@ -185,12 +185,16 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 | Functions        |                  | Strength | Conscious | Value        | Example    | NeT        |
 | ---------------- | ---------------- | -------- | --------- | ------------ | ---------: | :--------- |
 | **_1 Dominant_** | 2 Auxiliary      | strong   | mental    | valuable     | **_1 Ne_** | 2 Ti       |
-| 4 Vulnerable     | **_3 Role_**     | weak     | mental    | not valuable | 4 Fi       | **_3 Se_** |
+| 4 Vulnerable\*     | **_3 Role_**     | weak     | mental    | not valuable | 4 Fi       | **_3 Se_** |
 | _5 Suggestible_\* | **6 Activating** | weak     | vital     | valuable     | _5 Si_     | **6 Fe**   |
-| **8 Background** | _7 Restrictive_  | strong   | vital     | not valuable | **8 Te**   | _7 Ni_     |
+| **8 Background**\* | _7 Restrictive_  | strong   | vital     | not valuable | **8 Te**   | _7 Ni_     |
 | | | 1 > 8 > 2&7 > 3&6 > 4&5 | | 1>2; 5>6; 4>3; 8>7; Set long-term life goals: 1, 5 | | |
 
-__\*__ _5 Suggestible_ can also be called _5 Autonomous inferior_ function.
+__\*__ alternative names:
+
+1. _Vulnerable_ can also be called _Weakest_,
+2. _Suggestible_ can also be called _Autonomous inferior_,
+3. _Background_ can also be called _Second auxiliary_.
 
 **NEW: [Cognitive functions descriptions per position in Model A (8x8 auto-translated table)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fkiwi0fruit.tumblr.com%2Ffunctions&sandbox=1)**.
 
@@ -293,7 +297,7 @@ Let's explain this in the example of the delta quadra.
 
 Deltas are: ENFP-Ne-dom, INFJ-Fi-dom, ESTJ-Te-dom, ISTP-Si-dom. So as commonly believed in MBTI xNFP and xSTJ are not delta. As believed in Socionics:
 
-* ENFP-Ne-dom has auxiliary Fi, and Si as the most inferior function (to the point of dominant function not controlling it so it has its own motivation and becomes valuable function) - _autonomous inferior_ function aka _suggestible_,
+* ENFP-Ne-dom has auxiliary Fi, and Si as the most inferior function (to the point of dominant function not controlling it so it has its own motivation and becomes valuable function) - _autonomous inferior_ function aka _suggestible_ function,
 * INFJ-Fi-dom has auxiliary Ne, and suggestible Te,
 * ESTJ-Te-dom has auxiliary Si, and suggestible Fi,
 * ISTP-Si-dom has auxiliary Te, and suggestible Ne.
