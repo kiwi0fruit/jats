@@ -82,7 +82,9 @@ Names are in the following order:
 
 - **Socionics reference type long name**, Socionics name literal translation, MBTI name, **Socionics reference type short name**, **Number name**.
 
-In my translation of socionics types names to English the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti-dom is INTx that is one of two types INTJ/INTP (or their mixture).
+In my translation of socionics types names to English the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (where MBTI J/P axis measures roughly the same as big Five conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti-dom is INTx that is one of two types INTJ/INTP (or their mixture).
+
+Short (and main) names like NeT and TiN-intj were obtained from cognitive functions stack (see 7. Model A chapter).
 
 | quadra  | EP      | IJ           | IP           | EJ      |
 |:--------|:-------:|:------------:|:------------:|:-------:|
@@ -99,16 +101,12 @@ In my translation of socionics types names to English the 4 letter code shows th
 |         | **ENFP⁠-⁠Ne-dom**,  IEE,  ENFP | **INFJ⁠-⁠Fi-dom**,  EII,  INFx | **ISTP⁠-⁠Si-dom**,  SLI,  ISTx | **ESTJ⁠-⁠Te-dom**,  LSE,  ESTJ |
 |         | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
 
-
-
-For example INTJ-Ti-dom / TiN-intj is *intuitive task-oriented judging introvert* with dominant Ti (or *dominant introverted tasker & judging intuiter*). So the first part of the name is given by:
+For example INTJ-Ti-dom / TiN-intj is *intuitive task-oriented judging introvert* with dominant Ti (or *dominant introverted tasker & judging intuiter*).
 
 - **NT** is intuitive task-oriented (or intuiter and tasker),
 - **NF** is intuitive feelings-oriented (or intuiter and feeler),
 - **ST** is sensory task-oriented (or sensor and tasker),
 - **SF** is sensory feelings-oriented (or sensor and feeler).
-
-And the last part of the name is given by:
 
 - **EP** is perceiving extravert (or extraverted perceiver),
 - **IJ** is judging introvert (or introverted judger),
