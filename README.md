@@ -178,8 +178,6 @@ So if we are talking about type of particular person not about reference types t
 
 *Note that this description is not affiliated with Talanov's Socionics.*
 
-A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions that together give Model A as consequences is given below. Decomposition to separate hypotheses gave rise to a pair of new assumptions.
-
 | Functions        |                  | Strength | Conscious | Value        | Example    | NeT        |
 | ---------------- | ---------------- | -------- | --------- | ------------ | ---------: | :--------- |
 | **_1 Dominant_** | 2 Auxiliary      | strong   | mental    | valuable     | **_1 Ne_** | 2 Ti       |
@@ -243,6 +241,11 @@ __\*__ alternative names:
 | 4 Ti       | ***3 Se*** | 4 Se         | ***3 Ti*** | 4 Fe         | ***3 Ni*** | 4 Ni       | ***3 Fe*** |
 | *5 Si*     | **6 Te**   | *5 Te*       | **6 Si**   | *5 Ne*       | **6 Fi**   | *5 Fi*     | **6 Ne**   |
 | **8 Fe**   | *7 Ni*     | **8 Ni**     | *7 Fe*     | **8 Ti**     | *7 Se*     | **8 Se**   | *7 Ti*     |
+
+
+### Model A decomposition
+
+A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions that together give Model A as consequences is given below. Decomposition to separate hypotheses gave rise to a pair of new assumptions.
 
 
 #### Set of hypotheses:
