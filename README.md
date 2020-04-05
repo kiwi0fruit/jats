@@ -23,7 +23,7 @@ This is an alternative translation of one of the braches of Socionics to English
 2. Standard MBTI acronyms for Jung cognitive functions (**Se, Si, Ne, Ni, Fe, Fi, Te, Ti**) and original dichotomies (**E/I, N/S, T/F, P/J**) are used for MBTI partial compatibility purpose. Dichotomies that are measured by tests are compatible enough in Socionics, MBTI and Big Five to be called the same term (good **infographics on Big Five** is given here: [psychologycharts.com/big-five-personality-traits.html](http://www.psychologycharts.com/big-five-personality-traits.html)). Congnitive functions deviate more but not enough to deserve a separate name. Standard Socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird.
 3. All cognitive functions are called **kinds of perceprion** and **kinds of judging**. “**Sensory perceprion**” is used instead of Sensing/Sensorics, “**Intuitive perceprion**” is used instead of Intuition, “**Task-oriented judging**” is used instead of Thinking/Logic, “**Feelings-oriented judging**” is used instead of Feeling/Ethics. I also like HBDI approach [en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument](https://en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument) that calls all them the kinds of thinking.
 4. Single-noun terms like **intuiter, sensor, feeler and tasker** are used (also **perceiver** and **judger**).
-5. **Rational/Irrational** names were replaced with **Judging/Perceiving** as these are more accurate names: please remember Rationalism and it’s attitude to emotional thinking. This also helps to make Socionics vs. MBTI contradictions more clear.
+5. **Rational/Irrational** names were replaced with **Judging/Perceiving** to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INTJ⁠-⁠Ti-dom** vs. **INTP⁠-⁠Ni-dom** (or **Ti⁠N⁠-intj** vs. **Ni⁠T⁠-intp**) that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker. Extraverted types don't need explicit notation so very short names like **NeT** and **FeN** are used.
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types.
 8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx-1-2, uNTu-1~2** that are unknown and mixed types from NeT and TiN-intj (u stands for μ that stands for mean).
@@ -199,13 +199,13 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 
 **NEW: [Cognitive functions descriptions per position in Model A (8x8 auto-translated table)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fkiwi0fruit.tumblr.com%2Ffunctions&sandbox=1)**.
 
-* **pronal** vs. **antinal** functions:
+* **pronal** vs. **antinal** functions (names derived from rational-irrational):
   * [*italic*]  functions are **pronal** functions: 1, 3, 5, 7.  
     For judging types that's judging functions. For perceiving types that's perceiving functions, 
   * [not italic] functions are **antinal** functions: 2, 4, 6, 8.  
     For judging types that's perceiving functions. For perceiving types that's judging functions,
   * 1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only.
-* **proverted** vs. **antiverted** functions:
+* **proverted** vs. **antiverted** functions (names derived from extraverted-introverted):
   * [**bold**] functions (or having the same index as dominant function) are **proverted** functions: 1, 3, 6, 8.  
     For extraverts that's extraverted functions. For introverts that's introverted functions,
   * [not bold] functions (or having different index to dominant function) are **antiverted** functions: 2, 4, 5, 7.  
