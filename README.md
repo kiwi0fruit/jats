@@ -90,17 +90,17 @@ Names are in the following order:
 
 | quadra  | EP      | IJ           | IP           | EJ      |
 |:--------|:-------:|:------------:|:------------:|:-------:|
-| α Alpha | **NeT**,  **1** | **TiN-intj**,  **2** | **SiF-isfp**,  **3** | **FeS**,  **4** |
-|         | **ENTP⁠-⁠Ne-dom**,  ILE,  ENTP  | **INTJ⁠-⁠Ti-dom**,  LII,  INTx  | **ISFP⁠-⁠Si-dom**,  SEI,  ISFx  | **ESFJ⁠-⁠Fe-dom**,  ESE,  ESFJ  |
+| α Alpha | **NeT**, **1** | **TiN⁠-⁠intj**, **2** | **SiF⁠-⁠isfp**, **3** | **FeS**, **4** |
+|         | **ENTP⁠⁠-⁠⁠Ne⁠-⁠dom**,  ILE,  ENTP  | **INTJ⁠-⁠Ti⁠-⁠dom**,  LII,  INTx  | **ISFP⁠-⁠Si⁠-⁠dom**,  SEI,  ISFx  | **ESFJ⁠-⁠Fe⁠-⁠dom**,  ESE,  ESFJ  |
 |         | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & perceiving feeler   | dominant extraverted feeler & judging sensor   |
-| β Beta  | **SeT**,  **5** | **TiS-istj**,  **6** | **NiF-infp**,  **7** | **FeN**,  **8** |
-|         | **ESTP⁠-⁠Se-dom**,  SLE,  ESTP  | **ISTJ⁠-⁠Ti-dom**,  LSI,  ISTx  | **INFP⁠-⁠Ni-dom**,  IEI,  INFx  | **ENFJ⁠-⁠Fe-dom**,  EIE,  ENFJ  |
+| β Beta  | **SeT**, **5** | **TiS⁠-⁠istj**, **6** | **NiF⁠-⁠infp**, **7** | **FeN**, **8** |
+|         | **ESTP⁠-⁠Se⁠-⁠dom**,  SLE,  ESTP  | **ISTJ⁠-⁠Ti⁠-⁠dom**,  LSI,  ISTx  | **INFP⁠-⁠Ni⁠-⁠dom**,  IEI,  INFx  | **ENFJ⁠-⁠Fe⁠-⁠dom**,  EIE,  ENFJ  |
 |         | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
-| γ Gamma | **SeF**,  **9** | **FiS-isfj**,  **10** | **NiT-intp**,  **11** | **TeN**,  **12** |
-|         | **ESFP⁠-⁠Se-dom**,  SEE,  ESFP  | **ISFJ⁠-⁠Fi-dom**,  ESI,  ISFx | **INTP⁠-⁠Ni-dom**,  ILI,  INTx | **ENTJ⁠-⁠Te-dom**,  LIE,  ENTJ |
+| γ Gamma | **SeF**, **9** | **FiS⁠-⁠isfj**, **10** | **NiT⁠-⁠intp**, **11** | **TeN**, **12** |
+|         | **ESFP⁠-⁠Se⁠-⁠dom**,  SEE,  ESFP  | **ISFJ⁠-⁠Fi⁠-⁠dom**,  ESI,  ISFx | **INTP⁠-⁠Ni⁠-⁠dom**,  ILI,  INTx | **ENTJ⁠-⁠Te-dom**,  LIE,  ENTJ |
 |         | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
-| δ Delta | **NeF**,  **13** | **FiN-infj**,  **14** | **SiT-istp**,  **15** | **TeS**,  **16** |
-|         | **ENFP⁠-⁠Ne-dom**,  IEE,  ENFP | **INFJ⁠-⁠Fi-dom**,  EII,  INFx | **ISTP⁠-⁠Si-dom**,  SLI,  ISTx | **ESTJ⁠-⁠Te-dom**,  LSE,  ESTJ |
+| δ Delta | **NeF**, **13** | **FiN⁠-⁠infj**, **14** | **SiT⁠-⁠istp**, **15** | **TeS**, **16** |
+|         | **ENFP⁠-⁠Ne⁠-⁠dom**,  IEE,  ENFP | **INFJ⁠-⁠Fi⁠-⁠dom**,  EII,  INFx | **ISTP⁠-⁠Si⁠-⁠dom**,  SLI,  ISTx | **ESTJ⁠-⁠Te-dom**,  LSE,  ESTJ |
 |         | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
 
 For example INTJ-Ti-dom / TiN-intj is *intuitive task-oriented judging introvert with dominant Ti* or *dominant introverted tasker & judging intuiter*.
@@ -194,7 +194,7 @@ So in my translation of Model A I wanted to fix some possible misunderstandings:
 | Functions        |                  | Strength | Conscious | Value        | Example    | NeT        |
 | ---------------- | ---------------- | -------- | --------- | ------------ | ---------: | :--------- |
 | **_1 Dominant_** | 2 Auxiliary      | strong   | mental    | valuable     | **_1 Ne_** | 2 Ti       |
-| 4 Vulnerable     | **_3 Role_**     | weak     | mental    | not valuable | 4 Fi       | **_3 Se_** |
+| 4 Vulnerable     | **_3 Role_**     | weak     | mental    | not valuable | 4 Fi       | **_3 Se_** |
 | _5 Suggestive_   | **6 Activating** | weak     | vital     | valuable     | _5 Si_     | **6 Fe**   |
 | **8 Background** | _7 Restrictive_  | strong   | vital     | not valuable | **8 Te**   | _7 Ni_     |
 | **proverted:&nbsp;1,3,6,8**; antiverted:&nbsp;2,4,5,7; *pronal:&nbsp;1,3,5,7*; antinal:&nbsp;2,4,6,8\* | | 1 >&nbsp;8 >&nbsp;2&amp;7 >&nbsp;3&amp;6 >&nbsp;4&amp;5; **strong&nbsp;proverted**&nbsp;> **strong&nbsp;antiverted**; **weak&nbsp;proverted**&nbsp;> **weak&nbsp;antiverted** | | 1>2; 5>6; 4>3; 8>7; **valuable&nbsp;pronal** 1,5 set long-term life goals | | |
