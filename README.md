@@ -178,12 +178,24 @@ So if we are talking about type of particular person not about reference types t
 
 *Note that this description is not affiliated with Talanov's Socionics.*
 
+There are *at least* three widespread models of conginitive functions: Model A, Model G and MBTI model. Model A functions names differ from author to author to the point where both 4-Vulnerable and 6-Activating funcitons can be called *Mobilizing* by different authors. Model G that is popular on [reddit.com/r/JungianTypology](https://www.reddit.com/r/JungianTypology) makes the situation even worse as it calles 2-Auxiliary function *5-Demonstrative* and calles 8-Background function *2-Creative*. Crazy.
+
+So in my translation of Model A I wanted to fix some possible misunderstandings:
+
+* I use *1-Dominant* as there is no point to change Jung's term in English. 
+* I use *2-Auxiliary* name from Jung and MBTI models as it coisides with Model A meaning and is the most widespread name in English community because of the MBTI. And *creative* became ambiguous because of the Model G.
+* *3-Role* and *4-Vulnerable* are the most widespread Model A translations and are not ambiguous.
+* *5-Suggestive* is the most widespread Model A translation and is not ambiguous. It's also better than suggesti*ble*. As suggest*ive* better aligns with *Autonomous inferior* as Jung meant this function.
+* *6-Activating* is better than ambiguous *mobilizing* and it is the most widespread in the auto-translated texts.
+* I simply like *7-Restrictive* more than alternatives (it also better than *restricting*).
+* *8-Background* is better than *demonstrative* that became ambiguous because of the Model G. And *background* better aligns with it's meaning of *Automatic auxiliary*.
+
 | Functions        |                  | Strength | Conscious | Value        | Example    | NeT        |
 | ---------------- | ---------------- | -------- | --------- | ------------ | ---------: | :--------- |
 | **_1 Dominant_** | 2 Auxiliary      | strong   | mental    | valuable     | **_1 Ne_** | 2 Ti       |
-| 4 Vulnerable     | **_3 Role_**     | weak     | mental    | not valuable | 4 Fi       | **_3Se_** |
+| 4 Vulnerable     | **_3 Role_**     | weak     | mental    | not valuable | 4 Fi       | **_3Se_**  |
 | _5 Suggestive_\* | **6 Activating** | weak     | vital     | valuable     | _5 Si_     | **6 Fe**   |
-| **8 Background**\* | _7 Restrictive_  | strong   | vital     | not valuable | **8 Te**   | _7 Ni_     |
+| **8 Background**\* | _7 Restrictive_ | strong  | vital     | not valuable | **8 Te**   | _7 Ni_     |
 | | | 1 > 8 > 2&7 > 3&6 > 4&5 | | 1>2; 5>6; 4>3; 8>7; Set long-term life goals: 1, 5 | | |
 
 __\*__ alternative names:
