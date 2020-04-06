@@ -194,7 +194,7 @@ So in my translation of Model A I wanted to fix some possible misunderstandings:
 | Functions        |                  | Strength | Conscious | Value        | Example    | NeT        |
 | ---------------- | ---------------- | -------- | --------- | ------------ | ---------: | :--------- |
 | **_1 Dominant_** | 2 Auxiliary      | strong   | mental    | valuable     | **_1 Ne_** | 2 Ti       |
-| 4 Vulnerable     | **_3 Role_**     | weak     | mental    | not valuable | 4 Fi       | **_3Se_**  |
+| 4 Vulnerable     | **_3 Role_**     | weak     | mental    | not valuable | 4 Fi       | **_3 Se_** |
 | _5 Suggestive_   | **6 Activating** | weak     | vital     | valuable     | _5 Si_     | **6 Fe**   |
 | **8 Background** | _7 Restrictive_  | strong   | vital     | not valuable | **8 Te**   | _7 Ni_     |
 | **proverted:&nbsp;1,3,6,8**; antiverted:&nbsp;2,4,5,7; *pronal:&nbsp;1,3,5,7*; antinal:&nbsp;2,4,6,8\* | | 1 >&nbsp;8 >&nbsp;2&amp;7 >&nbsp;3&amp;6 >&nbsp;4&amp;5; **strong&nbsp;proverted**&nbsp;> **strong&nbsp;antiverted**; **weak&nbsp;proverted**&nbsp;> **weak&nbsp;antiverted** | | 1>2; 5>6; 4>3; 8>7; **valuable&nbsp;pronal** 1,5 set long-term life goals | | |
@@ -225,27 +225,27 @@ So in my translation of Model A I wanted to fix some possible misunderstandings:
   * The work of valuable functions and its nuances are important for the type, they are interesting, type can listen and talk on these topics with pleasure. Valuable functions provide an active exchange of information between people, what is associated with the work of these functions is easily discussed. The work of not valuable functions is what the type considers in life not the most important, something that can be neglected, something that makes sense only as an addition to valuable functions. As a rule, the discussion of the work of these functions is not interesting and does not give pleasure (but there are exceptions), it is preferred to help each other without further ado. The type in most cases limits the activity of the not valuable functions to the needs of valuable ones (that mostly 1st and 2nd functions), the demands of society or circumstances.
 * Additional info on Model A can be found in [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 
-| **α Alpha** |            |              |            |              |            | **α Alpha** |            |
+|            |            | **α Alpha**  |            | **α Alpha**  |            |            |            |
 |-----------:|:-----------|-------------:|:-----------|-------------:|:-----------|-----------:|:-----------|
-| **NeT**    | **1**      | **TiN-intj** | **2**      | **SiF-isfp** | **3**      | **FeS**    | **4**      |
+| **NeT**    | **1**      | **TiN⁠-⁠intj** | **2**      | **SiF⁠-⁠isfp** | **3**      | **FeS**    | **4**      |
 | ***1 Ne*** | 2 Ti       | ***1 Ti***   | 2 Ne       | ***1 Si***   | 2 Fe       | ***1 Fe*** | 2 Si       |
 | 4 Fi       | ***3 Se*** | 4 Se         | ***3 Fi*** | 4 Te         | ***3 Ni*** | 4 Ni       | ***3 Te*** |
 | *5 Si*     | **6 Fe**   | *5 Fe*       | **6 Si**   | *5 Ne*       | **6 Ti**   | *5 Ti*     | **6 Ne**   |
 | **8 Te**   | *7 Ni*     | **8 Ni**     | *7 Te*     | **8 Fi**     | *7 Se*     | **8 Se**   | *7 Fi*     |
-| **β Beta** |            |              |            |              |            | **β Beta** |            |
-| **SeT**    | **5**      | **TiS-istj** | **6**      | **NiF-infp** | **7**      | **FeN**    | **8**      |
+|            |            | **β Beta**   |            | **β Beta**   |            |            |            |
+| **SeT**    | **5**      | **TiS⁠-⁠istj** | **6**      | **NiF⁠-⁠infp** | **7**      | **FeN**    | **8**      |
 | ***1 Se*** | 2 Ti       | ***1 Ti***   | 2 Se       | ***1 Ni***   | 2 Fe       | ***1 Fe*** | 2 Ni       |
 | 4 Fi       | ***3 Ne*** | 4 Ne         | ***3 Fi*** | 4 Te         | ***3 Si*** | 4 Si       | ***3 Te*** |
 | *5 Ni*     | **6 Fe**   | *5 Fe*       | **6 Ni**   | *5 Se*       | **6 Ti**   | *5 Ti*     | **6 Se**   |
 | **8 Te**   | *7 Si*     | **8 Si**     | *7 Te*     | **8 Fi**     | *7 Ne*     | **8 Ne**   | *7 Fi*     |
-| **γ Gamma** |            |              |            |              |            | **γ Gamma** |            |
-| **SeF**    | **9**      | **FiS-isfj** | **10**     | **NiT-intp** | **11**     | **TeN**    | **12**     |
+|            |            | **γ Gamma**  |            | **γ Gamma**  |            |            |            |
+| **SeF**    | **9**      | **FiS⁠-⁠isfj** | **10**     | **NiT⁠-⁠intp** | **11**     | **TeN**    | **12**     |
 | ***1 Se*** | 2 Fi       | ***1 Fi***   | 2 Se       | ***1 Ni***   | 2 Te       | ***1 Te*** | 2 Ni       |
 | 4 Ti       | ***3 Ne*** | 4 Ne         | ***3 Ti*** | 4 Fe         | ***3 Si*** | 4 Si       | ***3 Fe*** |
 | *5 Ni*     | **6 Te**   | *5 Te*       | **6 Ni**   | *5 Se*       | **6 Fi**   | *5 Fi*     | **6 Se**   |
 | **8 Fe**   | *7 Si*     | **8 Si**     | *7 Fe*     | **8 Ti**     | *7 Ne*     | **8 Ne**   | *7 Ti*     |
-| **δ Delta** |            |              |            |              |            | **δ Delta** |            |
-| **NeF**    | **13**     | **FiN-infj** | **14**     | **SiT-istp** | **15**     | **TeS**    | **16**     |
+|            |            | **δ Delta**  |            | **δ Delta**  |            |            |            |
+| **NeF**    | **13**     | **FiN⁠-⁠infj** | **14**     | **SiT⁠-⁠istp** | **15**     | **TeS**    | **16**     |
 | ***1 Ne*** | 2 Fi       | ***1 Fi***   | 2 Ne       | ***1 Si***   | 2 Te       | ***1 Te*** | 2 Si       |
 | 4 Ti       | ***3 Se*** | 4 Se         | ***3 Ti*** | 4 Fe         | ***3 Ni*** | 4 Ni       | ***3 Fe*** |
 | *5 Si*     | **6 Te**   | *5 Te*       | **6 Si**   | *5 Ne*       | **6 Fi**   | *5 Fi*     | **6 Ne**   |
