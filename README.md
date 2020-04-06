@@ -189,7 +189,7 @@ So if we are talking about type of particular person not about reference types t
 __\*__ alternative names:
 
 1. _Suggestible_ can also be called _Autonomous inferior_,
-2. _Background_ can also be called _Second auxiliary_.
+2. _Background_ can also be called _Automatic auxiliary_.
 
 **NEW: [Cognitive functions descriptions per position in Model A (8x8 auto-translated table)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fkiwi0fruit.tumblr.com%2Ffunctions&sandbox=1)**.
 
