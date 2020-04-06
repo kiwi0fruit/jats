@@ -196,7 +196,7 @@ So in my translation of Model A I wanted to fix some possible misunderstandings:
 | 4 Vulnerable     | **_3 Role_**     | weak     | mental    | not valuable | 4 Fi       | **_3Se_**  |
 | _5 Suggestive_   | **6 Activating** | weak     | vital     | valuable     | _5 Si_     | **6 Fe**   |
 | **8 Background** | _7 Restrictive_  | strong   | vital     | not valuable | **8 Te**   | _7 Ni_     |
-| **proverted:&nbsp;1,3,6,8**; antiverted:&nbsp;2,4,5,7; *pronal:&nbsp;1,3,5,7*; antinal:&nbsp;2,4,6,8\* | | 1 >&nbsp;8 >&nbsp;2&amp;7 >&nbsp;3&amp;6 >&nbsp;4&amp;5; **strong&nbsp;proverted** >&nbsp;**strong&nbsp;antiverted**; **weak&nbsp;proverted** >&nbsp;**weak&nbsp;antiverted** | | 1>2; 5>6; 4>3; 8>7; **valuable&nbsp;pronal** 1,5 set long-term life goals | | |
+| **proverted:&nbsp;1,3,6,8**; antiverted:&nbsp;2,4,5,7; *pronal:&nbsp;1,3,5,7*; antinal:&nbsp;2,4,6,8\* | | 1 >&nbsp;8 >&nbsp;2&amp;7 >&nbsp;3&amp;6 >&nbsp;4&amp;5; **strong&nbsp;proverted**&nbsp;> **strong&nbsp;antiverted**; **weak&nbsp;proverted**&nbsp;> **weak&nbsp;antiverted** | | 1>2; 5>6; 4>3; 8>7; **valuable&nbsp;pronal** 1,5 set long-term life goals | | |
 
 \* names were derived from rational-irrational and extraverted-introverted.
 
