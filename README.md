@@ -196,7 +196,9 @@ So in my translation of Model A I wanted to fix some possible misunderstandings:
 | 4 Vulnerable     | **_3 Role_**     | weak     | mental    | not valuable | 4 Fi       | **_3Se_**  |
 | _5 Suggestive_   | **6 Activating** | weak     | vital     | valuable     | _5 Si_     | **6 Fe**   |
 | **8 Background** | _7 Restrictive_  | strong   | vital     | not valuable | **8 Te**   | _7 Ni_     |
-| | | 1 > 8 > 2&7 > 3&6 > 4&5 | | 1>2; 5>6; 4>3; 8>7; Set long-term life goals: 1, 5 | | |
+| **proverted:&nbsp;1,3,6,8**; antiverted:&nbsp;2,4,5,7; *pronal:&nbsp;1,3,5,7*; antinal:&nbsp;2,4,6,8\* | | 1 >&nbsp;8 >&nbsp;2&amp;7 >&nbsp;3&amp;6 >&nbsp;4&amp;5; **strong&nbsp;proverted** >&nbsp;**strong&nbsp;antiverted**; **weak&nbsp;proverted** >&nbsp;**weak&nbsp;antiverted** | | 1>2; 5>6; 4>3; 8>7; **valuable&nbsp;pronal** 1,5 set long-term life goals | | |
+
+\* names were derived from rational-irrational and extraverted-introverted.
 
 **NEW: [Cognitive functions descriptions per position in Model A (8x8 auto-translated table)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fkiwi0fruit.tumblr.com%2Ffunctions&sandbox=1)**.
 
