@@ -183,7 +183,7 @@ There are *at least* three widespread models of conginitive functions: Model A, 
 So in my translation of Model A I wanted to fix some possible misunderstandings:
 
 * I use *1-Dominant* as there is no point to change Jung's term in English. 
-* I use *2-Auxiliary* name from Jung and MBTI models as it coisides with Model A meaning and is the most widespread name in English community because of the MBTI. And *creative* became ambiguous because of the Model G.
+* I use *2-Auxiliary* name from Jung and MBTI models as it coincides with Model A meaning and is the most widespread name in English community because of the MBTI. And *creative* became ambiguous because of the Model G.
 * *3-Role* and *4-Vulnerable* are the most widespread Model A translations and are not ambiguous.
 * *5-Suggestive* is the most widespread Model A translation and is not ambiguous. It's also better than suggesti*ble*. As suggest*ive* better aligns with *Autonomous inferior* as Jung meant this function.
 * *6-Activating* is better than ambiguous *mobilizing* and it is the most widespread in the auto-translated texts.
