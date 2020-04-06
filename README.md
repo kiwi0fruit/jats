@@ -184,7 +184,7 @@ There are *at least* three widespread models of conginitive functions: Model A, 
 So in my translation of Model A I wanted to fix some possible misunderstandings:
 
 * I use **1-Dominant** as there is no point to change Jung's term in English. 
-* I use **2-Auxiliary** name from Jung and MBTI models as it coincides with Model A meaning good enough and is the most widespread name in English community because of the MBTI. And *creative* became ambiguous because of the Model G. Though it should be something like **Attentive auxiliary** if we are on Jung terms.
+* I use **2-Auxiliary** name from Jung and MBTI models as it coincides with Model A meaning good enough and is the most widespread name in English community because of the MBTI. And *creative* became ambiguous because of the Model G. Though it should be something like **Conscious auxiliary** if we are on Jung terms.
 * **3-Role** and **4-Vulnerable** are the most widespread Model A translations and are not ambiguous.
 * **5-Suggestive** is the most widespread Model A translation and is not ambiguous. It's also better than _suggesti_**ble**. As _suggest_**ive** better aligns with **Autonomous inferior** as Jung meant this function.
 * **6-Activating** is better than ambiguous *mobilizing* and it is the most widespread in the auto-translated texts.
@@ -193,8 +193,8 @@ So in my translation of Model A I wanted to fix some possible misunderstandings:
 
 | Functions        |                  | Strength | Consciousness             | Value        | Example    | NeT        |
 | ---------------- | ---------------- | -------- | ------------------------- | ------------ | ---------: | :--------- |
-| **_1 Dominant_** | 2 Auxiliary      | strong   | conscious (attentive)     | valuable     | **_1 Ne_** | 2 Ti       |
-| 4 Vulnerable     | **_3 Role_**     | weak     | conscious (attentive)     | not valuable | 4 Fi       | **_3 Se_** |
+| **_1 Dominant_** | 2 Auxiliary      | strong   | conscious     | valuable     | **_1 Ne_** | 2 Ti       |
+| 4 Vulnerable     | **_3 Role_**     | weak     | conscious     | not valuable | 4 Fi       | **_3 Se_** |
 | _5 Suggestive_   | **6 Activating** | weak     | semiconscious (automatic) | valuable     | _5 Si_     | **6 Fe**   |
 | **8 Background** | _7 Restrictive_  | strong   | semiconscious (automatic) | not valuable | **8 Te**   | _7 Ni_     |
 | **proverted:&nbsp;1,3,6,8**; antiverted:&nbsp;2,4,5,7; *pronal:&nbsp;1,3,5,7*; antinal:&nbsp;2,4,6,8\* | | 1 >&nbsp;8 >&nbsp;2&amp;7 >&nbsp;3&amp;6 >&nbsp;4&amp;5; **strong&nbsp;proverted**&nbsp;> **strong&nbsp;antiverted**; **weak&nbsp;proverted**&nbsp;> **weak&nbsp;antiverted** | | 1>2; 5>6; 4>3; 8>7; **valuable&nbsp;pronal** 1,5 set long-term life goals | | |
@@ -219,8 +219,8 @@ So in my translation of Model A I wanted to fix some possible misunderstandings:
 * *italic* and **bold** can be **_combined_**.
 * **strong** vs. **weak** functions:
   * Strong functions think and solve their tasks competently, efficiently, confidently, quickly, easily. In contrast, weak functions tend to be less competent, work slowly, uncertainly, and require much more effort. [There is an opinion](http://socionica74.narod.ru/about4.html) that strong functions are more robust, i.e. able to work longer at the same level of quality without overexertion, and that strong functions are “resistant to interference,” that is, they are able to ignore distracting and interfering factors in their work, to work effectively in spite of them. Weak functions are not durable and not resistant to interference. It is best to compare the functions of one person.
-* **conscious (attentive)** vs. **semiconscious (automatic)** functions:
-  * Attentive functions are characterized by the fact that the overwhelming majority of the time type reflects and ponders using these functions. Well aware of such thoughts and reflections. The work of automatic functions happens most of the time as if by itself. These functions regularly work as if automatically, notice something, process something and provide the result of their work to attentive functions, but the process of their work is not in the focus of attention. If you ask to consciously think with the help of automatic functions, the consciousness will try to get away from this activity, go to thinking with the help of attentive functions.
+* **conscious** vs. **semiconscious (automatic)** functions:
+  * Conscious functions are characterized by the fact that the overwhelming majority of the time type reflects and ponders using these functions. Well aware of such thoughts and reflections. The work of automatic functions happens most of the time as if by itself. These functions regularly work as if automatically, notice something, process something and provide the result of their work to conscious functions, but the process of their work is not in the focus of attention. If you ask to consciously think with the help of automatic functions, the consciousness will try to get away from this activity, go to thinking with the help of conscious functions.
 * **valuable** vs. **not valuable** functions:
   * The work of valuable functions and its nuances are important for the type, they are interesting, type can listen and talk on these topics with pleasure. Valuable functions provide an active exchange of information between people, what is associated with the work of these functions is easily discussed. The work of not valuable functions is what the type considers in life not the most important, something that can be neglected, something that makes sense only as an addition to valuable functions. As a rule, the discussion of the work of these functions is not interesting and does not give pleasure (but there are exceptions), it is preferred to help each other without further ado. The type in most cases limits the activity of the not valuable functions to the needs of valuable ones (that mostly 1st and 2nd functions), the demands of society or circumstances.
 * Additional info on Model A can be found in [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
