@@ -182,8 +182,8 @@ So if we are talking about type of particular person not about reference types t
 There are *at least* three widespread models of conginitive functions: Model A, Model G and MBTI model.
 
 * Model A functions names differ from author to author to the point where both 4-Vulnerable and 6-Activating funcitons can be called *Mobilizing* by different authors.
-* Model G that is popular on [reddit.com/r/JungianTypology](https://www.reddit.com/r/JungianTypology) makes the situation even worse as it calles 2-Auxiliary function *5-Demonstrative* and calles 8-Background function *2-Creative*.
-* *Auxiliary* function name is also ambiguous as there are still [debates](https://www.reddit.com/r/JungianTypology/comments/fvuo27/model_a_translations_became_ambiguous_because_of/fmo7miq/) which attitude Jung meant for auxiliary function (extraverted or introverted). For example Wikipedia article about [cognitive functions](https://en.wikipedia.org/wiki/Jungian_cognitive_functions#Carl_Jung) doesn't specify attitude for Jung's functions model.
+* Model G that is popular on [reddit.com/r/JungianTypology](https://www.reddit.com/r/JungianTypology) makes the situation even worse as it calles 2-Supporting function *5-Demonstrative* and calles 8-Background function *2-Creative*.
+* *Auxiliary* function name is ambiguous as there are still [debates](https://www.reddit.com/r/JungianTypology/comments/fvuo27/model_a_translations_became_ambiguous_because_of/fmo7miq/) which attitude Jung meant for auxiliary function (extraverted or introverted). For example Wikipedia article about [cognitive functions](https://en.wikipedia.org/wiki/Jungian_cognitive_functions#Carl_Jung) doesn't specify attitude for Jung's functions model.
 
 
 So in my translation of Model A I wanted to fix possible misunderstandings:
