@@ -30,7 +30,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT, Enthusiast for FeS, General for SeT, Poet for NiF-infp, **Inspirer** for FeN, **Foreseer** for NiT-intp, Entrepreneur for TeN, **Journalist** for NeF.
 11. The set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions is given. Together hypotheses give **Model A** as consequences. Bonus: **Cognitive functions descriptions per position in Model A (8x8 auto-translated table)**.
-12. Unambiguous translation of Model A was proposed: 1-Dominant, 2-Auxiliary, 3-Role, 4-Vulnerable, 5-Suggestive, 6-Activating, 7-Restrictive, 8-Background. **Ambiguity because of the Model G** was described.
+12. Unambiguous translation of Model A was proposed: 1-Dominant, 2-Supporting, 3-Role, 4-Vulnerable, 5-Suggestive, 6-Activating, 7-Restrictive, 8-Background. **Ambiguity because of the Model G** was described.
 13. Further reading: [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus).
 14. **Notable discussions**: [reddit.com/r/JungianTypology/comments/b5pase](https://www.reddit.com/r/JungianTypology/comments/b5pase/model_a_as_consequence_of_a_set_of_hypotheses/), [reddit.com/r/JungianTypology/comments/b12uju](https://www.reddit.com/r/JungianTypology/comments/b12uju/translation_of_some_useful_socionics_terms/).
 
@@ -312,12 +312,12 @@ Let's explain this in the example of the delta quadra.
 
 Deltas are: ENFP-Ne-dom, INFJ-Fi-dom, ESTJ-Te-dom, ISTP-Si-dom. So as commonly believed in MBTI xNFP and xSTJ are not delta. As believed in Socionics:
 
-* ENFP-Ne-dom has auxiliary Fi, and Si as the most inferior function (to the point of dominant function not controlling it so it has its own motivation and becomes valuable function) - _autonomous inferior_ function aka _suggestive_ function,
-* INFJ-Fi-dom has auxiliary Ne, and suggestive Te,
-* ESTJ-Te-dom has auxiliary Si, and suggestive Fi,
-* ISTP-Si-dom has auxiliary Te, and suggestive Ne.
+* ENFP-Ne-dom has supporting Fi, and Si as the most inferior function (to the point of dominant function not controlling it so it has its own motivation and becomes valuable function) - _autonomous inferior_ function aka _suggestive_ function,
+* INFJ-Fi-dom has supporting Ne, and suggestive Te,
+* ESTJ-Te-dom has supporting Si, and suggestive Fi,
+* ISTP-Si-dom has supporting Te, and suggestive Ne.
 
-So the functions the type values most are 1-dominant, 2-auxiliary and 5-suggestive. For some reason in Socionics believed that commonly ENFP-Ne-dom also values Te, INFJ-Fi-dom also values Si, ESTJ-Te-dom also values Ne, ISTP-Si-dom also values Fi (6-activating).
+So the functions the type values most are 1-dominant, 2-supporting and 5-suggestive. For some reason in Socionics believed that commonly ENFP-Ne-dom also values Te, INFJ-Fi-dom also values Si, ESTJ-Te-dom also values Ne, ISTP-Si-dom also values Fi (6-activating).
 
 So this can be seen that these 4 types has the same 4 most valued functions (1st, 2nd, 5th, 6th):
 
