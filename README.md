@@ -198,8 +198,8 @@ So in my translation of Model A I wanted to fix possible misunderstandings:
 
 | Functions        |                  | Strength | Consciousness             | Value        | Example    | NeT        |
 | ---------------- | ---------------- | -------- | ------------------------- | ------------ | ---------: | :--------- |
-| **_1 Dominant_** | 2 Supporting     | strong   | conscious                 | valuable     | **_1 Ne_** | 2 Ti       |
-| 4 Vulnerable     | **_3 Role_**     | weak     | conscious                 | not valuable | 4 Fi       | **_3 Se_** | 
+| **_1 Dominant_** | 2 Supporting     | strong   | conscious                 | valuable     | **_1 Ne_** | 2 Ti       |
+| 4 Vulnerable     | **_3 Role_**     | weak     | conscious                 | not valuable | 4 Fi       | **_3 Se_** | 
 | _5 Suggestive_   | **6 Activating** | weak     | semiconscious (automatic) | valuable     | _5 Si_     | **6 Fe**   |
 | **8 Background** | _7 Restrictive_  | strong   | semiconscious (automatic) | not valuable | **8 Te**   | _7 Ni_     |
 | **proverted:&nbsp;1,3,6,8**; antiverted:&nbsp;2,4,5,7; *pronal:&nbsp;1,3,5,7*; antinal:&nbsp;2,4,6,8\* | | 1 >&nbsp;8 >&nbsp;2&amp;7 >&nbsp;3&amp;6 >&nbsp;4&amp;5; **strong&nbsp;proverted**&nbsp;> **strong&nbsp;antiverted**; **weak&nbsp;proverted**&nbsp;> **weak&nbsp;antiverted** | | 1>2; 5>6; 4>3; 8>7; **valuable&nbsp;pronal** 1,5 set long-term life goals | | |
