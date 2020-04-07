@@ -179,12 +179,17 @@ So if we are talking about type of particular person not about reference types t
 
 *Note that this description is not affiliated with Talanov's Socionics.*
 
-There are *at least* three widespread models of conginitive functions: Model A, Model G and MBTI model. Model A functions names differ from author to author to the point where both 4-Vulnerable and 6-Activating funcitons can be called *Mobilizing* by different authors. Model G that is popular on [reddit.com/r/JungianTypology](https://www.reddit.com/r/JungianTypology) makes the situation even worse as it calles 2-Auxiliary function *5-Demonstrative* and calles 8-Background function *2-Creative*. Crazy.
+There are *at least* three widespread models of conginitive functions: Model A, Model G and MBTI model.
 
-So in my translation of Model A I wanted to fix some possible misunderstandings:
+* Model A functions names differ from author to author to the point where both 4-Vulnerable and 6-Activating funcitons can be called *Mobilizing* by different authors.
+* Model G that is popular on [reddit.com/r/JungianTypology](https://www.reddit.com/r/JungianTypology) makes the situation even worse as it calles 2-Auxiliary function *5-Demonstrative* and calles 8-Background function *2-Creative*.
+* *Auxiliary* function name is also ambiguous as there are still [debates](https://www.reddit.com/r/JungianTypology/comments/fvuo27/model_a_translations_became_ambiguous_because_of/fmo7miq/) which attitude Jung meant for auxiliary function (extraverted or introverted). For example Wikipedia article about [cognitive functions](https://en.wikipedia.org/wiki/Jungian_cognitive_functions#Carl_Jung) doesn't specify attitude for Jung's functions model.
+
+
+So in my translation of Model A I wanted to fix possible misunderstandings:
 
 * I use **1-Dominant** as there is no point to change Jung's term in English. 
-* I use **2-Auxiliary** name from MBTI model as it coincides with Model A meaning good enough and is the most widespread name in English community because of the MBTI. And *creative* became ambiguous because of the Model G. Though it should be something like **Conscious auxiliary** if we are on Jung terms.
+* I use new **2-Supporting** name. *Creative* became ambiguous because of the Model G. *Auxiliary* is ambiguous because Jung wasn't clear enough. This function name should be something like **Conscious auxiliary** if we are to expand Jung terms.
 * **3-Role** and **4-Vulnerable** are the most widespread Model A translations and are not ambiguous.
 * **5-Suggestive** is the most widespread Model A translation and is not ambiguous. It's also better than _suggesti_**ble**. As _suggest_**ive** better aligns with **Autonomous inferior** as Jung meant this function.
 * **6-Activating** is better than ambiguous *mobilizing* and it is the most widespread in the auto-translated texts.
@@ -193,8 +198,8 @@ So in my translation of Model A I wanted to fix some possible misunderstandings:
 
 | Functions        |                  | Strength | Consciousness             | Value        | Example    | NeT        |
 | ---------------- | ---------------- | -------- | ------------------------- | ------------ | ---------: | :--------- |
-| **_1 Dominant_** | 2 Auxiliary      | strong   | conscious     | valuable     | **_1 Ne_** | 2 Ti       |
-| 4 Vulnerable     | **_3 Role_**     | weak     | conscious     | not valuable | 4 Fi       | **_3 Se_** |
+| **_1 Dominant_** | 2 Supporting     | strong   | conscious                 | valuable     | **_1 Ne_** | 2 Ti       |
+| 4 Vulnerable     | **_3 Role_**     | weak     | conscious                 | not valuable | 4 Fi       | **_3 Se_** | 
 | _5 Suggestive_   | **6 Activating** | weak     | semiconscious (automatic) | valuable     | _5 Si_     | **6 Fe**   |
 | **8 Background** | _7 Restrictive_  | strong   | semiconscious (automatic) | not valuable | **8 Te**   | _7 Ni_     |
 | **proverted:&nbsp;1,3,6,8**; antiverted:&nbsp;2,4,5,7; *pronal:&nbsp;1,3,5,7*; antinal:&nbsp;2,4,6,8\* | | 1 >&nbsp;8 >&nbsp;2&amp;7 >&nbsp;3&amp;6 >&nbsp;4&amp;5; **strong&nbsp;proverted**&nbsp;> **strong&nbsp;antiverted**; **weak&nbsp;proverted**&nbsp;> **weak&nbsp;antiverted** | | 1>2; 5>6; 4>3; 8>7; **valuable&nbsp;pronal** 1,5 set long-term life goals | | |
