@@ -97,10 +97,10 @@ Names are in the following order:
 |         | **ESTP⁠-⁠Se⁠-⁠dom**,  SLE,  ESTP  | **ISTJ⁠-⁠Ti⁠-⁠dom**,  LSI,  ISTx  | **INFP⁠-⁠Ni⁠-⁠dom**,  IEI,  INFx  | **ENFJ⁠-⁠Fe⁠-⁠dom**,  EIE,  ENFJ  |
 |         | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
 | γ Gamma | **SeF**, **9** | **FiS⁠-⁠isfj**, **10** | **NiT⁠-⁠intp**, **11** | **TeN**, **12** |
-|         | **ESFP⁠-⁠Se⁠-⁠dom**,  SEE,  ESFP  | **ISFJ⁠-⁠Fi⁠-⁠dom**,  ESI,  ISFx | **INTP⁠-⁠Ni⁠-⁠dom**,  ILI,  INTx | **ENTJ⁠-⁠Te-dom**,  LIE,  ENTJ |
+|         | **ESFP⁠-⁠Se⁠-⁠dom**,  SEE,  ESFP  | **ISFJ⁠-⁠Fi⁠-⁠dom**,  ESI,  ISFx | **INTP⁠-⁠Ni⁠-⁠dom**,  ILI,  INTx | **ENTJ⁠-⁠Te⁠-⁠dom**,  LIE,  ENTJ |
 |         | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
 | δ Delta | **NeF**, **13** | **FiN⁠-⁠infj**, **14** | **SiT⁠-⁠istp**, **15** | **TeS**, **16** |
-|         | **ENFP⁠-⁠Ne⁠-⁠dom**,  IEE,  ENFP | **INFJ⁠-⁠Fi⁠-⁠dom**,  EII,  INFx | **ISTP⁠-⁠Si⁠-⁠dom**,  SLI,  ISTx | **ESTJ⁠-⁠Te-dom**,  LSE,  ESTJ |
+|         | **ENFP⁠-⁠Ne⁠-⁠dom**,  IEE,  ENFP | **INFJ⁠-⁠Fi⁠-⁠dom**,  EII,  INFx | **ISTP⁠-⁠Si⁠-⁠dom**,  SLI,  ISTx | **ESTJ⁠-⁠Te⁠-⁠dom**,  LSE,  ESTJ |
 |         | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
 
 For example INTJ-Ti-dom / TiN-intj is *intuitive task-oriented judging introvert with dominant Ti* or *dominant introverted tasker & judging intuiter*.
@@ -188,7 +188,7 @@ There are *at least* three widespread models of conginitive functions: Model A, 
 
 So in my translation of Model A I wanted to fix possible misunderstandings:
 
-* I use **1-Dominant** as there is no point to change Jung's term in English. 
+* I use **1-Dominant** as there is no point to change Jung's term in English.
 * I use new **2-Supporting** name. *Creative* became ambiguous because of the Model G. *Auxiliary* is ambiguous because Jung wasn't clear enough. This function name should be something like **Conscious auxiliary** if we are to expand Jung terms.
 * **3-Role** and **4-Vulnerable** are the most widespread Model A translations and are not ambiguous.
 * **5-Suggestive** is the most widespread Model A translation and is not ambiguous. It's also better than _suggesti_**ble**. As _suggest_**ive** better aligns with **Autonomous inferior** as Jung meant this function.
@@ -198,11 +198,11 @@ So in my translation of Model A I wanted to fix possible misunderstandings:
 
 | Functions        |                  | Strength | Consciousness             | Value        | Example    | NeT        |
 | ---------------- | ---------------- | -------- | ------------------------- | ------------ | ---------: | :--------- |
-| **_1&nbsp;Dominant_** | 2&nbsp;Supporting     | strong   | conscious                 | valuable     | **_1&nbsp;Ne_** | 2&nbsp;Ti       |
-| 4&nbsp;Vulnerable     | **_3&nbsp;Role_**     | weak     | conscious                 | not valuable | 4&nbsp;Fi       | **_3&nbsp;Se_** | 
-| _5&nbsp;Suggestive_   | **6&nbsp;Activating** | weak     | semiconscious (automatic) | valuable     | _5&nbsp;Si_     | **6&nbsp;Fe**   |
-| **8&nbsp;Background** | _7&nbsp;Restrictive_  | strong   | semiconscious (automatic) | not valuable | **8&nbsp;Te**   | _7&nbsp;Ni_     |
-| **proverted:&nbsp;1,3,6,8**; antiverted:&nbsp;2,4,5,7; *pronal:&nbsp;1,3,5,7*; antinal:&nbsp;2,4,6,8\* | | 1 >&nbsp;8 >&nbsp;2&amp;7 >&nbsp;3&amp;6 >&nbsp;4&amp;5; **strong&nbsp;proverted**&nbsp;> **strong&nbsp;antiverted**; **weak&nbsp;proverted**&nbsp;> **weak&nbsp;antiverted** | | 1>2; 5>6; 4>3; 8>7; **valuable&nbsp;pronal** 1,5 set long-term life goals | | |
+| **_1 Dominant_** | 2 Supporting     | strong   | conscious                 | valuable     | **_1 Ne_** | 2 Ti       |
+| 4 Vulnerable     | **_3 Role_**     | weak     | conscious                 | not valuable | 4 Fi       | **_3 Se_** |
+| _5 Suggestive_   | **6 Activating** | weak     | semiconscious (automatic) | valuable     | _5 Si_     | **6 Fe**   |
+| **8 Background** | _7 Restrictive_  | strong   | semiconscious (automatic) | not valuable | **8 Te**   | _7 Ni_     |
+| **proverted: 1,3,6,8**; antiverted: 2,4,5,7; *pronal: 1,3,5,7*; antinal: 2,4,6,8\* | | 1 > 8 > 2&7 > 3&6 > 4&5; **strong proverted** > **strong antiverted**; **weak proverted** > **weak antiverted** | | 1>2; 5>6; 4>3; 8>7; **valuable pronal** (1,5) set long-term life goals | | |
 
 \* names were derived from rational-irrational and extraverted-introverted.
 
@@ -210,7 +210,7 @@ So in my translation of Model A I wanted to fix possible misunderstandings:
 
 * **pronal** vs. **antinal** functions (names derived from rational-irrational):
   * [*italic*]  functions are **pronal** functions: 1, 3, 5, 7.  
-    For judging types that's judging functions. For perceiving types that's perceiving functions, 
+    For judging types that's judging functions. For perceiving types that's perceiving functions,
   * [not italic] functions are **antinal** functions: 2, 4, 6, 8.  
     For judging types that's perceiving functions. For perceiving types that's judging functions,
   * 1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only.
