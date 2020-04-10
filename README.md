@@ -280,12 +280,12 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 
 #### Hypothesis consequences:
 
-* **C8 [strong-weak]** H3 [dominant], H9 [auxilary], H2 [strong-weak] →  
-  1, 2, 7, 8 are strong functions and 3, 4, 5, 6 are weak functions.
-* **C9 [mental-vital]** H3 [dominant], H4 [PeJi-PiJe], H5 [PeJe-PiJi] →  
-  1, 2, 3, 4 are mental functions and 5, 6, 7, 8 are vital functions.
+* **C8 [strength]** H3 [dominant], H9 [auxilary], H2 [strong-weak] →  
+  1-Dominant and 2-8-auxiliary functions are strong hence 1, 2, 7, 8 are strong functions and 3, 4, 5, 6 are weak functions.
+* **C9 [consciousness]** H3 [dominant], H4 [PeJi-PiJe], H5 [PeJe-PiJi], H6 [most-inferior] →  
+  1-Dominant is conscious (H3) hence 3-Role is also conscious because it's of the same nature (same IE and JP). 1-2 and 1-4 are conscious assistance pairs (H4). 1-8 and 1-6 are automatic assistance pairs (H5). 5-Suggestive is automatic (H6). And 1st being conscious and 5th being automatic somehow lead to 7th also being automatic. Hence 1, 2, 3, 4 are conscious functions and 5, 6, 7, 8 are automatic functions.
 * **C1 [12-valuable-34-not;1>2]** H3 [dominant], H9 [auxilary], H2 [strong-weak], H4 [PeJi-PiJe] →  
-  1, 2 are valuable functions, 3, 4 are not valuable functions (1-2 pair shadows 3-4 pair). This also means that 1 is more valued than 2,
+  1, 2 are valuable functions (H3, H9), 3, 4 are not valuable functions (1-2 pair shadows 3-4 pair) because they cannot help 1st function via H4. 3rd would clash with 1st and 4th would be useless for 1st when 2nd is much more useful. This also means that 1 is more valued than 2,
 * **С2 [more-valued:4>3]** H3 [dominant], H4 [PeJi-PiJe], C1 [12-valuable-34-not;1>2] →  
   4 is move valued than 3 because 1-4 pair is a subject of H4 [PeJi-PiJe]. But they both are still not valuable.
 * **C3 [78-not-valuable]** H3 [dominant], H9 [auxilary], H2 [strong-weak], H4 [PeJi-PiJe], H5 [PeJe-PiJi] →  
