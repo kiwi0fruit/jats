@@ -13,7 +13,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 * [6. On dichotomies, MBTI incompatibility, Big Five](#6-on-dichotomies-mbti-incompatibility-big-five)
 * [7. Model A](#7-model-a)
 * [8. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types](#8-quadras-and-functions-why-quadras-grouped-this-way-pacific-vs-resolute-types)
-  - [8.1 Interactive table of intertype relationships](#8.1-Interactive-table-of-intertype-relationships)
+  - [8.1 Interactive table of intertype relationships](#81-interactive-table-of-intertype-relationships)
 * [9. Intermediate and unknown types names](#9-intermediate-and-unknown-types-names)
 * [10. Further reading and notable discussions](#10-further-reading-and-notable-discussions)
 
