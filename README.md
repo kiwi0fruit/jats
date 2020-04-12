@@ -13,6 +13,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 * [6. On dichotomies, MBTI incompatibility, Big Five](#6-on-dichotomies-mbti-incompatibility-big-five)
 * [7. Model A](#7-model-a)
 * [8. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types](#8-quadras-and-functions-why-quadras-grouped-this-way-pacific-vs-resolute-types)
+  - [8.1 Interactive table of intertype relationships](#8.1-Interactive-table-of-intertype-relationships)
 * [9. Intermediate and unknown types names](#9-intermediate-and-unknown-types-names)
 * [10. Further reading and notable discussions](#10-further-reading-and-notable-discussions)
 
@@ -25,7 +26,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 4. Single-noun terms like **intuiter, sensor, feeler and tasker** are used (also **perceiver** and **judger**).
 5. **Rational/Irrational** names were replaced with **Judging/Perceiving** to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INTJ⁠-⁠Ti-dom** vs. **INTP⁠-⁠Ni-dom** (or **Ti⁠N⁠-intj** vs. **Ni⁠T⁠-intp**) that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker. Extraverted types don't need explicit notation so very short names like **NeT** and **FeN** are used.
-7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types.
+7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types. The link to the **interactive table of intertype relationships** with descriptions is provided.
 8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx-1-2, uNTu-1~2** that are unknown and mixed types from NeT and TiN-intj (u stands for μ that stands for mean).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT, Enthusiast for FeS, General for SeT, Poet for NiF-infp, **Inspirer** for FeN, **Foreseer** for NiT-intp, Entrepreneur for TeN, **Journalist** for NeF.
@@ -347,6 +348,11 @@ Examples:
 * beta-gamma intuiter, resolute intuiter, resolute sensor,
 * gamma-delta tasker,
 * resolute introvert.
+
+
+### 8.1 Interactive table of intertype relationships
+
+There is a nice autotranslated [**interactive table**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=http%3A%2F%2Fwww.socionics.org%2Ftype%2Fdefault.aspx&sandbox=1) of intertype relationships. Simply click on type name to redraw the table accordingly. It also aggregates descriptions of types and relationships.
 
 
 ## 9. Intermediate and unknown types names
