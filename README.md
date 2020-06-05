@@ -16,7 +16,7 @@ This is an alternative translation of the basic concepts of one of the braches o
   - [8.1 Interactive table of intertype relationships](#81-interactive-table-of-intertype-relationships)
 * [9. Intermediate and unknown types names](#9-intermediate-and-unknown-types-names)
 * [10. Further reading and notable discussions](#10-further-reading-and-notable-discussions)
-* [11. Symmetries of Reinin dichotomies and their connection with Khizhnyak functions and axes](#11-symmetries-of-reinin-dichotomies-and-their-connection-with-khizhnyak-functions-and-axes)
+* [11. Symmetries of Reinin dichotomies and their connection to Khizhnyak functions and axes](#11-symmetries-of-reinin-dichotomies-and-their-connection-to-khizhnyak-functions-and-axes)
   - [11.1 Reinin dichotomies](#111-reinin-dichotomies)
   - [11.2 Khizhnyak functions and axes](#112-khizhnyak-functions-and-axes)
 
@@ -36,7 +36,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 11. The set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions is given. Together hypotheses give **Model A** as consequences. Bonus: **Cognitive functions descriptions per position in Model A (8x8 auto-translated table)**.
 12. Unambiguous translation of Model A was proposed: 1-Dominant, 2-Supporting, 3-Role, 4-Vulnerable, 5-Suggestive, 6-Activating, 7-Restrictive, 8-Background. **Ambiguity because of the Model G** was described.
 13. Further reading: [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus).
-14. **Symmetries of Reinin dichotomies and their connection with Khizhnyak functions and axes were given**.
+14. **Symmetries of Reinin dichotomies and their connection to Khizhnyak functions and axes were given**.
 15. **Notable discussions**: [reddit.com/r/JungianTypology/comments/b5pase](https://www.reddit.com/r/JungianTypology/comments/b5pase/model_a_as_consequence_of_a_set_of_hypotheses/), [reddit.com/r/JungianTypology/comments/b12uju](https://www.reddit.com/r/JungianTypology/comments/b12uju/translation_of_some_useful_socionics_terms/).
 
 
@@ -392,7 +392,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 
 [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus) ([original text in Russian](https://github.com/kiwi0fruit/misc/tree/master/src/socionics-rus/README.md))
 
-## 11. Symmetries of Reinin dichotomies and their connection with Khizhnyak functions and axes
+## 11. Symmetries of Reinin dichotomies and their connection to Khizhnyak functions and axes
 
 ### 11.1 Reinin dichotomies
 
