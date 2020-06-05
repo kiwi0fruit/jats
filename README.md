@@ -388,6 +388,83 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 
 [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus) ([original text in Russian](https://github.com/kiwi0fruit/misc/tree/master/src/socionics-rus/README.md))
 
+# 11. Symmetries of Reinin dichotomies and their connection with Khizhnyak functions and axes
+
+### 11.1 Reinin dichotomies
+
+Mind that Rational=>Irrational axis is denoted J=>P here.
+
+| Short name | Alt. symmetry              | Full names                                                               |
+|:-----------|:---------------------------|:-------------------------------------------------------------------------|
+| I=>E       |                            | Introverted=>Extraverted                                                 |
+| J=>P       |                            | Judging=>Perceiving (Rational=>Irrational)                               |
+| PIJE=>PEJI |                            | Dynamic=>Static                                                          |
+|            |                            |                                                                          |
+| S=>N       | ADpijeBGpeji=>ADpejiBGpije | Sensory=>Intuitive                                                       |
+| NISE=>NESI | ADjBGp=>ADpBGj             | NISE=>NESI                                                               |
+| NJSP=>NPSJ | ADiBGe=>ADeBGi             | NJSP=>NPSJ                                                               |
+| BG=>AD     | NpijeSpeji=>NpejiSpije     | Resolute=>Pacific (Beta-Gamma=>Alpha-Delta, Central=>Peripheral)         |
+|            |                            |                                                                          |
+| F=>T       | ABpijeGDpeji=>ABpejiGDpije | Feelings-oriented=>Task-oriented                                         |
+| TIFE=>TEFI | ABjGDp=>ABpGDj             | TIFE=>TEFI                                                               |
+| TJFP=>TPFJ | ABiGDe=>ABeGDi             | TJFP=>TPFJ                                                               |
+| GD=>AB     | TpijeFpeji=>TpejiFpije     | Serious=>Merry (Gamma-Delta=>Alpha-Beta, Descending=>Ascending)          |
+|            |                            |                                                                          |
+| D=>Q       | AGpijeBDpeji=>AGpejiBDpije | Declaring=>Questioning                                                   |
+| QIDE=>QEDI | AGjBDp=>AGpBDj             | QIDE=>QEDI                                                               |
+| QJDP=>QPDJ | AGiBDe=>AGeBDi             | QJDP=>QPDJ                                                               |
+| BD=>AG     | QpijeDpeji=>QpejiDpije     | Aristocratic=>Democratic (Beta-Delta=>Alpha-Gamma, Elitist=>Egalitarian) |
+
+
+### 11.2 Khizhnyak functions and axes
+
+Mind that NS and TF Khizhnyak functions and axes can be directly linearly obtained from I=>E, J=>P, S=>N, F=>T axes by moving along of the diagonal of 3 axes.
+
+But QD functions and axes should first non-linearly get D=>Q axis and only after that proceed linearly.
+
+| Axis (alt. names)  | Func. relation |
+|:------------------ |:-------------- |
+| SJI=>NPE; Sji=>Npe | -Sji=Npe       |
+| SPE=>NJI; Spe=>Nji | -Spe=Nji       |
+| SJE=>NPI; Sje=>Npi | -Sje=Npi       |
+| SPI=>NJE; Spi=>Nje | -Spi=Nje       |
+|                    |                |
+| FJI=>TPE; Fji=>Tpe | -Fji=Tpe       |
+| FPE=>TJI; Fpe=>Tji | -Fpe=Tji       |
+| FJE=>TPI; Fje=>Tpi | -Fje=Tpi       |
+| FPI=>TJE; Fpi=>Tje | -Fpi=Tje       |
+|                    |                |
+| DJI=>QPE; Dji=>Qpe | -Dji=Qpe       |
+| DPE=>QJI; Dpe=>Qji | -Dpe=Qji       |
+| DJE=>QPI; Dje=>Qpi | -Dje=Qpi       |
+| DPI=>QJE; Dpi=>Qje | -Dpi=Qje       |
+
+Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
+
+|     |             | Npe | Nji | Npi | Nje | Spe | Sji | Spi | Sje |     | Tpe | Tji | Tpi | Tje | Fpe | Fji | Fpi | Fje |     | Qpe | Qji | Qpi | Qje | Dpe | Dji | Dpi | Dje |
+| --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
+|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 1   | +E/⁠-⁠I       | +1  | -1  | -1  | +1  | +1  | -1  | -1  | +1  |     | +1  | -1  | -1  | +1  | +1  | -1  | -1  | +1  |     | +1  | -1  | -1  | +1  | +1  | -1  | -1  | +1  |
+| 2   | +P/⁠-⁠J       | +1  | -1  | +1  | -1  | +1  | -1  | +1  | -1  |     | +1  | -1  | +1  | -1  | +1  | -1  | +1  | -1  |     | +1  | -1  | +1  | -1  | +1  | -1  | +1  | -1  |
+| 3   | +PEJI/⁠-⁠PIJE | +1  | +1  | -1  | -1  | +1  | +1  | -1  | -1  |     | +1  | +1  | -1  | -1  | +1  | +1  | -1  | -1  |     | +1  | +1  | -1  | -1  | +1  | +1  | -1  | -1  |
+|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 4   | +N/⁠-⁠S       | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 5   | +NESI/⁠-⁠NISE | +3  | -3  | -3  | +3  | -3  | +3  | +3  | -3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 6   | +NPSJ/⁠-⁠NJSP | +3  | -3  | +3  | -3  | -3  | +3  | -3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 7   | +AD/⁠-⁠BG     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 8   | +T/⁠-⁠F       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 9   | +TEFI/⁠-⁠TIFE | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | -3  | +3  | -3  | +3  | +3  | -3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 10  | +TPFJ/⁠-⁠TJFP | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | +3  | -3  | -3  | +3  | -3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 11  | +AB/⁠-⁠GD     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 12  | +Q/⁠-⁠D       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |
+| 13  | +QEDI/⁠-⁠QIDE | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | -3  | +3  | -3  | +3  | +3  | -3  |
+| 14  | +QPDJ/⁠-⁠QJDP | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | +3  | -3  | -3  | +3  | -3  | +3  |
+| 15  | +AG/⁠-⁠BD     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
+
+
 #### Notable discussions
 
 * [reddit.com/r/JungianTypology/comments/b5pase](https://www.reddit.com/r/JungianTypology/comments/b5pase/model_a_as_consequence_of_a_set_of_hypotheses/)
