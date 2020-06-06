@@ -405,19 +405,19 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | PIJE=>PEJI |                            | Dynamic=>Static                                                          |
 |            |                            |                                                                          |
 | S=>N       | ADpijeBGpeji=>ADpejiBGpije | Sensory=>Intuitive                                                       |
-| NISE=>NESI | ADjBGp=>ADpBGj             | NISE=>NESI                                                               |
-| NJSP=>NPSJ | ADiBGe=>ADeBGi             | NJSP=>NPSJ                                                               |
-| BG=>AD     | NpijeSpeji=>NpejiSpije     | Resolute=>Pacific (Beta-Gamma=>Alpha-Delta, Central=>Peripheral)         |
+| NISE=>NESI | ADjBGp=>ADpBGj             | Farsighted=>Carefree                                                     |
+| NJSP=>NPSJ | ADiBGe=>ADeBGi             | Strategic=>Tactical                                                      |
+| BG=>AD     | NpijeSpeji=>NpejiSpije     | Resolute=>Pacific (Central=>Peripheral, Beta-Gamma=>Alpha-Delta)         |
 |            |                            |                                                                          |
 | F=>T       | ABpijeGDpeji=>ABpejiGDpije | Feelings-oriented=>Task-oriented                                         |
-| TIFE=>TEFI | ABjGDp=>ABpGDj             | TIFE=>TEFI                                                               |
-| TJFP=>TPFJ | ABiGDe=>ABeGDi             | TJFP=>TPFJ                                                               |
-| GD=>AB     | TpijeFpeji=>TpejiFpije     | Serious=>Merry (Gamma-Delta=>Alpha-Beta, Descending=>Ascending)          |
+| TIFE=>TEFI | ABjGDp=>ABpGDj             | Obstinate=>Yielding                                                      |
+| TJFP=>TPFJ | ABiGDe=>ABeGDi             | Emotivist=>Constructivist                                                |
+| GD=>AB     | TpijeFpeji=>TpejiFpije     | Serious=>Merry (Descending=>Ascending, Gamma-Delta=>Alpha-Beta)          |
 |            |                            |                                                                          |
 | D=>Q       | AGpijeBDpeji=>AGpejiBDpije | Declaring=>Questioning                                                   |
-| QIDE=>QEDI | AGjBDp=>AGpBDj             | QIDE=>QEDI                                                               |
-| QJDP=>QPDJ | AGiBDe=>AGeBDi             | QJDP=>QPDJ                                                               |
-| BD=>AG     | QpijeDpeji=>QpejiDpije     | Aristocratic=>Democratic (Beta-Delta=>Alpha-Gamma, Elitist=>Egalitarian) |
+| QIDE=>QEDI | AGjBDp=>AGpBDj             | Result=>Process (Left=>Right)                                            |
+| QJDP=>QPDJ | AGiBDe=>AGeBDi             | Negativist=>Positivist                                                   |
+| BD=>AG     | QpijeDpeji=>QpejiDpije     | Aristocratic=>Democratic (Elitist=>Egalitarian, Beta-Delta=>Alpha-Gamma) |
 
 
 ### 11.2 Khizhnyak functions and axes
