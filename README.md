@@ -405,18 +405,18 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | Y=>O       | PIJE=>PEJI                 | d**Y**namic=>n**O**ndynamic (Dynamic=>Static)                              |
 |            |                            |                                                                          |
 | S=>N       | ADyBGo=>ADoBGy, ADpijeBGpeji=>ADpejiBGpije | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                      |
-| NISE=>NESI | ADjBGp=>ADpBGj             | Farsighted=>Carefree                                                      |
-| NJSP=>NPSJ | ADiBGe=>ADeBGi             | Strategic=>Tactical                                                      |
+| NISE=>NESI | ADjBGp=>ADpBGj             | NISE=>NESI (Farsighted=>Carefree)                                        |
+| NJSP=>NPSJ | ADiBGe=>ADeBGi             | NJSP=>NPSJ (Strategic=>Tactical)                                          |
 | BG=>AD     | NYSO=>NOSY, NpijeSpeji=>NpejiSpije | **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Central=>Peripheral) |
 |            |                            |                                                                          |
 | F=>T       | AByGDo=>ABoGDy, ABpijeGDpeji=>ABpejiGDpije | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking)     |
-| TIFE=>TEFI | ABjGDp=>ABpGDj             | Obstinate=>Yielding (Obstinate=>Compliant)                                                     |
-| TJFP=>TPFJ | ABiGDe=>ABeGDi             | Emotivist=>Constructivist                                                |
+| TIFE=>TEFI | ABjGDp=>ABpGDj             | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                    |
+| TJFP=>TPFJ | ABiGDe=>ABeGDi             | TJFP=>TPFJ (Emotivist=>Constructivist)                                    |
 | GD=>AB     | TYFO=>TOFY, TpijeFpeji=>TpejiFpije | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
 |            |                            |                                                                          |
 | С=>Q       | AGyBDo=>AGoBDy, AGpijeBDpeji=>AGpejiBDpije | **C**ertain=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
-| QICE=>QECI | AGjBDp=>AGpBDj             | Result=>Process (Left=>Right)                                            |
-| QJCP=>QPCJ | AGiBDe=>AGeBDi             | Negativist=>Positivist                                                    |
+| QICE=>QECI | AGjBDp=>AGpBDj             | QICE=>QECI (Result=>Process, Left=>Right)                                |
+| QJCP=>QPCJ | AGiBDe=>AGeBDi             | QJCP=>QPCJ (Negativist=>Positivist)                                      |
 | BD=>AG     | QYCO=>QOCY, QpijeCpeji=>QpejiCpije | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
 
 
