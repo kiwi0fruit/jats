@@ -409,7 +409,7 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | NJSP=>NPSJ | ADiBGe=>ADeBGi             | Strategic=>Tactical                                                      |
 | BG=>AD     | NYSO=>NOSY, NpijeSpeji=>NpejiSpije | **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Central=>Peripheral) |
 |            |                            |                                                                          |
-| F=>T       | AByGDo=>ABoGDy, ABpijeGDpeji=>ABpejiGDpije | **F**eelings-oriented=>**T**ask-oriented                                  |
+| F=>T       | AByGDo=>ABoGDy, ABpijeGDpeji=>ABpejiGDpije | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking)     |
 | TIFE=>TEFI | ABjGDp=>ABpGDj             | Obstinate=>Yielding                                                      |
 | TJFP=>TPFJ | ABiGDe=>ABeGDi             | Emotivist=>Constructivist                                                |
 | GD=>AB     | TYFO=>TOFY, TpijeFpeji=>TpejiFpije | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending) |
