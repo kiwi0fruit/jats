@@ -412,7 +412,7 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | F=>T       | AByGDo=>ABoGDy, ABpijeGDpeji=>ABpejiGDpije | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking)     |
 | TIFE=>TEFI | ABjGDp=>ABpGDj             | Obstinate=>Yielding (Obstinate=>Compliant)                                                     |
 | TJFP=>TPFJ | ABiGDe=>ABeGDi             | Emotivist=>Constructivist                                                |
-| GD=>AB     | TYFO=>TOFY, TpijeFpeji=>TpejiFpije | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending) |
+| GD=>AB     | TYFO=>TOFY, TpijeFpeji=>TpejiFpije | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
 |            |                            |                                                                          |
 | С=>Q       | AGyBDo=>AGoBDy, AGpijeBDpeji=>AGpejiBDpije | **C**ertain=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
 | QICE=>QECI | AGjBDp=>AGpBDj             | Result=>Process (Left=>Right)                                            |
