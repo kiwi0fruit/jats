@@ -400,24 +400,24 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 
 | Short name | Alt. symmetry              | Full names                                                               |
 |:-----------|:---------------------------|:-------------------------------------------------------------------------|
-| I=>E       |                            | Introverted=>Extraverted                                                 |
-| J=>P       |                            | Judging=>Perceiving (Rational=>Irrational)                               |
+| I=>E       |                            | **I**ntroverted=>**E**xtraverted                                          |
+| J=>P       |                            | **J**udging=>**P**erceiving (Rational=>Irrational)                        |
 | PIJE=>PEJI |                            | Dynamic=>Static                                                          |
 |            |                            |                                                                          |
-| S=>N       | ADpijeBGpeji=>ADpejiBGpije | Sensory=>Intuitive                                                       |
-| NISE=>NESI | ADjBGp=>ADpBGj             | Farsighted=>Carefree                                                     |
+| S=>N       | ADpijeBGpeji=>ADpejiBGpije | **S**ensory=>i**N**tuitive                                                |
+| NISE=>NESI | ADjBGp=>ADpBGj             | Farsighted=>Carefree                                                      |
 | NJSP=>NPSJ | ADiBGe=>ADeBGi             | Strategic=>Tactical                                                      |
-| BG=>AD     | NpijeSpeji=>NpejiSpije     | Resolute=>Pacific (Central=>Peripheral, Beta-Gamma=>Alpha-Delta)         |
+| BG=>AD     | NpijeSpeji=>NpejiSpije     | **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Central=>Peripheral) |
 |            |                            |                                                                          |
-| F=>T       | ABpijeGDpeji=>ABpejiGDpije | Feelings-oriented=>Task-oriented                                         |
+| F=>T       | ABpijeGDpeji=>ABpejiGDpije | **F**eelings-oriented=>**T**ask-oriented                                  |
 | TIFE=>TEFI | ABjGDp=>ABpGDj             | Obstinate=>Yielding                                                      |
 | TJFP=>TPFJ | ABiGDe=>ABeGDi             | Emotivist=>Constructivist                                                |
-| GD=>AB     | TpijeFpeji=>TpejiFpije     | Serious=>Merry (Descending=>Ascending, Gamma-Delta=>Alpha-Beta)          |
+| GD=>AB     | TpijeFpeji=>TpejiFpije     | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending) |
 |            |                            |                                                                          |
-| С=>Q       | AGpijeBDpeji=>AGpejiBDpije | Confident=>Questioning (Certain=>Questioning)                            |
+| С=>Q       | AGpijeBDpeji=>AGpejiBDpije | **C**onfident=>**Q**uestioning (**C**ertain=>**Q**uestioning) |
 | QICE=>QECI | AGjBDp=>AGpBDj             | Result=>Process (Left=>Right)                                            |
-| QJCP=>QPCJ | AGiBDe=>AGeBDi             | Negativist=>Positivist                                                   |
-| BD=>AG     | QpijeCpeji=>QpejiCpije     | Aristocratic=>Democratic (Elitist=>Egalitarian, Beta-Delta=>Alpha-Gamma) |
+| QJCP=>QPCJ | AGiBDe=>AGeBDi             | Negativist=>Positivist                                                    |
+| BD=>AG     | QpijeCpeji=>QpejiCpije     | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
 
 
 ### 11.2 Khizhnyak functions and axes
