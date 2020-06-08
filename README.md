@@ -457,8 +457,8 @@ In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (
 | dynamic | **Fy.** | Fpije. | Fpi. and Fje. |
 | static  | **Qo.** | Qpeji. | Qpe. and Qji. |
 | dynamic | **Qy.** | Qpije. | Qpi. and Qje. |
-| static  | **Qo.** | Qpeji. | Qpe. and Qji. |
-| dynamic | **Qy.** | Qpije. | Qpi. and Qje. |
+| static  | **Co.** | Cpeji. | Cpe. and Cji. |
+| dynamic | **Cy.** | Cpije. | Cpi. and Cje. |
 
 Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
