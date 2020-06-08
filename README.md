@@ -404,7 +404,7 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | J=>P       |                            | **J**udging=>**P**erceiving (Rational=>Irrational)                        |
 | Y=>O       | PIJE=>PEJI                 | d**Y**namic=>n**O**ndynamic (Dynamic=>Static)                              |
 |            |                            |                                                                          |
-| S=>N       | ADyBGo=>ADoBGy, ADpijeBGpeji=>ADpejiBGpije | **S**ensory=>i**N**tuitive                                                |
+| S=>N       | ADyBGo=>ADoBGy, ADpijeBGpeji=>ADpejiBGpije | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                      |
 | NISE=>NESI | ADjBGp=>ADpBGj             | Farsighted=>Carefree                                                      |
 | NJSP=>NPSJ | ADiBGe=>ADeBGi             | Strategic=>Tactical                                                      |
 | BG=>AD     | NYSO=>NOSY, NpijeSpeji=>NpejiSpije | **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Central=>Peripheral) |
