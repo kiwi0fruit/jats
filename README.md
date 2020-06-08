@@ -414,7 +414,7 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | TJFP=>TPFJ | ABiGDe=>ABeGDi             | Emotivist=>Constructivist                                                |
 | GD=>AB     | TpijeFpeji=>TpejiFpije     | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending) |
 |            |                            |                                                                          |
-| С=>Q       | AGpijeBDpeji=>AGpejiBDpije | **C**onfident=>**Q**uestioning (**C**ertain=>**Q**uestioning, Declaring=>Asking, Declatim=>Questim) |
+| С=>Q       | AGpijeBDpeji=>AGpejiBDpije | **C**ertain=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
 | QICE=>QECI | AGjBDp=>AGpBDj             | Result=>Process (Left=>Right)                                            |
 | QJCP=>QPCJ | AGiBDe=>AGeBDi             | Negativist=>Positivist                                                    |
 | BD=>AG     | QpijeCpeji=>QpejiCpije     | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
