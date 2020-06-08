@@ -445,18 +445,20 @@ But QC functions and axes should first non-linearly get C=>Q axis and only after
 
 In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (nondynamic-dynamic) functions that lack IE and JP flavour:
 
-* static **No.** (Npeji.) is abstracted from Npe. and Nji.,
-* dynamic **Ny.** (Npije.) is abstracted from Npi. and Nje.,
-* static **So.** (Speji.) is abstracted from Spe. and Sji.,
-* dynamic **Sy.** (Spije.) is abstracted from Spi. and Sje.,
-* static **To.** (Tpeji.) is abstracted from Tpe. and Tji.,
-* dynamic **Ty.** (Tpije.) is abstracted from Tpi. and Tje.,
-* static **Fo.** (Fpeji.) is abstracted from Fpe. and Fji.,
-* dynamic **Fy.** (Fpije.) is abstracted from Fpi. and Fje.,
-* static **Qo.** (Qpeji.) is abstracted from Qpe. and Qji.,
-* dynamic **Qy.** (Qpije.) is abstracted from Qpi. and Qje.,
-* static **Qo.** (Qpeji.) is abstracted from Qpe. and Qji.,
-* dynamic **Qy.** (Qpije.) is abstracted from Qpi. and Qje.,
+| Static / Dynamic | Acr. | Alt. | Is abstracted from |
+|:-------:|:-------:|:------:|:--------------|
+| static  | **No.** | Npeji. | Npe. and Nji. |
+| dynamic | **Ny.** | Npije. | Npi. and Nje. |
+| static  | **So.** | Speji. | Spe. and Sji. |
+| dynamic | **Sy.** | Spije. | Spi. and Sje. |
+| static  | **To.** | Tpeji. | Tpe. and Tji. |
+| dynamic | **Ty.** | Tpije. | Tpi. and Tje. |
+| static  | **Fo.** | Fpeji. | Fpe. and Fji. |
+| dynamic | **Fy.** | Fpije. | Fpi. and Fje. |
+| static  | **Qo.** | Qpeji. | Qpe. and Qji. |
+| dynamic | **Qy.** | Qpije. | Qpi. and Qje. |
+| static  | **Qo.** | Qpeji. | Qpe. and Qji. |
+| dynamic | **Qy.** | Qpije. | Qpi. and Qje. |
 
 Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
