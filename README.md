@@ -402,22 +402,22 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 |:-----------|:---------------------------|:-------------------------------------------------------------------------|
 | I=>E       |                            | **I**ntroverted=>**E**xtraverted                                          |
 | J=>P       |                            | **J**udging=>**P**erceiving (Rational=>Irrational)                        |
-| PIJE=>PEJI |                            | Dynamic=>Static                                                          |
+| Y=>O       | PIJE=>PEJI                 | d**Y**namic=>n**O**ndynamic (Dynamic=>Static)                              |
 |            |                            |                                                                          |
-| S=>N       | ADpijeBGpeji=>ADpejiBGpije | **S**ensory=>i**N**tuitive                                                |
+| S=>N       | ADyBGo=>ADoBGy, ADpijeBGpeji=>ADpejiBGpije | **S**ensory=>i**N**tuitive                                                |
 | NISE=>NESI | ADjBGp=>ADpBGj             | Farsighted=>Carefree                                                      |
 | NJSP=>NPSJ | ADiBGe=>ADeBGi             | Strategic=>Tactical                                                      |
-| BG=>AD     | NpijeSpeji=>NpejiSpije     | **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Central=>Peripheral) |
+| BG=>AD     | NYSO=>NOSY, NpijeSpeji=>NpejiSpije | **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Central=>Peripheral) |
 |            |                            |                                                                          |
-| F=>T       | ABpijeGDpeji=>ABpejiGDpije | **F**eelings-oriented=>**T**ask-oriented                                  |
+| F=>T       | AByGDo=>ABoGDy, ABpijeGDpeji=>ABpejiGDpije | **F**eelings-oriented=>**T**ask-oriented                                  |
 | TIFE=>TEFI | ABjGDp=>ABpGDj             | Obstinate=>Yielding                                                      |
 | TJFP=>TPFJ | ABiGDe=>ABeGDi             | Emotivist=>Constructivist                                                |
-| GD=>AB     | TpijeFpeji=>TpejiFpije     | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending) |
+| GD=>AB     | TYFO=>TOFY, TpijeFpeji=>TpejiFpije | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending) |
 |            |                            |                                                                          |
-| С=>Q       | AGpijeBDpeji=>AGpejiBDpije | **C**ertain=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
+| С=>Q       | AGyBDo=>AGoBDy, AGpijeBDpeji=>AGpejiBDpije | **C**ertain=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
 | QICE=>QECI | AGjBDp=>AGpBDj             | Result=>Process (Left=>Right)                                            |
 | QJCP=>QPCJ | AGiBDe=>AGeBDi             | Negativist=>Positivist                                                    |
-| BD=>AG     | QpijeCpeji=>QpejiCpije     | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
+| BD=>AG     | QYCO=>QOCY, QpijeCpeji=>QpejiCpije | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
 
 
 ### 11.2 Khizhnyak functions and axes
