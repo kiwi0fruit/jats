@@ -426,26 +426,26 @@ Mind that NS and TF Khizhnyak functions and axes can be directly linearly obtain
 
 But QC functions and axes should first non-linearly get C=>Q axis and only after that proceed linearly.
 
-| Axis (alt. names)  | Func. relation |
-|:------------------ |:-------------- |
-| SJI=>NPE; Sji=>Npe | -Sji=Npe       |
-| SPE=>NJI; Spe=>Nji | -Spe=Nji       |
-| SJE=>NPI; Sje=>Npi | -Sje=Npi       |
-| SPI=>NJE; Spi=>Nje | -Spi=Nje       |
-|                    |                |
-| FJI=>TPE; Fji=>Tpe | -Fji=Tpe       |
-| FPE=>TJI; Fpe=>Tji | -Fpe=Tji       |
-| FJE=>TPI; Fje=>Tpi | -Fje=Tpi       |
-| FPI=>TJE; Fpi=>Tje | -Fpi=Tje       |
-|                    |                |
-| CJI=>QPE; Cji=>Qpe | -Cji=Qpe       |
-| CPE=>QJI; Cpe=>Qji | -Cpe=Qji       |
-| CJE=>QPI; Cje=>Qpi | -Cje=Qpi       |
-| CPI=>QJE; Cpi=>Qje | -Cpi=Qje       |
+| Axis (alt. names)    | Func. relation |
+|:-------------------- |:-------------- |
+| SJI=>NPE; Sji.=>Npe. | -Sji=Npe       |
+| SPE=>NJI; Spe.=>Nji. | -Spe=Nji       |
+| SJE=>NPI; Sje.=>Npi. | -Sje=Npi       |
+| SPI=>NJE; Spi.=>Nje. | -Spi=Nje       |
+|                      |                |
+| FJI=>TPE; Fji.=>Tpe. | -Fji=Tpe       |
+| FPE=>TJI; Fpe.=>Tji. | -Fpe=Tji       |
+| FJE=>TPI; Fje.=>Tpi. | -Fje=Tpi       |
+| FPI=>TJE; Fpi.=>Tje. | -Fpi=Tje       |
+|                      |                |
+| CJI=>QPE; Cji.=>Qpe. | -Cji=Qpe       |
+| CPE=>QJI; Cpe.=>Qji. | -Cpe=Qji       |
+| CJE=>QPI; Cje.=>Qpi. | -Cje=Qpi       |
+| CPI=>QJE; Cpi.=>Qje. | -Cpi=Qje       |
 
 Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
-|     |             | Npe | Nji | Npi | Nje | Spe | Sji | Spi | Sje |     | Tpe | Tji | Tpi | Tje | Fpe | Fji | Fpi | Fje |     | Qpe | Qji | Qpi | Qje | Cpe | Cji | Cpi | Cje |
+|     |             | Npe. | Nji. | Npi. | Nje. | Spe. | Sji. | Spi. | Sje. |     | Tpe. | Tji. | Tpi. | Tje. | Fpe. | Fji. | Fpi. | Fje. |     | Qpe. | Qji. | Qpi. | Qje. | Cpe. | Cji. | Cpi. | Cje. |
 | --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     |             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
@@ -468,7 +468,7 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | 14  | +QPCJ/⁠-⁠QJCP | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | +3  | -3  | -3  | +3  | -3  | +3  |
 | 15  | +AG/⁠-⁠BD     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
 
-PS: Used: I E J P S N F T C Q A B G D X U. Free: W R Y O H K L Z V M
+PS: Used: I E J P Y O S N F T C Q A B G D X U. Free: H K L M R V W Z
 
 
 #### Notable discussions
