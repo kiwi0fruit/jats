@@ -407,7 +407,7 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | S=>N       | ADyBGo=>ADoBGy, ADpijeBGpeji=>ADpejiBGpije | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                      |
 | NISE=>NESI | ADjBGp=>ADpBGj             | NISE=>NESI (Farsighted=>Carefree)                                        |
 | NJSP=>NPSJ | ADiBGe=>ADeBGi             | NJSP=>NPSJ (Strategic=>Tactical)                                          |
-| BG=>AD     | NYSO=>NOSY, NpijeSpeji=>NpejiSpije | **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Central=>Peripheral) |
+| BG=>AD     | NYSO=>NOSY, NpijeSpeji=>NpejiSpije | **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
 |            |                            |                                                                          |
 | F=>T       | AByGDo=>ABoGDy, ABpijeGDpeji=>ABpejiGDpije | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking)     |
 | TIFE=>TEFI | ABjGDp=>ABpGDj             | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                    |
