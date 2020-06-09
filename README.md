@@ -426,22 +426,22 @@ Mind that NS and TF Khizhnyak functions and axes can be directly linearly obtain
 
 But QC functions and axes should first non-linearly get C=>Q axis and only after that proceed linearly.
 
-| Axis (alt. names)    | Func. relation |
-|:-------------------- |:-------------- |
-| SJI=>NPE; Sji.=>Npe. | -Sji=Npe       |
-| SPE=>NJI; Spe.=>Nji. | -Spe=Nji       |
-| SJE=>NPI; Sje.=>Npi. | -Sje=Npi       |
-| SPI=>NJE; Spi.=>Nje. | -Spi=Nje       |
-|                      |                |
-| FJI=>TPE; Fji.=>Tpe. | -Fji=Tpe       |
-| FPE=>TJI; Fpe.=>Tji. | -Fpe=Tji       |
-| FJE=>TPI; Fje.=>Tpi. | -Fje=Tpi       |
-| FPI=>TJE; Fpi.=>Tje. | -Fpi=Tje       |
-|                      |                |
-| CJI=>QPE; Cji.=>Qpe. | -Cji=Qpe       |
-| CPE=>QJI; Cpe.=>Qji. | -Cpe=Qji       |
-| CJE=>QPI; Cje.=>Qpi. | -Cje=Qpi       |
-| CPI=>QJE; Cpi.=>Qje. | -Cpi=Qje       |
+| Axis     | Alt. names | Func. relation |
+|:---------|:---------- |:-------------- |
+| SJI=>NPE | Sji.=>Npe. | -Sji=Npe       |
+| SPE=>NJI | Spe.=>Nji. | -Spe=Nji       |
+| SJE=>NPI | Sje.=>Npi. | -Sje=Npi       |
+| SPI=>NJE | Spi.=>Nje. | -Spi=Nje       |
+|          |            |                |
+| FJI=>TPE | Fji.=>Tpe. | -Fji=Tpe       |
+| FPE=>TJI | Fpe.=>Tji. | -Fpe=Tji       |
+| FJE=>TPI | Fje.=>Tpi. | -Fje=Tpi       |
+| FPI=>TJE | Fpi.=>Tje. | -Fpi=Tje       |
+|          |            |                |
+| CJI=>QPE | Cji.=>Qpe. | -Cji=Qpe       |
+| CPE=>QJI | Cpe.=>Qji. | -Cpe=Qji       |
+| CJE=>QPI | Cje.=>Qpi. | -Cje=Qpi       |
+| CPI=>QJE | Cpi.=>Qje. | -Cpi=Qje       |
 
 In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (nondynamic-dynamic) functions that lack IE and JP flavour:
 
