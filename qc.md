@@ -1,12 +1,12 @@
 # Descriptions of new Talanov-Khizhnyak Questioning-deClaring functions (Autotranslated)
 
-Now that all necessary terms [were translated](https://github.com/kiwi0fruit/jats/blob/master/README.md#11-symmetries-of-reinin-dichotomies-and-their-connection-to-khizhnyak-functions-and-axes) let's take a look at new Talanov-Khizhnyak **Q**uestioning-de**C**laring functions (each is d<ins>**y**</ins>namic or n<ins>**o**</ins>ndynamic-static).
+Now that all necessary terms [were translated](https://github.com/kiwi0fruit/jats/blob/master/README.md#11-symmetries-of-reinin-dichotomies-and-their-connection-to-khizhnyak-functions-and-axes) let's take a look at new Talanov-Khizhnyak **Q**uestioning-de**C**laring functions (each is <ins>d<b>y</b></ins>namic or n<ins>**o**</ins>ndynamic-static).
 
-* **Cy.** (Cpije.) - d<ins>**y**</ins>namic de**C**laring thinking (that includes **Alpha-Gamma** Cje.: FeS, TeN and Cpi.: SiF, NiT).  
+* **Cy.** (Cpije.) - <ins>d<b>y</b></ins>namic de**C**laring thinking (that includes **Alpha-Gamma** Cje.: FeS, TeN and Cpi.: SiF, NiT).  
   Original "ЧД" autotranslated as "BH", "BLACK DECLARABILITY". [**Autotranslated description**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fsocionics-news.tumblr.com%2Fpost%2F620431207443939328),
 * **Qo.** (Qpeji.) - n<ins>**o**</ins>ndynamic **Q**uestioning thinking (that includes **Alpha-Gamma** Qji.: TiN, FiS and Qpe.: NeT, SeF).  
   Original "БК" autotranslated as "BC", "BK", "WHITE QUARTITY/QUARTIMITY". [**Autotranslated description**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fsocionics-news.tumblr.com%2Fpost%2F620431343766077440),
-* **Qy.** (Qpije.) - d<ins>**y**</ins>namic **Q**uestioning thinking (that includes **Beta-Delta** Qje.: FeN, TeS and Qpi.: NiF, SiT).  
+* **Qy.** (Qpije.) - <ins>d<b>y</b></ins>namic **Q**uestioning thinking (that includes **Beta-Delta** Qje.: FeN, TeS and Qpi.: NiF, SiT).  
   Original "ЧК" autotranslated as "CHK", "ChK", "Cheka", "HK". [**Autotranslated description**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fsocionics-news.tumblr.com%2Fpost%2F620431805768728576),
 * **Co.** (Cpeji.) - n<ins>**o**</ins>ndynamic de**C**laring thinking (that includes **Beta-Delta** Cji.: TiS, FiN and Cpe.: SeT, NeF).  
   Original "БД" autotranslated as "OBD", "DB". [**Autotranslated description**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fsocionics-news.tumblr.com%2Fpost%2F620431805768728576),
