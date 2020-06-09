@@ -445,7 +445,7 @@ But QC functions and axes should first non-linearly get C=>Q axis and only after
 
 In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (n**o**ndynamic-d**y**namic) functions that lack IE and JP flavour:
 
-| Static / Dynamic | Acr. | Alt. | Is abstracted from |
+|         | Abb. | Alt. | Is abstracted from |
 |:-------:|:---:|:------:|:--------------|
 | static  | No. | Npeji. | Npe. and Nji. |
 | dynamic | Ny. | Npije. | Npi. and Nje. |
