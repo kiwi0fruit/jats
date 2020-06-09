@@ -1,6 +1,6 @@
 # Descriptions of new Talanov-Khizhnyak Questioning-deClaring functions (Autotranslated)
 
-Now that all necessary terms [were translated](https://www.reddit.com/r/JungianTypology/comments/gx16w9/symmetries_of_reinin_dichotomies_and_their/) let's take a look at new Talanov-Khizhnyak **Q**uestioning-de**C**laring functions (each is d<ins>**y**</ins>namic or n**o**ndynamic-static).
+Now that all necessary terms [were translated](https://www.reddit.com/r/JungianTypology/comments/gx16w9/symmetries_of_reinin_dichotomies_and_their/) let's take a look at new Talanov-Khizhnyak **Q**uestioning-de**C**laring functions (each is d<ins>**y**</ins>namic or n<ins>**o**</ins>ndynamic-static).
 
 * **Cy.** (Cpije.) - d**y**namic de**C**laring thinking (that includes **Alpha-Gamma** Cje.: FeS, TeN and Cpi.: SiF, NiT).  
   Original "ЧД" autotranslated as "BH", "BLACK DECLARABILITY". [**Autotranslated description**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fsocionics-news.tumblr.com%2Fpost%2F620431207443939328),
