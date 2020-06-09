@@ -1,6 +1,6 @@
 # Descriptions of new Talanov-Khizhnyak Questioning-deClaring functions (Autotranslated)
 
-Now that all necessary terms [were translated](https://github.com/kiwi0fruit/jats/blob/master/README.md#11-symmetries-of-reinin-dichotomies-and-their-connection-to-khizhnyak-functions-and-axes) let's take a look at new Talanov-Khizhnyak **Q**uestioning-de**C**laring functions (each is either <ins>d<b>y</b></ins>namic or n<ins>**o**</ins>ndynamic-static).
+Now that all necessary terms [were translated](https://github.com/kiwi0fruit/jats/blob/master/README.md#11-symmetries-of-reinin-dichotomies-and-their-connection-to-khizhnyak-functions-and-axes) let's take a look at new Talanov-Khizhnyak **Q**uestioning-de**C**laring functions. Each one is either <ins>d<b>y</b></ins>namic or n<ins>**o**</ins>ndynamic (static).
 
 * **Cy.** (Cpije.) - <ins>d<b>y</b></ins>namic de**C**laring thinking (that includes **Alpha-Gamma** Cje.: FeS, TeN and Cpi.: SiF, NiT).  
   Original "ЧД" autotranslated as "BH", "BLACK DECLARABILITY". [**Autotranslated description**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fsocionics-news.tumblr.com%2Fpost%2F620431207443939328),
