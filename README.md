@@ -414,17 +414,17 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | TJFP=>TPFJ | ABiGDe=>ABeGDi             | TJFP=>TPFJ (Emotivist=>Constructivist)                                    |
 | GD=>AB     | TYFO=>TOFY, TpijeFpeji=>TpejiFpije | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
 |            |                            |                                                                          |
-| C=>Q       | AGyBDo=>AGoBDy, AGpijeBDpeji=>AGpejiBDpije | de**C**laring=>**Q**uestioning (**C**ertain=>Asking, Declatim=>Questim) |
-| QICE=>QECI | AGjBDp=>AGpBDj             | QICE=>QECI (Result=>Process, Left=>Right)                                |
-| QJCP=>QPCJ | AGiBDe=>AGeBDi             | QJCP=>QPCJ (Negativist=>Positivist)                                      |
-| BD=>AG     | QYCO=>QOCY, QpijeCpeji=>QpejiCpije | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
+| D=>Q       | AGyBDo=>AGoBDy, AGpijeBDpeji=>AGpejiBDpije | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
+| QIDE=>QEDI | AGjBDp=>AGpBDj             | QIDE=>QEDI (Result=>Process, Left=>Right)                                |
+| QJDP=>QPDJ | AGiBDe=>AGeBDi             | QJDP=>QPDJ (Negativist=>Positivist)                                      |
+| BD=>AG     | QYDO=>QODY, QpijeDpeji=>QpejiDpije | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
 
 
 ### 11.2 Khizhnyak functions and axes
 
 Mind that NS and TF Khizhnyak functions and axes can be directly linearly obtained from I=>E, J=>P, S=>N, F=>T axes by moving along of the diagonal of 3 axes.
 
-But QC functions and axes should first non-linearly get C=>Q axis and only after that proceed linearly.
+But QC functions and axes should first non-linearly get D=>Q axis and only after that proceed linearly.
 
 | Axis     | Alt. names | Func. relation |
 |:---------|:---------- |:-------------- |
@@ -438,10 +438,10 @@ But QC functions and axes should first non-linearly get C=>Q axis and only after
 | FJE=>TPI | Fje.=>Tpi. | -Fje=Tpi       |
 | FPI=>TJE | Fpi.=>Tje. | -Fpi=Tje       |
 |          |            |                |
-| CJI=>QPE | Cji.=>Qpe. | -Cji=Qpe       |
-| CPE=>QJI | Cpe.=>Qji. | -Cpe=Qji       |
-| CJE=>QPI | Cje.=>Qpi. | -Cje=Qpi       |
-| CPI=>QJE | Cpi.=>Qje. | -Cpi=Qje       |
+| DJI=>QPE | Dji.=>Qpe. | -Dji=Qpe       |
+| DPE=>QJI | Dpe.=>Qji. | -Dpe=Qji       |
+| DJE=>QPI | Dje.=>Qpi. | -Dje=Qpi       |
+| DPI=>QJE | Dpi.=>Qje. | -Dpi=Qje       |
 
 In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (n**o**ndynamic-d**y**namic) functions that lack IE and JP flavour:
 
@@ -457,12 +457,12 @@ In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (
 | dynamic | Fy. | Fpije. | Fpi. and Fje. |
 | static  | Qo. | Qpeji. | Qpe. and Qji. |
 | dynamic | Qy. | Qpije. | Qpi. and Qje. |
-| static  | Co. | Cpeji. | Cpe. and Cji. |
-| dynamic | Cy. | Cpije. | Cpi. and Cje. |
+| static  | Do. | Dpeji. | Dpe. and Dji. |
+| dynamic | Dy. | Dpije. | Dpi. and Dje. |
 
 Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
-|     |             | Npe. | Nji. | Npi. | Nje. | Spe. | Sji. | Spi. | Sje. |     | Tpe. | Tji. | Tpi. | Tje. | Fpe. | Fji. | Fpi. | Fje. |     | Qpe. | Qji. | Qpi. | Qje. | Cpe. | Cji. | Cpi. | Cje. |
+|     |             | Npe. | Nji. | Npi. | Nje. | Spe. | Sji. | Spi. | Sje. |     | Tpe. | Tji. | Tpi. | Tje. | Fpe. | Fji. | Fpi. | Fje. |     | Qpe. | Qji. | Qpi. | Qje. | Dpe. | Dji. | Dpi. | Dje. |
 | --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     |             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
@@ -480,12 +480,12 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | 10  | +TPFJ/⁠-⁠TJFP | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | +3  | -3  | -3  | +3  | -3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 | 11  | +AB/⁠-⁠GD     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 12  | +Q/⁠-⁠C       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |
-| 13  | +QECI/⁠-⁠QICE | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | -3  | +3  | -3  | +3  | +3  | -3  |
-| 14  | +QPCJ/⁠-⁠QJCP | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | +3  | -3  | -3  | +3  | -3  | +3  |
+| 12  | +Q/⁠-⁠D       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |
+| 13  | +QEDI/⁠-⁠QIDE | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | -3  | +3  | -3  | +3  | +3  | -3  |
+| 14  | +QPDJ/⁠-⁠QJDP | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | +3  | -3  | -3  | +3  | -3  | +3  |
 | 15  | +AG/⁠-⁠BD     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
 
-PS: Used: I E J P Y O S N F T C Q A B G D X U. Free: H K L M R V W Z
+PS: Used: I E J P Y O S N F T Q D G B A X U. Free: C H K L M R V W Z
 
 
 #### Notable discussions
