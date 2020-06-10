@@ -339,12 +339,12 @@ So this can be seen that these 4 types has the same 4 most valued functions (1st
 
 It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
-|            Quadras | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
-| ------------------:| ------------------- | ------------------ | -------- | ------------- |
-| alpha-delta **AD** | Ne or Si            | Ne and Si          | pacific  | cooperative, sensible, peaceful and leisurely unhurried ways |
-|  beta-gamma **BG** | Se or Ni            | Se and Ni          | resolute | competitive, argessive, time-bound and fast resolutive ways |
-|  alpha-beta **AB** | Fe or Ti            | Fe and Ti          |          |               |
-| gamma-delta **GD** | Te or Fi            | Te and Fi          |          |               |
+|             Quadras | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
+| -------------------:| ------------------- | ------------------ | -------- | ------------- |
+| Alpha-delta **Ad.** | Ne or Si            | Ne and Si          | pacific  | cooperative, sensible, peaceful and leisurely unhurried ways |
+|  Beta-gamma **Bg.** | Se or Ni            | Se and Ni          | resolute | competitive, argessive, time-bound and fast resolutive ways |
+|  Alpha-beta **Ab.** | Fe or Ti            | Fe and Ti          |          |               |
+| Gamma-delta **Gd.** | Te or Fi            | Te and Fi          |          |               |
 
 Examples:
 
@@ -380,8 +380,8 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 | ENxP-1-1~13       | NeT v ENuP-1~13 v ... (not NeF)        | NeT-13to1      |
 | xNTx-2-1\~2       | TiN-intj v uNTu-1~2 v ... (not NeT)    | TiN-1to2       |
 | IxTJ-2-2\~6       | TiN-intj v IuTJ-2~6 v ... (not TiS-istj) | TiN-6to2     |
-| xNxxAD-1-2-13-14  | TiN-intj v NeT v FiN-infj v NeF v ENuP-1~13 v ...               | ? |
-| IxxxBG-6-7-10-11  | TiS-istj v NiF-infp v FiS-isfj v NiT-intp v INuP-7~11 v ...     | ? |
+| Ad.xNxx-1-2-13-14 | TiN-intj v NeT v FiN-infj v NeF v ENuP-1~13 v ...               | ? |
+| Bg.Ixxx-6-7-10-11 | TiS-istj v NiF-infp v FiS-isfj v NiT-intp v INuP-7~11 v ...     | ? |
 | xNxP-1-7-11-13    | NeT v NiF-infp v NiT-intp v NeF v ENuP-1\~13 v INuP-7\~11 v ... | ? |
 | IxTx-2-6-11-15    | TiN-intj v TiS-istj v NiT-intp v SiT-istp v IuTJ-2~6 v ...      | ? |
 
