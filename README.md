@@ -400,24 +400,24 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 
 | Short name | Alt. symmetry              | Full names                                                               |
 |:-----------|:---------------------------|:-------------------------------------------------------------------------|
-| I=>E       |                            | **I**ntroverted=>**E**xtraverted                                          |
-| J=>P       |                            | **J**udging=>**P**erceiving (Rational=>Irrational)                        |
-| Y=>O       | PIJE=>PEJI                 | d**Y**namic=>n**O**ndynamic (Dynamic=>Static)                              |
-|            |                            |                                                                          |
-| S=>N       | ADyBGo=>ADoBGy, ADpijeBGpeji=>ADpejiBGpije | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                      |
-| NISE=>NESI | ADjBGp=>ADpBGj             | NISE=>NESI (Farsighted=>Carefree)                                        |
-| NJSP=>NPSJ | ADiBGe=>ADeBGi             | NJSP=>NPSJ (Strategic=>Tactical)                                          |
-| BG=>AD     | NYSO=>NOSY, NpijeSpeji=>NpejiSpije | **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
-|            |                            |                                                                          |
-| F=>T       | AByGDo=>ABoGDy, ABpijeGDpeji=>ABpejiGDpije | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking)     |
-| TIFE=>TEFI | ABjGDp=>ABpGDj             | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                    |
-| TJFP=>TPFJ | ABiGDe=>ABeGDi             | TJFP=>TPFJ (Emotivist=>Constructivist)                                    |
-| GD=>AB     | TYFO=>TOFY, TpijeFpeji=>TpejiFpije | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
-|            |                            |                                                                          |
-| D=>Q       | AGyBDo=>AGoBDy, AGpijeBDpeji=>AGpejiBDpije | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
-| QIDE=>QEDI | AGjBDp=>AGpBDj             | QIDE=>QEDI (Result=>Process, Left=>Right)                                |
-| QJDP=>QPDJ | AGiBDe=>AGeBDi             | QJDP=>QPDJ (Negativist=>Positivist)                                      |
-| BD=>AG     | QYDO=>QODY, QpijeDpeji=>QpejiDpije | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
+| I=>E       |                | **I**ntroverted=>**E**xtraverted                                          |
+| J=>P       |                | **J**udging=>**P**erceiving (Rational=>Irrational)                        |
+| Y=>O       | PIJE=>PEJI     | d**Y**namic=>n**O**ndynamic (Dynamic=>Static)                              |
+|            |                |                                                                          |
+| S=>N       | AdyBgo=>AdoBgy | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                      |
+| NISE=>NESI | AdjBgp=>AdpBgj | NISE=>NESI (Farsighted=>Carefree)                                        |
+| NJSP=>NPSJ | AdiBge=>AdeBgi | NJSP=>NPSJ (Strategic=>Tactical)                                          |
+| Bg=>Ad     | NYSO=>NOSY     | **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
+|            |                |                                                                          |
+| F=>T       | AbyGdo=>AboGdy | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking)     |
+| TIFE=>TEFI | AbjGdp=>AbpGdj | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                    |
+| TJFP=>TPFJ | AbiGde=>AbeGdi | TJFP=>TPFJ (Emotivist=>Constructivist)                                    |
+| Gd=>Ab     | TYFO=>TOFY     | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
+|            |                |                                                                          |
+| D=>Q       | AgyBdo=>AgoBdy | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
+| QIDE=>QEDI | AgjBdp=>AgpBdj | QIDE=>QEDI (Result=>Process, Left=>Right)                                |
+| QJDP=>QPDJ | AgiBde=>AgeBdi | QJDP=>QPDJ (Negativist=>Positivist)                                      |
+| Bd=>Ag     | QYDO=>QODY     | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
 
 
 ### 11.2 Khizhnyak functions and axes
@@ -473,17 +473,17 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | 4   | +N/⁠-⁠S       | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 | 5   | +NESI/⁠-⁠NISE | +3  | -3  | -3  | +3  | -3  | +3  | +3  | -3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 | 6   | +NPSJ/⁠-⁠NJSP | +3  | -3  | +3  | -3  | -3  | +3  | -3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-| 7   | +AD/⁠-⁠BG     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 7   | +Ad/⁠-⁠Bg     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 8   | +T/⁠-⁠F       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 | 9   | +TEFI/⁠-⁠TIFE | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | -3  | +3  | -3  | +3  | +3  | -3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 | 10  | +TPFJ/⁠-⁠TJFP | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | +3  | -3  | -3  | +3  | -3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-| 11  | +AB/⁠-⁠GD     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 11  | +Ab/⁠-⁠Gd     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 12  | +Q/⁠-⁠D       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |
 | 13  | +QEDI/⁠-⁠QIDE | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | -3  | +3  | -3  | +3  | +3  | -3  |
 | 14  | +QPDJ/⁠-⁠QJDP | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | +3  | -3  | -3  | +3  | -3  | +3  |
-| 15  | +AG/⁠-⁠BD     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
+| 15  | +Ag/⁠-⁠Bd     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
 
 PS: Used: I E J P Y O S N F T Q D G B A X U. Free: C H K L M R V W Z
 
