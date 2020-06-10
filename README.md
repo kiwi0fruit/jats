@@ -392,6 +392,12 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 
 [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus) ([original text in Russian](https://github.com/kiwi0fruit/misc/tree/master/src/socionics-rus/README.md))
 
+#### Notable discussions
+
+* [reddit.com/r/JungianTypology/comments/b5pase](https://www.reddit.com/r/JungianTypology/comments/b5pase/model_a_as_consequence_of_a_set_of_hypotheses/)
+* [reddit.com/r/JungianTypology/comments/b12uju](https://www.reddit.com/r/JungianTypology/comments/b12uju/translation_of_some_useful_socionics_terms/)
+
+
 ## 11. Symmetries of Reinin dichotomies and their connection to Khizhnyak functions and axes
 
 ### 11.1 Reinin dichotomies
@@ -400,21 +406,21 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 
 | Short name | Alt. symmetry      | Full names                                                               |
 |:-----------|:-------------------|:-------------------------------------------------------------------------|
-| I=>E       |                    | **I**ntroverted=>**E**xtraverted                                          |
-| J=>P       |                    | **J**udging=>**P**erceiving (Rational=>Irrational)                        |
-| Y=>O       | PIJE=>PEJI         | d**Y**namic=>n**O**ndynamic (Dynamic=>Static)                              |
+| I=>E       |                    | **I**ntroverted=>**E**xtraverted                                         |
+| J=>P       |                    | **J**udging=>**P**erceiving (Rational=>Irrational)                       |
+| Y=>O       | PIJE=>PEJI         | d**Y**namic=>n**O**ndynamic (Dynamic=>Static)                            |
 |            |                    |                                                                          |
-| S=>N       | YAd.OBg.=>OAd.YBg. | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                      |
+| S=>N       | YAd.OBg.=>OAd.YBg. | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                          |
 | NISE=>NESI | JAd.PBg.=>PAd.JBg. | NISE=>NESI (Farsighted=>Carefree)                                        |
-| NJSP=>NPSJ | IAd.EBg.=>EAd.IBg. | NJSP=>NPSJ (Strategic=>Tactical)                                          |
+| NJSP=>NPSJ | IAd.EBg.=>EAd.IBg. | NJSP=>NPSJ (Strategic=>Tactical)                                         |
 | Bg.=>Ad.   | NYSO=>NOSY         | **B**eta-**g**amma=>**A**lpha-**d**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
-|            |                |                                                                          |
-| F=>T       | YAb.OGd.=>OAb.YGd. | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking)     |
-| TIFE=>TEFI | JAb.PGd.=>PAb.JGd. | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                    |
-| TJFP=>TPFJ | IAb.EGd.=>EAb.IGd. | TJFP=>TPFJ (Emotivist=>Constructivist)                                    |
+|            |                    |                                                                          |
+| F=>T       | YAb.OGd.=>OAb.YGd. | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking) |
+| TIFE=>TEFI | JAb.PGd.=>PAb.JGd. | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                   |
+| TJFP=>TPFJ | IAb.EGd.=>EAb.IGd. | TJFP=>TPFJ (Emotivist=>Constructivist)                                   |
 | Gd.=>Ab.   | TYFO=>TOFY         | **G**amma-**d**elta=>**A**lpha-**b**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
-|            |                |                                                                          |
-| D=>Q       | YAg.OBd.=>OAg.YBd. | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
+|            |                    |                                                                          |
+| D=>Q       | YAg.OBd.=>OAg.YBd. | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim)    |
 | QIDE=>QEDI | JAg.PBd.=>PAg.JBd. | QIDE=>QEDI (Result=>Process, Left=>Right)                                |
 | QJDP=>QPDJ | IAg.EBd.=>EAg.IBd. | QJDP=>QPDJ (Negativist=>Positivist)                                      |
 | Bd.=>Ag.   | QYDO=>QODY         | **B**eta-**d**elta=>**A**lpha-**g**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
@@ -462,7 +468,7 @@ In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (
 
 Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
-|     |             | Npe. | Nji. | Npi. | Nje. | Spe. | Sji. | Spi. | Sje. |     | Tpe. | Tji. | Tpi. | Tje. | Fpe. | Fji. | Fpi. | Fje. |     | Qpe. | Qji. | Qpi. | Qje. | Dpe. | Dji. | Dpi. | Dje. |
+|     |       | Npe. | Nji. | Npi. | Nje. | Spe. | Sji. | Spi. | Sje. | | Tpe. | Tji. | Tpi. | Tje. | Fpe. | Fji. | Fpi. | Fje. | | Qpe. | Qji. | Qpi. | Qje. | Dpe. | Dji. | Dpi. | Dje. |
 | --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     |             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
@@ -487,11 +493,6 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
 PS: Used: I E J P Y O S N F T Q D G B A X U. Free: C H K L M R V W Z
 
-
-#### Notable discussions
-
-* [reddit.com/r/JungianTypology/comments/b5pase](https://www.reddit.com/r/JungianTypology/comments/b5pase/model_a_as_consequence_of_a_set_of_hypotheses/)
-* [reddit.com/r/JungianTypology/comments/b12uju](https://www.reddit.com/r/JungianTypology/comments/b12uju/translation_of_some_useful_socionics_terms/)
 
 --------
 
