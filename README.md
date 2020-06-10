@@ -339,12 +339,12 @@ So this can be seen that these 4 types has the same 4 most valued functions (1st
 
 It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
-|             Quadras | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
-| -------------------:| ------------------- | ------------------ | -------- | ------------- |
-| Alpha-delta **Ad.** | Ne or Si            | Ne and Si          | pacific  | cooperative, sensible, peaceful and leisurely unhurried ways |
-|  Beta-gamma **Bg.** | Se or Ni            | Se and Ni          | resolute | competitive, argessive, time-bound and fast resolutive ways |
-|  Alpha-beta **Ab.** | Fe or Ti            | Fe and Ti          |          |               |
-| Gamma-delta **Gd.** | Te or Fi            | Te and Fi          |          |               |
+|     Quadras | Abb.    | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
+| -----------:| ------- | ------------------- | ------------------ | -------- | ------------- |
+| Alpha-delta | **Ad.** | Ne or Si            | Ne and Si          | pacific  | cooperative, sensible, peaceful and leisurely unhurried ways |
+|  Beta-gamma | **Bg.** | Se or Ni            | Se and Ni          | resolute | competitive, argessive, time-bound and fast resolutive ways |
+|  Alpha-beta | **Ab.** | Fe or Ti            | Fe and Ti          |          |               |
+| Gamma-delta | **Gd.** | Te or Fi            | Te and Fi          |          |               |
 
 Examples:
 
