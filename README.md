@@ -424,7 +424,7 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 
 Mind that NS and TF Khizhnyak functions and axes can be directly linearly obtained from I=>E, J=>P, S=>N, F=>T axes by moving along of the diagonal of 3 axes.
 
-But QC functions and axes should first non-linearly get D=>Q axis and only after that proceed linearly.
+But QD functions and axes should first non-linearly get D=>Q axis and only after that proceed linearly.
 
 | Axis     | Alt. names | Func. relation |
 |:---------|:---------- |:-------------- |
