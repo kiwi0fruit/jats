@@ -398,26 +398,26 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 
 Mind that Rational=>Irrational axis is denoted J=>P here.
 
-| Short name | Alt. symmetry              | Full names                                                               |
-|:-----------|:---------------------------|:-------------------------------------------------------------------------|
-| I=>E       |                | **I**ntroverted=>**E**xtraverted                                          |
-| J=>P       |                | **J**udging=>**P**erceiving (Rational=>Irrational)                        |
-| Y=>O       | PIJE=>PEJI     | d**Y**namic=>n**O**ndynamic (Dynamic=>Static)                              |
+| Short name | Alt. symmetry      | Full names                                                               |
+|:-----------|:-------------------|:-------------------------------------------------------------------------|
+| I=>E       |                    | **I**ntroverted=>**E**xtraverted                                          |
+| J=>P       |                    | **J**udging=>**P**erceiving (Rational=>Irrational)                        |
+| Y=>O       | PIJE=>PEJI         | d**Y**namic=>n**O**ndynamic (Dynamic=>Static)                              |
+|            |                    |                                                                          |
+| S=>N       | YAd.OBg.=>OAd.YBg. | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                      |
+| NISE=>NESI | JAd.PBg.=>PAd.JBg. | NISE=>NESI (Farsighted=>Carefree)                                        |
+| NJSP=>NPSJ | IAd.EBg.=>EAd.IBg. | NJSP=>NPSJ (Strategic=>Tactical)                                          |
+| Bg.=>Ad.   | NYSO=>NOSY         | **B**eta-**g**amma=>**A**lpha-**d**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
 |            |                |                                                                          |
-| S=>N       | AdyBgo=>AdoBgy | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                      |
-| NISE=>NESI | AdjBgp=>AdpBgj | NISE=>NESI (Farsighted=>Carefree)                                        |
-| NJSP=>NPSJ | AdiBge=>AdeBgi | NJSP=>NPSJ (Strategic=>Tactical)                                          |
-| Bg.=>Ad.   | NYSO=>NOSY     | **B**eta-**g**amma=>**A**lpha-**d**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
+| F=>T       | YAb.OGd.=>OAb.YGd. | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking)     |
+| TIFE=>TEFI | JAb.PGd.=>PAb.JGd. | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                    |
+| TJFP=>TPFJ | IAb.EGd.=>EAb.IGd. | TJFP=>TPFJ (Emotivist=>Constructivist)                                    |
+| Gd.=>Ab.   | TYFO=>TOFY         | **G**amma-**d**elta=>**A**lpha-**b**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
 |            |                |                                                                          |
-| F=>T       | AbyGdo=>AboGdy | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking)     |
-| TIFE=>TEFI | AbjGdp=>AbpGdj | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                    |
-| TJFP=>TPFJ | AbiGde=>AbeGdi | TJFP=>TPFJ (Emotivist=>Constructivist)                                    |
-| Gd.=>Ab.   | TYFO=>TOFY     | **G**amma-**d**elta=>**A**lpha-**b**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
-|            |                |                                                                          |
-| D=>Q       | AgyBdo=>AgoBdy | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
-| QIDE=>QEDI | AgjBdp=>AgpBdj | QIDE=>QEDI (Result=>Process, Left=>Right)                                |
-| QJDP=>QPDJ | AgiBde=>AgeBdi | QJDP=>QPDJ (Negativist=>Positivist)                                      |
-| Bd.=>Ag.   | QYDO=>QODY     | **B**eta-**d**elta=>**A**lpha-**g**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
+| D=>Q       | YAg.OBd.=>OAg.YBd. | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
+| QIDE=>QEDI | JAg.PBd.=>PAg.JBd. | QIDE=>QEDI (Result=>Process, Left=>Right)                                |
+| QJDP=>QPDJ | IAg.EBd.=>EAg.IBd. | QJDP=>QPDJ (Negativist=>Positivist)                                      |
+| Bd.=>Ag.   | QYDO=>QODY         | **B**eta-**d**elta=>**A**lpha-**g**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
 
 
 ### 11.2 Khizhnyak functions and axes
