@@ -494,6 +494,31 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 PS: Used: I E J P Y O S N F T Q D G B A X U. Free: C H K L M R V W Z
 
 
+### 11.3 Non-standard dominant Khizhnyak functions
+
+There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that ESxP (Spe.dom.) types actually have very weak and vulnerable-like Nji. that governs consideration for all people even the "small" people (governs among other things). And that ENxP (Npe.dom.) types have very weak Sji. that amoung other thing governs monotonous sensory affairs.
+
+But if we take this hypothesis a bit further then we can even suggest that these new functions can be a dominant function. And there can be very unusual combinations of Gulenko's temperament (one of PE, JI, PI, JE) and dominant function (one of static-dynamic functions like No., Ny., To., Ty., etc.).
+
+For example there might be a To.dom.entp. (Tpe.N.) or No.dom.intj. (Nji.T.). When classical Socionics combinations are No.dom.entp. (Npe.T.) and To.dom.intj. (Tji.N.).
+
+To.dom.entp. would have strong Npe. and Tpe. (and Qpe. but that's irrelevant for now) and would by default be in PE Npe. perception state but the most valued function that defines person's goals would still be Tpe.
+
+If No.dom.entp. would have curiosity and novelty seeking Npe. as central dominant drive. To.dom.entp. would have Tpe. as a dominant drive. And it would be something about independent thinking and valuing, using, hacking and fixing systems of the world.
+
+So each of the static-dynamic functions can be under a temperament that could be described approximately like (just a random classification that most likely is wrong):
+
+* PE - spontaneous proactivity,
+* JE - rigid proactivity,
+* JI - rigid reactivity,
+* PI - spontaneous reactivity (aka adaptivity).
+
+So To.dom.entp. would have dominant drive of spontaneous proactivity concerning systems.
+
+More thought experiments on non-standard dominant functions is [here](http://danidin.ucoz.net/index/zazerkalnaja_socionika/0-56).
+
+Worth noting that non-standard dominant functions do not require abstract static-dynamic functions. Underlying cognitive functions can actually have EI and PJ roots in them that make some combination manifestations more common. For example if NS functions stem from some more ancient instinctual subsystem of the brain. And TF stem from more young and impuls-controlling subsystem. But the brain can be flexible enough to be PE temperament that is more instinctual but actually have dominant To. that's from the impuls-controlling subsystem. Like Npe. part is a thin proxy to the Tpe.
+
 --------
 
 *([Source code](https://github.com/kiwi0fruit/jats/blob/master/README.md) at GitHub)*
