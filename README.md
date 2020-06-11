@@ -307,26 +307,26 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 
 ## 8. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types
 
-Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type with a dominant extraverted perceiving function, **IJ** type with a dominant introverted judging function, **EJ** type with a dominant extraverted judging function and **IP** type with a dominant introverted perceiving function.
+Socionics **quadras** split 16 types to 4 groups. Each group has **PE** type with a dominant extraverted perceiving function, **JI** type with a dominant introverted judging function, **JE** type with a dominant extraverted judging function and **PI** type with a dominant introverted perceiving function.
 
-Dominant function in Socionics is called **1st** function. And Socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti-dom it would be 1Ti2Ne8Ni. 1st, 2nd and 8th functions are the most important from the point of view of the type's social activities (and are the reference type's strongest functions). And may be also they are the most important from the point of view of the type’s self-identification. 2nd and 8th functions both are like auxilary function as Jung meant it. But only 1st and 2nd are valuable functions.
+Dominant function in Socionics is called **1st** function. And Socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of TiN-intj it would be 1Ti2Ne8Ni. 1st, 2nd and 8th functions are the most important from the point of view of the type's social activities (and are the reference type's strongest functions). And may be also they are the most important from the point of view of the type’s self-identification. 2nd and 8th functions both are like auxilary function as Jung meant it. But only 1st and 2nd are valuable functions.
 
 #### Why quadras grouped this way?
 
 Let's explain this in the example of the delta quadra.
 
-Deltas are: ENFP-Ne-dom, INFJ-Fi-dom, ESTJ-Te-dom, ISTP-Si-dom. So as commonly believed in MBTI xNFP and xSTJ are not delta. As believed in Socionics:
+Deltas are: NeF, FiN-infj, TeS, SiT-istp. So as commonly believed in MBTI xNFP and xSTJ are not delta. As believed in Socionics:
 
-* ENFP-Ne-dom has supporting Fi, and Si as the most inferior function (to the point of dominant function not controlling it so it has its own motivation and becomes valuable function) - _autonomous inferior_ function aka _suggestive_ function,
-* INFJ-Fi-dom has supporting Ne, and suggestive Te,
-* ESTJ-Te-dom has supporting Si, and suggestive Fi,
-* ISTP-Si-dom has supporting Te, and suggestive Ne.
+* NeF has dominant Ne, supporting Fi, and Si as the most inferior function (to the point of dominant function not controlling it so it has its own motivation and becomes valuable function) - _autonomous inferior_ function aka _suggestive_ function,
+* FiN-infj has dominant Fi, supporting Ne, and suggestive Te,
+* TeS has dominant Te, supporting Si, and suggestive Fi,
+* SiT-istp has dominant Si, supporting Te, and suggestive Ne.
 
-So the functions the type values most are 1-dominant, 2-supporting and 5-suggestive. For some reason in Socionics believed that commonly ENFP-Ne-dom also values Te, INFJ-Fi-dom also values Si, ESTJ-Te-dom also values Ne, ISTP-Si-dom also values Fi (6-activating).
+So the functions the type values most are 1-dominant, 2-supporting and 5-suggestive. For some reason in Socionics believed that commonly NeF also values Te, FiN-infj also values Si, TeS also values Ne, SiT-istp also values Fi (6-activating).
 
 So this can be seen that these 4 types has the same 4 most valued functions (1st, 2nd, 5th, 6th):
 
-| **Quadra** | **EP**  | **IJ**       | **IP**       | **EJ**  |
+| **Quadra** | **pe**  | **ji**       | **pi**       | **je**  |
 |:-----------|:--------|:-------------|:-------------|:--------|
 | α Alpha    | 1Ne2Ti-8Te-5Si6Fe | 1Ti2Ne-8Ni-5Fe6Si | 1Si2Fe-8Fi-5Ne6Ti | 1Fe2Si-8Se-5Ti6Ne |
 | **A**      | **NeT** | **TiN⁠-⁠intj** | **SiF⁠-⁠isfp** | **FeS** |
