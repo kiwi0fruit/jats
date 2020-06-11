@@ -524,17 +524,17 @@ Worth noting that non-standard dominant functions do not require abstract static
 
 ### 11.4 Dominant-agnostic type names
 
-If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new OY dynamic-nondynamic axis notation so that iNTjo. could not be mistaken with INTJ. iNTjo. would have a static dominant function but INTJ has Ni-dom. that is a dynamic function. Also lowercase-uppercase would distinguish Gulenko's temperament from cognitive functions.
+If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new OY dynamic-nondynamic axis notation so that iNTjo could not be mistaken with INTJ. iNTjo would have a static dominant function but INTJ has Ni-dom. that is a dynamic function. Also lowercase-uppercase would distinguish Gulenko's temperament from cognitive functions.
 
 |               |     **pe**     |     |     **ji**     |     |     **pi**     |     |     **je**     |     |
 |:------------- |:--------------:| --- |:--------------:| --- |:--------------:| --- |:--------------:| --- |
-| α             |   **eNTpo.**   | 1   |   **iNTjo.**   | 2   |   **iSFpy.**   | 3   |   **eSFjy.**   | 4   |
+| α             |   **eNTpo**    | 1   |   **iNTjo**    | 2   |   **iSFpy**    | 3   |   **eSFjy**    | 4   |
 | possible dom. | Npe. Tpe. Qpe. |     | Tji. Nji. Qji. |     | Spi. Fpi. Dpi. |     | Fje. Sje. Dje. |     |
-| β             |   **eSTpo.**   | 5   |   **iSTjo.**   | 6   |   **iNFpy.**   | 7   |   **eNFjy.**   | 8   |
+| β             |   **eSTpo**    | 5   |   **iSTjo**    | 6   |   **iNFpy**    | 7   |   **eNFjy**    | 8   |
 | possible dom. | Spe. Tpe. Dpe. |     | Tji. Sji. Dji. |     | Npi. Fpi. Qpi. |     | Fje. Nje. Qje. |     |
-| γ             |   **eSFpo.**   | 9   |   **iSFjo.**   | 10  |   **iNTpy.**   | 11  |   **eNTjy.**   | 12  |
+| γ             |   **eSFpo**    | 9   |   **iSFjo**    | 10  |   **iNTpy**    | 11  |   **eNTjy**    | 12  |
 | possible dom. | Spe. Fpe. Qpe. |     | Fji. Sji. Qji. |     | Npi. Tpi. Dpi. |     | Tje. Nje. Dje. |     |
-| δ             |   **eNFpo.**   | 13  |   **iNFjo.**   | 14  |   **iSTpy.**   | 15  |   **eSTjy.**   | 16  |
+| δ             |   **eNFpo**    | 13  |   **iNFjo**    | 14  |   **iSTpy**    | 15  |   **eSTjy**    | 16  |
 | possible dom. | Npe. Fpe. Dpe. |     | Fji. Nji. Dji. |     | Spi. Tpi. Qpi. |     | Tje. Sje. Qje. |     |
 
 --------
