@@ -524,7 +524,7 @@ Worth noting that non-standard dominant functions do not require abstract static
 
 ### 11.4 Dominant-agnostic type names
 
-If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new OY dynamic-nondynamic axis notation so that iNTjo could not be mistaken with INTJ. iNTjo would have a static dominant function but INTJ has Ni-dom. that is a dynamic function. Also lowercase-uppercase would distinguish Gulenko's temperament from cognitive functions.
+If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new YO dynamic-nondynamic axis notation so that iNTjo could not be mistaken with INTJ. iNTjo would have a static dominant function but INTJ has Ni-dom. that is a dynamic function. Also lowercase-uppercase would distinguish Gulenko's temperament from cognitive functions.
 
 |               |     **pe**     |     |     **ji**     |     |     **pi**     |     |     **je**     |     |
 |:------------- |:--------------:| --- |:--------------:| --- |:--------------:| --- |:--------------:| --- |
@@ -536,6 +536,8 @@ If non-standard dominant Khizhnyak functions are real then type names should be 
 | possible dom. | Spe. Fpe. Qpe. |     | Fji. Sji. Qji. |     | Npi. Tpi. Dpi. |     | Tje. Nje. Dje. |     |
 | δ             |   **eNFpo**    | 13  |   **iNFjo**    | 14  |   **iSTpy**    | 15  |   **eSTjy**    | 16  |
 | possible dom. | Npe. Fpe. Dpe. |     | Fji. Nji. Dji. |     | Spi. Tpi. Qpi. |     | Tje. Sje. Qje. |     |
+
+Even if non-standard dominant Khizhnyak functions are not real this notation can still be used for classical Socionics types.
 
 --------
 
