@@ -19,6 +19,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 * [11. Symmetries of Reinin dichotomies and their connection to Khizhnyak functions and axes](#11-symmetries-of-reinin-dichotomies-and-their-connection-to-khizhnyak-functions-and-axes)
   - [11.1 Reinin dichotomies](#111-reinin-dichotomies)
   - [11.2 Khizhnyak functions and axes](#112-khizhnyak-functions-and-axes)
+  - [11.3 Non-standard dominant Khizhnyak functions](#113-non-standard-dominant-khizhnyak-functions)
 
 
 ## Summary
@@ -498,7 +499,7 @@ PS: Used: I E J P Y O S N F T Q D G B A X U. Free: C H K L M R V W Z
 
 There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that ESxP (Spe.dom.) types actually have very weak and vulnerable-like Nji. that governs consideration for all people even the "small" people (governs among other things). And that ENxP (Npe.dom.) types have very weak Sji. that amoung other thing governs monotonous sensory affairs.
 
-But if we take this hypothesis a bit further then we can even suggest that these new functions can be a dominant function. And there can be very unusual combinations of Gulenko's temperament (one of PE, JI, PI, JE) and dominant function (one of static-dynamic functions like No., Ny., To., Ty., etc.).
+But if we take this hypothesis a bit further then we can even suggest that these new functions can be dominant functions. And there can be very unusual combinations of Gulenko's temperament (one of PE, JI, PI, JE) and dominant function (one of static-dynamic functions like No., Ny., To., Ty., etc.).
 
 For example there might be a To.dom.entp. (Tpe.N.) or No.dom.intj. (Nji.T.). When classical Socionics combinations are No.dom.entp. (Npe.T.) and To.dom.intj. (Tji.N.).
 
