@@ -524,7 +524,7 @@ Worth noting that non-standard dominant functions do not require abstract static
 
 ### 11.4 Dominant-agnostic type names
 
-If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function:
+If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new OY dynamic-nondynamic axis notation so that iNTjo. could not be mistaken with INTJ. iNTjo. would have a static dominant function but INTJ has Ni-dom. that is a dynamic function. The table:   
 
 
 
