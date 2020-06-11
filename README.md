@@ -500,7 +500,7 @@ PS: Used: I E J P Y O S N F T Q D G B A X U. Free: C H K L M R V W Z
 
 There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that ESxP (Spe.dom.) types actually have very weak and vulnerable-like Nji. that governs consideration for all people even the "small" people (governs among other things). And that ENxP (Npe.dom.) types have very weak Sji. that amoung other thing governs monotonous sensory affairs.
 
-But if we take this hypothesis a bit further then we can even suggest that these new functions can be dominant functions. And there can be very unusual combinations of Gulenko's temperament (one of PE, JI, PI, JE) and dominant function (one of static-dynamic functions like No., Ny., To., Ty., etc.).
+But if we take this hypothesis a bit further then we can even suggest that these new functions can be dominant functions. And there can be very unusual combinations of Gulenko's temperament (one of PE, JI, PI, JE) and dominant function (one of static-dynamic functions like No., Ny., To., Ty., etc. - see previous section for details).
 
 For example there might be a To.dom.entp. (Tpe.N.) or No.dom.intj. (Nji.T.). When classical Socionics combinations are No.dom.entp. (Npe.T.) and To.dom.intj. (Tji.N.).
 
