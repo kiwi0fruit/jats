@@ -28,9 +28,9 @@ This is an alternative translation of the basic concepts of one of the braches o
 3. All cognitive functions are called **kinds of perceprion** and **kinds of judging**. “**Sensory perceprion**” is used instead of Sensing/Sensorics, “**Intuitive perceprion**” is used instead of Intuition, “**Task-oriented judging**” is used instead of Thinking/Logic, “**Feelings-oriented judging**” is used instead of Feeling/Ethics. I also like HBDI approach [en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument](https://en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument) that calls all them the kinds of thinking.
 4. Single-noun terms like **intuiter, sensor, feeler and tasker** are used (also **perceiver** and **judger**).
 5. **Rational/Irrational** names were replaced with **Judging/Perceiving** to make Socionics vs. MBTI contradictions more clear.
-6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INTJ⁠-⁠Ti-dom** vs. **INTP⁠-⁠Ni-dom** (or **Ti⁠N⁠-intj** vs. **Ni⁠T⁠-intp**) that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker. Extraverted types don't need explicit notation so very short names like **NeT** and **FeN** are used.
+6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **Ti⁠N⁠-intj** vs. **Ni⁠T⁠-intp** that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker. Extraverted types don't need explicit notation so very short names like **NeT** and **FeN** are used.
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types. The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
-8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx-1-2, uNTu-1~2** that are unknown and mixed types from NeT and TiN-intj (u stands for μ that stands for mean).
+8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx(1/2), uNTu(1~2)** that are unknown and mixed types from NeT and TiN-intj (u stands for μ that stands for mean).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT, Enthusiast for FeS, General for SeT, Poet for NiF-infp, **Inspirer** for FeN, **Foreseer** for NiT-intp, Entrepreneur for TeN, **Journalist** for NeF.
 11. The set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions is given. Together hypotheses give **Model A** as consequences. Bonus: **Cognitive functions descriptions per position in Model A (8x8 auto-translated table)**.
@@ -84,7 +84,7 @@ This approach is also useful in determining of 1-3 closest reference types witho
 
 ## 4. Socionics reference types names vs. MBTI types names
 
-In my translation of socionics types names to English the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (where MBTI J/P axis measures roughly the same as big Five conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti-dom is INTx that is one of two types INTJ/INTP (or their mixture).
+In my translation of socionics types names to English the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (where MBTI J/P axis measures roughly the same as big Five conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for TiN-intj is INTx that is one of two types INTJ/INTP (or their mixture).
 
 Short (and main) names like NeT and TiN-intj were obtained from cognitive functions stack (see 7. Model A chapter).
 
@@ -96,19 +96,19 @@ Names are in the following order:
 | quadra  | EP      | IJ           | IP           | EJ      |
 |:--------|:-------:|:------------:|:------------:|:-------:|
 | α Alpha | **NeT**, **1** | **TiN⁠-⁠intj**, **2** | **SiF⁠-⁠isfp**, **3** | **FeS**, **4** |
-|         | **ENTP⁠⁠-⁠⁠Ne⁠-⁠dom**,  ILE,  ENTP  | **INTJ⁠-⁠Ti⁠-⁠dom**,  LII,  INTx  | **ISFP⁠-⁠Si⁠-⁠dom**,  SEI,  ISFx  | **ESFJ⁠-⁠Fe⁠-⁠dom**,  ESE,  ESFJ  |
+|         | **NeT⁠⁠-⁠⁠entp**,  ILE,  ENTP  | **TiN⁠-⁠intj**,  LII,  INTx  | **SiF⁠-⁠isfp**,  SEI,  ISFx  | **FeS⁠-⁠esfj**,  ESE,  ESFJ  |
 |         | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & perceiving feeler   | dominant extraverted feeler & judging sensor   |
 | β Beta  | **SeT**, **5** | **TiS⁠-⁠istj**, **6** | **NiF⁠-⁠infp**, **7** | **FeN**, **8** |
-|         | **ESTP⁠-⁠Se⁠-⁠dom**,  SLE,  ESTP  | **ISTJ⁠-⁠Ti⁠-⁠dom**,  LSI,  ISTx  | **INFP⁠-⁠Ni⁠-⁠dom**,  IEI,  INFx  | **ENFJ⁠-⁠Fe⁠-⁠dom**,  EIE,  ENFJ  |
+|         | **SeT⁠-⁠estp**,  SLE,  ESTP  | **TiS⁠-⁠istj**,  LSI,  ISTx  | **NiF⁠-⁠infp**,  IEI,  INFx  | **FeN⁠-⁠enfj**,  EIE,  ENFJ  |
 |         | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
 | γ Gamma | **SeF**, **9** | **FiS⁠-⁠isfj**, **10** | **NiT⁠-⁠intp**, **11** | **TeN**, **12** |
-|         | **ESFP⁠-⁠Se⁠-⁠dom**,  SEE,  ESFP  | **ISFJ⁠-⁠Fi⁠-⁠dom**,  ESI,  ISFx | **INTP⁠-⁠Ni⁠-⁠dom**,  ILI,  INTx | **ENTJ⁠-⁠Te⁠-⁠dom**,  LIE,  ENTJ |
+|         | **SeF⁠-⁠esfp**,  SEE,  ESFP  | **FiS⁠-⁠isfj**,  ESI,  ISFx | **NiT⁠-⁠intp**,  ILI,  INTx | **TeN⁠-⁠entj**,  LIE,  ENTJ |
 |         | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
 | δ Delta | **NeF**, **13** | **FiN⁠-⁠infj**, **14** | **SiT⁠-⁠istp**, **15** | **TeS**, **16** |
-|         | **ENFP⁠-⁠Ne⁠-⁠dom**,  IEE,  ENFP | **INFJ⁠-⁠Fi⁠-⁠dom**,  EII,  INFx | **ISTP⁠-⁠Si⁠-⁠dom**,  SLI,  ISTx | **ESTJ⁠-⁠Te⁠-⁠dom**,  LSE,  ESTJ |
+|         | **NeF⁠-⁠enfp**,  IEE,  ENFP | **FiN⁠-⁠infj**,  EII,  INFx | **SiT⁠-⁠istp**,  SLI,  ISTx | **TeS⁠-⁠estj**,  LSE,  ESTJ |
 |         | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
 
-For example INTJ-Ti-dom / TiN-intj is *intuitive task-oriented judging introvert with dominant Ti* or *dominant introverted tasker & judging intuiter*.
+For example TiN-intj is *intuitive task-oriented judging introvert with dominant Ti* or *dominant introverted tasker & judging intuiter*.
 
 - **N** - intuitive, intuiter,
 - **S** - sensory, sensor,
@@ -177,7 +177,7 @@ It’s worth mentioning that the Socionics hypothesis of correlations between di
 
 So if we are talking about type of particular person not about reference types then using I/E and J/P dichotomies can be misleading or inaccurate. So the noting person’s dominant function is a better option. For example: Ne-dom, Ti-dom. Auxiliary function also worth noting but Socionics research shown that for example in case of Ne-dom and task-oriented thinking (T) both Te (8) and Ti (2) may play importaint role in assisting dominant Ne. So they both can be viewed as auxiliary function as Jung meant it (actually Jung didn’t say whether auxilary function for Ne-dom is Ti or Te). There need to be more invesigations on this topic but for now it’s more accurate to think that the auxilary function is just T, F, S or N withount specifying whether it is Te ot Ti, etc.
 
-***Explicit notation*** for Socionics types are **INTJ-Ti-dom** and **INTP-Ni-dom** **J**/**P** in Socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
+***Explicit notation*** for Socionics types are **TiN-intj** and **NiT-intp**. **J**/**P** in Socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And the first cognitive function is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
 
 
 ## 7. Model A
