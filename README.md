@@ -20,6 +20,7 @@ This is an alternative translation of the basic concepts of one of the braches o
   - [11.1 Reinin dichotomies](#111-reinin-dichotomies)
   - [11.2 Khizhnyak functions and axes](#112-khizhnyak-functions-and-axes)
   - [11.3 Non-standard dominant Khizhnyak functions](#113-non-standard-dominant-khizhnyak-functions)
+  - [11.4 Dominant-agnostic type names](#114-dominant-agnostic-type-names)
 
 
 ## Summary
@@ -516,9 +517,16 @@ So each of the static-dynamic functions can be under a temperament that could be
 
 So To.dom.entp. would have dominant drive of spontaneous proactivity concerning systems.
 
-More thought experiments on non-standard dominant functions is [here](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=http%3A%2F%2Fdanidin.ucoz.net%2Findex%2Fzazerkalnaja_socionika%2F0-56&sandbox=1) (Autotranslated. And [original in Russian](http://danidin.ucoz.net/index/zazerkalnaja_socionika/0-56)).
+More thought experiments on non-standard dominant functions is [**here**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=http%3A%2F%2Fdanidin.ucoz.net%2Findex%2Fzazerkalnaja_socionika%2F0-56&sandbox=1) (Autotranslated. And [original in Russian](http://danidin.ucoz.net/index/zazerkalnaja_socionika/0-56)).
 
 Worth noting that non-standard dominant functions do not require abstract static-dynamic functions. Underlying cognitive functions can actually have EI and PJ roots in them that make some combination manifestations more common. For example if NS functions stem from some more ancient instinctual subsystem of the brain. And TF stem from more young and impuls-controlling subsystem. But the brain can be flexible enough to be PE temperament that is more instinctual but actually have dominant To. that's from the impuls-controlling subsystem. Like Npe. part is a thin proxy to the Tpe.
+
+
+### 11.4 Dominant-agnostic type names
+
+If non-standard dominant Khizhnyak functions are real then type names should be revised:
+
+
 
 --------
 
