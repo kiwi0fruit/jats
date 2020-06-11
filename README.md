@@ -367,10 +367,10 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 
 | **Unknown types** | **Meaning of unknown types**           | **Mixed type** |
 |:-----------------:|:--------------------------------------:|:--------------:|
-| ExTJ-12-16        | TeN v TeS v EuTJ-12~16 v ...           | EuTJ-12~16     |
-| ENxJ-8-12         | TeN v FeN v ENuJ-8~12 v ...            | ENuJ-8~12      |
-| INTx-2-11         | TiN-intj v NiT-intp v INTu-2~11 v ...  | INTu-2~11      |
-| IxTJ-2-6          | TiN-intj v TiS-istj v IuTJ-2~6 v ...   | IuTJ-2~6       |
+| ExTJ(12v16)       | TeN v TeS v EuTJ(12=16) v ...            | EuTJ(12=16)   |
+| ENxJ(8v12)        | TeN v FeN v ENuJ(8=12) v ...            | ENuJ(8=12)     |
+| INTx(2v11)        | TiN-intj v NiT-intp v INTu(2=11) v ... | INTu(2=11)     |
+| IxTJ(2v6)         | TiN-intj v TiS-istj v IuTJ-2~6 v ...   | IuTJ-2~6       |
 | xNTx-1-2          | NeT v TiN-intj v uNTu-1~2 v ...        | uNTu-1~2       |
 | xNTJ-2-12         | TeN v TiN-intj v uNTJ-2~12 v ...       | uNTJ-2~12      |
 | INxJ-2-14         | TiN-intj v FiN-infj v INuJ-2~14 v ...  | INuJ-2~14      |
