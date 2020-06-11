@@ -368,22 +368,22 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 | **Unknown types** | **Meaning of unknown types**           | **Mixed type** |
 |:-----------------:|:--------------------------------------:|:--------------:|
 | ExTJ(12&vert;16)  | TeN v TeS v EuTJ(12~16) v ...          | EuTJ(12~16)    |
-| ENxJ(8vert;12)    | TeN v FeN v ENuJ(8~12) v ...           | ENuJ(8~12)     |
-| INTx(2vert;11)    | TiN-intj v NiT-intp v INTu(2~11) v ... | INTu(2~11)     |
-| IxTJ(2vert;6)     | TiN-intj v TiS-istj v IuTJ(2~6) v ...  | IuTJ(2~6)      |
-| xNTx(1vert;2)     | NeT v TiN-intj v uNTu(1~2) v ...       | uNTu(1~2)      |
-| xNTJ(2vert;12)    | TeN v TiN-intj v uNTJ(2~12) v ...      | uNTJ(2~12)     |
-| INxJ(2vert;14)    | TiN-intj v FiN-infj v INuJ-2~14 v ...  | INuJ-2~14      |
-| IxTx(2vert;15)    | TiN-intj v SiT-istp v IuTu-2~15 v ...  | IuTu-2~15      |
-| INxx(2vert;7)     | TiN-intj v NiF-infp v INuu-2~7 v ...   | INuu-2~7       |
-| IxxJ(2vert;10)    | TiN-intj v FiS-isfj v IuuJ-2~10 v ...  | IuuJ-2~10      |
-| ENxP(1vert;1~13)  | NeT v ENuP-1~13 v ... (not NeF)        | NeT-13to1      |
-| xNTx(2vert;1~2)   | TiN-intj v uNTu-1~2 v ... (not NeT)    | TiN-1to2       |
-| IxTJ(2vert;2~6)   | TiN-intj v IuTJ-2~6 v ... (not TiS-istj) | TiN-6to2     |
-| Ad.N(1vert;2vert;13vert;14) | TiN-intj v NeT v FiN-infj v NeF v ENuP-1~13 v ...               | ? |
-| Bg.I(6vert;7vert;10vert;11) | TiS-istj v NiF-infp v FiS-isfj v NiT-intp v INuP-7~11 v ...     | ? |
-| xNxP(1vert;7vert;11vert;13) | NeT v NiF-infp v NiT-intp v NeF v ENuP-1\~13 v INuP-7\~11 v ... | ? |
-| IxTx(2vert;6vert;11vert;15) | TiN-intj v TiS-istj v NiT-intp v SiT-istp v IuTJ-2~6 v ...      | ? |
+| ENxJ(8&vert;12)   | TeN v FeN v ENuJ(8~12) v ...           | ENuJ(8~12)     |
+| INTx(2&vert;11)   | TiN-intj v NiT-intp v INTu(2~11) v ... | INTu(2~11)     |
+| IxTJ(2&vert;6)    | TiN-intj v TiS-istj v IuTJ(2~6) v ...  | IuTJ(2~6)      |
+| xNTx(1&vert;2)    | NeT v TiN-intj v uNTu(1~2) v ...       | uNTu(1~2)      |
+| xNTJ(2&vert;12)   | TeN v TiN-intj v uNTJ(2~12) v ...      | uNTJ(2~12)     |
+| INxJ(2&vert;14)   | TiN-intj v FiN-infj v INuJ-2~14 v ...  | INuJ-2~14      |
+| IxTx(2&vert;15)   | TiN-intj v SiT-istp v IuTu-2~15 v ...  | IuTu-2~15      |
+| INxx(2&vert;7)    | TiN-intj v NiF-infp v INuu-2~7 v ...   | INuu-2~7       |
+| IxxJ(2&vert;10)   | TiN-intj v FiS-isfj v IuuJ-2~10 v ...  | IuuJ-2~10      |
+| ENxP(1&vert;1~13) | NeT v ENuP-1~13 v ... (not NeF)        | NeT-13to1      |
+| xNTx(2&vert;1~2)  | TiN-intj v uNTu-1~2 v ... (not NeT)    | TiN-1to2       |
+| IxTJ(2&vert;2~6)  | TiN-intj v IuTJ-2~6 v ... (not TiS-istj) | TiN-6to2     |
+| Ad.N(1&vert;2&vert;13&vert;14) | TiN-intj v NeT v FiN-infj v NeF v ENuP-1~13 v ...               | ? |
+| Bg.I(6&vert;7&vert;10&vert;11) | TiS-istj v NiF-infp v FiS-isfj v NiT-intp v INuP-7~11 v ...     | ? |
+| xNxP(1&vert;7&vert;11&vert;13) | NeT v NiF-infp v NiT-intp v NeF v ENuP-1\~13 v INuP-7\~11 v ... | ? |
+| IxTx(2&vert;6&vert;11&vert;15) | TiN-intj v TiS-istj v NiT-intp v SiT-istp v IuTJ-2~6 v ...      | ? |
 
 
 ## 10. Further reading and notable discussions
