@@ -524,9 +524,9 @@ Worth noting that non-standard dominant functions do not require abstract static
 
 ### 11.4 Dominant-agnostic type names
 
-If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new YO dynamic-nondynamic axis notation so that iNTjo could not be mistaken with INTJ. iNTjo would have **ji** Gulenko's Temperament (balanced-stable) be rational and introverted and have a static dominant function. But INTJ has Ni-dom. that is a dynamic function. Also lowercase-uppercase would distinguish Gulenko's temperament from cognitive functions.
+If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new YO dynamic-nondynamic axis notation so that iNTjo could not be mistaken with INTJ. iNTjo would have **jio** Gulenko's Temperament (balanced-stable) be rational and introverted and have a static dominant function. But INTJ has Ni-dom. that is a dynamic function. Also lowercase-uppercase would distinguish Gulenko's temperament from cognitive functions.
 
-|               |     **pe**     |     |     **ji**     |     |     **pi**     |     |     **je**     |     |
+|               |     **peo**    |     |     **jio**    |     |     **piy**    |     |     **jey**    |     |
 |:------------- |:--------------:| --- |:--------------:| --- |:--------------:| --- |:--------------:| --- |
 | α             |   **eNTpo**    | 1   |   **iNTjo**    | 2   |   **iSFpy**    | 3   |   **eSFjy**    | 4   |
 | possible dom. | Npe. Tpe. Qpe. |     | Tji. Nji. Qji. |     | Spi. Fpi. Dpi. |     | Fje. Sje. Dje. |     |
