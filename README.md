@@ -345,7 +345,7 @@ So this can be seen that these 4 types has the same 4 most valued functions (1st
 | Beta        | 1Se2Ti-8Te-5Ni6Fe | 1Ti2Se-8Si-5Fe6Ni | 1Ni2Fe-8Fi-5Se6Ti | 1Fe2Ni-8Ne-5Ti6Se |
 | **B β b**   | **SeT** | **TiS⁠-⁠istj** | **NiF⁠-⁠infp** | **FeN** |
 | Gamma       | 1Se2Fi-8Fe-5Ni6Te | 1Fi2Se-8Si-5Te6Ni | 1Ni2Te-8Ti-5Se6Fi | 1Te2Ni-8Ne-5Fi6Se |
-| **G γ g**   | **SeF** | **FiS⁠-⁠isfj** | **NiT⁠-⁠intp** | **TeN** |
+| **Γ G γ g** | **SeF** | **FiS⁠-⁠isfj** | **NiT⁠-⁠intp** | **TeN** |
 | Delta       | 1Ne2Fi-8Fe-5Si6Te | 1Fi2Ne-8Ni-5Te6Si | 1Si2Te-8Ti-5Ne6Fi | 1Te2Si-8Se-5Fi6Ne |
 | **Δ D δ d** | **NeF** | **FiN⁠-⁠infj** | **SiT⁠-⁠istp** | **TeS** |
 
