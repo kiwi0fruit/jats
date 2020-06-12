@@ -465,20 +465,20 @@ Alt. names are made of Gulenko's temperament.
 
 In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (n**o**ndynamic-d**y**namic) functions that lack IE and JP flavour:
 
-|         | Abbr. | Is abstracted from |
-|:-------:|:-----:|:----------------|
-| static  | No.   | Noep. and Noij. |
-| dynamic | Ny.   | Nyip. and Nyej. |
-| static  | So.   | Soep. and Soij. |
-| dynamic | Sy.   | Syip. and Syej. |
-| static  | To.   | Toep. and Toij. |
-| dynamic | Ty.   | Tyip. and Tyej. |
-| static  | Fo.   | Foep. and Foij. |
-| dynamic | Fy.   | Fyip. and Fyej. |
-| static  | Qo.   | Qoep. and Qoij. |
-| dynamic | Qy.   | Qyip. and Qyej. |
-| static  | Do.   | Doep. and Doij. |
-| dynamic | Dy.   | Dyip. and Dyej. |
+|         | Abbr. | Alt.       | Is abstracted from |
+|:-------:|:-----:|:------------- |:--------------- |
+| static  | No.   | N<sub>o</sub> | Noep. and Noij. |
+| dynamic | Ny.   | N<sub>y</sub> | Nyip. and Nyej. |
+| static  | So.   | S<sub>o</sub> | Soep. and Soij. |
+| dynamic | Sy.   | S<sub>y</sub> | Syip. and Syej. |
+| static  | To.   | T<sub>o</sub> | Toep. and Toij. |
+| dynamic | Ty.   | T<sub>y</sub> | Tyip. and Tyej. |
+| static  | Fo.   | F<sub>o</sub> | Foep. and Foij. |
+| dynamic | Fy.   | F<sub>y</sub> | Fyip. and Fyej. |
+| static  | Qo.   | Q<sub>o</sub> | Qoep. and Qoij. |
+| dynamic | Qy.   | Q<sub>y</sub> | Qyip. and Qyej. |
+| static  | Do.   | D<sub>o</sub> | Doep. and Doij. |
+| dynamic | Dy.   | D<sub>y</sub> | Dyip. and Dyej. |
 
 Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
