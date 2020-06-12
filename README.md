@@ -448,20 +448,20 @@ Alt. names are made of Gulenko's temperament.
 
 | Axis     | Alt. names   | Func. relation |
 |:---------|:------------ |:-------------- |
-| SJI=>NPE | Soij.=>Noep. | -Soij=Noep     |
-| SPE=>NJI | Soep.=>Noij. | -Soep=Noij     |
-| SJE=>NPI | Syej.=>Nyip. | -Syej=Nyip     |
-| SPI=>NJE | Syip.=>Nyej. | -Syip=Nyej     |
-|          |              |                |
-| FJI=>TPE | Foij.=>Toep. | -Foij=Toep     |
-| FPE=>TJI | Foep.=>Toij. | -Foep=Toij     |
-| FJE=>TPI | Fyej.=>Tyip. | -Fyej=Tyip     |
-| FPI=>TJE | Fyip.=>Tyej. | -Fyip=Tyej     |
-|          |              |                |
-| DJI=>QPE | Doij.=>Qoep. | -Doij=Qoep     |
-| DPE=>QJI | Doep.=>Qoij. | -Doep=Qoij     |
-| DJE=>QPI | Dyej.=>Qyip. | -Dyej=Qyip     |
-| DPI=>QJE | Dyip.=>Qyej. | -Dyip=Qyej     |
+| SJI=>NPE | Soij.=>Noep. | -S<sub>oij</sub>=N<sub>oep</sub> |
+| SPE=>NJI | Soep.=>Noij. | -S<sub>oep</sub>=N<sub>oij</sub> |
+| SJE=>NPI | Syej.=>Nyip. | -S<sub>yej</sub>=N<sub>yip</sub> |
+| SPI=>NJE | Syip.=>Nyej. | -S<sub>yip</sub>=N<sub>yej</sub> |
+|          |              |                                  |
+| FJI=>TPE | Foij.=>Toep. | -F<sub>oij</sub>=T<sub>oep</sub> |
+| FPE=>TJI | Foep.=>Toij. | -F<sub>oep</sub>=T<sub>oij</sub> |
+| FJE=>TPI | Fyej.=>Tyip. | -F<sub>yej</sub>=T<sub>yip</sub> |
+| FPI=>TJE | Fyip.=>Tyej. | -F<sub>yip</sub>=T<sub>yej</sub> |
+|          |              |                                  |
+| DJI=>QPE | Doij.=>Qoep. | -D<sub>oij</sub>=Q<sub>oep</sub> |
+| DPE=>QJI | Doep.=>Qoij. | -D<sub>oep</sub>=Q<sub>oij</sub> |
+| DJE=>QPI | Dyej.=>Qyip. | -D<sub>yej</sub>=Q<sub>yip</sub> |
+| DPI=>QJE | Dyip.=>Qyej. | -D<sub>yip</sub>=Q<sub>yej</sub> |
 
 In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (n**o**ndynamic-d**y**namic) functions that lack IE and JP flavour:
 
@@ -514,7 +514,7 @@ There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak func
 
 But if we take this hypothesis a bit further then we can even suggest that these new functions can be dominant functions. And there can be very unusual combinations of Gulenko's temperament (one of OEP, OIJ, YIP, YEJ) and dominant function (one of static-dynamic functions like No., Ny., To., Ty., etc. - see previous section for details).
 
-For example there might be a To.dom.entp. (Toep.N.) or No.dom.intj. (Noij.T.). When classical Socionics combinations are No.dom.entp. (Noep.T.) and To.dom.intj. (Toij.N.).
+For example there might be a To.dom.entp. (T<sub>oep</sub>N) or No.dom.intj. (N<sub>oij</sub>T). When classical Socionics combinations are No.dom.entp. (N<sub>oep</sub>T) and To.dom.intj. (T<sub>oij</sub>N).
 
 To.dom.entp. would have strong Noep. and Toep. (and Qoep. but that's irrelevant for now) and would by default be in OEP Noep. perception state but the most valued function that defines person's goals would still be Toep.
 
