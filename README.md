@@ -522,10 +522,10 @@ If No.dom.entp. would have curiosity and novelty seeking Noep. as central domina
 
 So each of the static-dynamic functions can be under a temperament that could be described approximately like (just a random classification that most likely is wrong):
 
-* OEP - spontaneous proactivity,
-* YEJ - rigid proactivity,
-* OIJ - rigid reactivity,
-* YIP - spontaneous reactivity (aka adaptivity).
+* OEP - spontaneous proactivity (flexible-maneuvering),
+* YEJ - rigid proactivity (linear-assertive),
+* OIJ - rigid reactivity (balanced stable),
+* YIP - spontaneous reactivity aka adaptivity (receptive-adaptive).
 
 So To.dom.entp. would have dominant drive of spontaneous proactivity concerning systems.
 
