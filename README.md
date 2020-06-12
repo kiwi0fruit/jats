@@ -65,6 +65,11 @@ But there are some differences between definitions of **cognitive functions** in
 - **Fe** - _Extraverted feelings-oriented judging_. Modifying the mood and the emotional state of people hence manipulating their activities (e.g. by means of inspiration and enthusiasm). Modifying group activity is specifically important.
 - **Fi** - _Introverted feelings-oriented judging_. Moral judgment and evaluation, building relationships, synchronization of attitude towards something in a group of people, morality.
 
+Another useful section of the functions is:
+
+- [**dYnamic** functions (**Y**)] Ni, Si, Te, Fe vs.
+- [**nOndynamic** static functions (**O**)] Ne, Se, Ti, Fi (see [Model A chapter](#7-model-a) for more details).
+
 Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se and Si are good at dealing with physical qualities. Both strong Ne and Ni are good at dealing with associations.
 
 
