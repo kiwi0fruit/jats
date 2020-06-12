@@ -543,16 +543,17 @@ Worth noting that non-standard dominant functions do not require abstract static
 
 If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new YO dynamic-nondynamic axis notation so that INTJO could not be mistaken with INTJ. INTJO would have JIO Gulenko's Temperament (balanced-stable) be rational and introverted and have a static dominant function. But INTJ has dominant Ni that is a dynamic function.
 
-|               |     **PEO**      |    |     **JIO**    |    |     **PIY**    |    |     **JEY**    |    |
-|:------------- |:----------------:| -- |:--------------:| -- |:--------------:| -- |:--------------:| -- |
-| α             | **ENTPO entpo. <sub>e</sub>NT<sub>po</sub>** | 1  | **INTJO intjo. <sub>i</sub>NT<sub>jo</sub>** | 2  | **ISFPY isfpy. <sub>i</sub>SF<sub>py</sub>** | 3  | **ESFJY esfjy. <sub>e</sub>SF<sub>jy</sub>** | 4  |
+|               |     **PEO**      |    |     **JIO**      |    |     **PIY**      |    |     **JEY**      |    |
+|:------------- |:----------------:| -- |:----------------:| -- |:----------------:| -- |:----------------:| -- |
+| α             | **ENTPO entpo.** | 1  | **INTJO intjo.** | 2  | **ISFPY isfpy.** | 3  | **ESFJY esfjy.** | 4  |
 | possible dom. | N<sub>peo</sub> T<sub>peo</sub> Q<sub>peo</sub> |    | T<sub>jio</sub> N<sub>jio</sub> Q<sub>jio</sub> |    | S<sub>piy</sub> F<sub>piy</sub> D<sub>piy</sub> |    | F<sub>jey</sub> S<sub>jey</sub> D<sub>jey</sub> |    |
-| β             | **ESTPO estpo. <sub>e</sub>ST<sub>po</sub>** | 5  | **ISTJO istjo. <sub>i</sub>ST<sub>jo</sub>** | 6  | **INFPY infpy. <sub>i</sub>NF<sub>py</sub>** | 7  | **ENFJY enfjy. <sub>e</sub>NF<sub>jy</sub>** | 8  |
+| β             | **ESTPO estpo.** | 5  | **ISTJO istjo.** | 6  | **INFPY infpy.** | 7  | **ENFJY enfjy.** | 8  |
 | possible dom. | S<sub>peo</sub> T<sub>peo</sub> D<sub>peo</sub> |    | T<sub>jio</sub> S<sub>jio</sub> D<sub>jio</sub> |    | N<sub>piy</sub> F<sub>piy</sub> Q<sub>piy</sub> |    | F<sub>jey</sub> N<sub>jey</sub> Q<sub>jey</sub> |    |
-| γ             | **ESFPO esfpo. <sub>e</sub>SF<sub>po</sub>** | 9  | **ISFJO isfjo. <sub>i</sub>SF<sub>jo</sub>** | 10 | **INTPY intpy. <sub>i</sub>NT<sub>py</sub>** | 11 | **ENTJY entjy. <sub>e</sub>NT<sub>jy</sub>** | 12 |
+| γ             | **ESFPO esfpo.** | 9  | **ISFJO isfjo.** | 10 | **INTPY intpy.** | 11 | **ENTJY entjy.** | 12 |
 | possible dom. | S<sub>peo</sub> F<sub>peo</sub> Q<sub>peo</sub> |    | F<sub>jio</sub> S<sub>jio</sub> Q<sub>jio</sub> |    | N<sub>piy</sub> T<sub>piy</sub> D<sub>piy</sub> |    | T<sub>jey</sub> N<sub>jey</sub> D<sub>jey</sub> |    |
-| δ             | **ENFPO enfpo. <sub>e</sub>NF<sub>po</sub>** | 13 | **INFJO infjo. <sub>i</sub>NF<sub>jo</sub>** | 14 | **ISTPY istpy. <sub>i</sub>ST<sub>py</sub>** | 15 | **ESTJY estjy. <sub>e</sub>ST<sub>jy</sub>** | 16 |
+| δ             | **ENFPO enfpo.** | 13 | **INFJO infjo.** | 14 | **ISTPY istpy.** | 15 | **ESTJY estjy.** | 16 |
 | possible dom. | N<sub>peo</sub> F<sub>peo</sub> D<sub>peo</sub> |    | F<sub>jio</sub> N<sub>jio</sub> D<sub>jio</sub> |    | S<sub>piy</sub> T<sub>piy</sub> Q<sub>piy</sub> |    | T<sub>jey</sub> S<sub>jey</sub> Q<sub>jey</sub> |    |
+
 
 Even if non-standard dominant Khizhnyak functions are not real this notation can still be used for classical Socionics types.
 
