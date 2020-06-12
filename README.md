@@ -102,7 +102,7 @@ Names are in the following order:
 
 Types are grouped by Quadras and Gulenkos' Temperaments.
 
-| quadra / temper. | PEO      | JIO           | PIO           | JEO      |
+| quadra / temper. | PEO      | JIO           | PIY           | JEY      |
 |:--------|:-------:|:------------:|:------------:|:-------:|
 | α Alpha | **NeT**, **1** | **TiN⁠-⁠intj**, **2** | **SiF⁠-⁠isfp**, **3** | **FeS**, **4** |
 |         | **NeT⁠⁠-⁠⁠entp**,  ILE,  ENTP  | **TiN⁠-⁠intj**,  LII,  INTx  | **SiF⁠-⁠isfp**,  SEI,  ISFx  | **FeS⁠-⁠esfj**,  ESE,  ESFJ  |
