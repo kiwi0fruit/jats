@@ -339,15 +339,15 @@ So the functions the type values most are 1-dominant, 2-supporting and 5-suggest
 So this can be seen that these 4 types has the same 4 most valued functions (1st, 2nd, 5th, 6th):
 
 | **quadra / temper.** | **peo**  | **jio**       | **piy**       | **jey**  |
-|:-----------|:--------|:-------------|:-------------|:--------|
-| α Alpha    | 1Ne2Ti-8Te-5Si6Fe | 1Ti2Ne-8Ni-5Fe6Si | 1Si2Fe-8Fi-5Ne6Ti | 1Fe2Si-8Se-5Ti6Ne |
-| **A**      | **NeT** | **TiN⁠-⁠intj** | **SiF⁠-⁠isfp** | **FeS** |
-| β Beta     | 1Se2Ti-8Te-5Ni6Fe | 1Ti2Se-8Si-5Fe6Ni | 1Ni2Fe-8Fi-5Se6Ti | 1Fe2Ni-8Ne-5Ti6Se |
-| **B**      | **SeT** | **TiS⁠-⁠istj** | **NiF⁠-⁠infp** | **FeN** |
-| γ Gamma    | 1Se2Fi-8Fe-5Ni6Te | 1Fi2Se-8Si-5Te6Ni | 1Ni2Te-8Ti-5Se6Fi | 1Te2Ni-8Ne-5Fi6Se |
-| **G**      | **SeF** | **FiS⁠-⁠isfj** | **NiT⁠-⁠intp** | **TeN** |
-| δ Delta    | 1Ne2Fi-8Fe-5Si6Te | 1Fi2Ne-8Ni-5Te6Si | 1Si2Te-8Ti-5Ne6Fi | 1Te2Si-8Se-5Fi6Ne |
-| **D**      | **NeF** | **FiN⁠-⁠infj** | **SiT⁠-⁠istp** | **TeS** |
+|:------------|:--------|:-------------|:-------------|:--------|
+| Alpha       | 1Ne2Ti-8Te-5Si6Fe | 1Ti2Ne-8Ni-5Fe6Si | 1Si2Fe-8Fi-5Ne6Ti | 1Fe2Si-8Se-5Ti6Ne |
+| **A α a**   | **NeT** | **TiN⁠-⁠intj** | **SiF⁠-⁠isfp** | **FeS** |
+| Beta        | 1Se2Ti-8Te-5Ni6Fe | 1Ti2Se-8Si-5Fe6Ni | 1Ni2Fe-8Fi-5Se6Ti | 1Fe2Ni-8Ne-5Ti6Se |
+| **B β b**   | **SeT** | **TiS⁠-⁠istj** | **NiF⁠-⁠infp** | **FeN** |
+| Gamma       | 1Se2Fi-8Fe-5Ni6Te | 1Fi2Se-8Si-5Te6Ni | 1Ni2Te-8Ti-5Se6Fi | 1Te2Ni-8Ne-5Fi6Se |
+| **G γ g**   | **SeF** | **FiS⁠-⁠isfj** | **NiT⁠-⁠intp** | **TeN** |
+| Delta       | 1Ne2Fi-8Fe-5Si6Te | 1Fi2Ne-8Ni-5Te6Si | 1Si2Te-8Ti-5Ne6Fi | 1Te2Si-8Se-5Fi6Ne |
+| **Δ D δ d** | **NeF** | **FiN⁠-⁠infj** | **SiT⁠-⁠istp** | **TeS** |
 
 It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
