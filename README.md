@@ -482,7 +482,7 @@ In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (
 
 Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
-|     |             | Noep. | Noij. | Nyip. | Nyej. | Soep. | Soij. | Syip. | Syej. | | Toep. | Toij. | Tyip. | Tyej. | Foep. | Foij. | Fyip. | Fyej. | | Qoep. | Qoij. | Qyip. | Qyej. | Doep. | Doij. | Dyip. | Dyej. |
+|     |             | N<sub>oep</sub> | N<sub>oij</sub> | N<sub>yip</sub> | N<sub>yej</sub> | S<sub>oep</sub> | S<sub>oij</sub> | S<sub>yip</sub> | S<sub>yej</sub> | | T<sub>oep</sub> | T<sub>oij</sub> | T<sub>yip</sub> | T<sub>yej</sub> | F<sub>oep</sub> | F<sub>oij</sub> | F<sub>yip</sub> | F<sub>yej</sub> | | Q<sub>oep</sub> | Q<sub>oij</sub> | Q<sub>yip</sub> | Q<sub>yej</sub> | D<sub>oep</sub> | D<sub>oij</sub> | D<sub>yip</sub> | D<sub>yej</sub> |
 | --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     |             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
