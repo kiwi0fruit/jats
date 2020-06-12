@@ -102,7 +102,7 @@ Names are in the following order:
 
 Types are grouped by Quadras and Gulenkos' Temperaments.
 
-| quadra / temper. | OEP      | OIJ           | YIP           | YEJ      |
+| quadra / temper. | PEO      | JIO           | PIY           | JEY      |
 |:--------|:-------:|:------------:|:------------:|:-------:|
 | α Alpha | **NeT**, **1** | **TiN⁠-⁠intj**, **2** | **SiF⁠-⁠isfp**, **3** | **FeS**, **4** |
 |         | **NeT⁠⁠-⁠⁠entp**,  ILE,  ENTP  | **TiN⁠-⁠intj**,  LII,  INTx  | **SiF⁠-⁠isfp**,  SEI,  ISFx  | **FeS⁠-⁠esfj**,  ESE,  ESFJ  |
@@ -338,7 +338,7 @@ So the functions the type values most are 1-dominant, 2-supporting and 5-suggest
 
 So this can be seen that these 4 types has the same 4 most valued functions (1st, 2nd, 5th, 6th):
 
-| **quadra / temper.** | **OEP**  | **OIJ**       | **YIP**       | **YEJ**  |
+| **quadra / temper.** | **PEO**  | **JIO**       | **PIY**       | **JEY**  |
 |:------------|:--------|:-------------|:-------------|:--------|
 | Alpha       | 1Ne2Ti-8Te-5Si6Fe | 1Ti2Ne-8Ni-5Fe6Si | 1Si2Fe-8Fi-5Ne6Ti | 1Fe2Si-8Se-5Ti6Ne |
 | **A α a**   | **NeT** | **TiN⁠-⁠intj** | **SiF⁠-⁠isfp** | **FeS** |
@@ -448,41 +448,41 @@ Alt. names are made of Gulenko's temperament.
 
 | Axis     | Alt. names   | Func. relation |
 |:---------|:------------ |:-------------- |
-| SJI=>NPE | Soij.=>Noep. | -S<sub>oij</sub>=N<sub>oep</sub> |
-| SPE=>NJI | Soep.=>Noij. | -S<sub>oep</sub>=N<sub>oij</sub> |
-| SJE=>NPI | Syej.=>Nyip. | -S<sub>yej</sub>=N<sub>yip</sub> |
-| SPI=>NJE | Syip.=>Nyej. | -S<sub>yip</sub>=N<sub>yej</sub> |
+| SJI=>NPE | Sjio.=>Npeo. | -S<sub>jio</sub>=N<sub>peo</sub> |
+| SPE=>NJI | Speo.=>Njio. | -S<sub>peo</sub>=N<sub>jio</sub> |
+| SJE=>NPI | Sjey.=>Npiy. | -S<sub>jey</sub>=N<sub>piy</sub> |
+| SPI=>NJE | Spiy.=>Njey. | -S<sub>piy</sub>=N<sub>jey</sub> |
 |          |              |                                  |
-| FJI=>TPE | Foij.=>Toep. | -F<sub>oij</sub>=T<sub>oep</sub> |
-| FPE=>TJI | Foep.=>Toij. | -F<sub>oep</sub>=T<sub>oij</sub> |
-| FJE=>TPI | Fyej.=>Tyip. | -F<sub>yej</sub>=T<sub>yip</sub> |
-| FPI=>TJE | Fyip.=>Tyej. | -F<sub>yip</sub>=T<sub>yej</sub> |
+| FJI=>TPE | Fjio.=>Tpeo. | -F<sub>jio</sub>=T<sub>peo</sub> |
+| FPE=>TJI | Fpeo.=>Tjio. | -F<sub>peo</sub>=T<sub>jio</sub> |
+| FJE=>TPI | Fjey.=>Tpiy. | -F<sub>jey</sub>=T<sub>piy</sub> |
+| FPI=>TJE | Fpiy.=>Tjey. | -F<sub>piy</sub>=T<sub>jey</sub> |
 |          |              |                                  |
-| DJI=>QPE | Doij.=>Qoep. | -D<sub>oij</sub>=Q<sub>oep</sub> |
-| DPE=>QJI | Doep.=>Qoij. | -D<sub>oep</sub>=Q<sub>oij</sub> |
-| DJE=>QPI | Dyej.=>Qyip. | -D<sub>yej</sub>=Q<sub>yip</sub> |
-| DPI=>QJE | Dyip.=>Qyej. | -D<sub>yip</sub>=Q<sub>yej</sub> |
+| DJI=>QPE | Djio.=>Qpeo. | -D<sub>jio</sub>=Q<sub>peo</sub> |
+| DPE=>QJI | Dpeo.=>Qjio. | -D<sub>peo</sub>=Q<sub>jio</sub> |
+| DJE=>QPI | Djey.=>Qpiy. | -D<sub>jey</sub>=Q<sub>piy</sub> |
+| DPI=>QJE | Dpiy.=>Qjey. | -D<sub>piy</sub>=Q<sub>jey</sub> |
 
 In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (n**o**ndynamic-d**y**namic) functions that lack IE and JP flavour:
 
 |         | Abbr. | Alt.       | Is abstracted from |
 |:-------:|:-----:|:------------- |:--------------- |
-| static  | No.   | N<sub>o</sub> | Noep. and Noij. |
-| dynamic | Ny.   | N<sub>y</sub> | Nyip. and Nyej. |
-| static  | So.   | S<sub>o</sub> | Soep. and Soij. |
-| dynamic | Sy.   | S<sub>y</sub> | Syip. and Syej. |
-| static  | To.   | T<sub>o</sub> | Toep. and Toij. |
-| dynamic | Ty.   | T<sub>y</sub> | Tyip. and Tyej. |
-| static  | Fo.   | F<sub>o</sub> | Foep. and Foij. |
-| dynamic | Fy.   | F<sub>y</sub> | Fyip. and Fyej. |
-| static  | Qo.   | Q<sub>o</sub> | Qoep. and Qoij. |
-| dynamic | Qy.   | Q<sub>y</sub> | Qyip. and Qyej. |
-| static  | Do.   | D<sub>o</sub> | Doep. and Doij. |
-| dynamic | Dy.   | D<sub>y</sub> | Dyip. and Dyej. |
+| static  | No.   | N<sub>o</sub> | Npeo. and Njio. |
+| dynamic | Ny.   | N<sub>y</sub> | Npiy. and Njey. |
+| static  | So.   | S<sub>o</sub> | Speo. and Sjio. |
+| dynamic | Sy.   | S<sub>y</sub> | Spiy. and Sjey. |
+| static  | To.   | T<sub>o</sub> | Tpeo. and Tjio. |
+| dynamic | Ty.   | T<sub>y</sub> | Tpiy. and Tjey. |
+| static  | Fo.   | F<sub>o</sub> | Fpeo. and Fjio. |
+| dynamic | Fy.   | F<sub>y</sub> | Fpiy. and Fjey. |
+| static  | Qo.   | Q<sub>o</sub> | Qpeo. and Qjio. |
+| dynamic | Qy.   | Q<sub>y</sub> | Qpiy. and Qjey. |
+| static  | Do.   | D<sub>o</sub> | Dpeo. and Djio. |
+| dynamic | Dy.   | D<sub>y</sub> | Dpiy. and Djey. |
 
 Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
-|     |             | N<sub>oep</sub> | N<sub>oij</sub> | N<sub>yip</sub> | N<sub>yej</sub> | S<sub>oep</sub> | S<sub>oij</sub> | S<sub>yip</sub> | S<sub>yej</sub> | | T<sub>oep</sub> | T<sub>oij</sub> | T<sub>yip</sub> | T<sub>yej</sub> | F<sub>oep</sub> | F<sub>oij</sub> | F<sub>yip</sub> | F<sub>yej</sub> | | Q<sub>oep</sub> | Q<sub>oij</sub> | Q<sub>yip</sub> | Q<sub>yej</sub> | D<sub>oep</sub> | D<sub>oij</sub> | D<sub>yip</sub> | D<sub>yej</sub> |
+|     |             | N<sub>peo</sub> | N<sub>jio</sub> | N<sub>piy</sub> | N<sub>jey</sub> | S<sub>peo</sub> | S<sub>jio</sub> | S<sub>piy</sub> | S<sub>jey</sub> | | T<sub>peo</sub> | T<sub>jio</sub> | T<sub>piy</sub> | T<sub>jey</sub> | F<sub>peo</sub> | F<sub>jio</sub> | F<sub>piy</sub> | F<sub>jey</sub> | | Q<sub>peo</sub> | Q<sub>jio</sub> | Q<sub>piy</sub> | Q<sub>jey</sub> | D<sub>peo</sub> | D<sub>jio</sub> | D<sub>piy</sub> | D<sub>jey</sub> |
 | --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     |             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
@@ -510,44 +510,44 @@ PS: Used: I E J P Y O S N F T Q D G B A X U. Free: C H K L M R V W Z
 
 ### 11.3 Non-standard dominant Khizhnyak functions
 
-There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that ESxP (Soep.dom.) types actually have very weak and vulnerable-like Noij. that governs consideration for all people even the "small" people (governs among other things). And that ENxP (Noep.dom.) types have very weak Soij. that amoung other thing governs monotonous sensory affairs.
+There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that ESxP (Speo.dom.) types actually have very weak and vulnerable-like Njio. that governs consideration for all people even the "small" people (governs among other things). And that ENxP (Npeo.dom.) types have very weak Sjio. that amoung other thing governs monotonous sensory affairs.
 
-But if we take this hypothesis a bit further then we can even suggest that these new functions can be dominant functions. And there can be very unusual combinations of Gulenko's temperament (one of OEP, OIJ, YIP, YEJ) and dominant function (one of static-dynamic functions like No., Ny., To., Ty., etc. - see previous section for details).
+But if we take this hypothesis a bit further then we can even suggest that these new functions can be dominant functions. And there can be very unusual combinations of Gulenko's temperament (one of PEO, JIO, PIY, JEY) and dominant function (one of static-dynamic functions like No., Ny., To., Ty., etc. - see previous section for details).
 
-For example there might be a To.dom.entp. (T<sub>oep</sub>N) or No.dom.intj. (N<sub>oij</sub>T). When classical Socionics combinations are No.dom.entp. (N<sub>oep</sub>T) and To.dom.intj. (T<sub>oij</sub>N).
+For example there might be a To.dom.entp. (T<sub>peo</sub>N) or No.dom.intj. (N<sub>jio</sub>T). When classical Socionics combinations are No.dom.entp. (N<sub>peo</sub>T) and To.dom.intj. (T<sub>jio</sub>N).
 
-To.dom.entp. would have strong Noep. and Toep. (and Qoep. but that's irrelevant for now) and would by default be in OEP Noep. perception state but the most valued function that defines person's goals would still be Toep.
+To.dom.entp. would have strong Npeo. and Tpeo. (and Qpeo. but that's irrelevant for now) and would by default be in PEO Npeo. perception state but the most valued function that defines person's goals would still be Tpeo.
 
-If No.dom.entp. would have curiosity and novelty seeking Noep. as central dominant drive. To.dom.entp. would have Toep. as a dominant drive. And it would be something about independent thinking and valuing, using, hacking and fixing systems of the world.
+If No.dom.entp. would have curiosity and novelty seeking Npeo. as central dominant drive. To.dom.entp. would have Tpeo. as a dominant drive. And it would be something about independent thinking and valuing, using, hacking and fixing systems of the world.
 
 So each of the static-dynamic functions can be under a temperament that could be described approximately like (just a random classification that most likely is wrong):
 
-* OEP - spontaneous proactivity (flexible-maneuvering, nondynamic-extraverted-perceiving),
-* YEJ - rigid proactivity (linear-assertive, dynamic-extraverted-judging),
-* OIJ - rigid reactivity (balanced stable, nondynamic-introverted-judging),
-* YIP - spontaneous reactivity aka adaptivity (receptive-adaptive, dynamic-introverted-perceiving).
+* PEO - spontaneous proactivity (flexible-maneuvering, nondynamic-extraverted-perceiving),
+* JEY - rigid proactivity (linear-assertive, dynamic-extraverted-judging),
+* JIO - rigid reactivity (balanced stable, nondynamic-introverted-judging),
+* PIY - spontaneous reactivity aka adaptivity (receptive-adaptive, dynamic-introverted-perceiving).
 
 So To.dom.entp. would have dominant drive of spontaneous proactivity concerning systems.
 
 More thought experiments on non-standard dominant functions is [**here**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=http%3A%2F%2Fdanidin.ucoz.net%2Findex%2Fzazerkalnaja_socionika%2F0-56&sandbox=1) (Autotranslated. And [original in Russian](http://danidin.ucoz.net/index/zazerkalnaja_socionika/0-56)).
 
-Worth noting that non-standard dominant functions do not require abstract static-dynamic functions. Underlying cognitive functions can actually have EI and PJ roots in them that make some combination manifestations more common. For example if NS functions stem from some more ancient instinctual subsystem of the brain. And TF stem from more young and impuls-controlling subsystem. But the brain can be flexible enough to be OEP temperament that is more instinctual but actually have dominant To. that's from the impuls-controlling subsystem. Like Noep. part is a thin proxy to the Toep.
+Worth noting that non-standard dominant functions do not require abstract static-dynamic functions. Underlying cognitive functions can actually have EI and PJ roots in them that make some combination manifestations more common. For example if NS functions stem from some more ancient instinctual subsystem of the brain. And TF stem from more young and impuls-controlling subsystem. But the brain can be flexible enough to be PEO temperament that is more instinctual but actually have dominant To. that's from the impuls-controlling subsystem. Like Npeo. part is a thin proxy to the Tpeo.
 
 
 ### 11.4 Dominant-agnostic type names
 
-If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new YO dynamic-nondynamic axis notation so that oiNTj could not be mistaken with INTJ. oiNTj would have OIJ Gulenko's Temperament (balanced-stable) be rational and introverted and have a static dominant function. But INTJ has dominant Ni that is a dynamic function. Also lowercase-uppercase would distinguish Gulenko's temperament from cognitive functions.
+If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new YO dynamic-nondynamic axis notation so that oiNTj could not be mistaken with INTJ. oiNTj would have JIO Gulenko's Temperament (balanced-stable) be rational and introverted and have a static dominant function. But INTJ has dominant Ni that is a dynamic function. Also lowercase-uppercase would distinguish Gulenko's temperament from cognitive functions.
 
-|               |     **OEP**    |     |     **OIJ**    |     |     **YIP**    |     |     **YEJ**    |     |
+|               |     **PEO**    |     |     **JIO**    |     |     **PIY**    |     |     **JEY**    |     |
 |:------------- |:--------------:| --- |:--------------:| --- |:--------------:| --- |:--------------:| --- |
 | α             |   **oeNTp**    | 1   |   **oiNTj**    | 2   |   **yiSFp**    | 3   |   **yeSFj**    | 4   |
-| possible dom. | N<sub>oep</sub> T<sub>oep</sub> Q<sub>oep</sub> |     | T<sub>oij</sub> N<sub>oij</sub> Q<sub>oij</sub> |     | S<sub>yip</sub> F<sub>yip</sub> D<sub>yip</sub> |     | F<sub>yej</sub> S<sub>yej</sub> D<sub>yej</sub> |     |
+| possible dom. | N<sub>peo</sub> T<sub>peo</sub> Q<sub>peo</sub> |     | T<sub>jio</sub> N<sub>jio</sub> Q<sub>jio</sub> |     | S<sub>piy</sub> F<sub>piy</sub> D<sub>piy</sub> |     | F<sub>jey</sub> S<sub>jey</sub> D<sub>jey</sub> |     |
 | β             |   **oeSTp**    | 5   |   **oiSTj**    | 6   |   **yiNFp**    | 7   |   **yeNFj**    | 8   |
-| possible dom. | S<sub>oep</sub> T<sub>oep</sub> D<sub>oep</sub> |     | T<sub>oij</sub> S<sub>oij</sub> D<sub>oij</sub> |     | N<sub>yip</sub> F<sub>yip</sub> Q<sub>yip</sub> |     | F<sub>yej</sub> N<sub>yej</sub> Q<sub>yej</sub> |     |
+| possible dom. | S<sub>peo</sub> T<sub>peo</sub> D<sub>peo</sub> |     | T<sub>jio</sub> S<sub>jio</sub> D<sub>jio</sub> |     | N<sub>piy</sub> F<sub>piy</sub> Q<sub>piy</sub> |     | F<sub>jey</sub> N<sub>jey</sub> Q<sub>jey</sub> |     |
 | γ             |   **oeSFp**    | 9   |   **oiSFj**    | 10  |   **yiNTp**    | 11  |   **yeNTj**    | 12  |
-| possible dom. | S<sub>oep</sub> F<sub>oep</sub> Q<sub>oep</sub> |     | F<sub>oij</sub> S<sub>oij</sub> Q<sub>oij</sub> |     | N<sub>yip</sub> T<sub>yip</sub> D<sub>yip</sub> |     | T<sub>yej</sub> N<sub>yej</sub> D<sub>yej</sub> |     |
+| possible dom. | S<sub>peo</sub> F<sub>peo</sub> Q<sub>peo</sub> |     | F<sub>jio</sub> S<sub>jio</sub> Q<sub>jio</sub> |     | N<sub>piy</sub> T<sub>piy</sub> D<sub>piy</sub> |     | T<sub>jey</sub> N<sub>jey</sub> D<sub>jey</sub> |     |
 | δ             |   **oeNFp**    | 13  |   **oiNFj**    | 14  |   **yiSTp**    | 15  |   **yeSTj**    | 16  |
-| possible dom. | N<sub>oep</sub> F<sub>oep</sub> D<sub>oep</sub> |     | F<sub>oij</sub> N<sub>oij</sub> D<sub>oij</sub> |     | S<sub>yip</sub> T<sub>yip</sub> Q<sub>yip</sub> |     | T<sub>yej</sub> S<sub>yej</sub> Q<sub>yej</sub> |     |
+| possible dom. | N<sub>peo</sub> F<sub>peo</sub> D<sub>peo</sub> |     | F<sub>jio</sub> N<sub>jio</sub> D<sub>jio</sub> |     | S<sub>piy</sub> T<sub>piy</sub> Q<sub>piy</sub> |     | T<sub>jey</sub> S<sub>jey</sub> Q<sub>jey</sub> |     |
 
 Even if non-standard dominant Khizhnyak functions are not real this notation can still be used for classical Socionics types.
 
