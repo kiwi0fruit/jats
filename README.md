@@ -536,17 +536,17 @@ Worth noting that non-standard dominant functions do not require abstract static
 
 ### 11.4 Dominant-agnostic type names
 
-If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new YO dynamic-nondynamic axis notation so that iNTjo could not be mistaken with INTJ. iNTjo would have IJO Gulenko's Temperament (balanced-stable) be rational and introverted and have a static dominant function. But INTJ has dominant Ni that is a dynamic function. Also lowercase-uppercase would distinguish Gulenko's temperament from cognitive functions.
+If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new YO dynamic-nondynamic axis notation so that oiNTj could not be mistaken with INTJ. oiNTj would have IJO Gulenko's Temperament (balanced-stable) be rational and introverted and have a static dominant function. But INTJ has dominant Ni that is a dynamic function. Also lowercase-uppercase would distinguish Gulenko's temperament from cognitive functions.
 
 |               |     **epo**    |     |     **ijo**    |     |     **ipy**    |     |     **ejy**    |     |
 |:------------- |:--------------:| --- |:--------------:| --- |:--------------:| --- |:--------------:| --- |
-| α             |   **eNTpo**    | 1   |   **iNTjo**    | 2   |   **iSFpy**    | 3   |   **eSFjy**    | 4   |
+| α             |   **oeNTp**    | 1   |   **oiNTj**    | 2   |   **yiSFp**    | 3   |   **yeSFj**    | 4   |
 | possible dom. | Noep. Toep. Qoep. |     | Toij. Noij. Qoij. |     | Syip. Fyip. Dyip. |     | Fyej. Syej. Dyej. |     |
-| β             |   **eSTpo**    | 5   |   **iSTjo**    | 6   |   **iNFpy**    | 7   |   **eNFjy**    | 8   |
+| β             |   **oeSTp**    | 5   |   **oiSTj**    | 6   |   **yiNFp**    | 7   |   **yeNFj**    | 8   |
 | possible dom. | Soep. Toep. Doep. |     | Toij. Soij. Doij. |     | Nyip. Fyip. Qyip. |     | Fyej. Nyej. Qyej. |     |
-| γ             |   **eSFpo**    | 9   |   **iSFjo**    | 10  |   **iNTpy**    | 11  |   **eNTjy**    | 12  |
+| γ             |   **oeSFp**    | 9   |   **oiSFj**    | 10  |   **yiNTp**    | 11  |   **yeNTj**    | 12  |
 | possible dom. | Soep. Foep. Qoep. |     | Foij. Soij. Qoij. |     | Nyip. Tyip. Dyip. |     | Tyej. Nyej. Dyej. |     |
-| δ             |   **eNFpo**    | 13  |   **iNFjo**    | 14  |   **iSTpy**    | 15  |   **eSTjy**    | 16  |
+| δ             |   **oeNFp**    | 13  |   **oiNFj**    | 14  |   **yiSTp**    | 15  |   **yeSTj**    | 16  |
 | possible dom. | Noep. Foep. Doep. |     | Foij. Noij. Doij. |     | Syip. Tyip. Qyip. |     | Tyej. Syej. Qyej. |     |
 
 Even if non-standard dominant Khizhnyak functions are not real this notation can still be used for classical Socionics types.
