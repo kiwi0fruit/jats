@@ -338,7 +338,7 @@ So the functions the type values most are 1-dominant, 2-supporting and 5-suggest
 
 So this can be seen that these 4 types has the same 4 most valued functions (1st, 2nd, 5th, 6th):
 
-| **Quadra** | **pe**  | **ji**       | **pi**       | **je**  |
+| **quadra / temper.** | **peo**  | **jio**       | **piy**       | **jey**  |
 |:-----------|:--------|:-------------|:-------------|:--------|
 | α Alpha    | 1Ne2Ti-8Te-5Si6Fe | 1Ti2Ne-8Ni-5Fe6Si | 1Si2Fe-8Fi-5Ne6Ti | 1Fe2Si-8Se-5Ti6Ne |
 | **A**      | **NeT** | **TiN⁠-⁠intj** | **SiF⁠-⁠isfp** | **FeS** |
