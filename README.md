@@ -545,16 +545,14 @@ If non-standard dominant Khizhnyak functions are real then type names should be 
 
 |               |     **PEO**      |    |     **JIO**    |    |     **PIY**    |    |     **JEY**    |    |
 |:------------- |:----------------:| -- |:--------------:| -- |:--------------:| -- |:--------------:| -- |
-| α             | **ENTPO entpo. <sub>E</sub>NT<sub>PO</sub>** | 1  | **INTJO intjo. <sub>I</sub>NT<sub>JO</sub>** | 2  | **ISFPY isfpy. <sub>I</sub>SF<sub>PY</sub>** | 3  | **ESFJY esfjy. <sub>E</sub>SF<sub>JY</sub>** | 4  |
+| α             | **ENTPO entpo. <sub>e</sub>NT<sub>po</sub>** | 1  | **INTJO intjo. <sub>i</sub>NT<sub>jo</sub>** | 2  | **ISFPY isfpy. <sub>i</sub>SF<sub>py</sub>** | 3  | **ESFJY esfjy. <sub>e</sub>SF<sub>jy</sub>** | 4  |
 | possible dom. | N<sub>peo</sub> T<sub>peo</sub> Q<sub>peo</sub> |    | T<sub>jio</sub> N<sub>jio</sub> Q<sub>jio</sub> |    | S<sub>piy</sub> F<sub>piy</sub> D<sub>piy</sub> |    | F<sub>jey</sub> S<sub>jey</sub> D<sub>jey</sub> |    |
-| β             | **ESTPO estpo. <sub>E</sub>ST<sub>PO</sub>** | 5  | **ISTJO istjo. <sub>I</sub>ST<sub>JO</sub>** | 6  | **INFPY infpy. <sub>I</sub>NF<sub>PY</sub>** | 7  | **ENFJY enfjy. <sub>E</sub>NF<sub>JY</sub>** | 8  |
+| β             | **ESTPO estpo. <sub>e</sub>ST<sub>po</sub>** | 5  | **ISTJO istjo. <sub>i</sub>ST<sub>jo</sub>** | 6  | **INFPY infpy. <sub>i</sub>NF<sub>py</sub>** | 7  | **ENFJY enfjy. <sub>e</sub>NF<sub>jy</sub>** | 8  |
 | possible dom. | S<sub>peo</sub> T<sub>peo</sub> D<sub>peo</sub> |    | T<sub>jio</sub> S<sub>jio</sub> D<sub>jio</sub> |    | N<sub>piy</sub> F<sub>piy</sub> Q<sub>piy</sub> |    | F<sub>jey</sub> N<sub>jey</sub> Q<sub>jey</sub> |    |
-| γ             | **ESFPO esfpo. <sub>E</sub>SF<sub>PO</sub>** | 9  | **ISFJO isfjo. <sub>I</sub>SF<sub>JO</sub>** | 10 | **INTPY intpy. <sub>I</sub>NT<sub>PY</sub>** | 11 | **ENTJY entjy. <sub>E</sub>NT<sub>JY</sub>** | 12 |
+| γ             | **ESFPO esfpo. <sub>e</sub>SF<sub>po</sub>** | 9  | **ISFJO isfjo. <sub>i</sub>SF<sub>jo</sub>** | 10 | **INTPY intpy. <sub>i</sub>NT<sub>py</sub>** | 11 | **ENTJY entjy. <sub>e</sub>NT<sub>jy</sub>** | 12 |
 | possible dom. | S<sub>peo</sub> F<sub>peo</sub> Q<sub>peo</sub> |    | F<sub>jio</sub> S<sub>jio</sub> Q<sub>jio</sub> |    | N<sub>piy</sub> T<sub>piy</sub> D<sub>piy</sub> |    | T<sub>jey</sub> N<sub>jey</sub> D<sub>jey</sub> |    |
-| δ             | **ENFPO enfpo. <sub>E</sub>NF<sub>PO</sub>** | 13 | **INFJO infjo. <sub>I</sub>NF<sub>JO</sub>** | 14 | **ISTPY istpy. <sub>I</sub>ST<sub>PY</sub>** | 15 | **ESTJY estjy. <sub>E</sub>ST<sub>JY</sub>** | 16 |
+| δ             | **ENFPO enfpo. <sub>e</sub>NF<sub>po</sub>** | 13 | **INFJO infjo. <sub>i</sub>NF<sub>jo</sub>** | 14 | **ISTPY istpy. <sub>i</sub>ST<sub>py</sub>** | 15 | **ESTJY estjy. <sub>e</sub>ST<sub>jy</sub>** | 16 |
 | possible dom. | N<sub>peo</sub> F<sub>peo</sub> D<sub>peo</sub> |    | F<sub>jio</sub> N<sub>jio</sub> D<sub>jio</sub> |    | S<sub>piy</sub> T<sub>piy</sub> Q<sub>piy</sub> |    | T<sub>jey</sub> S<sub>jey</sub> Q<sub>jey</sub> |    |
-
-
 
 Even if non-standard dominant Khizhnyak functions are not real this notation can still be used for classical Socionics types.
 
