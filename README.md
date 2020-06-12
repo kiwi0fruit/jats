@@ -100,7 +100,9 @@ Names are in the following order:
 - **Socionics reference type short name**, **Number name**,
 - **Socionics reference type long name**, Socionics name literal translation, MBTI name.
 
-| quadra  | EP      | IJ           | IP           | EJ      |
+Types are grouped by Quadras and Gulenkos' Temperaments.
+
+| quadra / temper. | EP      | IJ           | IP           | EJ      |
 |:--------|:-------:|:------------:|:------------:|:-------:|
 | α Alpha | **NeT**, **1** | **TiN⁠-⁠intj**, **2** | **SiF⁠-⁠isfp**, **3** | **FeS**, **4** |
 |         | **NeT⁠⁠-⁠⁠entp**,  ILE,  ENTP  | **TiN⁠-⁠intj**,  LII,  INTx  | **SiF⁠-⁠isfp**,  SEI,  ISFx  | **FeS⁠-⁠esfj**,  ESE,  ESFJ  |
