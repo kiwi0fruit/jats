@@ -541,13 +541,13 @@ If non-standard dominant Khizhnyak functions are real then type names should be 
 |               |     **OEP**    |     |     **OIJ**    |     |     **YIP**    |     |     **YEJ**    |     |
 |:------------- |:--------------:| --- |:--------------:| --- |:--------------:| --- |:--------------:| --- |
 | α             |   **oeNTp**    | 1   |   **oiNTj**    | 2   |   **yiSFp**    | 3   |   **yeSFj**    | 4   |
-| possible dom. | Noep. Toep. Qoep. |     | Toij. Noij. Qoij. |     | Syip. Fyip. Dyip. |     | Fyej. Syej. Dyej. |     |
+| possible dom. | N<sub>oep</sub> T<sub>oep</sub> Q<sub>oep</sub> |     | T<sub>oij</sub> N<sub>oij</sub> Q<sub>oij</sub> |     | S<sub>yip</sub> F<sub>yip</sub> D<sub>yip</sub> |     | F<sub>yej</sub> S<sub>yej</sub> D<sub>yej</sub> |     |
 | β             |   **oeSTp**    | 5   |   **oiSTj**    | 6   |   **yiNFp**    | 7   |   **yeNFj**    | 8   |
-| possible dom. | Soep. Toep. Doep. |     | Toij. Soij. Doij. |     | Nyip. Fyip. Qyip. |     | Fyej. Nyej. Qyej. |     |
+| possible dom. | S<sub>oep</sub> T<sub>oep</sub> D<sub>oep</sub> |     | T<sub>oij</sub> S<sub>oij</sub> D<sub>oij</sub> |     | N<sub>yip</sub> F<sub>yip</sub> Q<sub>yip</sub> |     | F<sub>yej</sub> N<sub>yej</sub> Q<sub>yej</sub> |     |
 | γ             |   **oeSFp**    | 9   |   **oiSFj**    | 10  |   **yiNTp**    | 11  |   **yeNTj**    | 12  |
-| possible dom. | Soep. Foep. Qoep. |     | Foij. Soij. Qoij. |     | Nyip. Tyip. Dyip. |     | Tyej. Nyej. Dyej. |     |
+| possible dom. | S<sub>oep</sub> F<sub>oep</sub> Q<sub>oep</sub> |     | F<sub>oij</sub> S<sub>oij</sub> Q<sub>oij</sub> |     | N<sub>yip</sub> T<sub>yip</sub> D<sub>yip</sub> |     | T<sub>yej</sub> N<sub>yej</sub> D<sub>yej</sub> |     |
 | δ             |   **oeNFp**    | 13  |   **oiNFj**    | 14  |   **yiSTp**    | 15  |   **yeSTj**    | 16  |
-| possible dom. | Noep. Foep. Doep. |     | Foij. Noij. Doij. |     | Syip. Tyip. Qyip. |     | Tyej. Syej. Qyej. |     |
+| possible dom. | N<sub>oep</sub> F<sub>oep</sub> D<sub>oep</sub> |     | F<sub>oij</sub> N<sub>oij</sub> D<sub>oij</sub> |     | S<sub>yip</sub> T<sub>yip</sub> Q<sub>yip</sub> |     | T<sub>yej</sub> S<sub>yej</sub> Q<sub>yej</sub> |     |
 
 Even if non-standard dominant Khizhnyak functions are not real this notation can still be used for classical Socionics types.
 
