@@ -444,39 +444,39 @@ Mind that NS and TF Khizhnyak functions and axes can be directly linearly obtain
 
 But QD functions and axes should first non-linearly get D=>Q axis and only after that proceed linearly.
 
-| Axis     | Alt. names | Func. relation |
-|:---------|:---------- |:-------------- |
-| SJI=>NPE | Sji.=>Npe. | -Sji=Npe       |
-| SPE=>NJI | Spe.=>Nji. | -Spe=Nji       |
-| SJE=>NPI | Sje.=>Npi. | -Sje=Npi       |
-| SPI=>NJE | Spi.=>Nje. | -Spi=Nje       |
-|          |            |                |
-| FJI=>TPE | Fji.=>Tpe. | -Fji=Tpe       |
-| FPE=>TJI | Fpe.=>Tji. | -Fpe=Tji       |
-| FJE=>TPI | Fje.=>Tpi. | -Fje=Tpi       |
-| FPI=>TJE | Fpi.=>Tje. | -Fpi=Tje       |
-|          |            |                |
-| DJI=>QPE | Dji.=>Qpe. | -Dji=Qpe       |
-| DPE=>QJI | Dpe.=>Qji. | -Dpe=Qji       |
-| DJE=>QPI | Dje.=>Qpi. | -Dje=Qpi       |
-| DPI=>QJE | Dpi.=>Qje. | -Dpi=Qje       |
+| Axis     | Alt. names   | Func. relation |
+|:---------|:------------ |:-------------- |
+| SJI=>NPE | Sjio.=>Npeo. | -Sjio=Npeo     |
+| SPE=>NJI | Speo.=>Njio. | -Speo=Njio     |
+| SJE=>NPI | Sjey.=>Npiy. | -Sjey=Npiy     |
+| SPI=>NJE | Spiy.=>Njey. | -Spiy=Njey     |
+|          |              |                |
+| FJI=>TPE | Fjio.=>Tpeo. | -Fjio=Tpeo     |
+| FPE=>TJI | Fpeo.=>Tjio. | -Fpeo=Tjio     |
+| FJE=>TPI | Fjey.=>Tpiy. | -Fjey=Tpiy     |
+| FPI=>TJE | Fpiy.=>Tjey. | -Fpiy=Tjey     |
+|          |              |                |
+| DJI=>QPE | Djio.=>Qpeo. | -Djio=Qpeo     |
+| DPE=>QJI | Dpeo.=>Qjio. | -Dpeo=Qjio     |
+| DJE=>QPI | Djey.=>Qpiy. | -Djey=Qpiy     |
+| DPI=>QJE | Dpiy.=>Qjey. | -Dpiy=Qjey     |
 
 In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (n**o**ndynamic-d**y**namic) functions that lack IE and JP flavour:
 
-|         | Abb. | Alt. | Is abstracted from |
-|:-------:|:---:|:------:|:--------------|
-| static  | No. | Npeji. | Npe. and Nji. |
-| dynamic | Ny. | Npije. | Npi. and Nje. |
-| static  | So. | Speji. | Spe. and Sji. |
-| dynamic | Sy. | Spije. | Spi. and Sje. |
-| static  | To. | Tpeji. | Tpe. and Tji. |
-| dynamic | Ty. | Tpije. | Tpi. and Tje. |
-| static  | Fo. | Fpeji. | Fpe. and Fji. |
-| dynamic | Fy. | Fpije. | Fpi. and Fje. |
-| static  | Qo. | Qpeji. | Qpe. and Qji. |
-| dynamic | Qy. | Qpije. | Qpi. and Qje. |
-| static  | Do. | Dpeji. | Dpe. and Dji. |
-| dynamic | Dy. | Dpije. | Dpi. and Dje. |
+|         | Abbr. | Is abstracted from |
+|:-------:|:-----:|:----------------|
+| static  | No.   | Npeo. and Njio. |
+| dynamic | Ny.   | Npiy. and Njey. |
+| static  | So.   | Speo. and Sjio. |
+| dynamic | Sy.   | Spiy. and Sjey. |
+| static  | To.   | Tpeo. and Tjio. |
+| dynamic | Ty.   | Tpiy. and Tjey. |
+| static  | Fo.   | Fpeo. and Fjio. |
+| dynamic | Fy.   | Fpiy. and Fjey. |
+| static  | Qo.   | Qpeo. and Qjio. |
+| dynamic | Qy.   | Qpiy. and Qjey. |
+| static  | Do.   | Dpeo. and Djio. |
+| dynamic | Dy.   | Dpiy. and Djey. |
 
 Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
