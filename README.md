@@ -351,7 +351,7 @@ So this can be seen that these 4 types has the same 4 most valued functions (1st
 
 It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
-|     Quadras | Abb.    | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
+|     Quadras | Abbr.   | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
 | -----------:| ------- | ------------------- | ------------------ | -------- | ------------- |
 | Alpha-delta | **Ad.** | Ne or Si            | Ne and Si          | pacific  | cooperative, sensible, peaceful and leisurely unhurried ways |
 |  Beta-gamma | **Bg.** | Se or Ni            | Se and Ni          | resolute | competitive, argessive, time-bound and fast resolutive ways |
@@ -480,7 +480,7 @@ In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (
 
 Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
-|     |       | Npe. | Nji. | Npi. | Nje. | Spe. | Sji. | Spi. | Sje. | | Tpe. | Tji. | Tpi. | Tje. | Fpe. | Fji. | Fpi. | Fje. | | Qpe. | Qji. | Qpi. | Qje. | Dpe. | Dji. | Dpi. | Dje. |
+|     |       | Npeo. | Njio. | Npiy. | Njey. | Speo. | Sjio. | Spiy. | Sjey. | | Tpeo. | Tjio. | Tpiy. | Tjey. | Fpeo. | Fjio. | Fpiy. | Fjey. | | Qpeo. | Qjio. | Qpiy. | Qjey. | Dpeo. | Djio. | Dpiy. | Djey. |
 | --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     |             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
