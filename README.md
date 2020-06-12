@@ -444,6 +444,8 @@ Mind that NS and TF Khizhnyak functions and axes can be directly linearly obtain
 
 But QD functions and axes should first non-linearly get D=>Q axis and only after that proceed linearly.
 
+Alt. names are made of Gulenko's temperament.
+
 | Axis     | Alt. names   | Func. relation |
 |:---------|:------------ |:-------------- |
 | SJI=>NPE | Sjio.=>Npeo. | -Sjio=Npeo     |
@@ -508,44 +510,44 @@ PS: Used: I E J P Y O S N F T Q D G B A X U. Free: C H K L M R V W Z
 
 ### 11.3 Non-standard dominant Khizhnyak functions
 
-There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that ESxP (Spe.dom.) types actually have very weak and vulnerable-like Nji. that governs consideration for all people even the "small" people (governs among other things). And that ENxP (Npe.dom.) types have very weak Sji. that amoung other thing governs monotonous sensory affairs.
+There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that ESxP (Speo.dom.) types actually have very weak and vulnerable-like Njio. that governs consideration for all people even the "small" people (governs among other things). And that ENxP (Npeo.dom.) types have very weak Sjio. that amoung other thing governs monotonous sensory affairs.
 
-But if we take this hypothesis a bit further then we can even suggest that these new functions can be dominant functions. And there can be very unusual combinations of Gulenko's temperament (one of PE, JI, PI, JE) and dominant function (one of static-dynamic functions like No., Ny., To., Ty., etc. - see previous section for details).
+But if we take this hypothesis a bit further then we can even suggest that these new functions can be dominant functions. And there can be very unusual combinations of Gulenko's temperament (one of PEO, JIO, PIY, JEY) and dominant function (one of static-dynamic functions like No., Ny., To., Ty., etc. - see previous section for details).
 
-For example there might be a To.dom.entp. (Tpe.N.) or No.dom.intj. (Nji.T.). When classical Socionics combinations are No.dom.entp. (Npe.T.) and To.dom.intj. (Tji.N.).
+For example there might be a To.dom.entp. (Tpeo.N.) or No.dom.intj. (Njio.T.). When classical Socionics combinations are No.dom.entp. (Npeo.T.) and To.dom.intj. (Tjio.N.).
 
-To.dom.entp. would have strong Npe. and Tpe. (and Qpe. but that's irrelevant for now) and would by default be in PE Npe. perception state but the most valued function that defines person's goals would still be Tpe.
+To.dom.entp. would have strong Npeo. and Tpeo. (and Qpeo. but that's irrelevant for now) and would by default be in PEO Npeo. perception state but the most valued function that defines person's goals would still be Tpeo.
 
-If No.dom.entp. would have curiosity and novelty seeking Npe. as central dominant drive. To.dom.entp. would have Tpe. as a dominant drive. And it would be something about independent thinking and valuing, using, hacking and fixing systems of the world.
+If No.dom.entp. would have curiosity and novelty seeking Npeo. as central dominant drive. To.dom.entp. would have Tpeo. as a dominant drive. And it would be something about independent thinking and valuing, using, hacking and fixing systems of the world.
 
 So each of the static-dynamic functions can be under a temperament that could be described approximately like (just a random classification that most likely is wrong):
 
-* PE - spontaneous proactivity,
-* JE - rigid proactivity,
-* JI - rigid reactivity,
-* PI - spontaneous reactivity (aka adaptivity).
+* PEO - spontaneous proactivity,
+* JEY - rigid proactivity,
+* JIO - rigid reactivity,
+* PIY - spontaneous reactivity (aka adaptivity).
 
 So To.dom.entp. would have dominant drive of spontaneous proactivity concerning systems.
 
 More thought experiments on non-standard dominant functions is [**here**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=http%3A%2F%2Fdanidin.ucoz.net%2Findex%2Fzazerkalnaja_socionika%2F0-56&sandbox=1) (Autotranslated. And [original in Russian](http://danidin.ucoz.net/index/zazerkalnaja_socionika/0-56)).
 
-Worth noting that non-standard dominant functions do not require abstract static-dynamic functions. Underlying cognitive functions can actually have EI and PJ roots in them that make some combination manifestations more common. For example if NS functions stem from some more ancient instinctual subsystem of the brain. And TF stem from more young and impuls-controlling subsystem. But the brain can be flexible enough to be PE temperament that is more instinctual but actually have dominant To. that's from the impuls-controlling subsystem. Like Npe. part is a thin proxy to the Tpe.
+Worth noting that non-standard dominant functions do not require abstract static-dynamic functions. Underlying cognitive functions can actually have EI and PJ roots in them that make some combination manifestations more common. For example if NS functions stem from some more ancient instinctual subsystem of the brain. And TF stem from more young and impuls-controlling subsystem. But the brain can be flexible enough to be PEO temperament that is more instinctual but actually have dominant To. that's from the impuls-controlling subsystem. Like Npeo. part is a thin proxy to the Tpeo.
 
 
 ### 11.4 Dominant-agnostic type names
 
-If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new YO dynamic-nondynamic axis notation so that iNTjo could not be mistaken with INTJ. iNTjo would have **jio** Gulenko's Temperament (balanced-stable) be rational and introverted and have a static dominant function. But INTJ has Ni-dom. that is a dynamic function. Also lowercase-uppercase would distinguish Gulenko's temperament from cognitive functions.
+If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new YO dynamic-nondynamic axis notation so that iNTjo could not be mistaken with INTJ. iNTjo would have JIO Gulenko's Temperament (balanced-stable) be rational and introverted and have a static dominant function. But INTJ has dominant Ni that is a dynamic function. Also lowercase-uppercase would distinguish Gulenko's temperament from cognitive functions.
 
 |               |     **peo**    |     |     **jio**    |     |     **piy**    |     |     **jey**    |     |
 |:------------- |:--------------:| --- |:--------------:| --- |:--------------:| --- |:--------------:| --- |
 | α             |   **eNTpo**    | 1   |   **iNTjo**    | 2   |   **iSFpy**    | 3   |   **eSFjy**    | 4   |
-| possible dom. | Npe. Tpe. Qpe. |     | Tji. Nji. Qji. |     | Spi. Fpi. Dpi. |     | Fje. Sje. Dje. |     |
+| possible dom. | Npeo. Tpeo. Qpeo. |     | Tjio. Njio. Qjio. |     | Spiy. Fpiy. Dpiy. |     | Fjey. Sjey. Djey. |     |
 | β             |   **eSTpo**    | 5   |   **iSTjo**    | 6   |   **iNFpy**    | 7   |   **eNFjy**    | 8   |
-| possible dom. | Spe. Tpe. Dpe. |     | Tji. Sji. Dji. |     | Npi. Fpi. Qpi. |     | Fje. Nje. Qje. |     |
+| possible dom. | Speo. Tpeo. Dpeo. |     | Tjio. Sjio. Djio. |     | Npiy. Fpiy. Qpiy. |     | Fjey. Njey. Qjey. |     |
 | γ             |   **eSFpo**    | 9   |   **iSFjo**    | 10  |   **iNTpy**    | 11  |   **eNTjy**    | 12  |
-| possible dom. | Spe. Fpe. Qpe. |     | Fji. Sji. Qji. |     | Npi. Tpi. Dpi. |     | Tje. Nje. Dje. |     |
+| possible dom. | Speo. Fpeo. Qpeo. |     | Fjio. Sjio. Qjio. |     | Npiy. Tpiy. Dpiy. |     | Tjey. Njey. Djey. |     |
 | δ             |   **eNFpo**    | 13  |   **iNFjo**    | 14  |   **iSTpy**    | 15  |   **eSTjy**    | 16  |
-| possible dom. | Npe. Fpe. Dpe. |     | Fji. Nji. Dji. |     | Spi. Tpi. Qpi. |     | Tje. Sje. Qje. |     |
+| possible dom. | Npeo. Fpeo. Dpeo. |     | Fjio. Njio. Djio. |     | Spiy. Tpiy. Qpiy. |     | Tjey. Sjey. Qjey. |     |
 
 Even if non-standard dominant Khizhnyak functions are not real this notation can still be used for classical Socionics types.
 
