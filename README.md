@@ -68,7 +68,7 @@ But there are some differences between definitions of **cognitive functions** in
 Another useful section of the functions is:
 
 - [**dYnamic** functions (**Y**)] Ni, Si, Te, Fe vs.
-- [**nOndynamic** static functions (**O**)] Ne, Se, Ti, Fi (see [Model A chapter](#7-model-a) for more details).
+- [**nOndynamic** static functions (**O**)] Ne, Se, Ti, Fi (see [Model A chapter](#7-model-a) on conscious vs. semiconscious functions for more details).
 
 Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se and Si are good at dealing with physical qualities. Both strong Ne and Ni are good at dealing with associations.
 
@@ -127,6 +127,8 @@ For example TiN-intj is *intuitive task-oriented judging introvert with dominant
 - **I** - introverted, introvert.
 - **P** - perceiving, perceiver,
 - **J** - judging, judger,
+- **O** - nondynamic-static,
+- **Y** - dynamic.
 
 Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor detectors. My favourite is "sensing feelers" 🐙.
 
@@ -240,6 +242,7 @@ So in my translation of Model A I wanted to fix possible misunderstandings:
   * Strong functions think and solve their tasks competently, efficiently, confidently, quickly, easily. In contrast, weak functions tend to be less competent, work slowly, uncertainly, and require much more effort. [There is an opinion](http://socionica74.narod.ru/about4.html) that strong functions are more robust, i.e. able to work longer at the same level of quality without overexertion, and that strong functions are “resistant to interference,” that is, they are able to ignore distracting and interfering factors in their work, to work effectively in spite of them. Weak functions are not durable and not resistant to interference. It is best to compare the functions of one person.
 * **conscious** vs. **semiconscious (automatic)** functions:
   * Conscious functions are characterized by the fact that the overwhelming majority of the time type reflects and ponders using these functions. Well aware of such thoughts and reflections. The work of automatic functions happens most of the time as if by itself. These functions regularly work as if automatically, notice something, process something and provide the result of their work to conscious functions, but the process of their work is not in the focus of attention. If you ask to consciously think with the help of automatic functions, the consciousness will try to get away from this activity, go to thinking with the help of conscious functions.
+  * All conscious functions are either nondynamic or dynamic (hence semiconscious functions would be either dynamic or nondynamic accordingly).
 * **valuable** vs. **not valuable** functions:
   * The work of valuable functions and its nuances are important for the type, they are interesting, type can listen and talk on these topics with pleasure. Valuable functions provide an active exchange of information between people, what is associated with the work of these functions is easily discussed. The work of not valuable functions is what the type considers in life not the most important, something that can be neglected, something that makes sense only as an addition to valuable functions. As a rule, the discussion of the work of these functions is not interesting and does not give pleasure (but there are exceptions), it is preferred to help each other without further ado. The type in most cases limits the activity of the not valuable functions to the needs of valuable ones (that mostly 1st and 2nd functions), the demands of society or circumstances.
 * Additional info on Model A can be found in [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
