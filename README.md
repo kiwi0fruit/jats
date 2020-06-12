@@ -100,7 +100,12 @@ Names are in the following order:
 - **Socionics reference type short name**, **Number name**,
 - **Socionics reference type long name**, Socionics name literal translation, MBTI name.
 
-Types are grouped by Quadras and Gulenkos' Temperaments.
+Types are grouped by Quadras and Gulenkos' Temperaments:
+
+* PEO - flexible-maneuvering, perceiving-extraverted-nondynamic,
+* JEY - linear-assertive, judging-extraverted-dynamic,
+* JIO - balanced stable, judging-introverted-nondynamic,
+* PIY - receptive-adaptive, perceiving-introverted-dynamic.
 
 | quadra / temper. | PEO      | JIO           | PIY           | JEY      |
 |:--------|:-------:|:------------:|:------------:|:-------:|
@@ -522,10 +527,10 @@ If No.dom.entp. would have curiosity and novelty seeking Npeo. as central domina
 
 So each of the static-dynamic functions can be under a temperament that could be described approximately like (just a random classification that most likely is wrong):
 
-* PEO - spontaneous proactivity (flexible-maneuvering, nondynamic-extraverted-perceiving),
-* JEY - rigid proactivity (linear-assertive, dynamic-extraverted-judging),
-* JIO - rigid reactivity (balanced stable, nondynamic-introverted-judging),
-* PIY - spontaneous reactivity aka adaptivity (receptive-adaptive, dynamic-introverted-perceiving).
+* PEO - spontaneous proactivity (flexible-maneuvering, perceiving-extraverted-nondynamic),
+* JEY - rigid proactivity (linear-assertive, judging-extraverted-dynamic),
+* JIO - rigid reactivity (balanced stable, judging-introverted-nondynamic),
+* PIY - spontaneous reactivity aka adaptivity (receptive-adaptive, perceiving-introverted-dynamic).
 
 So To.dom.entp. would have dominant drive of spontaneous proactivity concerning systems.
 
