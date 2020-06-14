@@ -22,6 +22,7 @@ This is an alternative translation of the basic concepts of one of the braches o
   - [11.3 8 Reinin-Khyzhnyak axes as a basis for 12 Khyzhnyak axes](#113-8-reinin-khyzhnyak-axes-as-a-basis-for-12-khyzhnyak-axes)
   - [11.4 Non-standard dominant Khizhnyak functions](#114-non-standard-dominant-khizhnyak-functions)
   - [11.5 Dominant-agnostic type names](#115-dominant-agnostic-type-names)
+  - [11.6 Dynamic-nondynamic YO axis as a measure of Khizhnyak functions differentiation](#116-dynamic-nondynamic-yo-axis-as-a-measure-of-khizhnyak-functions-differentiation)
   - [11.7 Model A analogue with Gulenko's temperaments and Khyzhnyak functions](#117-model-a-analogue-with-gulenkos-temperaments-and-khyzhnyak-functions)
 
 
@@ -584,7 +585,7 @@ Even if non-standard dominant Khizhnyak functions are not real this notation can
 
 Dynamic-nondynamic axis is not in 8 Reinin-Khyzhnyak axes but still it can be a special one. It's value can be interpretred as a max abs value of Khizhnyak axes and it can correspond to the most differentiated (as Jung meant it) cognitive function from 24 Khizhnyak functions.
 
-For example if we take entpo. type we would expect that it would have the most value for Npeo. and Tpeo. As Npeo. is where dominant function from Model A go and Tpeo. is where supporting, background and vulnerable functions from Model A go. So this were the max abs values of Khyzhnyak funcions from conscious temperaments. But if we take functions from semiconscious (automatic) temperaments we would expect to get lower max abs values.
+For example if we take entpo. type we would expect that it would have the most value for Npeo. and Tpeo. As Npeo. is where dominant function from Model A go and Tpeo. is where supporting, background and vulnerable functions from Model A go. So this were the max abs values of Khyzhnyak axes from conscious temperaments. But if we take values from semiconscious (automatic) temperaments we would expect to get lower max abs axes values.
 
 And this would exactly mean that conscious Khyzhnyak functions from base temperament are the most differentiated functions of the type.
 
