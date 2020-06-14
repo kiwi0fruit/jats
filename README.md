@@ -513,6 +513,8 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
 ### 11.3 Reinin-Khyzhnyak axes
 
+#### 8 Reinin-Khyzhnyak axes as a basis for 12 Khyzhnyak axes
+
 From previous table can be seen that not all Reinin axes can influence Khizhnyak axes (that encode two Khyzhnyak functions via single axis). That can also be seen from updated table from [section 11.2](#112-khizhnyak-functions-and-axes). Only **8 Reinin-Khizhnyak axes** can affect 12 Khizhnyak axes:
 
 |     |             | N<sub>peo</sub> | N<sub>jio</sub> | N<sub>piy</sub> | N<sub>jey</sub> | S<sub>peo</sub> | S<sub>jio</sub> | S<sub>piy</sub> | S<sub>jey</sub> | | T<sub>peo</sub> | T<sub>jio</sub> | T<sub>piy</sub> | T<sub>jey</sub> | F<sub>peo</sub> | F<sub>jio</sub> | F<sub>piy</sub> | F<sub>jey</sub> | | Q<sub>peo</sub> | Q<sub>jio</sub> | Q<sub>piy</sub> | Q<sub>jey</sub> | D<sub>peo</sub> | D<sub>jio</sub> | D<sub>piy</sub> | D<sub>jey</sub> |
