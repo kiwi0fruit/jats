@@ -534,7 +534,7 @@ From previous table can be seen that not all Reinin axes can influence Khizhnyak
 | 7  | +Q/⁠-⁠D       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |
 | 8  | +Ag./⁠-⁠Bd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
 
-**There is a hypothesys that 8 Reinin-Khizhnyak axes are the only axes that have independent variation if we are to interpret them as factors (correcting their dependence first).**
+**There is a hypothesys that 8 Reinin-Khizhnyak axes are the only axes that have independent variation if we are to try to interpret Reinin axes as factors (correcting their dependence first). 8 Reinin axes would have independent variation and 7 would not (and would be fully determined by 8 Reinin-Khizhnyak axes).**
 
 
 ### 11.4 Non-standard dominant Khizhnyak functions
