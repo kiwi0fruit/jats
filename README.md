@@ -19,9 +19,10 @@ This is an alternative translation of the basic concepts of one of the braches o
 * [11. Symmetries of Reinin dichotomies and their connection to Khizhnyak functions and axes](#11-symmetries-of-reinin-dichotomies-and-their-connection-to-khizhnyak-functions-and-axes)
   - [11.1 Reinin dichotomies](#111-reinin-dichotomies)
   - [11.2 Khizhnyak functions and axes](#112-khizhnyak-functions-and-axes)
-  - [11.3 Reinin-Khyzhnyak axes](#113-reinin-khyzhnyak-axes)
+  - [11.3 8 Reinin-Khyzhnyak axes as a basis for 12 Khyzhnyak axes](#113-8-reinin-khyzhnyak-axes-as-a-basis-for-12-khyzhnyak-axes)
   - [11.4 Non-standard dominant Khizhnyak functions](#114-non-standard-dominant-khizhnyak-functions)
   - [11.5 Dominant-agnostic type names](#115-dominant-agnostic-type-names)
+  - [11.7 Model A analogue with Gulenko's temperaments and Khyzhnyak functions](#117-model-a-analogue-with-gulenkos-temperaments-and-khyzhnyak-functions)
 
 
 ## Summary
@@ -511,9 +512,7 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | 14  | +QPDJ/⁠-⁠QJDP | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | +3  | -3  | -3  | +3  | -3  | +3  |
 | 15  | +Ag./⁠-⁠Bd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
 
-### 11.3 Reinin-Khyzhnyak axes
-
-#### 8 Reinin-Khyzhnyak axes as a basis for 12 Khyzhnyak axes
+### 11.3 8 Reinin-Khyzhnyak axes as a basis for 12 Khyzhnyak axes
 
 From previous table can be seen that not all Reinin axes can influence Khizhnyak axes (that encode two Khyzhnyak functions via single axis). That can also be seen from updated table from [section 11.2](#112-khizhnyak-functions-and-axes). Only **8 Reinin-Khizhnyak axes** can affect 12 Khizhnyak axes:
 
@@ -577,8 +576,22 @@ If non-standard dominant Khizhnyak functions are real then type names should be 
 | δ             | **ENFPO enfpo.** | 13 | **INFJO infjo.** | 14 | **ISTPY istpy.** | 15 | **ESTJY estjy.** | 16 |
 | possible dom. | N<sub>peo</sub> F<sub>peo</sub> D<sub>peo</sub> |    | F<sub>jio</sub> N<sub>jio</sub> D<sub>jio</sub> |    | S<sub>piy</sub> T<sub>piy</sub> Q<sub>piy</sub> |    | T<sub>jey</sub> S<sub>jey</sub> Q<sub>jey</sub> |    |
 
-
 Even if non-standard dominant Khizhnyak functions are not real this notation can still be used for classical Socionics types.
+
+
+
+### 11.6 Dynamic-nondynamic YO axis as a measure of Khizhnyak functions differentiation
+
+Dynamic-nondynamic axis is not in 8 Reinin-Khyzhnyak axes but still it can be a special one. It's value can be interpretred as a max abs value of Khizhnyak axes and it can correspond to the most differentiated (as Jung meant it) cognitive function from 24 Khizhnyak functions.
+
+For example if we take entpo. type we would expect that it would have the most value for Npeo. and Tpeo. As Npeo. is where dominant function from Model A go and Tpeo. is where supporting, background and vulnerable functions from Model A go. So this were the max abs values of Khyzhnyak funcions from conscious temperaments. But if we take functions from semiconscious (automatic) temperaments we would expect to get lower max abs values.
+
+And this would exactly mean that conscious Khyzhnyak functions from base temperament are the most differentiated functions of the type.
+
+
+### 11.7 Model A analogue with Gulenko's temperaments and Khyzhnyak functions
+
+pass
 
 --------
 
