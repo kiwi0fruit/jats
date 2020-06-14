@@ -19,8 +19,9 @@ This is an alternative translation of the basic concepts of one of the braches o
 * [11. Symmetries of Reinin dichotomies and their connection to Khizhnyak functions and axes](#11-symmetries-of-reinin-dichotomies-and-their-connection-to-khizhnyak-functions-and-axes)
   - [11.1 Reinin dichotomies](#111-reinin-dichotomies)
   - [11.2 Khizhnyak functions and axes](#112-khizhnyak-functions-and-axes)
-  - [11.3 Non-standard dominant Khizhnyak functions](#113-non-standard-dominant-khizhnyak-functions)
-  - [11.4 Dominant-agnostic type names](#114-dominant-agnostic-type-names)
+  - [11.3 Reinin-Khyzhnyak axes](#113-reinin-khyzhnyak-axes)
+  - [11.4 Non-standard dominant Khizhnyak functions](#114-non-standard-dominant-khizhnyak-functions)
+  - [11.5 Dominant-agnostic type names](#115-dominant-agnostic-type-names)
 
 
 ## Summary
@@ -445,30 +446,30 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 
 ### 11.2 Khizhnyak functions and axes
 
-Mind that NS and TF Khizhnyak functions and axes can be directly linearly obtained from I=>E, J=>P, S=>N, F=>T axes by moving along of the diagonal of 3 axes.
+Mind that NS and TF Khizhnyak functions and axes can be directly (and may be linearly) obtained from I=>E, J=>P, S=>N, Bg.=>Ad., F=>T, Gd.=>Ab., D=>Q, Bd.=>Ag. axes by moving along of the diagonal of 4 axes.
 
-But QD functions and axes should first non-linearly get D=>Q axis and only after that proceed linearly.
+Note that QD functions and axes should first non-linearly get D=>Q axis.
 
-Alt. names are made of Gulenko's temperament.
+Khizhnyak functions names are made of Gulenko's temperament.
 
-| Axis     | Alt. names   | Func. relation |
-|:---------|:------------ |:-------------- |
-| SJI=>NPE | Sjio.=>Npeo. | -S<sub>jio</sub>=N<sub>peo</sub> |
-| SPE=>NJI | Speo.=>Njio. | -S<sub>peo</sub>=N<sub>jio</sub> |
-| SJE=>NPI | Sjey.=>Npiy. | -S<sub>jey</sub>=N<sub>piy</sub> |
-| SPI=>NJE | Spiy.=>Njey. | -S<sub>piy</sub>=N<sub>jey</sub> |
-|          |              |                                  |
-| FJI=>TPE | Fjio.=>Tpeo. | -F<sub>jio</sub>=T<sub>peo</sub> |
-| FPE=>TJI | Fpeo.=>Tjio. | -F<sub>peo</sub>=T<sub>jio</sub> |
-| FJE=>TPI | Fjey.=>Tpiy. | -F<sub>jey</sub>=T<sub>piy</sub> |
-| FPI=>TJE | Fpiy.=>Tjey. | -F<sub>piy</sub>=T<sub>jey</sub> |
-|          |              |                                  |
-| DJI=>QPE | Djio.=>Qpeo. | -D<sub>jio</sub>=Q<sub>peo</sub> |
-| DPE=>QJI | Dpeo.=>Qjio. | -D<sub>peo</sub>=Q<sub>jio</sub> |
-| DJE=>QPI | Djey.=>Qpiy. | -D<sub>jey</sub>=Q<sub>piy</sub> |
-| DPI=>QJE | Dpiy.=>Qjey. | -D<sub>piy</sub>=Q<sub>jey</sub> |
+| Khizhnyak axis | Khizhnyak axis in Khizhnyak functions terms | Khizhnyak functions relation |
+|:-------------- |:------------ |:-------------------------------- |
+| Bg.SJI=>Ad.NPE | Sjio.=>Npeo. | -S<sub>jio</sub>=N<sub>peo</sub> |
+| Bg.SPE=>Ad.NJI | Speo.=>Njio. | -S<sub>peo</sub>=N<sub>jio</sub> |
+| Ad.SJE=>Bg.NPI | Sjey.=>Npiy. | -S<sub>jey</sub>=N<sub>piy</sub> |
+| Ad.SPI=>Bg.NJE | Spiy.=>Njey. | -S<sub>piy</sub>=N<sub>jey</sub> |
+|                |              |                                  |
+| Gd.FJI=>Ab.TPE | Fjio.=>Tpeo. | -F<sub>jio</sub>=T<sub>peo</sub> |
+| Gd.FPE=>Ab.TJI | Fpeo.=>Tjio. | -F<sub>peo</sub>=T<sub>jio</sub> |
+| Ab.FJE=>Gd.TPI | Fjey.=>Tpiy. | -F<sub>jey</sub>=T<sub>piy</sub> |
+| Ab.FPI=>Gd.TJE | Fpiy.=>Tjey. | -F<sub>piy</sub>=T<sub>jey</sub> |
+|                |              |                                  |
+| Bd.DJI=>Ag.QPE | Djio.=>Qpeo. | -D<sub>jio</sub>=Q<sub>peo</sub> |
+| Bd.DPE=>Ag.QJI | Dpeo.=>Qjio. | -D<sub>peo</sub>=Q<sub>jio</sub> |
+| Ag.DJE=>Bd.QPI | Djey.=>Qpiy. | -D<sub>jey</sub>=Q<sub>piy</sub> |
+| Ag.DPI=>Bd.QJE | Dpiy.=>Qjey. | -D<sub>piy</sub>=Q<sub>jey</sub> |
 
-In addition to 24 Khizhnyak functions we can define 12 abstract static-dynamic (n**o**ndynamic-d**y**namic) functions that lack IE and JP flavour:
+In addition to 12 Khizhnyak axes and 24 Khizhnyak functions we can define 12 abstract static-dynamic (n**o**ndynamic-d**y**namic) functions that lack IE and JP flavour:
 
 |         | Abbr. | Alt.       | Is abstracted from |
 |:-------:|:-----:|:------------- |:--------------- |
@@ -510,10 +511,32 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | 14  | +QPDJ/⁠-⁠QJDP | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | +3  | -3  | -3  | +3  | -3  | +3  |
 | 15  | +Ag./⁠-⁠Bd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
 
+### 11.3 Reinin-Khyzhnyak axes
+
+From previous table can be seen that not all Reinin axes can influence Khizhnyak axes (that encode two Khyzhnyak functions via single axis). Only **8 Reinin-Khizhnyak axes** can affect 12 Khizhnyak axes:
+
+|     |             | N<sub>peo</sub> | N<sub>jio</sub> | N<sub>piy</sub> | N<sub>jey</sub> | S<sub>peo</sub> | S<sub>jio</sub> | S<sub>piy</sub> | S<sub>jey</sub> | | T<sub>peo</sub> | T<sub>jio</sub> | T<sub>piy</sub> | T<sub>jey</sub> | F<sub>peo</sub> | F<sub>jio</sub> | F<sub>piy</sub> | F<sub>jey</sub> | | Q<sub>peo</sub> | Q<sub>jio</sub> | Q<sub>piy</sub> | Q<sub>jey</sub> | D<sub>peo</sub> | D<sub>jio</sub> | D<sub>piy</sub> | D<sub>jey</sub> |
+| --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
+|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 1   | +E/⁠-⁠I       | +1  | -1  | -1  | +1  | +1  | -1  | -1  | +1  |     | +1  | -1  | -1  | +1  | +1  | -1  | -1  | +1  |     | +1  | -1  | -1  | +1  | +1  | -1  | -1  | +1  |
+| 2   | +P/⁠-⁠J       | +1  | -1  | +1  | -1  | +1  | -1  | +1  | -1  |     | +1  | -1  | +1  | -1  | +1  | -1  | +1  | -1  |     | +1  | -1  | +1  | -1  | +1  | -1  | +1  | -1  |
+|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 3   | +N/⁠-⁠S       | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 4   | +Ad./⁠-⁠Bg.   | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 5   | +T/⁠-⁠F       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 6  | +Ab./⁠-⁠Gd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 7  | +Q/⁠-⁠D       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |
+| 8  | +Ag./⁠-⁠Bd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
+
+There is a hypothesys that 8 Reinin-Khizhnyak axes are the only axes that have independent variation if we are to interpret them as factors (correcting their dependence first). 
+
 PS: Used: I E J P Y O S N F T Q D G B A X U. Free: C H K L M R V W Z
 
 
-### 11.3 Non-standard dominant Khizhnyak functions
+### 11.4 Non-standard dominant Khizhnyak functions
 
 There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that ESxP (Speo.dom.) types actually have very weak and vulnerable-like Njio. that governs consideration for all people even the "small" people (governs among other things). And that ENxP (Npeo.dom.) types have very weak Sjio. that amoung other thing governs monotonous sensory affairs.
 
@@ -539,7 +562,7 @@ More thought experiments on non-standard dominant functions is [**here**](https:
 Worth noting that non-standard dominant functions do not require abstract static-dynamic functions. Underlying cognitive functions can actually have EI and PJ roots in them that make some combination manifestations more common. For example if NS functions stem from some more ancient instinctual subsystem of the brain. And TF stem from more young and impuls-controlling subsystem. But the brain can be flexible enough to be PEO temperament that is more instinctual but actually have dominant To. that's from the impuls-controlling subsystem. Like Npeo. part is a thin proxy to the Tpeo.
 
 
-### 11.4 Dominant-agnostic type names
+### 11.5 Dominant-agnostic type names
 
 If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to append new YO dynamic-nondynamic axis notation so that INTJO could not be mistaken with INTJ. INTJO would have JIO Gulenko's Temperament (balanced-stable) be rational and introverted and have a static dominant function. But INTJ has dominant Ni that is a dynamic function.
 
