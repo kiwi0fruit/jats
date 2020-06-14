@@ -23,7 +23,7 @@ This is an alternative translation of the basic concepts of one of the braches o
   - [11.4 Non-standard dominant Khizhnyak functions](#114-non-standard-dominant-khizhnyak-functions)
   - [11.5 Dominant-agnostic type names](#115-dominant-agnostic-type-names)
   - [11.6 Dynamic-nondynamic YO axis as a measure of Khizhnyak functions differentiation](#116-dynamic-nondynamic-yo-axis-as-a-measure-of-khizhnyak-functions-differentiation)
-  - [11.7 Model A analogue with Gulenko's temperaments and Khyzhnyak functions](#117-model-a-analogue-with-gulenkos-temperaments-and-khyzhnyak-functions)
+  - [11.7 Model A analogue stub with Gulenko's temperaments and Khyzhnyak functions](#117-model-a-analogue-stub-with-gulenkos-temperaments-and-khyzhnyak-functions)
 
 
 ## Summary
@@ -591,7 +591,7 @@ For example if we take entpo. type we would expect that it would have the most v
 And this would exactly mean that conscious Khyzhnyak functions from base temperament are the most differentiated functions of the type.
 
 
-### 11.7 Model A analogue with Gulenko's temperaments and Khyzhnyak functions
+### 11.7 Model A analogue stub with Gulenko's temperaments and Khyzhnyak functions
 
 * 1, 2, 3, 4 - **conscious** temperaments positions,
 * 5, 6, 7, 8 - **semiconscious** (automatic) temperaments positions,
