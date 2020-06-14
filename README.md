@@ -533,9 +533,7 @@ From previous table can be seen that not all Reinin axes can influence Khizhnyak
 | 7  | +Q/⁠-⁠D       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |
 | 8  | +Ag./⁠-⁠Bd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
 
-There is a hypothesys that 8 Reinin-Khizhnyak axes are the only axes that have independent variation if we are to interpret them as factors (correcting their dependence first). 
-
-PS: Used: I E J P Y O S N F T Q D G B A X U. Free: C H K L M R V W Z
+**There is a hypothesys that 8 Reinin-Khizhnyak axes are the only axes that have independent variation if we are to interpret them as factors (correcting their dependence first).**
 
 
 ### 11.4 Non-standard dominant Khizhnyak functions
@@ -583,5 +581,7 @@ If non-standard dominant Khizhnyak functions are real then type names should be 
 Even if non-standard dominant Khizhnyak functions are not real this notation can still be used for classical Socionics types.
 
 --------
+
+PS: Used: I E J P Y O S N F T Q D G B A X U. Free: C H K L M R V W Z
 
 *([Source code](https://github.com/kiwi0fruit/jats/blob/master/README.md) at GitHub)*
