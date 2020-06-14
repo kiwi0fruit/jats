@@ -586,12 +586,19 @@ Even if non-standard dominant Khizhnyak functions are not real this notation can
 
 Dynamic-nondynamic axis is not in 8 Reinin-Khyzhnyak axes but still it can be a special one. It's value can be interpretred as a max abs value of Khizhnyak axes and it can correspond to the most differentiated (as Jung meant it) cognitive function from 24 Khizhnyak functions.
 
-For example if we take entpo. type we would expect that it would have the most value for Npeo. and Tpeo. As Npeo. is where 1-dominant function from Model A go and Tpeo. is where 2-supporting, 8-background and 4-vulnerable functions from Model A go. So this were the max abs values of Khyzhnyak axes from conscious temperaments. But if we take values from semiconscious (automatic) temperaments we would expect to get lower max abs axes values.
+For example if we take entpo. type we would expect that it would have the most value for Npeo. and Tpeo. As Npeo. is where 1-dominant function from Model A go and Tpeo. is where 2-supporting, 8-background and 4-vulnerable functions from Model A go. So this were the max abs values of Khyzhnyak axes from conscious temperaments. But if we take values from semiconscious (automatic) temperaments we would expect to get lower max abs axes values (see next section for details).
 
 And this would exactly mean that conscious Khyzhnyak functions from base temperament are the most differentiated functions of the type.
 
 
 ### 11.7 Model A analogue with Gulenko's temperaments and Khyzhnyak functions
+
+* 1, 2, 3, 4 - **conscious** temperaments positions,
+* 5, 6, 7, 8 - **semiconscious** (automatic) temperaments positions,
+* 1, 3 - **base** temperament postions,
+* 2, 4 - **mirror** temperament postions,
+* 5, 7 - **dual** temperament postions,
+* 6, 8 - **background** temperament postions,
 
 |     |                                                 |     | **PEO**                                         |     |     |                                                 |     | **JIO**                                         |     |     |                                                 |     | **PIY**                                         |     |     |                                                 |     | **JEY**                                         |       |
 | --- |:----------------------------------------------- | --- |:----------------------------------------------- | --- | --- |:----------------------------------------------- | --- |:----------------------------------------------- | --- | --- |:----------------------------------------------- | --- |:----------------------------------------------- | --- | --- |:----------------------------------------------- | --- |:----------------------------------------------- | ----- |
