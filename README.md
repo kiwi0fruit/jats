@@ -19,11 +19,11 @@ This is an alternative translation of the basic concepts of one of the braches o
 * [11. Symmetries of Reinin dichotomies and their connection to Khizhnyak functions and axes](#11-symmetries-of-reinin-dichotomies-and-their-connection-to-khizhnyak-functions-and-axes)
   - [11.1 Reinin dichotomies](#111-reinin-dichotomies)
   - [11.2 Khizhnyak functions and axes](#112-khizhnyak-functions-and-axes)
-  - [11.3 8 Reinin-Khyzhnyak axes as a basis for 12 Khyzhnyak axes](#113-8-reinin-khyzhnyak-axes-as-a-basis-for-12-khyzhnyak-axes)
+  - [11.3 8 Reinin-Khizhnyak axes as a basis for 12 Khizhnyak axes](#113-8-reinin-khizhnyak-axes-as-a-basis-for-12-khizhnyak-axes)
   - [11.4 Non-standard dominant Khizhnyak functions](#114-non-standard-dominant-khizhnyak-functions)
   - [11.5 Dominant-agnostic type names](#115-dominant-agnostic-type-names)
   - [11.6 Dynamic-nondynamic YO axis as a measure of Khizhnyak functions differentiation](#116-dynamic-nondynamic-yo-axis-as-a-measure-of-khizhnyak-functions-differentiation)
-  - [11.7 Model A analogue stub with Gulenko's temperaments and Khyzhnyak functions](#117-model-a-analogue-stub-with-gulenkos-temperaments-and-khyzhnyak-functions)
+  - [11.7 Model A analogue stub with Gulenko's temperaments and Khizhnyak functions](#117-model-a-analogue-stub-with-gulenkos-temperaments-and-khizhnyak-functions)
 
 
 ## Summary
@@ -514,9 +514,9 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | 14  | +QPDJ/⁠-⁠QJDP | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | -3  | +3  | -3  | -3  | +3  | -3  | +3  |
 | 15  | +Ag./⁠-⁠Bd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
 
-### 11.3 8 Reinin-Khyzhnyak axes as a basis for 12 Khyzhnyak axes
+### 11.3 8 Reinin-Khizhnyak axes as a basis for 12 Khizhnyak axes
 
-From previous table can be seen that not all Reinin axes can influence Khizhnyak axes (that encode two Khyzhnyak functions via single axis). That can also be seen from updated table from [section 11.2](#112-khizhnyak-functions-and-axes). Only **8 Reinin-Khizhnyak axes** can affect 12 Khizhnyak axes:
+From previous table can be seen that not all Reinin axes can influence Khizhnyak axes (that encode two Khizhnyak functions via single axis). That can also be seen from updated table from [section 11.2](#112-khizhnyak-functions-and-axes). Only **8 Reinin-Khizhnyak axes** can affect 12 Khizhnyak axes:
 
 |     |             | N<sub>peo</sub> | N<sub>jio</sub> | N<sub>piy</sub> | N<sub>jey</sub> | S<sub>peo</sub> | S<sub>jio</sub> | S<sub>piy</sub> | S<sub>jey</sub> | | T<sub>peo</sub> | T<sub>jio</sub> | T<sub>piy</sub> | T<sub>jey</sub> | F<sub>peo</sub> | F<sub>jio</sub> | F<sub>piy</sub> | F<sub>jey</sub> | | Q<sub>peo</sub> | Q<sub>jio</sub> | Q<sub>piy</sub> | Q<sub>jey</sub> | D<sub>peo</sub> | D<sub>jio</sub> | D<sub>piy</sub> | D<sub>jey</sub> |
 | --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -529,12 +529,12 @@ From previous table can be seen that not all Reinin axes can influence Khizhnyak
 | 4   | +Ad./⁠-⁠Bg.   | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 5   | +T/⁠-⁠F       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-| 6  | +Ab./⁠-⁠Gd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 6   | +Ab./⁠-⁠Gd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 7  | +Q/⁠-⁠D       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |
-| 8  | +Ag./⁠-⁠Bd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
+| 7   | +Q/⁠-⁠D       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |
+| 8   | +Ag./⁠-⁠Bd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
 
-**There is a hypothesys that 8 Reinin-Khizhnyak axes are the only axes that have independent variation if we are to try to interpret Reinin axes as factors (correcting their dependence first). 8 Reinin axes would have independent variation and 7 would not (and would be fully determined by 8 Reinin-Khizhnyak axes).**
+**There is a hypothesys that 8 Reinin-Khizhnyak axes are the only axes that have independent variation if we are to try to interpret Reinin axes as independent factors (correcting their dependence first). 8 Reinin axes would have independent variation and 7 would not (and would be fully determined by 8 Reinin-Khizhnyak axes).**
 
 
 ### 11.4 Non-standard dominant Khizhnyak functions
@@ -591,7 +591,7 @@ For example if we take entpo. type we would expect that it would have the most v
 And this would exactly mean that conscious Khyzhnyak functions from base temperament are the most differentiated functions of the type.
 
 
-### 11.7 Model A analogue stub with Gulenko's temperaments and Khyzhnyak functions
+### 11.7 Model A analogue stub with Gulenko's temperaments and Khizhnyak functions
 
 * 1, 2, 3, 4 - **conscious** temperaments positions,
 * 5, 6, 7, 8 - **semiconscious** (automatic) temperaments positions,
