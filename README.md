@@ -584,11 +584,11 @@ Even if non-standard dominant Khizhnyak functions are not real this notation can
 
 ### 11.6 Dynamic-nondynamic YO axis as a measure of Khizhnyak functions differentiation
 
-Dynamic-nondynamic axis is not in 8 Reinin-Khyzhnyak axes but still it can be a special one. It's value can be interpretred as a max abs value of Khizhnyak axes and it can correspond to the most differentiated (as Jung meant it) cognitive function from 24 Khizhnyak functions.
+Dynamic-nondynamic axis is not in 8 Reinin-Khizhnyak axes but still it can be a special one. It's value can be interpretred as a max abs value of Khizhnyak axes and it can correspond to the most differentiated (as Jung meant it) cognitive function from 24 Khizhnyak functions.
 
-For example if we take entpo. type we would expect that it would have the most value for Npeo. and Tpeo. As Npeo. is where 1-dominant function from Model A go and Tpeo. is where 2-supporting, 8-background and 4-vulnerable functions from Model A go. So this were the max abs values of Khyzhnyak axes from conscious temperaments. But if we take values from semiconscious (automatic) temperaments we would expect to get lower max abs axes values (see next section for details).
+For example if we take entpo. type we would expect that it would have the most value for Npeo. and Tpeo. As Npeo. is where 1-dominant function from Model A go and Tpeo. is where 2-supporting, 8-background and 4-vulnerable functions from Model A go. So this were the max abs values of Khizhnyak axes from conscious temperaments. But if we take values from semiconscious (automatic) temperaments we would expect to get lower max abs axes values (see next section for details).
 
-And this would exactly mean that conscious Khyzhnyak functions from base temperament are the most differentiated functions of the type.
+And this would exactly mean that conscious Khizhnyak functions from base temperament are the most differentiated functions of the type.
 
 
 ### 11.7 Model A analogue stub with Gulenko's temperaments and Khizhnyak functions
