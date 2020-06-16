@@ -222,10 +222,10 @@ So in my translation of Model A I wanted to fix possible misunderstandings:
 
 | Functions        |                  | Strength | Consciousness             | Value        | Example    | NeT.        |
 | ---------------- | ---------------- | -------- | ------------------------- | ------------ | ---------: | :--------- |
-| **_1 Dominant_** | 2 Supporting     | strong   | conscious                 | valuable     | **_1 Ne._** | 2 Ti.       |
-| 4 Vulnerable     | **_3 Role_**     | weak     | conscious                 | not valuable | 4 Fi.       | **_3 Se._** |
-| _5 Suggestive_   | **6 Activating** | weak     | semiconscious (automatic) | valuable     | _5 Si_     | **6 Fe.**   |
-| **8 Background** | _7 Restrictive_  | strong   | semiconscious (automatic) | not valuable | **8 Te.**   | _7 Ni_     |
+| ***1 Dominant*** | 2 Supporting     | strong   | conscious                 | valuable     | ***1 Ne.*** | 2 Ti.       |
+| 4 Vulnerable     | ***3 Role***     | weak     | conscious                 | not valuable | 4 Fi.       | ***3 Se.*** |
+| *5 Suggestive*   | **6 Activating** | weak     | semiconscious (automatic) | valuable     | *5 Si.*     | **6 Fe.**   |
+| **8 Background** | *7 Restrictive*  | strong   | semiconscious (automatic) | not valuable | **8 Te.**   | *7 Ni.*     |
 | **proverted: 1,3,6,8**; antiverted: 2,4,5,7; *pronal: 1,3,5,7*; antinal: 2,4,6,8\* | | 1 > 8 > 2&7 > 3 > 6 > 5 > 4; **strong proverted** > **strong antiverted**; **weak proverted** > **weak antiverted** | | 1>2; 5>6; 4>3; 8>7; **valuable pronal** (1,5) set long-term life goals | | |
 
 \* names were derived from rational-irrational and extraverted-introverted.
@@ -349,13 +349,13 @@ So this can be seen that these 4 types has the same 4 most valued functions (1st
 
 | **quadra / temper.** | **PEO**  | **JIO**       | **PIY**       | **JEY**  |
 |:------------|:--------|:-------------|:-------------|:--------|
-| Alpha       | 1Ne.2Ti.-8Te.-5Si.6Fe. | 1Ti.2Ne.-8Ni.-5Fe.6Si. | 1Si.2Fe.-8Fi.-5Ne.6Ti. | 1Fe.2Si.-8Se.-5Ti.6Ne. |
+| Alpha       | 1Ne.2Ti.[8Te.]5Si.6Fe. | 1Ti.2Ne.[8Ni.]5Fe.6Si. | 1Si.2Fe.[8Fi.]5Ne.6Ti. | 1Fe.2Si.[8Se.]5Ti.6Ne. |
 | **A α a**   | **NeT.** | **TiN.intj.** | **SiF.isfp.** | **FeS.** |
-| Beta        | 1Se.2Ti.-8Te.-5Ni.6Fe. | 1Ti.2Se.-8Si.-5Fe.6Ni. | 1Ni.2Fe.-8Fi.-5Se.6Ti. | 1Fe.2Ni.-8Ne.-5Ti.6Se. |
+| Beta        | 1Se.2Ti.[8Te.]5Ni.6Fe. | 1Ti.2Se.[8Si.]5Fe.6Ni. | 1Ni.2Fe.[8Fi.]5Se.6Ti. | 1Fe.2Ni.[8Ne.]5Ti.6Se. |
 | **B β b**   | **SeT.** | **TiS.istj.** | **NiF.infp.** | **FeN.** |
-| Gamma       | 1Se.2Fi.-8Fe.-5Ni.6Te. | 1Fi.2Se.-8Si.-5Te.6Ni. | 1Ni.2Te.-8Ti.-5Se.6Fi. | 1Te.2Ni.-8Ne.-5Fi.6Se. |
+| Gamma       | 1Se.2Fi.[8Fe.]5Ni.6Te. | 1Fi.2Se.[8Si.]5Te.6Ni. | 1Ni.2Te.[8Ti.]5Se.6Fi. | 1Te.2Ni.[8Ne.]5Fi.6Se. |
 | **Γ G γ g** | **SeF.** | **FiS.isfj.** | **NiT.intp.** | **TeN.** |
-| Delta       | 1Ne.2Fi.-8Fe.-5Si.6Te. | 1Fi.2Ne.-8Ni.-5Te.6Si. | 1Si.2Te.-8Ti.-5Ne.6Fi. | 1Te.2Si.-8Se.-5Fi.6Ne. |
+| Delta       | 1Ne.2Fi.[8Fe.]5Si.6Te. | 1Fi.2Ne.[8Ni.]5Te.6Si. | 1Si.2Te.[8Ti.]5Ne.6Fi. | 1Te.2Si.[8Se.]5Fi.6Ne. |
 | **Δ D δ d** | **NeF.** | **FiN.infj.** | **SiT.istp.** | **TeS.** |
 
 It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
