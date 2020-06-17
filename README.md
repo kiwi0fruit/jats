@@ -101,7 +101,7 @@ Short (and main) names like NeT. and TiN.intj. were obtained from cognitive func
 Names are in the following order:
 
 - **Socionics reference type short name**, **Number name**,
-- **Socionics reference type long name**, Socionics name literal translation, MBTI name.
+- Socionics reference type long name, Socionics name literal translation, MBTI name.
 
 Types are grouped by Quadras and Gulenkos' Temperaments:
 
@@ -112,19 +112,18 @@ Types are grouped by Quadras and Gulenkos' Temperaments:
 
 | quadra  |                        PEO                        |                      JIO                       |                        PIY                        |                      JEY                       |
 |:------- |:-------------------------------------------------:|:----------------------------------------------:|:-------------------------------------------------:|:----------------------------------------------:|
-| α Alpha |                  **NeT.** **1**                   |              **TiN.intj.** **2**               |                **SiF.isfp.** **3**                |                 **FeS.** **4**                 |
+| α Alpha |                  **NeT.**  **1**                  |              **TiN.intj.**  **2**              |               **SiF.isfp.**  **3**                |                **FeS.**  **4**                 |
 |         |               NeT.entp.  ILE  ENTP                |              TiN.intj.  LII  INTx              |               SiF.isfp.  SEI  ISFx                |             FeS.esfj.  ESE,  ESFJ              |
 |         | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter |  dominant introverted sensor & perceiving feeler  |  dominant extraverted feeler & judging sensor  |
-| β Beta  |                  **SeT.** **5**                   |              **TiS.istj.** **6**               |                **NiF.infp.** **7**                |                 **FeN.** **8**                 |
+| β Beta  |                  **SeT.**  **5**                  |              **TiS.istj.**  **6**              |               **NiF.infp.**  **7**                |                **FeN.**  **8**                 |
 |         |               SeT.estp.  SLE  ESTP                |             TiS.istj.  LSI,  ISTx              |               NiF.infp.  IEI  INFx                |             FeN.enfj.  EIE,  ENFJ              |
 |         |  dominant extraverted sensor & perceiving tasker  |  dominant introverted tasker & judging sensor  | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
-| γ Gamma |                  **SeF.** **9**                   |              **FiS.isfj.** **10**              |               **NiT.intp.** **11**                |                **TeN.** **12**                 |
+| γ Gamma |                  **SeF.**  **9**                  |             **FiS.isfj.**  **10**              |               **NiT.intp.**  **11**               |                **TeN.**  **12**                |
 |         |               SeF.esfp.  SEE  ESFP                |             FiS.isfj.  ESI,  ISFx              |               NiT.intp.  ILI  INTx                |             TeN.entj.  LIE,  ENTJ              |
 |         |  dominant extraverted sensor & perceiving feeler  |  dominant introverted feeler & judging sensor  | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
-| δ Delta |                  **NeF.** **13**                  |              **FiN.infj.** **14**              |               **SiT.istp.** **15**                |                **TeS.** **16**                 |
+| δ Delta |                 **NeF.**  **13**                  |             **FiN.infj.**  **14**              |               **SiT.istp.**  **15**               |                **TeS.**  **16**                |
 |         |               NeF.enfp.  IEE  ENFP                |             FiN.infj.  EII,  INFx              |               SiT.istp.  SLI  ISTx                |             TeS.estj.  LSE,  ESTJ              |
 |         | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter |  dominant introverted sensor & perceiving tasker  |  dominant extraverted tasker & judging sensor  |
-
 
 For example TiN.intj. is *intuitive task-oriented judging introvert with dominant Ti.* or *dominant introverted tasker & judging intuiter*.
 
