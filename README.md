@@ -386,10 +386,10 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 3. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **NeT.entj.** if the person is a mixture equally of NeT., TeN. and TiN.intj.: ENTJO(1\~2\~12). But at the moment it's a speculation only.
 4. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example INTxx(2/11) = TiN.intj. or NiT.intp. or INTuu(2~11). But if we take MBTI types then **INTx** = TiN.INTP or NiT.INTJ or INTu.
 
-| **Unknown types**  | **Meaning of unknown types**              | **Mixed type**  |
-|:------------------:|:-----------------------------------------:|:---------------:|
-| ExTJY(12/16)       | TeN. v TeS. v EuTJY(12~16) v ...          | EuTJY(12~16)    |
-| ENxJY(8/12)        | TeN. v FeN. v ENuJY(8~12) v ...           | ENuJY(8~12)     |
+| **Unknown types**         | **Meaning of unknown types**                 | **Mixed type**           |
+|:-------------------------:|:--------------------------------------------:|:------------------------:|
+| jey.xT<sub>(12/16)</sub>  | TeN. v TeS. v jey.uT<sub>(12~16)</sub> v ... | jey.uT<sub>(12~16)</sub> |
+| jey.Nx<sub>(8/12)</sub>   | TeN. v FeN. v jey.Nu<sub>(8~12)</sub> v ...  | jey.Nu<sub>(8~12)</sub>  |
 | INTxx(2/11)        | TiN.intj. v NiT.intp. v INTuu(2~11) v ... | INTuu(2~11)     |
 | IxTJO(2/6)         | TiN.intj. v TiS.istj. v IuTJO(2~6) v ...  | IuTJO(2~6)      |
 | xNTxO(1/2)         | NeT. v TiN.intj. v uNTuO(1~2) v ...       | uNTuO(1~2)      |
