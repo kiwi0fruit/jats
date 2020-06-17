@@ -389,7 +389,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |     **Unknown types**     |                **Meaning of unknown types**                 |    **Mixed type**    |
 |:-------------------------:|:-----------------------------------------------------------:|:--------------------:|
 |           xTJEY           |                  TeN. v TeS. v uTJEY v ...                  |        uTJEY         |
-|           ENxJY           |                  TeN. v FeN. v NuJEY v ...                  |        NuJEY         |
+|           NxJEY           |                  TeN. v FeN. v NuJEY v ...                  |        NuJEY         |
 |   NTxIx<sup>2,11</sup>    |     TiN.intj. v NiT.intp. v NTuIu<sup>2~11</sup> v ...      | NTuIu<sup>2~11</sup> |
 |           xTJIO           |             TiN.intj. v TiS.istj. v uTJIO v ...             |        uTJIO         |
 |    NTxxO<sup>1,2</sup>    |        NeT. v TiN.intj. v NTuuO<sup>1~2</sup> v ...         | NTuuO<sup>1~2</sup>  |
