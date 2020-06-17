@@ -382,20 +382,20 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 ## 9. Intermediate and unknown types names
 
 1. In order to distinguish from MBTI the 5-letter notation from [section 11.5](#115-dominant-agnostic-type-names) is used.
-2. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common in MBTI (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJY/EuTJY (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
-3. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **NeT.entj.** if the person is a mixture equally of NeT., TeN. and TiN.intj.: ENTJO(1\~2\~12). But at the moment it's a speculation only.
-4. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example INTxx(2/11) = TiN.intj. or NiT.intp. or INTuu(2~11). But if we take MBTI types then **INTx** = TiN.INTP or NiT.INTJ or INTu.
+2. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common in MBTI (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly μTJEY/uTJEY (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
+3. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 5 letter code at the beginning shows the position on 2 SN and FT axes and 3 temperament axes. All axes except OY can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows types shortcut numbers to pick prom. I guess it may even be possible to have **NeT.entj.** if the person is a mixture equally of NeT., TeN. and TiN.intj.: NTJEO(1\~2\~12). But at the moment it's a speculation only and allowed combinations are PEO, JIO, PIY, JEY.
+4. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example NTxIx<sub>2,11</sub> = TiN.intj. or NiT.intp. or NTuIu<sub>2,11</sub>. But if we take MBTI types then **INTx** = TiN.INTP or NiT.INTJ or INTu.
 
 | **Unknown types**  | **Meaning of unknown types**              | **Mixed type**  |
 |:------------------:|:-----------------------------------------:|:---------------:|
-| ExTJY(12/16)       | TeN. v TeS. v EuTJY(12~16) v ...          | EuTJY(12~16)    |
-| ENxJY(8/12)        | TeN. v FeN. v ENuJY(8~12) v ...           | ENuJY(8~12)     |
-| INTxx(2/11)        | TiN.intj. v NiT.intp. v INTuu(2~11) v ... | INTuu(2~11)     |
-| IxTJO(2/6)         | TiN.intj. v TiS.istj. v IuTJO(2~6) v ...  | IuTJO(2~6)      |
-| xNTxO(1/2)         | NeT. v TiN.intj. v uNTuO(1~2) v ...       | uNTuO(1~2)      |
-| xNTJx(2/12)        | TeN. v TiN.intj. v uNTJu(2~12) v ...      | uNTJu(2~12)     |
-| INxJO(2/14)        | TiN.intj. v FiN.infj. v INuJO(2~14) v ... | INuJO(2~14)     |
-| IxTxx(2/15)        | TiN.intj. v SiT.istp. v IuTuu(2~15) v ... | IuTuu(2~15)     |
+| xTJEY              | TeN. v TeS. v uTJEY v ...                 | uTJEY           |
+| ENxJY              | TeN. v FeN. v NuJEY v ...                 | NuJEY           |
+| NTxIx(2/11)        | TiN.intj. v NiT.intp. v NTuIu(2~11) v ... | NTuIu<sub>2,11</sub>  |
+| xTJIO              | TiN.intj. v TiS.istj. v uTJIO v ...       | uTJIO           |
+| NTxxO(1/2)         | NeT. v TiN.intj. v NTuuO(1~2) v ...       | NTuuO<sub>1,2</sub>   |
+| NTJxx(2/12)        | TeN. v TiN.intj. v NTJuu(2~12) v ...      | NTJuu</sub>2,12</sub> |
+| NxJIO              | TiN.intj. v FiN.infj. v NuJIO v ...       | NuJIO           |
+| xTxIx(2/15)        | TiN.intj. v SiT.istp. v uTuIu(2~15) v ... | uTuIu(2~15)     |
 | INxxx(2/7)         | TiN.intj. v NiF.infp. v INuuu(2~7) v ...  | INuuu(2~7)      |
 | IxxJO(2/10)        | TiN.intj. v FiS.isfj. v IuuJO(2~10) v ... | IuuJO(2~10)     |
 | ENxPO(1/1~13)      | NeT. v ENuPO(1~13) v ... (not NeF.)       | ENTPO(1~13)     |
