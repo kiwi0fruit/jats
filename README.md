@@ -1,6 +1,6 @@
 # Alternative translation of Jung-Augustinavichiute-Talanov Socionics to English + On incompatibility of Socionics and MBTI
 
-This is an alternative translation of the basic concepts of one of the braches of Socionics to English. My vision of the ***Jung-Augustinavichiute-Talanov Socionics*** (**JATS**). My vision doesn't cover some interesting parts of JATS (like metrics; see chapter 10 for details in discussions) and sometimes it goes beyond JATS (chapters 7, 8). Only main terms were translated and described so this article is a stub. See Summary for notables.
+This is an alternative translation of the basic concepts of one of the braches of Socionics to English. My vision of the ***Jung-Augustinavichiute-Talanov Socionics*** (**JATS**). My vision doesn't cover some interesting parts of JATS (like metrics; see chapter 10 for details in discussions) and sometimes it goes beyond JATS. Sometimes only main terms were translated and described so this article is full of stubs. See Summary for notables.
 
 ## Contents
 
