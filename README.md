@@ -390,7 +390,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |:------------------:|:-----------------------------------------:|:---------------:|
 | xTJEY              | TeN. v TeS. v uTJEY v ...                 | uTJEY           |
 | ENxJY              | TeN. v FeN. v NuJEY v ...                 | NuJEY           |
-| NTxIx(2/11)        | TiN.intj. v NiT.intp. v NTuIu(2~11) v ... | NTuIu<sub>2,11</sub>  |
+| NTxIx(2/11)        | TiN.intj. v NiT.intp. v NTuIu(2~11) v ... | NTuIu<sup>2,11</sup>  |
 | xTJIO              | TiN.intj. v TiS.istj. v uTJIO v ...       | uTJIO           |
 | NTxxO(1/2)         | NeT. v TiN.intj. v NTuuO(1~2) v ...       | NTuuO<sub>1,2</sub>   |
 | NTJxx(2/12)        | TeN. v TiN.intj. v NTJuu(2~12) v ...      | NTJuu</sub>2,12</sub> |
