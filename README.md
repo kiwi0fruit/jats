@@ -396,10 +396,10 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |   NTJxx    |        TeN. v TiN.intj. v NTJuu v ...        | NTJuu |
 |           NxJIO           |             TiN.intj. v FiN.infj. v NuJIO v ...             |        NuJIO         |
 |   xTxIx<sup>2,15</sup>    |     TiN.intj. v SiT.istp. v uTuIu<sup>2~15</sup> v ...      | uTuIu<sup>2~15</sup> |
-|    NxxIx<sup>2,7</sup>    |      TiN.intj. v NiF.infp. v NuuIu<sup>2~7</sup> v ...      | NuuIu<sup>2~7</sup>  |
-|   xxJIO<sup>2,10</sup>    |     TiN.intj. v FiS.isfj. v uuJIO<sup>2~10</sup> v ...      | uuJIO<sup>2~10</sup> |
+|    Ab.NxxIx    |      TiN.intj. v NiF.infp. v Ab.NuuIu v ...      | Ab.NuuIu  |
+|   Ag.xxJIO    |     TiN.intj. v FiS.isfj. v Ag.uuJIO v ...      | Ag.uuJIO |
 |  NxPEO<sup>1,1~13</sup>   |                NeT. v NuPEO v ... (not NeF.)                | NTPEO<sup>~13</sup>  |
-|   NTxxO<sup>2,2~1</sup>   |      TiN.intj. v NTuuO<sup>1~2</sup> v ... (not NeT.)       |  NTJIO<sup>~1</sup>  |
+|   NTxxO<sup>2,2~1</sup>   |      TiN.intj. v NTuuO v ... (not NeT.)       |  NTJIO<sup>~1</sup>  |
 |   xTJIO<sup>2,2~6</sup>   |           TiN.intj. v uTJIO v ... (not TiS.istj.)           |  NTJIO<sup>~6</sup>  |
 | Ad.NxxxO  |      TiN.intj. v NeT. v FiN.infj. v NeF. v NuPEO v ...      |          ?           |
 | Bg.xxxIx  | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v NuPIY v ... |          ?           |
