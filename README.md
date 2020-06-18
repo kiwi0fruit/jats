@@ -395,12 +395,13 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |    NTxxO    |        NeT. v TiN.intj. v NTuuO v ...         | NTuuO  |
 |   NTJxx    |        TeN. v TiN.intj. v NTJuu v ...        | NTJuu |
 |           NxJIO           |             TiN.intj. v FiN.infj. v NuJIO v ...             |        NuJIO         |
-|   xTxIx<sup>2,15</sup>    |     TiN.intj. v SiT.istp. v uTuIu<sup>2~15</sup> v ...      | uTuIu<sup>2~15</sup> |
+|   xTxIx/2,15    |     TiN.intj. v SiT.istp. v Ad.uTuIu v ...      | uTuIu/2~15 |
+|   Ad.xTxIx    |     TiN.intj. v SiT.istp. v Ad.uTuIu v ...      | Ad.uTuIu |
 |    Ab.NxxIx    |      TiN.intj. v NiF.infp. v Ab.NuuIu v ...      | Ab.NuuIu  |
 |   Ag.xxJIO    |     TiN.intj. v FiS.isfj. v Ag.uuJIO v ...      | Ag.uuJIO |
-|  NxPEO<sup>1,1~13</sup>   |                NeT. v NuPEO v ... (not NeF.)                | NTPEO<sup>~13</sup>  |
-|   NTxxO<sup>2,2~1</sup>   |      TiN.intj. v NTuuO v ... (not NeT.)       |  NTJIO<sup>~1</sup>  |
-|   xTJIO<sup>2,2~6</sup>   |           TiN.intj. v uTJIO v ... (not TiS.istj.)           |  NTJIO<sup>~6</sup>  |
+|  NxPEO/1,1~13   |                NeT. v NuPEO v ... (not NeF.)                | NTPEO~13  |
+|   NTxxO!1   |      TiN.intj. v NTuuO v ... (not NeT.)       |  NTJIO~1  |
+|   xTJIO!6   |           TiN.intj. v uTJIO v ... (not TiS.istj.)           |  NTJIO~6  |
 | Ad.NxxxO  |      TiN.intj. v NeT. v FiN.infj. v NeF. v NuPEO v ...      |          ?           |
 | Bg.xxxIx  | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v NuPIY v ... |          ?           |
 | NxPxx |  NeT. v NiF.infp. v NiT.intp. v NeF. v NuPEO v NuPIY v ...  |          ?           |
