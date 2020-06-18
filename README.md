@@ -384,16 +384,16 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 1. In order to distinguish from MBTI the 5-letter notation from [section 11.5](#115-dominant-agnostic-type-names) is used.
 2. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common in MBTI (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly μTJEY/uTJEY (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
 3. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 5 letter code at the beginning shows the position on 2 SN and FT axes and 3 temperament axes. All axes except OY can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows types shortcut numbers to pick prom. I guess it may even be possible to have **NeT.entj.** if the person is a mixture equally of NeT., TeN. and TiN.intj.: NTJEO<sup>1\~2\~12</sup>. But at the moment it's a speculation only and allowed combinations are PEO, JIO, PIY, JEY.
-4. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example NTxIx<sup>2,11</sup> = TiN.intj. or NiT.intp. or NTuIu<sup>2,11</sup>. But if we take MBTI types then **INTx** = TiN.INTP or NiT.INTJ or INTu.
+4. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example **NTxIx** = TiN.intj. or NiT.intp. or NTuIu. But if we take MBTI types then **INTx** = TiN.INTP or NiT.INTJ or INTu.
 
 |     **Unknown types**     |                **Meaning of unknown types**                 |    **Mixed type**    |
 |:-------------------------:|:-----------------------------------------------------------:|:--------------------:|
 |           xTJEY           |                  TeN. v TeS. v uTJEY v ...                  |        uTJEY         |
 |           NxJEY           |                  TeN. v FeN. v NuJEY v ...                  |        NuJEY         |
-|   NTxIx<sup>2,11</sup>    |     TiN.intj. v NiT.intp. v NTuIu<sup>2~11</sup> v ...      | NTuIu<sup>2~11</sup> |
+|   NTxIx    |     TiN.intj. v NiT.intp. v NTuIu v ...      | NTuIu |
 |           xTJIO           |             TiN.intj. v TiS.istj. v uTJIO v ...             |        uTJIO         |
-|    NTxxO<sup>1,2</sup>    |        NeT. v TiN.intj. v NTuuO<sup>1~2</sup> v ...         | NTuuO<sup>1~2</sup>  |
-|   NTJxx<sup>2,12</sup>    |        TeN. v TiN.intj. v NTJuu<sup>2~12</sup> v ...        | NTJuu<sup>2~12</sup> |
+|    NTxxO    |        NeT. v TiN.intj. v NTuuO v ...         | NTuuO  |
+|   NTJxx    |        TeN. v TiN.intj. v NTJuu v ...        | NTJuu |
 |           NxJIO           |             TiN.intj. v FiN.infj. v NuJIO v ...             |        NuJIO         |
 |   xTxIx<sup>2,15</sup>    |     TiN.intj. v SiT.istp. v uTuIu<sup>2~15</sup> v ...      | uTuIu<sup>2~15</sup> |
 |    NxxIx<sup>2,7</sup>    |      TiN.intj. v NiF.infp. v NuuIu<sup>2~7</sup> v ...      | NuuIu<sup>2~7</sup>  |
@@ -401,10 +401,10 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |  NxPEO<sup>1,1~13</sup>   |                NeT. v NuPEO v ... (not NeF.)                | NTPEO<sup>~13</sup>  |
 |   NTxxO<sup>2,2~1</sup>   |      TiN.intj. v NTuuO<sup>1~2</sup> v ... (not NeT.)       |  NTJIO<sup>~1</sup>  |
 |   xTJIO<sup>2,2~6</sup>   |           TiN.intj. v uTJIO v ... (not TiS.istj.)           |  NTJIO<sup>~6</sup>  |
-| NAd.<sup>1,2,13,14</sup>  |      TiN.intj. v NeT. v FiN.infj. v NeF. v NuPEO v ...      |          ?           |
-| IBg.<sup>6,7,10,11</sup>  | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v NuPIY v ... |          ?           |
-| NxPxx<sup>1,7,11,13</sup> |  NeT. v NiF.infp. v NiT.intp. v NeF. v NuPEO v NuPIY v ...  |          ?           |
-| xTxIx<sup>2,6,11,15</sup> | TiN.intj. v TiS.istj. v NiT.intp. v SiT.istp. v uTJIO v ... |          ?           |
+| Ad.NxxxO  |      TiN.intj. v NeT. v FiN.infj. v NeF. v NuPEO v ...      |          ?           |
+| Bg.xxxIx  | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v NuPIY v ... |          ?           |
+| NxPxx |  NeT. v NiF.infp. v NiT.intp. v NeF. v NuPEO v NuPIY v ...  |          ?           |
+| xTxIx | TiN.intj. v TiS.istj. v NiT.intp. v SiT.istp. v uTJIO v ... |          ?           |
 
 
 ## 10. Further reading and notable discussions
