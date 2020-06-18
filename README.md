@@ -398,16 +398,16 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |     Ad.xTxIx      |           TiN.intj. v SiT.istp. v Ad.uTuIu v ...            |    Ad.uTuIu    |
 |     Ab.NxxIx      |           TiN.intj. v NiF.infp. v Ab.NuuIu v ...            |    Ab.NuuIu    |
 |     Ag.xxJIO      |           TiN.intj. v FiS.isfj. v Ag.uuJIO v ...            |    Ag.uuJIO    |
-|     NxPEO¬13      |                NeT. v NuPEO v ... (not NeF.)                |    NTPEO~13    |
-|     NxPEO.!13     |                NeT. v NuPEO v ... (not NeF.)                |    NTPEO~13    |
-|      NTxxO.!1     |             TiN.intj. v NTuuO v ... (not NeT.)              |    NTJIO~1     |
-|      xTJIO.!6     |           TiN.intj. v uTJIO v ... (not TiS.istj.)           |    NTJIO~6     |
+|     NxPEO¬13      |                NeT. v NuPEO v ... (not NeF.)                |    NTPEO+13    |
+|     NxPEO(-13)    |                NeT. v NuPEO v ... (not NeF.)                |    NTPEO+13    |
+|      NTxxO(-1)    |             TiN.intj. v NTuuO v ... (not NeT.)              |    NTJIO+1     |
+|      xTJIO(-6)    |           TiN.intj. v uTJIO v ... (not TiS.istj.)           |    NTJIO+6     |
 |     Ad.NxxxO      |      TiN.intj. v NeT. v FiN.infj. v NeF. v NuPEO v ...      |       ?        |
 |     Bg.xxxIx      | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v NuPIY v ... |       ?        |
 |       NxPxx       |  NeT. v NiF.infp. v NiT.intp. v NeF. v NuPEO v NuPIY v ...  |       ?        |
 |       xTxIx       | TiN.intj. v TiS.istj. v NiT.intp. v SiT.istp. v uTJIO v ... |       ?        |
 |    xTxIx(2,15)    |           TiN.intj. v SiT.istp. v Ad.uTuIu v ...            |  uTuIu(2~15)   |
-|   NxPEO(1,1~13)   |                NeT. v NuPEO v ... (not NeF.)                |    NTPEO~13    |
+|   NxPEO(1,1~13)   |                NeT. v NuPEO v ... (not NeF.)                |    NTPEO+13    |
 
 
 ## 10. Further reading and notable discussions
