@@ -117,7 +117,7 @@ It can also be speculated that temperaments can be classified according to JP an
 * JIO - rigid reactivity,
 * PIY - spontaneous reactivity aka adaptivity.
 
-These temperaments can be used for [dominant agnostic type names](#115-dominant-agnostic-type-names).
+These temperaments can be used for [dominant agnostic type names](#115-dominant-agnostic-type-names) (which are given in the the next 4.2 section too).
 
 
 ### 4.2 Type names matching table
