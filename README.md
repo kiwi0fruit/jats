@@ -105,10 +105,10 @@ In works of Victor Talanov types are groped by Quadras (see section 8.) and temp
 
 Gulenko's Temperaments:
 
-* PEO - flexible-maneuvering, **p**erceiving-**e**xtraverted-n**o**ndynamic. Are characterized by impulsive and unpredictable behavior,
-* JEY - linear-assertive, **j**udging-**e**xtraverted-d**y**namic. Are characterized by energetic and proactive behavior,
-* JIO - balanced stable, **j**udging-**i**ntroverted-n**o**ndynamic. Are characterized by slow and methodical behavior,
-* PIY - receptive-adaptive, **p**erceiving-**i**ntroverted-d**y**namic. Are characterized by lack of motivation, inertia, and unstable moods and energy levels.
+* PEO - flexible-maneuvering, **P**erceiving-**E**xtraverted-n**O**ndynamic. Are characterized by impulsive and unpredictable behavior,
+* JEY - linear-assertive, **J**udging-**E**xtraverted-d**Y**namic. Are characterized by energetic and proactive behavior,
+* JIO - balanced stable, **J**udging-**I**ntroverted-n**O**ndynamic. Are characterized by slow and methodical behavior,
+* PIY - receptive-adaptive, **P**erceiving-**I**ntroverted-d**Y**namic. Are characterized by lack of motivation, inertia, and unstable moods and energy levels.
 
 It can also be speculated that temperaments can be classified according to JP and IE traits:
 
