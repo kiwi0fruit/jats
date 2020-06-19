@@ -9,6 +9,8 @@ This is an alternative translation of the basic concepts of one of the braches o
 * [2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JATS](#2-aspects-as-basis-in-classical-socionics-vs-jat-cognitive-functions-as-a-basis-in-jats)
 * [3. Types in classical Socionics vs. reference types in JATS](#3-types-in-classical-socionics-vs-reference-types-in-jats)
 * [4. Socionics reference types names vs. MBTI types names](#4-socionics-reference-types-names-vs-mbti-types-names)
+  - [4.1 Gulenko's Temperaments translated](#41-gulenkos-temperaments-translated)
+  - [4.2 Type names matching table](#42-type-names-matching-table)
 * [5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics](#5-revised-gulenkos-names-for-types-1-16-numbers-as-names-for-types-with-mnemonics)
 * [6. On dichotomies, MBTI incompatibility, Big Five](#6-on-dichotomies-mbti-incompatibility-big-five)
 * [7. Model A](#7-model-a)
@@ -94,21 +96,36 @@ This approach is also useful in determining of 1-3 closest reference types witho
 
 ## 4. Socionics reference types names vs. MBTI types names
 
-In my translation of socionics types names to English the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (where MBTI J/P axis measures roughly the same as big Five conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for TiN.intj. is INTx that is one of two types INTJ/INTP (or their mixture).
+In my translation of Socionics types names to English the first part shows cognitive functions stack (see 7. Model A chapter). And the second 4 letter code (if needed) shows the position on 4 axes IE, SN, FT, JP that can be measured by MBTI or Big Five tests (where MBTI J/P axis measures roughly the same as big Five conscientiousness). MBTI does not have counterpart types for introverts. For example the closest counterpart for TiN.intj. is INTx that is one of two types INTJ/INTP (or their mixture).
 
-Short (and main) names like NeT. and TiN.intj. were obtained from cognitive functions stack (see 7. Model A chapter).
+
+### 4.1 Gulenko's Temperaments translated
+
+In works of Victor Talanov types are groped by Quadras (see section 8.) and temperaments of Victor Gulenko.
+
+Gulenko's Temperaments:
+
+* PEO - flexible-maneuvering, perceiving-extraverted-nondynamic. Are characterized by impulsive and unpredictable behavior,
+* JEY - linear-assertive, judging-extraverted-dynamic. Are characterized by energetic and proactive behavior,
+* JIO - balanced stable, judging-introverted-nondynamic. Are characterized by slow and methodical behavior,
+* PIY - receptive-adaptive, perceiving-introverted-dynamic. Are characterized by lack of motivation, inertia, and unstable moods and energy levels.
+
+It can also be speculated that temperaments can be classified according to JP and IE traits:
+
+* PEO - spontaneous proactivity,
+* JEY - rigid proactivity,
+* JIO - rigid reactivity,
+* PIY - spontaneous reactivity aka adaptivity.
+
+These temperaments can be used for [dominant agnostic type names](#115-dominant-agnostic-type-names).
+
+
+### 4.2 Type names matching table
 
 Names are in the following order:
 
-- **Socionics reference type short name**, **Number name**,
-- Socionics reference type [dominant agnostic name](#115-dominant-agnostic-type-names), Socionics name literal translation, MBTI name.
-
-Types are grouped by Quadras and Gulenkos' Temperaments:
-
-* PEO - flexible-maneuvering, perceiving-extraverted-nondynamic,
-* JEY - linear-assertive, judging-extraverted-dynamic,
-* JIO - balanced stable, judging-introverted-nondynamic,
-* PIY - receptive-adaptive, perceiving-introverted-dynamic.
+- **Socionics reference type**, **Number name**,
+- Socionics reference type [dominant agnostic name](#115-dominant-agnostic-type-names), Socionics type name literal translation, MBTI name.
 
 | quadra  |                        PEO                        |                      JIO                       |                        PIY                        |                      JEY                       |
 |:------- |:-------------------------------------------------:|:----------------------------------------------:|:-------------------------------------------------:|:----------------------------------------------:|
@@ -552,12 +569,12 @@ To.dom.entp. would have strong Npeo. and Tpeo. (and Qpeo. but that's irrelevant 
 
 If No.dom.entp. would have curiosity and novelty seeking Npeo. as central dominant drive. To.dom.entp. would have Tpeo. as a dominant drive. And it would be something about independent thinking and valuing, using, hacking and fixing systems of the world.
 
-So each of the static-dynamic functions can be under a temperament that could be described approximately like (just a random classification that most likely is wrong):
+So each of the static-dynamic functions can be under a [Gulenko's Temperament](#41-gulenkos-temperaments-translated) that could be described approximately like (just a random classification that most likely is wrong):
 
-* PEO - spontaneous proactivity (flexible-maneuvering, perceiving-extraverted-nondynamic),
-* JEY - rigid proactivity (linear-assertive, judging-extraverted-dynamic),
-* JIO - rigid reactivity (balanced stable, judging-introverted-nondynamic),
-* PIY - spontaneous reactivity aka adaptivity (receptive-adaptive, perceiving-introverted-dynamic).
+* PEO - spontaneous proactivity,
+* JEY - rigid proactivity,
+* JIO - rigid reactivity,
+* PIY - spontaneous reactivity aka adaptivity.
 
 So To.dom.entp. would have dominant drive of spontaneous proactivity concerning systems.
 
