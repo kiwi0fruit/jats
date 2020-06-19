@@ -101,7 +101,7 @@ Short (and main) names like NeT. and TiN.intj. were obtained from cognitive func
 Names are in the following order:
 
 - **Socionics reference type short name**, **Number name**,
-- Socionics reference type long name, Socionics name literal translation, MBTI name.
+- Socionics reference type [dominant agnostic name](#115-dominant-agnostic-type-names), Socionics name literal translation, MBTI name.
 
 Types are grouped by Quadras and Gulenkos' Temperaments:
 
