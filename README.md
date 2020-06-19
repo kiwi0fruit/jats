@@ -572,13 +572,13 @@ If non-standard dominant Khizhnyak functions are real then type names should be 
 
 |               |     **PEO**      |    |     **JIO**      |    |     **PIY**      |    |     **JEY**      |    |
 |:------------- |:----------------:| -- |:----------------:| -- |:----------------:| -- |:----------------:| -- |
-| α             | **NTPEO ntpeo.** | 1  | **NTJIO ntjio.** | 2  | **SFPIY sfpiy.** | 3  | **SFJEY sfjey.** | 4  |
+| α             | **NTPEO** | 1  | **NTJIO** | 2  | **SFPIY** | 3  | **SFJEY** | 4  |
 | possible dom. | N<sub>peo</sub> T<sub>peo</sub> Q<sub>peo</sub> |    | T<sub>jio</sub> N<sub>jio</sub> Q<sub>jio</sub> |    | S<sub>piy</sub> F<sub>piy</sub> D<sub>piy</sub> |    | F<sub>jey</sub> S<sub>jey</sub> D<sub>jey</sub> |    |
-| β             | **STPEO stpeo.** | 5  | **STJIO stjio.** | 6  | **NFPIY nfpiy.** | 7  | **NFJEY nfjey.** | 8  |
+| β             | **STPEO** | 5  | **STJIO** | 6  | **NFPIY** | 7  | **NFJEY** | 8  |
 | possible dom. | S<sub>peo</sub> T<sub>peo</sub> D<sub>peo</sub> |    | T<sub>jio</sub> S<sub>jio</sub> D<sub>jio</sub> |    | N<sub>piy</sub> F<sub>piy</sub> Q<sub>piy</sub> |    | F<sub>jey</sub> N<sub>jey</sub> Q<sub>jey</sub> |    |
-| γ             | **SFPEO sfpeo.** | 9  | **SFJIO sfjio.** | 10 | **NTPIY ntpiy.** | 11 | **NTJEY ntjey.** | 12 |
+| γ             | **SFPEO** | 9  | **SFJIO** | 10 | **NTPIY** | 11 | **NTJEY** | 12 |
 | possible dom. | S<sub>peo</sub> F<sub>peo</sub> Q<sub>peo</sub> |    | F<sub>jio</sub> S<sub>jio</sub> Q<sub>jio</sub> |    | N<sub>piy</sub> T<sub>piy</sub> D<sub>piy</sub> |    | T<sub>jey</sub> N<sub>jey</sub> D<sub>jey</sub> |    |
-| δ             | **NFPEO nfpeo.** | 13 | **NFJIO nfjio.** | 14 | **STPIY stpiy.** | 15 | **STJEY stjey.** | 16 |
+| δ             | **NFPEO** | 13 | **NFJIO** | 14 | **STPIY** | 15 | **STJEY** | 16 |
 | possible dom. | N<sub>peo</sub> F<sub>peo</sub> D<sub>peo</sub> |    | F<sub>jio</sub> N<sub>jio</sub> D<sub>jio</sub> |    | S<sub>piy</sub> T<sub>piy</sub> Q<sub>piy</sub> |    | T<sub>jey</sub> S<sub>jey</sub> Q<sub>jey</sub> |    |
 
 Even if non-standard dominant Khizhnyak functions are not real this notation can still be used for classical Socionics types.
