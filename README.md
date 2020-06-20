@@ -405,26 +405,26 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 
 |             **Unknown types**             |                **Meaning of unknown types**                 |           **Mixed type**            |
 |:-----------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------:|
-|              xTJEY, XT.jey.               |                  TeN. v TeS. v uTJEY v ...                  |           uTJEY, UT.jey.            |
-|              NxJEY, NX.jey.               |                  TeN. v FeN. v NuJEY v ...                  |           NuJEY, NU.jey.            |
+|              XTJEY, XT.jey.               |                  TeN. v TeS. v UTJEY v ...                  |           UTJEY, UT.jey.            |
+|              NXJEY, NX.jey.               |                  TeN. v FeN. v NUJEY v ...                  |           NUJEY, NU.jey.            |
 |              NTxIx, NT.xix.               |             TiN.intj. v NiT.intp. v NTuIu v ...             |           NTuIu, NT.uiu.            |
-|              xTJIO, XT.jio.               |             TiN.intj. v TiS.istj. v uTJIO v ...             |           uTJIO, UT.jio.            |
+|              XTJIO, XT.jio.               |             TiN.intj. v TiS.istj. v UTJIO v ...             |           UTJIO, UT.jio.            |
 |              NTxxO, NT.xxo.               |               NeT. v TiN.intj. v NTuuO v ...                |           NTuuO, NT.uuo.            |
 |              NTJxx, NT.jxx.               |               TeN. v TiN.intj. v NTJuu v ...                |           NTJuu, NT.juu.            |
-|              NxJIO, NX.jio.               |             TiN.intj. v FiN.infj. v NuJIO v ...             |           NuJIO, NU.jio.            |
-|           Ad.xTxIx, Ad.XT.xix.            |           TiN.intj. v SiT.istp. v Ad.uTuIu v ...            |        Ad.uTuIu, Ad.UT.uiu.         |
-|           Ab.NxxIx, Ab.NX.xix.            |           TiN.intj. v NiF.infp. v Ab.NuuIu v ...            |        Ab.NuuIu, Ab.NU.uiu.         |
-|           Ag.xxJIO, Ag.XX.jio.            |           TiN.intj. v FiS.isfj. v Ag.uuJIO v ...            |        Ag.uuJIO, Ag.UU.jio.         |
-|      NxPEO¬13, NX.peo.<sup>¬13</sup>      |                NeT. v NuPEO v ... (not NeF.)                |   NTPEO+13, NT.peo.<sup>+13</sup>   |
-|     NxPEO(-13), NX.peo.<sup>(-13)</sup>   |                NeT. v NuPEO v ... (not NeF.)                |   NTPEO+13, NT.peo.<sup>+13</sup>   |
+|              NXJIO, NX.jio.               |             TiN.intj. v FiN.infj. v NUJIO v ...             |           NUJIO, NU.jio.            |
+|           Ad.XTxIx, Ad.XT.xix.            |           TiN.intj. v SiT.istp. v Ad.UTuIu v ...            |        Ad.UTuIu, Ad.UT.uiu.         |
+|           Ab.NXxIx, Ab.NX.xix.            |           TiN.intj. v NiF.infp. v Ab.NUuIu v ...            |        Ab.NUuIu, Ab.NU.uiu.         |
+|           Ag.XXJIO, Ag.XX.jio.            |           TiN.intj. v FiS.isfj. v Ag.UUJIO v ...            |        Ag.UUJIO, Ag.UU.jio.         |
+|      NXPEO¬13, NX.peo.<sup>¬13</sup>      |                NeT. v NuPEO v ... (not NeF.)                |   NTPEO+13, NT.peo.<sup>+13</sup>   |
+|     NXPEO(-13), NX.peo.<sup>(-13)</sup>   |                NeT. v NuPEO v ... (not NeF.)                |   NTPEO+13, NT.peo.<sup>+13</sup>   |
 |      NTxxO(-1), NT.xxo.<sup>(-1)</sup>    |             TiN.intj. v NTuuO v ... (not NeT.)              |    NTJIO+1, NT.jio.<sup>+1</sup>    |
-|      xTJIO(-6), XT.jio.<sup>(-6)</sup>    |           TiN.intj. v uTJIO v ... (not TiS.istj.)           |    NTJIO+6, NT.jio.<sup>+6</sup>    |
-|           Ad.NxxxO, Ad.NX.xxo.            |      TiN.intj. v NeT. v FiN.infj. v NeF. v NuPEO v ...      |                  ?                  |
-|           Bg.xxxIx, Bg.XX.xix.            | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v NuPIY v ... |                  ?                  |
-|              NxPxx, NX.pxx.               |  NeT. v NiF.infp. v NiT.intp. v NeF. v NuPEO v NuPIY v ...  |                  ?                  |
-|              xTxIx, XT.xix.               | TiN.intj. v TiS.istj. v NiT.intp. v SiT.istp. v uTJIO v ... |                  ?                  |
-|   xTxIx(2,15), XT.xix.<sup>(2,15)</sup>   |           TiN.intj. v SiT.istp. v Ad.uTuIu v ...            | uTuIu(2\~15), UT.uiu.<sup>2\~15</sup> |
-| NxPEO(1,1\~13), NX.peo.<sup>(1,1\~13)</sup> |                NeT. v NuPEO v ... (not NeF.)                |   NTPEO+13, NT.peo.<sup>+13</sup>   |
+|      XTJIO(-6), XT.jio.<sup>(-6)</sup>    |           TiN.intj. v uTJIO v ... (not TiS.istj.)           |    NTJIO+6, NT.jio.<sup>+6</sup>    |
+|           Ad.NXxxO, Ad.NX.xxo.            |      TiN.intj. v NeT. v FiN.infj. v NeF. v NUPEO v ...      |                  ?                  |
+|           Bg.XXxIx, Bg.XX.xix.            | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v NUPIY v ... |                  ?                  |
+|              NXPxx, NX.pxx.               |  NeT. v NiF.infp. v NiT.intp. v NeF. v NUPEO v NUPIY v ...  |                  ?                  |
+|              XTxIx, XT.xix.               | TiN.intj. v TiS.istj. v NiT.intp. v SiT.istp. v UTJIO v ... |                  ?                  |
+|   XTxIx(2,15), XT.xix.<sup>(2,15)</sup>   |           TiN.intj. v SiT.istp. v Ad.UTuIu v ...            | UTuIu(2\~15), UT.uiu.<sup>2\~15</sup> |
+| NXPEO(1,1\~13), NX.peo.<sup>(1,1\~13)</sup> |                NeT. v NUPEO v ... (not NeF.)                |   NTPEO+13, NT.peo.<sup>+13</sup>   |
 
 
 ## 10. Further reading and notable discussions
