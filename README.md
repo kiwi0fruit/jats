@@ -415,10 +415,10 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |           Ad.XTxIx, Ad.XT.xix.            |           TiN.intj. v SiT.istp. v Ad.UTuIu v ...            |        Ad.UTuIu, Ad.UT.uiu.         |
 |           Ab.NXxIx, Ab.NX.xix.            |           TiN.intj. v NiF.infp. v Ab.NUuIu v ...            |        Ab.NUuIu, Ab.NU.uiu.         |
 |           Ag.XXJIO, Ag.XX.jio.            |           TiN.intj. v FiS.isfj. v Ag.UUJIO v ...            |        Ag.UUJIO, Ag.UU.jio.         |
-|      NXPEO¬13, NX.peo.<sup>¬13</sup>      |                NeT. v NuPEO v ... (not NeF.)                |   NTPEO+13, NT.peo.<sup>+13</sup>   |
-|     NXPEO(-13), NX.peo.<sup>(-13)</sup>   |                NeT. v NuPEO v ... (not NeF.)                |   NTPEO+13, NT.peo.<sup>+13</sup>   |
+|      NXPEO¬13, NX.peo.<sup>¬13</sup>      |                NeT. v NUPEO v ... (not NeF.)                |   NTPEO+13, NT.peo.<sup>+13</sup>   |
+|     NXPEO(-13), NX.peo.<sup>(-13)</sup>   |                NeT. v NUPEO v ... (not NeF.)                |   NTPEO+13, NT.peo.<sup>+13</sup>   |
 |      NTxxO(-1), NT.xxo.<sup>(-1)</sup>    |             TiN.intj. v NTuuO v ... (not NeT.)              |    NTJIO+1, NT.jio.<sup>+1</sup>    |
-|      XTJIO(-6), XT.jio.<sup>(-6)</sup>    |           TiN.intj. v uTJIO v ... (not TiS.istj.)           |    NTJIO+6, NT.jio.<sup>+6</sup>    |
+|      XTJIO(-6), XT.jio.<sup>(-6)</sup>    |           TiN.intj. v UTJIO v ... (not TiS.istj.)           |    NTJIO+6, NT.jio.<sup>+6</sup>    |
 |           Ad.NXxxO, Ad.NX.xxo.            |      TiN.intj. v NeT. v FiN.infj. v NeF. v NUPEO v ...      |                  ?                  |
 |           Bg.XXxIx, Bg.XX.xix.            | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v NUPIY v ... |                  ?                  |
 |              NXPxx, NX.pxx.               |  NeT. v NiF.infp. v NiT.intp. v NeF. v NUPEO v NUPIY v ...  |                  ?                  |
