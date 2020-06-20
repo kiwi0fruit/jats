@@ -587,16 +587,16 @@ Worth noting that non-standard dominant functions do not require abstract static
 
 If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to rearrange and append new YO dynamic-nondynamic axis notation so that NTJIO could not be mistaken with INTJ. NTJIO would have JIO Gulenko's Temperament (balanced-stable) be rational and introverted and have a static dominant function. But INTJ has dominant Ni. that is a dynamic function.
 
-|               |     **PEO**      |    |     **JIO**      |    |     **PIY**      |    |     **JEY**      |    |
-|:------------- |:----------------:| -- |:----------------:| -- |:----------------:| -- |:----------------:| -- |
-| α             | **NTPEO** | 1  | **NTJIO** | 2  | **SFPIY** | 3  | **SFJEY** | 4  |
-| possible dom. | N<sub>peo</sub> T<sub>peo</sub> Q<sub>peo</sub> |    | T<sub>jio</sub> N<sub>jio</sub> Q<sub>jio</sub> |    | S<sub>piy</sub> F<sub>piy</sub> D<sub>piy</sub> |    | F<sub>jey</sub> S<sub>jey</sub> D<sub>jey</sub> |    |
-| β             | **STPEO** | 5  | **STJIO** | 6  | **NFPIY** | 7  | **NFJEY** | 8  |
-| possible dom. | S<sub>peo</sub> T<sub>peo</sub> D<sub>peo</sub> |    | T<sub>jio</sub> S<sub>jio</sub> D<sub>jio</sub> |    | N<sub>piy</sub> F<sub>piy</sub> Q<sub>piy</sub> |    | F<sub>jey</sub> N<sub>jey</sub> Q<sub>jey</sub> |    |
-| γ             | **SFPEO** | 9  | **SFJIO** | 10 | **NTPIY** | 11 | **NTJEY** | 12 |
-| possible dom. | S<sub>peo</sub> F<sub>peo</sub> Q<sub>peo</sub> |    | F<sub>jio</sub> S<sub>jio</sub> Q<sub>jio</sub> |    | N<sub>piy</sub> T<sub>piy</sub> D<sub>piy</sub> |    | T<sub>jey</sub> N<sub>jey</sub> D<sub>jey</sub> |    |
-| δ             | **NFPEO** | 13 | **NFJIO** | 14 | **STPIY** | 15 | **STJEY** | 16 |
-| possible dom. | N<sub>peo</sub> F<sub>peo</sub> D<sub>peo</sub> |    | F<sub>jio</sub> N<sub>jio</sub> D<sub>jio</sub> |    | S<sub>piy</sub> T<sub>piy</sub> Q<sub>piy</sub> |    | T<sub>jey</sub> S<sub>jey</sub> Q<sub>jey</sub> |    |
+|               |                     **PEO**                     |     |                     **JIO**                     |     |                     **PIY**                     |     |                     **JEY**                     |     |
+|:------------- |:-----------------------------------------------:| --- |:-----------------------------------------------:| --- |:-----------------------------------------------:| --- |:-----------------------------------------------:| --- |
+| α             |               **NTPEO  NT.peo.**                | 1   |               **NTJIO  NT.jio.**                | 2   |               **SFPIY  SF.piy.**                | 3   |               **SFJEY  SF.jey.**                | 4   |
+| possible dom. | N<sub>peo</sub> T<sub>peo</sub> Q<sub>peo</sub> |     | T<sub>jio</sub> N<sub>jio</sub> Q<sub>jio</sub> |     | S<sub>piy</sub> F<sub>piy</sub> D<sub>piy</sub> |     | F<sub>jey</sub> S<sub>jey</sub> D<sub>jey</sub> |     |
+| β             |               **STPEO  ST.peo.**                | 5   |               **STJIO  ST.jio.**                | 6   |               **NFPIY  NF.piy.**                | 7   |               **NFJEY  NF.jey.**                | 8   |
+| possible dom. | S<sub>peo</sub> T<sub>peo</sub> D<sub>peo</sub> |     | T<sub>jio</sub> S<sub>jio</sub> D<sub>jio</sub> |     | N<sub>piy</sub> F<sub>piy</sub> Q<sub>piy</sub> |     | F<sub>jey</sub> N<sub>jey</sub> Q<sub>jey</sub> |     |
+| γ             |               **SFPEO  SF.peo.**                | 9   |               **SFJIO  SF.jio.**                | 10  |               **NTPIY  NT.piy.**                | 11  |               **NTJEY  NT.jey.**                | 12  |
+| possible dom. | S<sub>peo</sub> F<sub>peo</sub> Q<sub>peo</sub> |     | F<sub>jio</sub> S<sub>jio</sub> Q<sub>jio</sub> |     | N<sub>piy</sub> T<sub>piy</sub> D<sub>piy</sub> |     | T<sub>jey</sub> N<sub>jey</sub> D<sub>jey</sub> |     |
+| δ             |               **NFPEO  NF.peo.**                | 13  |               **NFJIO  NF.jio.**                | 14  |               **STPIY  ST.piy.**                | 15  |               **STJEY  ST.jey.**                | 16  |
+| possible dom. | N<sub>peo</sub> F<sub>peo</sub> D<sub>peo</sub> |     | F<sub>jio</sub> N<sub>jio</sub> D<sub>jio</sub> |     | S<sub>piy</sub> T<sub>piy</sub> Q<sub>piy</sub> |     | T<sub>jey</sub> S<sub>jey</sub> Q<sub>jey</sub> |     |
 
 Even if non-standard dominant Khizhnyak functions are not real this notation can still be used for classical Socionics types.
 
