@@ -405,7 +405,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 
 | **Unknown types** |                 **Meaning of unknown types**                 | **Mixed type**  |
 |:-----------------:|:------------------------------------------------------------:|:---------------:|
-|      \*TJEY       |                  TeN. v TeS. v \~TJEY v ...                  |     \~TJEY      |
+|      \*TJEY       |                  TeN. v TeS. v \~TJEY v ...                  | \~TJEY, ˜TJEY   |
 |      N\*JEY       |                  TeN. v FeN. v N\~JEY v ...                  |     N\~JEY      |
 |      NT\*I\*      |            TiN.intj. v NiT.intp. v NT\~I\~ v ...             |     NT\~I\~     |
 |      \*TJIO       |             TiN.intj. v TiS.istj. v \~TJIO v ...             |     \~TJIO      |
