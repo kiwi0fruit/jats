@@ -405,10 +405,10 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 
 |             **Unknown types**             |                **Meaning of unknown types**                 |           **Mixed type**            |
 |:-----------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------:|
-|              XTJEY, XT.jey.               |                  TeN. v TeS. v UTJEY v ...                  |           UTJEY, UT.jey.            |
-|              NXJEY, NX.jey.               |                  TeN. v FeN. v NUJEY v ...                  |           NUJEY, NU.jey.            |
-|              NTxIx, NT.xix.               |             TiN.intj. v NiT.intp. v NTuIu v ...             |           NTuIu, NT.uiu.            |
-|              XTJIO, XT.jio.               |             TiN.intj. v TiS.istj. v UTJIO v ...             |           UTJIO, UT.jio.            |
+|              XTJEY, \*TJEY        |                  TeN. v TeS. v UTJEY v ...                  |           UTJEY, \~TJEY             |
+|              NXJEY, N\*JEY              |                  TeN. v FeN. v NUJEY v ...                  |           NUJEY, N\~JEY        |
+|              NTxIx, NT\*I\*             |             TiN.intj. v NiT.intp. v NTuIu v ...             |           NTuIu, NT\~I\~         |
+|              XTJIO, \*TJIO               |             TiN.intj. v TiS.istj. v UTJIO v ...             |           UTJIO, \~TJIO            |
 |              NTxxO, NT.xxo.               |               NeT. v TiN.intj. v NTuuO v ...                |           NTuuO, NT.uuo.            |
 |              NTJxx, NT.jxx.               |               TeN. v TiN.intj. v NTJuu v ...                |           NTJuu, NT.juu.            |
 |              NXJIO, NX.jio.               |             TiN.intj. v FiN.infj. v NUJIO v ...             |           NUJIO, NU.jio.            |
