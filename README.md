@@ -415,10 +415,10 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |    \*T\*I\*Ad.    |          TiN.intj. v SiT.istp. v \~T\~I\~Ad. v ...           |   \~T\~I\~Ad.   |
 |    N\*\*I\*Ab.    |          TiN.intj. v NiF.infp. v N\~\~I\~Ab. v ...           |   N\~\~I\~Ab.   |
 |    \*\*JIOAg.     |           TiN.intj. v FiS.isfj. v \~\~JIOAg. v ...           |   \~\~JIOAg.    |
-|     N\*PEO¬13     |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |
 |    N\*PEO(-13)    |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |
-|    NT\*\*O(-1)    |             TiN.intj. v NT\~\~O v ... (not NeT.)             |     NTJIO+1     |
-|    \*TJIO(-6)     |           TiN.intj. v \~TJIO v ... (not TiS.istj.)           |     NTJIO+6     |
+|     N\*PEO¬13     |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |
+|    NT\*\*O¬1      |             TiN.intj. v NT\~\~O v ... (not NeT.)             |     NTJIO+1     |
+|    \*TJIO¬6       |           TiN.intj. v \~TJIO v ... (not TiS.istj.)           |     NTJIO+6     |
 |    N\*\*\*OAd.    |      TiN.intj. v NeT. v FiN.infj. v NeF. v N\~PEO v ...      |        ?        |
 |   \*\*\*I\*Bg.    | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v N\~PIY v ... |        ?        |
 |     N\*P\*\*      | NeT. v NiF.infp. v NiT.intp. v NeF. v N\~PEO v N\~PIY v ...  |        ?        |
