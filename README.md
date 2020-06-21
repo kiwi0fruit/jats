@@ -412,9 +412,9 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |               NTxxO, NT\*\*O               |               NeT. v TiN.intj. v NTuuO v ...                |             NTuuO, NT\~\~O             |
 |               NTJxx, NTJ\*\*               |               TeN. v TiN.intj. v NTJuu v ...                |             NTJuu, NTJ\~\~             |
 |               NXJIO, N\*JIO                |             TiN.intj. v FiN.infj. v NUJIO v ...             |             NUJIO, N\~JIO              |
-|           Ad.XTxIx, Ad.\*T\*I\*            |           TiN.intj. v SiT.istp. v Ad.UTuIu v ...            |         Ad.UTuIu, Ad.\~T\~I\~          |
-|           Ab.NXxIx, Ab.N\*\*I\*            |           TiN.intj. v NiF.infp. v Ab.NUuIu v ...            |         Ab.NUuIu, Ab.N\~\~I\~          |
-|            Ag.XXJIO, Ag.\*\*JIO            |           TiN.intj. v FiS.isfj. v Ag.UUJIO v ...            |          Ag.UUJIO, Ag.\~\~JIO          |
+|           Ad.XTxIx, Ad.\*T\*I\*            |           TiN.intj. v SiT.istp. v Ad.UTuIu v ...            |         Ad.UTuIu, \~T\~I\~Ad.          |
+|           Ab.NXxIx, Ab.N\*\*I\*            |           TiN.intj. v NiF.infp. v Ab.NUuIu v ...            |         Ab.NUuIu, N\~\~I\~Ab.          |
+|            Ag.XXJIO, Ag.\*\*JIO            |           TiN.intj. v FiS.isfj. v Ag.UUJIO v ...            |          Ag.UUJIO, \~\~JIOAg.          |
 |       NXPEO¬13, N\*PEO<sup>¬13</sup>       |                NeT. v NUPEO v ... (not NeF.)                |     NTPEO+13, NTPEO<sup>+13</sup>      |
 |     NXPEO(-13), N\*PEO<sup>(-13)</sup>     |                NeT. v NUPEO v ... (not NeF.)                |     NTPEO+13, NTPEO<sup>+13</sup>      |
 |     NTxxO(-1), NT\*\*O<sup>(-1)</sup>      |             TiN.intj. v NTuuO v ... (not NeT.)              |      NTJIO+1, NTJIO<sup>+1</sup>       |
@@ -423,7 +423,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |           Bg.XXxIx, Bg.\*\*\*I\*           | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v NUPIY v ... |                   ?                    |
 |              NXPxx, N\*P\*\*               |  NeT. v NiF.infp. v NiT.intp. v NeF. v NUPEO v NUPIY v ...  |                   ?                    |
 |              XTxIx, \*T\*I\*               | TiN.intj. v TiS.istj. v NiT.intp. v SiT.istp. v UTJIO v ... |                   ?                    |
-|   XTxIx(2,15), \*T\*I\*<sup>(2,15)</sup>   |           TiN.intj. v SiT.istp. v Ad.UTuIu v ...            | UTuIu(2\~15), \~T\~I\~<sup>2\~15</sup> |
+|   XTxIx(2,15), \*T\*I\*<sup>(2,15)</sup>   |           TiN.intj. v SiT.istp. v Ad.UTuIu v ...            | UTuIu(2\~15), \~T\~I\~<sup>(2\~15)</sup> |
 | NXPEO(1,1\~13), N\*PEO<sup>(1,1\~13)</sup> |                NeT. v NUPEO v ... (not NeF.)                |     NTPEO+13, NTPEO<sup>+13</sup>      |
 
 
