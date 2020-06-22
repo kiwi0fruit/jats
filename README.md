@@ -403,28 +403,28 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 3. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 5 letter code at the beginning shows the position on 2 SN and FT axes and 3 temperament axes. All axes except OY can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows types shortcut numbers to pick prom. I guess it may even be possible to have **NeT.entj.** if the person is a mixture equally of NeT., TeN. and TiN.intj.: NTJEO(1\~2\~12). But at the moment it's a speculation only and allowed combinations are PEO, JIO, PIY, JEY.
 4. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example **NT\*I\*** = TiN.intj. or NiT.intp. or NT\~I\~. But if we take MBTI types then **INTx** = TiN.INTP or NiT.INTJ or INT\~.
 
-| **Unknown types** |                 **Meaning of unknown types**                 | **Mixed type**  |
-|:-----------------:|:------------------------------------------------------------:|:---------------:|
-|   \*TJEY, <sup>x</sup>TJEY   |                  TeN. v TeS. v \~TJEY v ...                  | \~TJEY, <sup>u</sup>TJEY |
-|   N\*JEY, N<sup>x</sup>JEY   |                  TeN. v FeN. v N\~JEY v ...                  | N\~JEY, N<sup>u</sup>JEY |
-|   NT\*I\*, NT<sup>x</sup>I<sup>x</sup>  |            TiN.intj. v NiT.intp. v NT\~I\~ v ...             | NT\~I\~, NT<sup>u</sup>I<sup>u</sup> |
-|      \*TJIO       |             TiN.intj. v TiS.istj. v \~TJIO v ...             |     \~TJIO      |
-|      NT\*\*O      |               NeT. v TiN.intj. v NT\~\~O v ...               |     NT\~\~O     |
-|      NTJ\*\*      |               TeN. v TiN.intj. v NTJ\~\~ v ...               |     NTJ\~\~     |
-|      N\*JIO       |             TiN.intj. v FiN.infj. v N\~JIO v ...             |     N\~JIO      |
-|    \*T\*I\*Ad.    |          TiN.intj. v SiT.istp. v \~T\~I\~Ad. v ...           |   \~T\~I\~Ad.   |
-|    N\*\*I\*Ab.    |          TiN.intj. v NiF.infp. v N\~\~I\~Ab. v ...           |   N\~\~I\~Ab.   |
-|    \*\*JIOAg.     |           TiN.intj. v FiS.isfj. v \~\~JIOAg. v ...           |   \~\~JIOAg.    |
-|     N\*PEO¬13     |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |
-|    NT\*\*O¬1      |             TiN.intj. v NT\~\~O v ... (not NeT.)             |     NTJIO+1     |
-|    \*TJIO¬6       |           TiN.intj. v \~TJIO v ... (not TiS.istj.)           |     NTJIO+6     |
-|    N\*\*\*OAd.    |      TiN.intj. v NeT. v FiN.infj. v NeF. v N\~PEO v ...      |        ?        |
-|   \*\*\*I\*Bg.    | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v N\~PIY v ... |        ?        |
-|     N\*P\*\*      | NeT. v NiF.infp. v NiT.intp. v NeF. v N\~PEO v N\~PIY v ...  |        ?        |
-|     \*T\*I\*      | TiN.intj. v TiS.istj. v NiT.intp. v SiT.istp. v \~TJIO v ... |        ?        |
-|    N\*PEO(-13)    |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |
-|  N\*PEO(1,1\~13)  |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |
-|  \*T\*I\*(2,15)   |          TiN.intj. v SiT.istp. v \~T\~I\~Ad. v ...           | \~T\~I\~(2\~15) |
+| **Unknown types** |                   Alt.                    |                 **Meaning of unknown types**                 | **Mixed type**  |            Alt.             |
+|:-----------------:|:-----------------------------------------:|:------------------------------------------------------------:|:---------------:|:---------------------------:|
+|      \*TJEY       |             <sup>x</sup>TJEY              |                  TeN. v TeS. v \~TJEY v ...                  |     \~TJEY      |      <sup>u</sup>TJEY       |
+|      N\*JEY       |             N<sup>x</sup>JEY              |                  TeN. v FeN. v N\~JEY v ...                  |     N\~JEY      |      N<sup>u</sup>JEY       |
+|      NT\*I\*      |        NT<sup>x</sup>I<sup>x</sup>        |            TiN.intj. v NiT.intp. v NT\~I\~ v ...             |     NT\~I\~     | NT<sup>u</sup>I<sup>u</sup> |
+|      \*TJIO       |             <sup>x</sup>TJIO              |             TiN.intj. v TiS.istj. v \~TJIO v ...             |     \~TJIO      |                             |
+|      NT\*\*O      |             NT<sup>xx</sup>O              |               NeT. v TiN.intj. v NT\~\~O v ...               |     NT\~\~O     |                             |
+|      NTJ\*\*      |             NTJ<sup>xx</sup>              |               TeN. v TiN.intj. v NTJ\~\~ v ...               |     NTJ\~\~     |                             |
+|      N\*JIO       |             N<sup>x</sup>JIO              |             TiN.intj. v FiN.infj. v N\~JIO v ...             |     N\~JIO      |                             |
+|    \*T\*I\*Ad.    | <sup>x</sup>T<sup>x</sup>I<sup>x</sup>Ad. |          TiN.intj. v SiT.istp. v \~T\~I\~Ad. v ...           |   \~T\~I\~Ad.   |                             |
+|    N\*\*I\*Ab.    |      N<sup>xx</sup>I<sup>x</sup>Ab.       |          TiN.intj. v NiF.infp. v N\~\~I\~Ab. v ...           |   N\~\~I\~Ab.   |                             |
+|    \*\*JIOAg.     |            <sup>xx</sup>JIOAg.            |           TiN.intj. v FiS.isfj. v \~\~JIOAg. v ...           |   \~\~JIOAg.    |                             |
+|     N\*PEO¬13     |            N<sup>x</sup>PEO¬13            |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |                             |
+|     NT\*\*O¬1     |            NT<sup>xx</sup>O¬1             |             TiN.intj. v NT\~\~O v ... (not NeT.)             |     NTJIO+1     |                             |
+|     \*TJIO¬6      |            <sup>x</sup>TJIO¬6             |           TiN.intj. v \~TJIO v ... (not TiS.istj.)           |     NTJIO+6     |                             |
+|    N\*\*\*OAd.    |            N<sup>xxx</sup>OAd.            |      TiN.intj. v NeT. v FiN.infj. v NeF. v N\~PEO v ...      |        ?        |                             |
+|   \*\*\*I\*Bg.    |      <sup>xxx</sup>I<sup>x</sup>Bg.       | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v N\~PIY v ... |        ?        |                             |
+|     N\*P\*\*      |        N<sup>x</sup>P<sup>xx</sup>        | NeT. v NiF.infp. v NiT.intp. v NeF. v N\~PEO v N\~PIY v ...  |        ?        |                             |
+|     \*T\*I\*      |  <sup>x</sup>T<sup>x</sup>I<sup>x</sup>   | TiN.intj. v TiS.istj. v NiT.intp. v SiT.istp. v \~TJIO v ... |        ?        |                             |
+|    N\*PEO(-13)    |                                           |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |                             |
+|  N\*PEO(1,1\~13)  |                                           |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |                             |
+|  \*T\*I\*(2,15)   |                                           |          TiN.intj. v SiT.istp. v \~T\~I\~Ad. v ...           | \~T\~I\~(2\~15) |                             |
 
 
 ## 10. Further reading and notable discussions
