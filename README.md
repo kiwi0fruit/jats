@@ -399,15 +399,15 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 ## 9. Intermediate and unknown types names
 
 1. In order to distinguish from MBTI the 5-letter notation from [section 11.5](#115-dominant-agnostic-type-names) is used.
-2. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common in MBTI (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly \~TJEY (or ᵘTJEY) is the name for truly intermediate type and \*TJEY is the name for unknown in JATS notation ("u" is from μ - m**u** that denoted mean value). The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
+2. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common in MBTI (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly \~TJEY/ᵘTJEY is the name for truly intermediate type and \*TJEY/ˣTJEY is the name for unknown in JATS notation ("u" is from μ - m**u** that denoted mean value). The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
 3. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 5 letter code at the beginning shows the position on 2 SN and FT axes and 3 temperament axes. All axes except OY can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows types shortcut numbers to pick prom. I guess it may even be possible to have **NeT.entj.** if the person is a mixture equally of NeT., TeN. and TiN.intj.: NTJEO(1\~2\~12). But at the moment it's a speculation only and allowed combinations are PEO, JIO, PIY, JEY.
 4. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example **NT\*I\*** = TiN.intj. or NiT.intp. or NT\~I\~. But if we take MBTI types then **INTx** = TiN.INTP or NiT.INTJ or INT\~.
 
 | **Unknown types** |                 **Meaning of unknown types**                 | **Mixed type**  |
 |:-----------------:|:------------------------------------------------------------:|:---------------:|
-|      \*TJEY       |                  TeN. v TeS. v \~TJEY v ...                  | \~TJEY, ᵘTJEY |
-|      N\*JEY       |                  TeN. v FeN. v N\~JEY v ...                  | N\~JEY, NᵘJEY |
-|      NT\*I\*      |            TiN.intj. v NiT.intp. v NT\~I\~ v ...             | NT\~I\~, NTᵘIᵘ |
+|   \*TJEY, ˣTJEY   |                  TeN. v TeS. v \~TJEY v ...                  | \~TJEY, ᵘTJEY |
+|   N\*JEY, NˣJEY   |                  TeN. v FeN. v N\~JEY v ...                  | N\~JEY, NᵘJEY |
+|   NT\*I\*, NTˣIˣ  |            TiN.intj. v NiT.intp. v NT\~I\~ v ...             | NT\~I\~, NTᵘIᵘ |
 |      \*TJIO       |             TiN.intj. v TiS.istj. v \~TJIO v ...             |     \~TJIO      |
 |      NT\*\*O      |               NeT. v TiN.intj. v NT\~\~O v ...               |     NT\~\~O     |
 |      NTJ\*\*      |               TeN. v TiN.intj. v NTJ\~\~ v ...               |     NTJ\~\~     |
