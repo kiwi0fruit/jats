@@ -409,7 +409,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |      N\*JEY       |                  TeN. v FeN. v N\~JEY v ...                  |     N\~JEY      |  N⁰JEY   |
 |      NT\*I\*      |            TiN.intj. v NiT.intp. v NT\~I\~ v ...             |     NT\~I\~     |  NT⁰I⁰   |
 |      \*TJIO       |             TiN.intj. v TiS.istj. v \~TJIO v ...             |     \~TJIO      |  ⁰TJIO   |
-|      NT\*\*O      |               NeT. v TiN.intj. v NT\~\~O v ...               |     NT\~\~O     |  NT⁰⁰O   |
+|      NT\*\*O      |               NeT. v TiN.intj. v NT\~\~O v ...               |     NT\~\~O     |  NT<sup>\~\~</sup>O |
 |      NTJ\*\*      |               TeN. v TiN.intj. v NTJ\~\~ v ...               |     NTJ\~\~     |  NTJ⁰⁰   |
 |      N\*JIO       |             TiN.intj. v FiN.infj. v N\~JIO v ...             |     N\~JIO      |  N⁰JIO   |
 |    \*T\*I\*Ad.    |          TiN.intj. v SiT.istp. v \~T\~I\~Ad. v ...           |   \~T\~I\~Ad.   | ⁰T⁰I⁰Ad. |
