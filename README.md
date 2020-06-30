@@ -405,16 +405,16 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 
 | **Unknown types** |                 **Meaning of unknown types**                 | **Mixed type**  |   Alt.   |
 |:-----------------:|:------------------------------------------------------------:|:---------------:|:--------:|
-|      \*TJEY       |                  TeN. v TeS. v \~TJEY v ...                  |     \~TJEY      |  ⁰TJEY   |
-|      N\*JEY       |                  TeN. v FeN. v N\~JEY v ...                  |     N\~JEY      |  N⁰JEY   |
-|      NT\*I\*      |            TiN.intj. v NiT.intp. v NT\~I\~ v ...             |     NT\~I\~     |  NT⁰I⁰   |
-|      \*TJIO       |             TiN.intj. v TiS.istj. v \~TJIO v ...             |     \~TJIO      |  ⁰TJIO   |
-|      NT\*\*O      |               NeT. v TiN.intj. v NT\~\~O v ...               |     NT\~\~O     |  NT<sup>\~\~</sup>O |
-|      NTJ\*\*      |               TeN. v TiN.intj. v NTJ\~\~ v ...               |     NTJ\~\~     |  NTJ⁰⁰   |
-|      N\*JIO       |             TiN.intj. v FiN.infj. v N\~JIO v ...             |     N\~JIO      |  N⁰JIO   |
-|    \*T\*I\*Ad.    |          TiN.intj. v SiT.istp. v \~T\~I\~Ad. v ...           |   \~T\~I\~Ad.   | ⁰T⁰I⁰Ad. |
-|    N\*\*I\*Ab.    |          TiN.intj. v NiF.infp. v N\~\~I\~Ab. v ...           |   N\~\~I\~Ab.   | N⁰⁰I⁰Ab. |
-|    \*\*JIOAg.     |           TiN.intj. v FiS.isfj. v \~\~JIOAg. v ...           |   \~\~JIOAg.    | ⁰⁰JIOAg. |
+|      \*TJEY       |                  TeN. v TeS. v \~TJEY v ...                  |     \~TJEY      |  ⁼TJEY   |
+|      N\*JEY       |                  TeN. v FeN. v N\~JEY v ...                  |     N\~JEY      |  N⁼JEY   |
+|      NT\*I\*      |            TiN.intj. v NiT.intp. v NT\~I\~ v ...             |     NT\~I\~     |  NT⁼I⁼   |
+|      \*TJIO       |             TiN.intj. v TiS.istj. v \~TJIO v ...             |     \~TJIO      |  ⁼TJIO   |
+|      NT\*\*O      |               NeT. v TiN.intj. v NT\~\~O v ...               |     NT\~\~O     |  NT⁼⁼O   |
+|      NTJ\*\*      |               TeN. v TiN.intj. v NTJ\~\~ v ...               |     NTJ\~\~     |  NTJ⁼⁼   |
+|      N\*JIO       |             TiN.intj. v FiN.infj. v N\~JIO v ...             |     N\~JIO      |  N⁼JIO   |
+|    \*T\*I\*Ad.    |          TiN.intj. v SiT.istp. v \~T\~I\~Ad. v ...           |   \~T\~I\~Ad.   | ⁼T⁼I⁼Ad. |
+|    N\*\*I\*Ab.    |          TiN.intj. v NiF.infp. v N\~\~I\~Ab. v ...           |   N\~\~I\~Ab.   | N⁼⁼I⁼Ab. |
+|    \*\*JIOAg.     |           TiN.intj. v FiS.isfj. v \~\~JIOAg. v ...           |   \~\~JIOAg.    | ⁼⁼JIOAg. |
 |     N\*PEO¬13     |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |          |
 |     NT\*\*O¬1     |             TiN.intj. v NT\~\~O v ... (not NeT.)             |     NTJIO+1     |          |
 |     \*TJIO¬6      |           TiN.intj. v \~TJIO v ... (not TiS.istj.)           |     NTJIO+6     |          |
