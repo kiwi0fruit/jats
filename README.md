@@ -22,6 +22,7 @@ This is an alternative translation of the basic concepts of one of the braches o
   - [11.1 Reinin dichotomies](#111-reinin-dichotomies)
   - [11.2 Khizhnyak functions and axes](#112-khizhnyak-functions-and-axes)
   - [11.3 8 Reinin-Khizhnyak axes as a basis for 12 Khizhnyak axes](#113-8-reinin-khizhnyak-axes-as-a-basis-for-12-khizhnyak-axes)
+    - [11.3.1 Seven Complementary Reinin-Khizhnyak axes](#1131-seven-complementary-reinin-khizhnyak-axes)
   - [11.4 Non-standard dominant Khizhnyak functions](#114-non-standard-dominant-khizhnyak-functions)
   - [11.5 Dominant-agnostic type names](#115-dominant-agnostic-type-names)
   - [11.6 Dynamic-nondynamic YO axis as a measure of Khizhnyak functions differentiation](#116-dynamic-nondynamic-yo-axis-as-a-measure-of-khizhnyak-functions-differentiation)
@@ -555,6 +556,10 @@ From previous table can be seen that not all Reinin axes can influence Khizhnyak
 | 8   | +Ag./⁠-⁠Bd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
 
 **There is a hypothesys that 8 Reinin-Khizhnyak axes are the only axes that have independent variation if we are to try to interpret Reinin axes as independent factors (correcting their dependence first). 8 Reinin axes would have independent variation and 7 would not (and would be fully determined by 8 Reinin-Khizhnyak axes).**
+
+#### 11.3.1 Seven Complementary Reinin-Khizhnyak axes
+
+Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes.
 
 
 ### 11.4 Non-standard dominant Khizhnyak functions
