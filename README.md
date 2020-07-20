@@ -541,7 +541,7 @@ From previous table can be seen that not all Reinin axes can influence Khizhnyak
 
 |     |             | N<sub>peo</sub> | N<sub>jio</sub> | N<sub>piy</sub> | N<sub>jey</sub> |     | T<sub>peo</sub> | T<sub>jio</sub> | T<sub>piy</sub> | T<sub>jey</sub> |     | Q<sub>peo</sub> | Q<sub>jio</sub> | Q<sub>piy</sub> | Q<sub>jey</sub> |
 | --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |             | 1   | 2   | 3   | 4   |     | 9   | 10  | 11  | 12  |     | 17  | 18  | 19  | 20  |
+|     |             | 1   | 2   | 3   | 4   |     | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 1   | +E/⁠-⁠I     | +1  | -1  | -1  | +1  |     | +1  | -1  | -1  | +1  |     | +1  | -1  | -1  | +1  |
 | 2   | +P/⁠-⁠J     | +1  | -1  | +1  | -1  |     | +1  | -1  | +1  | -1  |     | +1  | -1  | +1  | -1  |
@@ -565,7 +565,7 @@ Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes. And trans
 
 |     |                | &vert;N<sub>peo</sub>&vert; | &vert;N<sub>jio</sub>&vert; | &vert;N<sub>piy</sub>&vert; | &vert;N<sub>jey</sub>&vert; |     | &vert;T<sub>peo</sub>&vert; | &vert;T<sub>jio</sub>&vert; | &vert;T<sub>piy</sub>&vert; | &vert;T<sub>jey</sub>&vert; |     | &vert;Q<sub>peo</sub>&vert; | &vert;Q<sub>jio</sub>&vert; | &vert;Q<sub>piy</sub>&vert; | &vert;Q<sub>jey</sub>&vert; |
 | --- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |                | 1   | 2   | 3   | 4   |     | 9   | 10  | 11  | 12  |     | 17  | 18  | 19  | 20  |
+|     |                | 1   | 2   | 3   | 4   |     | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  |
 |     |                |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 1   | +O/⁠-⁠Y        | +1  | +1  | -1  | -1  |     | +1  | +1  | -1  | -1  |     | +1  | +1  | -1  | -1  |
 |     |                |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
