@@ -539,27 +539,44 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
 From previous table can be seen that not all Reinin axes can influence Khizhnyak axes (that encode two Khizhnyak functions via single axis). That can also be seen from updated table from [section 11.2](#112-khizhnyak-functions-and-axes). Only **8 Reinin-Khizhnyak axes** can affect 12 Khizhnyak axes:
 
-|     |             | N<sub>peo</sub> | N<sub>jio</sub> | N<sub>piy</sub> | N<sub>jey</sub> | S<sub>peo</sub> | S<sub>jio</sub> | S<sub>piy</sub> | S<sub>jey</sub> | | T<sub>peo</sub> | T<sub>jio</sub> | T<sub>piy</sub> | T<sub>jey</sub> | F<sub>peo</sub> | F<sub>jio</sub> | F<sub>piy</sub> | F<sub>jey</sub> | | Q<sub>peo</sub> | Q<sub>jio</sub> | Q<sub>piy</sub> | Q<sub>jey</sub> | D<sub>peo</sub> | D<sub>jio</sub> | D<sub>piy</sub> | D<sub>jey</sub> |
-| --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
-|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 1   | +E/⁠-⁠I       | +1  | -1  | -1  | +1  | +1  | -1  | -1  | +1  |     | +1  | -1  | -1  | +1  | +1  | -1  | -1  | +1  |     | +1  | -1  | -1  | +1  | +1  | -1  | -1  | +1  |
-| 2   | +P/⁠-⁠J       | +1  | -1  | +1  | -1  | +1  | -1  | +1  | -1  |     | +1  | -1  | +1  | -1  | +1  | -1  | +1  | -1  |     | +1  | -1  | +1  | -1  | +1  | -1  | +1  | -1  |
-|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 3   | +N/⁠-⁠S       | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-| 4   | +Ad./⁠-⁠Bg.   | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 5   | +T/⁠-⁠F       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-| 6   | +Ab./⁠-⁠Gd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 7   | +Q/⁠-⁠D       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  | -3  | -3  | -3  | -3  |
-| 8   | +Ag./⁠-⁠Bd.   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  | -3  | -3  | +3  | +3  |
+|     |             | N<sub>peo</sub> | N<sub>jio</sub> | N<sub>piy</sub> | N<sub>jey</sub> |     | T<sub>peo</sub> | T<sub>jio</sub> | T<sub>piy</sub> | T<sub>jey</sub> |     | Q<sub>peo</sub> | Q<sub>jio</sub> | Q<sub>piy</sub> | Q<sub>jey</sub> |
+| --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |             | 1   | 2   | 3   | 4   |     | 9   | 10  | 11  | 12  |     | 17  | 18  | 19  | 20  |
+|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 1   | +E/⁠-⁠I     | +1  | -1  | -1  | +1  |     | +1  | -1  | -1  | +1  |     | +1  | -1  | -1  | +1  |
+| 2   | +P/⁠-⁠J     | +1  | -1  | +1  | -1  |     | +1  | -1  | +1  | -1  |     | +1  | -1  | +1  | -1  |
+|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 3   | +N/⁠-⁠S     | +3  | +3  | +3  | +3  |     | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   |
+| 4   | +Ad./⁠-⁠Bg. | +3  | +3  | -3  | -3  |     | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   |
+|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 5   | +T/⁠-⁠F     | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  |     | 0   | 0   | 0   | 0   |
+| 6   | +Ab./⁠-⁠Gd. | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  |     | 0   | 0   | 0   | 0   |
+|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 7   | +Q/⁠-⁠D     | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  |
+| 8   | +Ag./⁠-⁠Bd. | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  |
+
+(Each column corresponds to a single Khizhnyak axis that encode two Khizhnyak functions. For example N<sub>peo</sub> is actually S<sub>jio</sub> => N<sub>peo</sub> axis.)
 
 **There is a hypothesys that 8 Reinin-Khizhnyak axes are the only axes that have independent variation if we are to try to interpret Reinin axes as independent factors (correcting their dependence first). 8 Reinin axes would have independent variation and 7 would not (and would be fully determined by 8 Reinin-Khizhnyak axes).**
 
 #### 11.3.1 Seven Complementary Reinin-Khizhnyak axes
 
-Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes.
+Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes. And transition to Complementary Reinin-Khizhnyak axes is made via absolute values of the Khizhnyak axes (or via unreduced Huber loss with δ = 0.1):
+
+|     |                | &vert;N<sub>peo</sub>&vert; | &vert;N<sub>jio</sub>&vert; | &vert;N<sub>piy</sub>&vert; | &vert;N<sub>jey</sub>&vert; |     | &vert;T<sub>peo</sub>&vert; | &vert;T<sub>jio</sub>&vert; | &vert;T<sub>piy</sub>&vert; | &vert;T<sub>jey</sub>&vert; |     | &vert;Q<sub>peo</sub>&vert; | &vert;Q<sub>jio</sub>&vert; | &vert;Q<sub>piy</sub>&vert; | &vert;Q<sub>jey</sub>&vert; |
+| --- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |                | 1   | 2   | 3   | 4   |     | 9   | 10  | 11  | 12  |     | 17  | 18  | 19  | 20  |
+|     |                |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 1   | +O/⁠-⁠Y        | +1  | +1  | -1  | -1  |     | +1  | +1  | -1  | -1  |     | +1  | +1  | -1  | -1  |
+|     |                |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 2   | +NESI/⁠-⁠⁠NISE | +3  | -3  | -3  | +3  |     | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   |
+| 3   | +NPSJ/⁠-⁠NJSP  | +3  | -3  | +3  | -3  |     | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   |
+|     |                |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 4   | +TEFI/⁠-⁠TIFE  | 0   | 0   | 0   | 0   |     | +3  | -3  | -3  | +3  |     | 0   | 0   | 0   | 0   |
+| 5   | +TPFJ/⁠-⁠TJFP  | 0   | 0   | 0   | 0   |     | +3  | -3  | +3  | -3  |     | 0   | 0   | 0   | 0   |
+|     |                |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 6   | +QEDI/⁠-⁠QIDE  | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   |     | +3  | -3  | -3  | +3  |
+| 7   | +QPDJ/⁠-⁠QJDP  | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   |     | +3  | -3  | +3  | -3  |
 
 
 ### 11.4 Non-standard dominant Khizhnyak functions
