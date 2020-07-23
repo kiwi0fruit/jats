@@ -560,13 +560,13 @@ Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes. And trans
 
 |     |             | &vert;N<sub>peo</sub>&vert; | &vert;N<sub>jio</sub>&vert; | &vert;N<sub>piy</sub>&vert; | &vert;N<sub>jey</sub>&vert; | &vert;T<sub>peo</sub>&vert; | &vert;T<sub>jio</sub>&vert; | &vert;T<sub>piy</sub>&vert; | &vert;T<sub>jey</sub>&vert; | &vert;Q<sub>peo</sub>&vert; | &vert;Q<sub>jio</sub>&vert; | &vert;Q<sub>piy</sub>&vert; | &vert;Q<sub>jey</sub>&vert; |
 | --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   | +O/⁠-⁠Y       | +1  | +1  | -1  | -1  | +1  | +1  | -1  | -1  | +1  | +1  | -1  | -1  |
-| 2   | +NESI/⁠-⁠⁠NISE | +3  | -3  | -3  | +3  | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-| 3   | +NPSJ/⁠-⁠NJSP | +3  | -3  | +3  | -3  | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-| 4   | +TEFI/⁠-⁠TIFE | 0   | 0   | 0   | 0   | +3  | -3  | -3  | +3  | 0   | 0   | 0   | 0   |
-| 5   | +TPFJ/⁠-⁠TJFP | 0   | 0   | 0   | 0   | +3  | -3  | +3  | -3  | 0   | 0   | 0   | 0   |
-| 6   | +QEDI/⁠-⁠QIDE | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | +3  | -3  | -3  | +3  |
-| 7   | +QPDJ/⁠-⁠QJDP | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | +3  | -3  | +3  | -3  |
+| 1   | +O/⁠-⁠Y       |  1  |  1  | -1  | -1  |  1  |  1  | -1  | -1  |  1  |  1  | -1  | -1  |
+| 2   | +NESI/⁠-⁠⁠NISE |  3  | -3  | -3  |  3  | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 3   | +NPSJ/⁠-⁠NJSP |  3  | -3  |  3  | -3  | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 4   | +TEFI/⁠-⁠TIFE | 0   | 0   | 0   | 0   |  3  | -3  | -3  |  3  | 0   | 0   | 0   | 0   |
+| 5   | +TPFJ/⁠-⁠TJFP | 0   | 0   | 0   | 0   |  3  | -3  |  3  | -3  | 0   | 0   | 0   | 0   |
+| 6   | +QEDI/⁠-⁠QIDE | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |  3  | -3  | -3  |  3  |
+| 7   | +QPDJ/⁠-⁠QJDP | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |  3  | -3  |  3  | -3  |
 
 (Each column corresponds to a single Khizhnyak axis that encode two Khizhnyak functions. For example N<sub>peo</sub> is actually S<sub>jio</sub> => N<sub>peo</sub> axis.)
 
