@@ -539,17 +539,17 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
 From previous table can be seen that not all Reinin axes can influence Khizhnyak axes (that encode two Khizhnyak functions via single axis). That can also be seen from updated table from [section 11.2](#112-khizhnyak-functions-and-axes). Only **8 Reinin-Khizhnyak axes** can affect 12 Khizhnyak axes:
 
-|     |             | N<sub>peo</sub> | N<sub>jio</sub> | N<sub>piy</sub> | N<sub>jey</sub> | T<sub>peo</sub> | T<sub>jio</sub> | T<sub>piy</sub> | T<sub>jey</sub> | Q<sub>peo</sub> | Q<sub>jio</sub> | Q<sub>piy</sub> | Q<sub>jey</sub> |
-| --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |             | 1   | 2   | 3   | 4   |     | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  |
-| 1   | +E/⁠-⁠I     | +1  | -1  | -1  | +1  |     | +1  | -1  | -1  | +1  |     | +1  | -1  | -1  | +1  |
-| 2   | +P/⁠-⁠J     | +1  | -1  | +1  | -1  |     | +1  | -1  | +1  | -1  |     | +1  | -1  | +1  | -1  |
-| 3   | +N/⁠-⁠S     | +3  | +3  | +3  | +3  |     | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   |
-| 4   | +Ad./⁠-⁠Bg. | +3  | +3  | -3  | -3  |     | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   |
-| 5   | +T/⁠-⁠F     | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  |     | 0   | 0   | 0   | 0   |
-| 6   | +Ab./⁠-⁠Gd. | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  |     | 0   | 0   | 0   | 0   |
-| 7   | +Q/⁠-⁠D     | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   |     | +3  | +3  | +3  | +3  |
-| 8   | +Ag./⁠-⁠Bd. | 0   | 0   | 0   | 0   |     | 0   | 0   | 0   | 0   |     | +3  | +3  | -3  | -3  |
+|     |           | N<sub>peo</sub> | N<sub>jio</sub> | N<sub>piy</sub> | N<sub>jey</sub> | T<sub>peo</sub> | T<sub>jio</sub> | T<sub>piy</sub> | T<sub>jey</sub> | Q<sub>peo</sub> | Q<sub>jio</sub> | Q<sub>piy</sub> | Q<sub>jey</sub> |
+| --- | --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |           | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
+| 1   | +E/⁠-⁠I     | +1  | -1  | -1  | +1  | +1  | -1  | -1  | +1  | +1  | -1  | -1  | +1  |
+| 2   | +P/⁠-⁠J     | +1  | -1  | +1  | -1  | +1  | -1  | +1  | -1  | +1  | -1  | +1  | -1  |
+| 3   | +N/⁠-⁠S     | +3  | +3  | +3  | +3  | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 4   | +Ad./⁠-⁠Bg. | +3  | +3  | -3  | -3  | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 5   | +T/⁠-⁠F     | 0   | 0   | 0   | 0   | +3  | +3  | +3  | +3  | 0   | 0   | 0   | 0   |
+| 6   | +Ab./⁠-⁠Gd. | 0   | 0   | 0   | 0   | +3  | +3  | -3  | -3  | 0   | 0   | 0   | 0   |
+| 7   | +Q/⁠-⁠D     | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | +3  | +3  | +3  | +3  |
+| 8   | +Ag./⁠-⁠Bd. | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | +3  | +3  | -3  | -3  |
 
 (Each column corresponds to a single Khizhnyak axis that encode two Khizhnyak functions. For example N<sub>peo</sub> is actually S<sub>jio</sub> => N<sub>peo</sub> axis.)
 
