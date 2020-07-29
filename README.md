@@ -539,9 +539,9 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
 From previous table can be seen that not all Reinin axes can influence Khizhnyak axes (that encode two Khizhnyak functions via single axis). That can also be seen from updated table from [section 11.2](#112-khizhnyak-functions-and-axes). Only **8 Reinin-Khizhnyak axes** can affect 12 Khizhnyak axes:
 
-|     |      |      | +N<sub>peo</sub> | +N<sub>jio</sub> | +N<sub>piy</sub> | +N<sub>jey</sub> | +T<sub>peo</sub> | +T<sub>jio</sub> | +T<sub>piy</sub> | +T<sub>jey</sub> | +Q<sub>peo</sub> | +Q<sub>jio</sub> | +Q<sub>piy</sub> | +Q<sub>jey</sub> |
-|     | neg. | pos. | -S<sub>jio</sub> | -S<sub>peo</sub> | -S<sub>jey</sub> | -S<sub>piy</sub> | -F<sub>jio</sub> | -F<sub>peo</sub> | -F<sub>jey</sub> | -F<sub>piy</sub> | -D<sub>jio</sub> | -D<sub>peo</sub> | -D<sub>jey</sub> | -D<sub>piy</sub> |
+|     | neg. | pos. | +N<sub>peo</sub> | +N<sub>jio</sub> | +N<sub>piy</sub> | +N<sub>jey</sub> | +T<sub>peo</sub> | +T<sub>jio</sub> | +T<sub>piy</sub> | +T<sub>jey</sub> | +Q<sub>peo</sub> | +Q<sub>jio</sub> | +Q<sub>piy</sub> | +Q<sub>jey</sub> |
 | --- | ---- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |      |      | <b>-S<sub>jio</sub></b> | <b>-S<sub>peo</sub></b> | <b>-S<sub>jey</sub></b> | <b>-S<sub>piy</sub></b> | <b>-F<sub>jio</sub></b> | <b>-F<sub>peo</sub></b> | <b>-F<sub>jey</sub></b> | <b>-F<sub>piy</sub></b> | <b>-D<sub>jio</sub></b> | <b>-D<sub>peo</sub></b> | <b>-D<sub>jey</sub></b> | <b>-D<sub>piy</sub></b> |
 | 1   | +E   | -I   |  1  | -1  | -1  |  1  |  1  | -1  | -1  |  1  |  1  | -1  | -1  |  1  |
 | 2   | +P   | -J   |  1  | -1  |  1  | -1  |  1  | -1  |  1  | -1  |  1  | -1  |  1  | -1  |
 | 3   | +N   | -S   |  3  |  3  |  3  |  3  | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
