@@ -557,10 +557,11 @@ From previous table can be seen that not all Reinin axes can influence Khizhnyak
 
 #### 11.3.1 Seven Complementary Reinin-Khizhnyak axes
 
-Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes. And transition to Complementary Reinin-Khizhnyak axes is made via absolute values of the Khizhnyak axes (or via unreduced Huber loss with δ = 0.1):
+Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes. And transition to Complementary Reinin-Khizhnyak axes is made via absolute values of the Khizhnyak axes (or via unreduced Huber loss with δ = 0.25):
 
-|     | pos.  | neg.  | &vert;N<sub>peo</sub>&vert; | &vert;N<sub>jio</sub>&vert; | &vert;N<sub>piy</sub>&vert; | &vert;N<sub>jey</sub>&vert; | &vert;T<sub>peo</sub>&vert; | &vert;T<sub>jio</sub>&vert; | &vert;T<sub>piy</sub>&vert; | &vert;T<sub>jey</sub>&vert; | &vert;Q<sub>peo</sub>&vert; | &vert;Q<sub>jio</sub>&vert; | &vert;Q<sub>piy</sub>&vert; | &vert;Q<sub>jey</sub>&vert; |
+|     | pos.  | neg.  | &vert;N<sub>peo</sub>&vert;= | &vert;N<sub>jio</sub>&vert;= | &vert;N<sub>piy</sub>&vert;= | &vert;N<sub>jey</sub>&vert;= | &vert;T<sub>peo</sub>&vert;= | &vert;T<sub>jio</sub>&vert;= | &vert;T<sub>piy</sub>&vert;= | &vert;T<sub>jey</sub>&vert;= | &vert;Q<sub>peo</sub>&vert;= | &vert;Q<sub>jio</sub>&vert;= | &vert;Q<sub>piy</sub>&vert;= | &vert;Q<sub>jey</sub>&vert;= |
 | --- | ----- | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |       |       | <b>=&vert;S<sub>jio</sub>&vert;</b> | <b>=&vert;S<sub>peo</sub>&vert;</b> | <b>=&vert;S<sub>jey</sub>&vert;</b> | <b>=&vert;S<sub>piy</sub>&vert;</b> | <b>=&vert;F<sub>jio</sub>&vert;</b> | <b>=&vert;F<sub>peo</sub>&vert;</b> | <b>=&vert;F<sub>jey</sub>&vert;</b> | <b>=&vert;F<sub>piy</sub>&vert;</b> | <b>=&vert;D<sub>jio</sub>&vert;</b> | <b>=&vert;D<sub>peo</sub>&vert;</b> | <b>=&vert;D<sub>jey</sub>&vert;</b> | <b>=&vert;D<sub>piy</sub>&vert;</b> |
 | 1   | +O    | −Y    |  1  |  1  | -1  | -1  |  1  |  1  | -1  | -1  |  1  |  1  | -1  | -1  |
 | 2   | +NESI | −NISE |  3  | -3  | -3  |  3  | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 | 3   | +NPSJ | −NJSP |  3  | -3  |  3  | -3  | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
