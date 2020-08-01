@@ -541,7 +541,7 @@ From previous table can be seen that not all Reinin axes can influence Khizhnyak
 
 |     |          |          | +N<sub>peo</sub>= | +N<sub>jio</sub>= | +N<sub>piy</sub>= | +N<sub>jey</sub>= | +T<sub>peo</sub>= | +T<sub>jio</sub>= | +T<sub>piy</sub>= | +T<sub>jey</sub>= | +Q<sub>peo</sub>= | +Q<sub>jio</sub>= | +Q<sub>piy</sub>= | +Q<sub>jey</sub>= |
 | --- | ---- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | **neg.** | **pos.** | <b>=−S<sub>jio</sub></b> | <b>=−S<sub>peo</sub></b> | <b>=−S<sub>jey</sub></b> | <b>=−S<sub>piy</sub></b> | <b>=−F<sub>jio</sub></b> | <b>=−F<sub>peo</sub></b> | <b>=−F<sub>jey</sub></b> | <b>=−F<sub>piy</sub></b> | <b>=−D<sub>jio</sub></b> | <b>=−D<sub>peo</sub></b> | <b>=−D<sub>jey</sub></b> | <b>=−D<sub>piy</sub></b> |
+|     | **pos.** | **neg.** | <b>=−S<sub>jio</sub></b> | <b>=−S<sub>peo</sub></b> | <b>=−S<sub>jey</sub></b> | <b>=−S<sub>piy</sub></b> | <b>=−F<sub>jio</sub></b> | <b>=−F<sub>peo</sub></b> | <b>=−F<sub>jey</sub></b> | <b>=−F<sub>piy</sub></b> | <b>=−D<sub>jio</sub></b> | <b>=−D<sub>peo</sub></b> | <b>=−D<sub>jey</sub></b> | <b>=−D<sub>piy</sub></b> |
 | 1   | +E   | −I   |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |
 | 2   | +P   | −J   |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |
 | 3   | +N   | −S   |  3  |  3  |  3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
