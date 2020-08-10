@@ -566,7 +566,7 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | 8   | +Q<sub>y</sub>=−D<sub>y</sub> |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  |
 
 
-8 Abstracted Khizhnyak axes might be a good representation for [measure of functions differentiation](#116-dynamic-nondynamic-yo-axis-as-a-measure-of-khizhnyak-functions-differentiation).
+8 Abstracted Khizhnyak axes might be a good representation for measure of functions differentiation. See [section 11.6](#116-dynamic-nondynamic-yo-axis-as-a-measure-of-khizhnyak-functions-differentiation).
 
 
 ### 11.3 8 Reinin-Khizhnyak axes as a basis for 12 Khizhnyak axes
