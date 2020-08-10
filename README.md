@@ -549,8 +549,21 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | Fy.=>Ty. | −F<sub>y</sub>=T<sub>y</sub> |
 | Do.=>Qo. | −D<sub>o</sub>=Q<sub>o</sub> |
 | Dy.=>Qy. | −D<sub>y</sub>=Q<sub>y</sub> |
-| JI=>PE   | −JI=PE                       |
-| PI=>JE   | −PI=JE                       |
+| JIO=>PEO | −JIO=PEO                     |
+| PIY=>JEY | −PIY=JEY                     |
+
+
+|     |                               | +N<sub>peo</sub>= | +N<sub>jio</sub>= | +N<sub>piy</sub>= | +N<sub>jey</sub>= | +T<sub>peo</sub>= | +T<sub>jio</sub>= | +T<sub>piy</sub>= | +T<sub>jey</sub>= | +Q<sub>peo</sub>= | +Q<sub>jio</sub>= | +Q<sub>piy</sub>= | +Q<sub>jey</sub>= |
+| --- |:-----------------------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
+|     |                               | <b>=−S<sub>jio</sub></b> | <b>=−S<sub>peo</sub></b> | <b>=−S<sub>jey</sub></b> | <b>=−S<sub>piy</sub></b> | <b>=−F<sub>jio</sub></b> | <b>=−F<sub>peo</sub></b> | <b>=−F<sub>jey</sub></b> | <b>=−F<sub>piy</sub></b> | <b>=−D<sub>jio</sub></b> | <b>=−D<sub>peo</sub></b> | <b>=−D<sub>jey</sub></b> | <b>=−D<sub>piy</sub></b> |
+| 1   | +PEO=−JIO                     |  1  | −1  |  0  |  0  |  1  | −1  |  0  |  0  |  1  | −1  |  0  |  0  |
+| 2   | +JEY=−PIY                     |  0  |  0  | −1  |  1  |  0  |  0  | −1  |  1  |  0  |  0  | −1  |  1  |
+| 3   | +N<sub>o</sub>=−S<sub>o</sub> |  3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 4   | +N<sub>y</sub>=−S<sub>y</sub> |  0  |  0  |  3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 5   | +T<sub>o</sub>=−F<sub>o</sub> |  0  |  0  |  0  |  0  |  3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 6   | +T<sub>y</sub>=−F<sub>y</sub> |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  |  0  |  0  |  0  |  0  |
+| 7   | +Q<sub>o</sub>=−D<sub>o</sub> |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  |  0  |  0  |
+| 8   | +Q<sub>y</sub>=−D<sub>y</sub> |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  |
 
 
 ### 11.3 8 Reinin-Khizhnyak axes as a basis for 12 Khizhnyak axes
