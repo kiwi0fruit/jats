@@ -21,6 +21,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 * [11. Symmetries of Reinin dichotomies and their connection to Khizhnyak functions and axes](#11-symmetries-of-reinin-dichotomies-and-their-connection-to-khizhnyak-functions-and-axes)
   - [11.1 Reinin dichotomies](#111-reinin-dichotomies)
   - [11.2 Khizhnyak functions and axes](#112-khizhnyak-functions-and-axes)
+    - [11.2.1 8 Abstracted Khizhnyak axes](#1121-8-abstracted-khizhnyak-axes)
   - [11.3 8 Reinin-Khizhnyak axes as a basis for 12 Khizhnyak axes](#113-8-reinin-khizhnyak-axes-as-a-basis-for-12-khizhnyak-axes)
     - [11.3.1 Seven Complementary Reinin-Khizhnyak axes](#1131-seven-complementary-reinin-khizhnyak-axes)
   - [11.4 Non-standard dominant Khizhnyak functions](#114-non-standard-dominant-khizhnyak-functions)
@@ -534,6 +535,22 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | 13  | +QEDI=−QIDE |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |
 | 14  | +QPDJ=−QJDP |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |
 | 15  | +Ag.=−Bd.   |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |
+
+
+### 11.2.1 8 Abstracted Khizhnyak axes
+
+12 abstract static-dynamic functions defined above might be represented as 8 Abstracted Khizhnyak axes:
+
+| Abstracted Khizhnyak axes | Relations   |
+|:-------- |:---------------------------- |
+| So.=>No. | −S<sub>o</sub>=N<sub>o</sub> |
+| Sy.=>Ny. | −S<sub>y</sub>=N<sub>y</sub> |
+| Fo.=>To. | −F<sub>o</sub>=T<sub>o</sub> |
+| Fy.=>Ty. | −F<sub>y</sub>=T<sub>y</sub> |
+| Do.=>Qo. | −D<sub>o</sub>=Q<sub>o</sub> |
+| Dy.=>Qy. | −D<sub>y</sub>=Q<sub>y</sub> |
+| JI=>PE   | −JI=PE                       |
+| PI=>JE   | −PI=JE                       |
 
 
 ### 11.3 8 Reinin-Khizhnyak axes as a basis for 12 Khizhnyak axes
