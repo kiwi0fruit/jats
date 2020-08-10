@@ -695,6 +695,7 @@ And this would exactly mean that conscious Khizhnyak functions from base tempera
 
 --------
 
-PS: Used: I E J P Y O, S N F T Q D, G B A X. Free: C H K L M R U V W Z.
+PS: Used: I E J P Y O, S N F T Q D, G B A. Free: C H K L M R V W X Z.  
+Reserved: U (neUroticism).
 
 *([Source code](https://github.com/kiwi0fruit/jats/blob/master/README.md) at GitHub)*
