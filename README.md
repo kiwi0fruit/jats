@@ -662,16 +662,16 @@ And this would exactly mean that conscious Khizhnyak functions from base tempera
 
 Model A analogue stub consists of 8 temperament positions.
 
-* **SB, SM, SD, SR** - **Strong** temperament positions,
-* **WB, WM, WD, WR** - **Weak** temperament positions,
-* **SB, WB** - **Base** temperament positions,
-* **SM, WM** - **Mirror** temperament positions (from mirror intertype relations),
-* **SD, WD** - **Dual** temperament positions (from dual intertype relations),
-* **SR, WR** - **Request** temperament positions (from request intertype relations),
-* **SB, SM, WB, WM** - **Conscious** temperaments positions,
-* **SD, SR, WD, WR** - **Semiconscious** (automatic) temperaments positions,
+* **Strong** temperament positions: **SB, SM, SD, SR**,
+* **Weak** temperament positions: **WB, WM, WD, WR**,
+* **Base** temperament positions: **SB, WB**,
+* **Mirror** temperament positions: **SM, WM**,
+* **Dual** temperament positions: **SD, WD**,
+* **Request** temperament positions: **SR, WR**,
+* **Conscious** temperaments positions: **SB, SM, WB, WM**,
+* **Automatic (Semiconscious)** temperaments positions: **SD, SR, WD, WR**,
 
-I didn't use numbers for temperament positions on purpose. Number positions are reserved for roles like in Model A (*See examples after ther table*).
+I didn't use numbers for temperament positions on purpose. Number positions are reserved for roles like in Model A (*See examples after the table*).
 
 In the table below the strong above weak and weak above strong pairs of Khizhnyak functions actually form Khizhnyak axes and weak functions values can be obtained from strong ones simply via sign inversion:
 
@@ -680,8 +680,8 @@ In the table below the strong above weak and weak above strong pairs of Khizhnya
 | **α** |      | **NTPEO 1**                                     |      |                                                 |      |      | **NTJIO 2**                                     |      |                                                 |      |      | **SFPIY 3**                                     |      |                                                 |      |      | **SFJEY 4**                                     |      |                                                 |
 |       | SB   | N<sub>peo</sub> T<sub>peo</sub> Q<sub>peo</sub> | SM   | N<sub>jio</sub> T<sub>jio</sub> Q<sub>jio</sub> |      | SB   | T<sub>jio</sub> N<sub>jio</sub> Q<sub>jio</sub> | SM   | T<sub>peo</sub> N<sub>peo</sub> Q<sub>peo</sub> |      | SB   | S<sub>piy</sub> F<sub>piy</sub> D<sub>piy</sub> | SM   | S<sub>jey</sub> F<sub>jey</sub> D<sub>jey</sub> |      | SB   | F<sub>jey</sub> S<sub>jey</sub> D<sub>jey</sub> | SM   | F<sub>piy</sub> S<sub>piy</sub> D<sub>piy</sub> |
 |       | WM   | S<sub>jio</sub> F<sub>jio</sub> D<sub>jio</sub> | WB   | S<sub>peo</sub> F<sub>peo</sub> D<sub>peo</sub> |      | WM   | F<sub>peo</sub> S<sub>peo</sub> D<sub>peo</sub> | WB   | F<sub>jio</sub> S<sub>jio</sub> D<sub>jio</sub> |      | WM   | N<sub>jey</sub> T<sub>jey</sub> Q<sub>jey</sub> | WB   | N<sub>piy</sub> T<sub>piy</sub> Q<sub>piy</sub> |      | WM   | T<sub>piy</sub> N<sub>piy</sub> Q<sub>piy</sub> | WB   | T<sub>jey</sub> N<sub>jey</sub> Q<sub>jey</sub> |
-|       | WD   | S<sub>piy</sub> F<sub>piy</sub> D<sub>piy</sub> | wr   | S<sub>jey</sub> F<sub>jey</sub> D<sub>jey</sub> |      | WD   | F<sub>jey</sub> S<sub>jey</sub> D<sub>jey</sub> | wr   | F<sub>piy</sub> S<sub>piy</sub> D<sub>piy</sub> |      | WD   | N<sub>peo</sub> T<sub>peo</sub> Q<sub>peo</sub> | wr   | N<sub>jio</sub> T<sub>jio</sub> Q<sub>jio</sub> |      | WD   | T<sub>jio</sub> N<sub>jio</sub> Q<sub>jio</sub> | wr   | T<sub>peo</sub> N<sub>peo</sub> Q<sub>peo</sub> |
-|       | SR   | N<sub>jey</sub> T<sub>jey</sub> Q<sub>jey</sub> | sd   | N<sub>piy</sub> T<sub>piy</sub> Q<sub>piy</sub> |      | SR   | T<sub>piy</sub> N<sub>piy</sub> Q<sub>piy</sub> | sd   | T<sub>jey</sub> N<sub>jey</sub> Q<sub>jey</sub> |      | SR   | S<sub>jio</sub> F<sub>jio</sub> D<sub>jio</sub> | sd   | S<sub>peo</sub> F<sub>peo</sub> D<sub>peo</sub> |      | SR   | F<sub>peo</sub> S<sub>peo</sub> D<sub>peo</sub> | sd   | F<sub>jio</sub> S<sub>jio</sub> D<sub>jio</sub> |
+|       | WD   | S<sub>piy</sub> F<sub>piy</sub> D<sub>piy</sub> | WR   | S<sub>jey</sub> F<sub>jey</sub> D<sub>jey</sub> |      | WD   | F<sub>jey</sub> S<sub>jey</sub> D<sub>jey</sub> | WR   | F<sub>piy</sub> S<sub>piy</sub> D<sub>piy</sub> |      | WD   | N<sub>peo</sub> T<sub>peo</sub> Q<sub>peo</sub> | WR   | N<sub>jio</sub> T<sub>jio</sub> Q<sub>jio</sub> |      | WD   | T<sub>jio</sub> N<sub>jio</sub> Q<sub>jio</sub> | WR   | T<sub>peo</sub> N<sub>peo</sub> Q<sub>peo</sub> |
+|       | SR   | N<sub>jey</sub> T<sub>jey</sub> Q<sub>jey</sub> | SD   | N<sub>piy</sub> T<sub>piy</sub> Q<sub>piy</sub> |      | SR   | T<sub>piy</sub> N<sub>piy</sub> Q<sub>piy</sub> | SD   | T<sub>jey</sub> N<sub>jey</sub> Q<sub>jey</sub> |      | SR   | S<sub>jio</sub> F<sub>jio</sub> D<sub>jio</sub> | SD   | S<sub>peo</sub> F<sub>peo</sub> D<sub>peo</sub> |      | SR   | F<sub>peo</sub> S<sub>peo</sub> D<sub>peo</sub> | SD   | F<sub>jio</sub> S<sub>jio</sub> D<sub>jio</sub> |
 |       |      |                                                 |      |                                                 |      |      |                                                 |      |                                                 |      |      |                                                 |      |                                                 |      |      |                                                 |      |                                                 |
 | **β** |      | **STPEO 5**                                     |      |                                                 |      |      | **STJIO 6**                                     |      |                                                 |      |      | **NFPIY 7**                                     |      |                                                 |      |      | **NFJEY 8**                                     |      |                                                 |
 |       | SB   | S<sub>peo</sub> T<sub>peo</sub> D<sub>peo</sub> | SM   | S<sub>jio</sub> T<sub>jio</sub> D<sub>jio</sub> |      | SB   | T<sub>jio</sub> S<sub>jio</sub> D<sub>jio</sub> | SM   | T<sub>peo</sub> S<sub>peo</sub> D<sub>peo</sub> |      | SB   | N<sub>piy</sub> F<sub>piy</sub> Q<sub>piy</sub> | SM   | N<sub>jey</sub> F<sub>jey</sub> Q<sub>jey</sub> |      | SB   | F<sub>jey</sub> N<sub>jey</sub> Q<sub>jey</sub> | SM   | F<sub>piy</sub> N<sub>piy</sub> Q<sub>piy</sub> |
