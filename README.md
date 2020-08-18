@@ -380,8 +380,8 @@ It's possible to drop postfix for introverts too but then it can easily be mista
 
 |     Quadras | Abbr.   | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
 | -----------:| ------- | ------------------- | ------------------ | -------- | ------------- |
-| Alpha-delta | **Ad.** | Ne. or Si.            | Ne. and Si.          | pacific  | cooperative, sensible, peaceful and leisurely unhurried ways |
-|  Beta-gamma | **Bg.** | Se. or Ni.            | Se. and Ni.          | resolute | competitive, argessive, time-bound and fast resolutive ways |
+| Alpha-delta | **Ad.** | Ne. or Si.            | Ne. and Si.          | paCific  | peaCeful, cooperative, sensible, and leisurely unhurried ways |
+|  Beta-gamma | **Bg.** | Se. or Ni.            | Se. and Ni.          | Resolute | Rival, competitive, argessive, time-bound and fast resolutive ways |
 |  Alpha-beta | **Ab.** | Fe. or Ti.            | Fe. and Ti.          |          |               |
 | Gamma-delta | **Gd.** | Te. or Fi.            | Te. and Fi.          |          |               |
 
@@ -456,7 +456,7 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | S=>N       | YAd.OBg.=>OAd.YBg. | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                          |
 | NISE=>NESI | JAd.PBg.=>PAd.JBg. | NISE=>NESI (Farsighted=>Carefree)                                        |
 | NJSP=>NPSJ | IAd.EBg.=>EAd.IBg. | NJSP=>NPSJ (Strategic=>Tactical)                                         |
-| Bg.=>Ad.   | NYSO=>NOSY         | **B**eta-**g**amma=>**A**lpha-**d**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
+| Bg.=>Ad.   | NYSO=>NOSY         | **B**eta-**g**amma=>**A**lpha-**d**elta (Resolute=>paCific, Rival=>peaCeful, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
 |            |                    |                                                                          |
 | F=>T       | YAb.OGd.=>OAb.YGd. | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking) |
 | TIFE=>TEFI | JAb.PGd.=>PAb.JGd. | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                   |
