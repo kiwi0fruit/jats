@@ -705,7 +705,8 @@ In the table below the strong above weak and weak above strong pairs of Khizhnya
 
 If we reduce 24 Khizhnyak functions table to 12 Khizhnyak axes table we would get the following:
 
-|     | **NTPEO 1**                                     |     |                                                 |
+|     | NTPEO 1                                         |     |                                                 |
+| --- |:----------------------------------------------- | --- |:----------------------------------------------- |
 | B   | N<sub>peo</sub> T<sub>peo</sub> Q<sub>peo</sub> | M   | N<sub>jio</sub> T<sub>jio</sub> Q<sub>jio</sub> |
 | R   | N<sub>jey</sub> T<sub>jey</sub> Q<sub>jey</sub> | D   | N<sub>piy</sub> T<sub>piy</sub> Q<sub>piy</sub> |
 
