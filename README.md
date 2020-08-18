@@ -712,13 +712,13 @@ If we reduce 24 Khizhnyak functions table to 12 Khizhnyak axes table we would ge
 
 **Some examples:**
 
-If we have a hypothetical person with Tjio.=Njio.=Qjio.=0.5 (that's values of Khizhnyak axes - not just functions), Tjey.=Njey.=Djey.=0.2 (other Khizhnyak functions ~0.) then we can assume Tjio. as 1-dominant like role, and *both* Njio. and Qjio. as 2-supporting like role. Yep. Supporting functions are from the same temperament as dominant function (strong base temperament). Njey. and Djey. *both* can be assumed with 8-background like role. And Tjey. would be something like strong 7-restrictive role (all three from strong dual temperament).
+If we have a hypothetical person with Tjio.=Njio.=Qjio.=0.5, Tjey.=Njey.=Djey.=0.2, other Khizhnyak functions ~0 (that's values of Khizhnyak axes - not just functions) then we can assume Tjio. as 1-dominant like role, and *both* Njio. and Qjio. as 2-supporting like role. Yep. Supporting functions are from the same temperament as dominant function (strong base temperament). Njey. and Djey. *both* can be assumed with 8-background like role. And Tjey. would be something like strong 7-restrictive role (all three from strong dual temperament).
 
 This would give: (1-Tjio., 2-Njio., 2-Qjio., 7-Tjey., 8-Njey., 8-Djey.). But 8-Djey. may be a misinterpretation as it's from the weak dual temperament actually. In this example background functions are from strong dual temperament but I guess there can be persons with background functions from strong request temperament.
 
 Here I assumed that I need to put functions in 1-dominant/2-supporting pair in a way that they are of different nature (T/N or T/Q are fine but T/F or Tjio./Tpeo. are not), of the **same** OY axis (To./No. is fine but To./Ny. is not). Hence I need to mix functions from conscious temperaments for this. I also assumed that I need to put functions in 1-dominant/8-background pair in a way that they are of different nature (T/N or T/Q are fine but T/F or Tjio./Tjey. are not), of the **different** OY axis (To./Ny. is fine but To./No. is not). This way I emulate Model A behaviour for Abstracted Khizhnyak functions.
 
-If we take another hypothetical person example with Tjey.=0.5, Tjio.=Sjio.=Djio.=0.3 (other Khizhnyak functions ~0.) we can either assume (1-Tjey., 7-Tjio., 8-Sjio., 8-Djio.) or assume (1-Sjio., 2-Djio., 2-Tjio., 8-Tjey). The second case is tempting because it doesn't have strong 7-restrictive but it uses non-standard Khizhnyak dominant function and would have 8th stronger than 1th. So the first case is more likely (with standard 1-dominant that is the strongest of all).
+If we take another hypothetical person example with Tjey.=0.5, Tjio.=Sjio.=Djio.=0.3, other Khizhnyak functions ~0 then we can either assume (1-Tjey., 7-Tjio., 8-Sjio., 8-Djio.) or assume (1-Sjio., 2-Djio., 2-Tjio., 8-Tjey). The second case is tempting because it doesn't have strong 7-restrictive but it uses non-standard Khizhnyak dominant function and would have 8th stronger than 1th. So the first case is more likely (with standard 1-dominant that is the strongest of all).
 
 --------
 
