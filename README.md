@@ -671,6 +671,8 @@ And this would exactly mean that conscious Khizhnyak functions from base tempera
 
 I didn't use numbers for temperament positions on purpose. Number positions are reserved for roles like in Model A.
 
+*See examples after ther table.*
+
 In the table below the strong above weak and weak above strong pairs of Khizhnyak functions actually form Khizhnyak axes and weak functions values can be obtained from strong ones simply via sign inversion:
 
 |       |      | **PEO**                                         |      |                                                 |      |      | **JIO**                                         |      |                                                 |      |      | **PIY**                                         |      |                                                 |      |      | **JEY**                                         |      |                                                 |
