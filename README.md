@@ -660,6 +660,8 @@ And this would exactly mean that conscious Khizhnyak functions from base tempera
 
 ### 11.7 Model A analogue stub with Gulenko's temperaments and Khizhnyak functions
 
+Model A analogue stub consists of 8 temperament positions.
+
 * **SB, SM, SD, SR** - **Strong** temperament positions,
 * **WB, WM, WD, WR** - **Weak** temperament positions,
 * **SB, WB** - **Base** temperament positions,
