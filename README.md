@@ -420,8 +420,8 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |     N\*PEO¬13     |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |          |
 |     NT\*\*O¬1     |             TiN.intj. v NT\~\~O v ... (not NeT.)             |     NTJIO+1     |          |
 |     \*TJIO¬6      |           TiN.intj. v \~TJIO v ... (not TiS.istj.)           |     NTJIO+6     |          |
-|    N\*\*\*OAd.    |      TiN.intj. v NeT. v FiN.infj. v NeF. v N\~PEO v ...      |        ?        |          |
-|   \*\*\*I\*Bg.    | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v N\~PIY v ... |        ?        |          |
+|    N\*\*\*OAd., N\*\*\*OC  |      TiN.intj. v NeT. v FiN.infj. v NeF. v N\~PEO v ...      |        ?        |          |
+|   \*\*\*I\*Bg., \*\*\*I\*R | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v N\~PIY v ... |        ?        |          |
 |     N\*P\*\*      | NeT. v NiF.infp. v NiT.intp. v NeF. v N\~PEO v N\~PIY v ...  |        ?        |          |
 |     \*T\*I\*      | TiN.intj. v TiS.istj. v NiT.intp. v SiT.istp. v \~TJIO v ... |        ?        |          |
 |    N\*PEO(-13)    |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |          |
@@ -722,7 +722,7 @@ If we take another hypothetical person example with Tjey.=0.5, Tjio.=Sjio.=Djio.
 
 --------
 
-PS: Used: I E J P Y O, S N F T Q D, G B A, X. Free: C H K L M R V W Z.  
+PS: Used: I E J P Y O, S N F T Q D, G B A, C, R, X. Free: H K L M V W Z.  
 Reserved: U (neUroticism).
 
 *([Source code](https://github.com/kiwi0fruit/jats/blob/master/README.md) at GitHub)*
