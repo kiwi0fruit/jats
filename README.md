@@ -703,6 +703,12 @@ In the table below the strong above weak and weak above strong pairs of Khizhnya
 |       | wd   | S<sub>piy</sub> T<sub>piy</sub> Q<sub>piy</sub> | wr   | S<sub>jey</sub> T<sub>jey</sub> Q<sub>jey</sub> |      | wd   | T<sub>jey</sub> S<sub>jey</sub> Q<sub>jey</sub> | wr   | T<sub>piy</sub> S<sub>piy</sub> Q<sub>piy</sub> |      | wd   | N<sub>peo</sub> F<sub>peo</sub> D<sub>peo</sub> | wr   | N<sub>jio</sub> F<sub>jio</sub> D<sub>jio</sub> |      | wd   | F<sub>jio</sub> N<sub>jio</sub> D<sub>jio</sub> | wr   | F<sub>peo</sub> N<sub>peo</sub> D<sub>peo</sub> |
 |       | sr   | N<sub>jey</sub> F<sub>jey</sub> D<sub>jey</sub> | sd   | N<sub>piy</sub> F<sub>piy</sub> D<sub>piy</sub> |      | sr   | F<sub>piy</sub> N<sub>piy</sub> D<sub>piy</sub> | sd   | F<sub>jey</sub> N<sub>jey</sub> D<sub>jey</sub> |      | sr   | S<sub>jio</sub> T<sub>jio</sub> Q<sub>jio</sub> | sd   | S<sub>peo</sub> T<sub>peo</sub> Q<sub>peo</sub> |      | sr   | T<sub>peo</sub> S<sub>peo</sub> Q<sub>peo</sub> | sd   | T<sub>jio</sub> S<sub>jio</sub> Q<sub>jio</sub> |
 
+If we reduce 24 Khizhnyak functions table to 12 Khizhnyak axes table we would get the following:
+
+|     | **NTPEO 1**                                     |     |                                                 |
+| B   | N<sub>peo</sub> T<sub>peo</sub> Q<sub>peo</sub> | M   | N<sub>jio</sub> T<sub>jio</sub> Q<sub>jio</sub> |
+| R   | N<sub>jey</sub> T<sub>jey</sub> Q<sub>jey</sub> | D   | N<sub>piy</sub> T<sub>piy</sub> Q<sub>piy</sub> |
+
 If we have a hypothetical person with Tjio.=Njio.=Qjio.=0.5 (that's values of Khizhnyak axes - not just functions), Tjey.=Njey.=Djey.=0.2 (other Khizhnyak functions ~0.) then we can assume Tjio. as 1-dominant like role, and *both* Njio. and Qjio. as 2-supporting like role. Yep. Supporting functions are from the same temperament as dominant function (strong base temperament). Njey. and Djey. *both* can be assumed with 8-background like role. And Tjey. would be something like strong 7-restrictive role (all three from strong dual temperament).
 
 This would give: (1-Tjio., 2-Njio., 2-Qjio., 7-Tjey., 8-Njey., 8-Djey.). But 8-Djey. may be a misinterpretation as it's from the weak dual temperament actually. In this example background functions are from strong dual temperament but I guess there can be persons with background functions from strong request temperament.
