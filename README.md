@@ -669,6 +669,11 @@ And this would exactly mean that conscious Khizhnyak functions from base tempera
 * **sb, sm, wb, wm** - **conscious** temperaments positions,
 * **sd, sr, wd, wr** - **semiconscious** (automatic) temperaments positions,
 
+I didn't use numbers for temperament positions on purpose. Number positions are reserved for roles like in Model A.
+
+If we have a person with Tjio.=Njio.=Qjio.=0.5, Tjey.=Njey.=Djey.=0.2 (other Khizhnyak functions ~0.) then we can assume Tjio. as 1-dominant like role, and *both* Njio. and Qjio. as 2-supporting like role. Yep. Supporting function is from the same temperament as dominant function (strong base temperament). Njey. and Djey. *both* can be assumed with 8-background like role. And Tjey. would be something like strong 7-restrictive role (all three from strong dual temperament).
+
+
 |       |      | **PEO**                                         |      |                                                 |      |      | **JIO**                                         |      |                                                 |      |      | **PIY**                                         |      |                                                 |      |      | **JEY**                                         |      |                                                 |
 | ----- | ---- |:----------------------------------------------- | ---- |:----------------------------------------------- | ---- | ---- |:----------------------------------------------- | ---- |:----------------------------------------------- | ---- | ---- |:----------------------------------------------- | ---- |:----------------------------------------------- | ---- | ---- |:----------------------------------------------- | ---- |:----------------------------------------------- |
 | **α** |      | **NTPEO 1**                                     |      |                                                 |      |      | **NTJIO 2**                                     |      |                                                 |      |      | **SFPIY 3**                                     |      |                                                 |      |      | **SFJEY 4**                                     |      |                                                 |
