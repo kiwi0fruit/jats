@@ -712,6 +712,8 @@ If we reduce 24 Khizhnyak functions table to 12 Khizhnyak axes table we would ge
 
 **Some examples:**
 
+Now that we have 12 values of strong Khizhnyak functions (12 values of weak functions are redundant) lets try interpret them via roles from Model A: 1-dominant, 2-supporting, 7-restrictive, 8-background.
+
 If we have a hypothetical person with Tjio.=Njio.=Qjio.=0.5, Tjey.=Njey.=Djey.=0.2, other Khizhnyak functions ~0 (that's values of Khizhnyak axes - not just functions) then we can assume Tjio. as 1-dominant like role, and *both* Njio. and Qjio. as 2-supporting like role. Yep. Supporting functions are from the same temperament as dominant function (strong base temperament). Njey. and Djey. *both* can be assumed with 8-background like role. And Tjey. would be something like strong 7-restrictive role (all three from strong dual temperament).
 
 This would give: (1-Tjio., 2-Njio., 2-Qjio., 7-Tjey., 8-Njey., 8-Djey.). But 8-Djey. may be a misinterpretation as it's from the weak dual temperament actually. In this example background functions are from strong dual temperament but I guess there can be persons with background functions from strong request temperament.
