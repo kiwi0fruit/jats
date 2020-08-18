@@ -662,10 +662,10 @@ And this would exactly mean that conscious Khizhnyak functions from base tempera
 
 * **SB, SM, SD, SR** - **Strong** temperament positions,
 * **WB, WM, WD, WR** - **Weak** temperament positions,
-* **SB, WB** - **Base** temperament postions,
-* **SM, WM** - **Mirror** temperament postions (from mirror intertype relations),
-* **SD, WD** - **Dual** temperament postions (from dual intertype relations),
-* **SR, WR** - **Request** temperament postions (from request intertype relations),
+* **SB, WB** - **Base** temperament positions,
+* **SM, WM** - **Mirror** temperament positions (from mirror intertype relations),
+* **SD, WD** - **Dual** temperament positions (from dual intertype relations),
+* **SR, WR** - **Request** temperament positions (from request intertype relations),
 * **SB, SM, WB, WM** - **Conscious** temperaments positions,
 * **SD, SR, WD, WR** - **Semiconscious** (automatic) temperaments positions,
 
