@@ -671,9 +671,9 @@ And this would exactly mean that conscious Khizhnyak functions from base tempera
 
 I didn't use numbers for temperament positions on purpose. Number positions are reserved for roles like in Model A.
 
-If we have a person with Tjio.=Njio.=Qjio.=0.5 (that's values of Khizhnyak axes - not just functions), Tjey.=Njey.=Djey.=0.2 (other Khizhnyak functions ~0.) then we can assume Tjio. as 1-dominant like role, and *both* Njio. and Qjio. as 2-supporting like role. Yep. Supporting function is from the same temperament as dominant function (strong base temperament). Njey. and Djey. *both* can be assumed with 8-background like role. And Tjey. would be something like strong 7-restrictive role (all three from strong dual temperament).
+If we have a person with Tjio.=Njio.=Qjio.=0.5 (that's values of Khizhnyak axes - not just functions), Tjey.=Njey.=Djey.=0.2 (other Khizhnyak functions ~0.) then we can assume Tjio. as 1-dominant like role, and *both* Njio. and Qjio. as 2-supporting like role. Yep. Supporting functions are from the same temperament as dominant function (strong base temperament). Njey. and Djey. *both* can be assumed with 8-background like role. And Tjey. would be something like strong 7-restrictive role (all three from strong dual temperament).
 
-This would give: 1-Tjio./2-Njio./2-Qjio./7-Tjey./8-Njey./8-Djey. (but 8-Djey may be a misinterpretation as it's from the weak dual temperament actually).
+This would give: 1-Tjio./2-Njio./2-Qjio./7-Tjey./8-Njey./8-Djey. (but 8-Djey. may be a misinterpretation as it's from the weak dual temperament actually).
 
 Here I assumed that I need to put functions in 1-dominant/2-supporting pair in a way that they are of different nature (T+N or T+Q are fine but T+F or Tjio.+Tpeo. are not), of the **same** OY axis (To.+No. is fine but To.+Ny. is not). Hence I need to mix functions from conscious temperaments for this. I also assumed that I need to put functions in 1-dominant/8-background pair in a way that they are of different nature (T+N or T+Q are fine but T+F or Tjio.+Tjey. are not), of the **different** OY axis (To.+Ny. is fine but To.+No. is not).
 
