@@ -660,14 +660,14 @@ And this would exactly mean that conscious Khizhnyak functions from base tempera
 
 ### 11.7 Model A analogue stub with Gulenko's temperaments and Khizhnyak functions
 
-* **sb, sm, sd, sr** - **strong** temperament positions,
-* **wb, wm, wd, wr** - **weak** temperament positions,
-* **sb, wb** - **base** temperament postions,
-* **sm, wm** - **mirror** temperament postions (from mirror intertype relations),
-* **sd, wd** - **dual** temperament postions (from dual intertype relations),
-* **sr, wr** - **request** temperament postions (from request intertype relations),
-* **sb, sm, wb, wm** - **conscious** temperaments positions,
-* **sd, sr, wd, wr** - **semiconscious** (automatic) temperaments positions,
+* **SB, SM, SD, SR** - **Strong** temperament positions,
+* **WB, WM, WD, WR** - **Weak** temperament positions,
+* **SB, WB** - **Base** temperament postions,
+* **SM, WM** - **Mirror** temperament postions (from mirror intertype relations),
+* **SD, WD** - **Dual** temperament postions (from dual intertype relations),
+* **SR, WR** - **Request** temperament postions (from request intertype relations),
+* **SB, SM, WB, WM** - **Conscious** temperaments positions,
+* **SD, SR, WD, WR** - **Semiconscious** (automatic) temperaments positions,
 
 I didn't use numbers for temperament positions on purpose. Number positions are reserved for roles like in Model A.
 
