@@ -665,7 +665,7 @@ And this would exactly mean that conscious Khizhnyak functions from base tempera
 * 1, 3 - **base** temperament postions,
 * 2, 4 - **mirror** temperament postions (from mirror intertype relations),
 * 5, 7 - **dual** temperament postions (from dual intertype relations),
-* 6, 8 - **quasi** temperament postions (from quasi-identity intertype relations),
+* 6, 8 - **request** temperament postions (from request intertype relations),
 
 |       |     | **PEO**                                         |     |                                                 |     |     | **JIO**                                         |     |                                                 |     |     | **PIY**                                         |     |                                                 |     |     | **JEY**                                         |     |                                                 |
 | ----- | --- |:----------------------------------------------- | --- |:----------------------------------------------- | --- | --- |:----------------------------------------------- | --- |:----------------------------------------------- | --- | --- |:----------------------------------------------- | --- |:----------------------------------------------- | --- | --- |:----------------------------------------------- | --- |:----------------------------------------------- |
