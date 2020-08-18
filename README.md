@@ -14,7 +14,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 * [5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics](#5-revised-gulenkos-names-for-types-1-16-numbers-as-names-for-types-with-mnemonics)
 * [6. On dichotomies, MBTI incompatibility, Big Five](#6-on-dichotomies-mbti-incompatibility-big-five)
 * [7. Model A](#7-model-a)
-* [8. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types](#8-quadras-and-functions-why-quadras-grouped-this-way-pacific-vs-resolute-types)
+* [8. Quadras and functions. Why quadras grouped this way? Resolute vs. paCific types](#8-quadras-and-functions-why-quadras-grouped-this-way-resolute-vs-pacific-types)
   - [8.1 Interactive table of intertype relationships](#81-interactive-table-of-intertype-relationships)
 * [9. Intermediate and unknown types names](#9-intermediate-and-unknown-types-names)
 * [10. Further reading and notable discussions](#10-further-reading-and-notable-discussions)
@@ -344,7 +344,7 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
   1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only.
 
 
-## 8. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types
+## 8. Quadras and functions. Why quadras grouped this way? Resolute vs. paCific types
 
 Socionics **quadras** split 16 types to 4 groups. Each group has **PE** type with a dominant extraverted perceiving function, **JI** type with a dominant introverted judging function, **JE** type with a dominant extraverted judging function and **PI** type with a dominant introverted perceiving function.
 
