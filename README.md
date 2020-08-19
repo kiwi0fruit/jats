@@ -14,7 +14,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 * [5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics](#5-revised-gulenkos-names-for-types-1-16-numbers-as-names-for-types-with-mnemonics)
 * [6. On dichotomies, MBTI incompatibility, Big Five](#6-on-dichotomies-mbti-incompatibility-big-five)
 * [7. Model A](#7-model-a)
-* [8. Quadras and functions. Why quadras grouped this way? Resolute vs. paCific types](#8-quadras-and-functions-why-quadras-grouped-this-way-resolute-vs-pacific-types)
+* [8. Quadras and functions. Why quadras grouped this way? Central vs. Lateral types](#8-quadras-and-functions-why-quadras-grouped-this-way-central-vs-lateral-types)
   - [8.1 Interactive table of intertype relationships](#81-interactive-table-of-intertype-relationships)
 * [9. Intermediate and unknown types names](#9-intermediate-and-unknown-types-names)
 * [10. Further reading and notable discussions](#10-further-reading-and-notable-discussions)
@@ -38,7 +38,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 4. Single-noun terms like **intuiter, sensor, feeler and tasker** are used (also **perceiver** and **judger**).
 5. **Rational/Irrational** names were replaced with **Judging/Perceiving** to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **TiN.intj.** vs. **NiT.intp.** that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker. Extraverted types don't need explicit notation so very short names like **NeT.** and **FeN.** are used.
-7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types. The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
+7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **lateral** vs. **central** types. The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
 8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **NTxxO**, **NTuuO** that are unknown and mixed types from NeT. and TiN.intj. (u stands for μ that stands for mean).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT., Enthusiast for FeS., General for SeT., Poet for NiF.infp., **Inspirer** for FeN., **Foreseer** for NiT.intp., Entrepreneur for TeN., **Journalist** for NeF.
@@ -344,7 +344,7 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
   1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only.
 
 
-## 8. Quadras and functions. Why quadras grouped this way? Resolute vs. paCific types
+## 8. Quadras and functions. Why quadras grouped this way? Central vs. Lateral types
 
 Socionics **quadras** split 16 types to 4 groups. Each group has **PE** type with a dominant extraverted perceiving function, **JI** type with a dominant introverted judging function, **JE** type with a dominant extraverted judging function and **PI** type with a dominant introverted perceiving function.
 
@@ -380,17 +380,17 @@ It's possible to drop postfix for introverts too but then it can easily be mista
 
 |     Quadras | Abbr.   | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
 | -----------:| ------- | ------------------- | ------------------ | -------- | ------------- |
-| Alpha-delta | **Ad.** | Ne. or Si.            | Ne. and Si.          | paCific  | peaCeful, cooperative, sensible, and leisurely unhurried ways |
-|  Beta-gamma | **Bg.** | Se. or Ni.            | Se. and Ni.          | Resolute | Rival, competitive, argessive, time-bound and fast resolutive ways |
-|  Alpha-beta | **Ab.** | Fe. or Ti.            | Fe. and Ti.          |          |               |
-| Gamma-delta | **Gd.** | Te. or Fi.            | Te. and Fi.          |          |               |
+| Alpha-delta | **Ad.** | Ne. or Si.          | Ne. and Si.        | Lateral  | Pacific, peaceful, cooperative, sensible, and leisurely unhurried ways |
+|  Beta-gamma | **Bg.** | Se. or Ni.          | Se. and Ni.        | Central  | Rival, competitive, argessive, time-bound and fast resolutive ways |
+|  Alpha-beta | **Ab.** | Fe. or Ti.          | Fe. and Ti.        |          |               |
+| Gamma-delta | **Gd.** | Te. or Fi.          | Te. and Fi.        |          |               |
 
 Examples:
 
-* alpha-delta intuiter, pacific intuiter, pacific sensor,
-* beta-gamma intuiter, resolute intuiter, resolute sensor,
+* alpha-delta intuiter, lateral intuiter, lateral sensor,
+* beta-gamma intuiter, central intuiter, central sensor,
 * gamma-delta tasker,
-* resolute introvert.
+* central introvert.
 
 
 ### 8.1 Interactive table of intertype relationships
@@ -420,8 +420,8 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |     N\*PEO¬13     |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |          |
 |     NT\*\*O¬1     |             TiN.intj. v NT\~\~O v ... (not NeT.)             |     NTJIO+1     |          |
 |     \*TJIO¬6      |           TiN.intj. v \~TJIO v ... (not TiS.istj.)           |     NTJIO+6     |          |
-|    N\*\*\*OAd., N\*\*\*OC  |      TiN.intj. v NeT. v FiN.infj. v NeF. v N\~PEO v ...      |        ?        |          |
-|   \*\*\*I\*Bg., \*\*\*I\*R | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v N\~PIY v ... |        ?        |          |
+|    N\*\*\*OAd., N\*\*\*OL  |      TiN.intj. v NeT. v FiN.infj. v NeF. v N\~PEO v ...      |        ?        |          |
+|   \*\*\*I\*Bg., \*\*\*I\*C | TiS.istj. v NiF.infp. v FiS.isfj. v NiT.intp. v N\~PIY v ... |        ?        |          |
 |     N\*P\*\*      | NeT. v NiF.infp. v NiT.intp. v NeF. v N\~PEO v N\~PIY v ...  |        ?        |          |
 |     \*T\*I\*      | TiN.intj. v TiS.istj. v NiT.intp. v SiT.istp. v \~TJIO v ... |        ?        |          |
 |    N\*PEO(-13)    |                NeT. v N\~PEO v ... (not NeF.)                |    NTPEO+13     |          |
@@ -456,7 +456,7 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | S=>N       | YAd.OBg.=>OAd.YBg. | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                          |
 | NISE=>NESI | JAd.PBg.=>PAd.JBg. | NISE=>NESI (Farsighted=>Carefree)                                        |
 | NJSP=>NPSJ | IAd.EBg.=>EAd.IBg. | NJSP=>NPSJ (Strategic=>Tactical)                                         |
-| Bg.=>Ad., R=>C | NYSO=>NOSY     | **B**eta-**g**amma=>**A**lpha-**d**elta (**R**esolute=>pa**C**ific, Rival=>peaCeful, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
+| Bg.=>Ad., C=>L | NYSO=>NOSY     | **B**eta-**g**amma=>**A**lpha-**d**elta (Central=>Lateral, Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
 |            |                    |                                                                          |
 | F=>T       | YAb.OGd.=>OAb.YGd. | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking) |
 | TIFE=>TEFI | JAb.PGd.=>PAb.JGd. | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                   |
@@ -722,7 +722,7 @@ If we take another hypothetical person example with T<sub>jey</sub>=0.5, T<sub>j
 
 --------
 
-PS: Used: I E J P Y O, S N F T Q D, G B A, C, R, X. Free: H K L M V W Z.  
+PS: Used: I E J P Y O, S N F T Q D, G B A, C, L, X. Free: H K M R, V W Z.  
 Reserved: U (neUroticism).
 
 *([Source code](https://github.com/kiwi0fruit/jats/blob/master/README.md) at GitHub)*
