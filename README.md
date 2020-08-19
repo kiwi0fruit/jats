@@ -75,7 +75,7 @@ But there are some differences between definitions of **cognitive functions** in
 Another useful section of the functions is:
 
 - [*Dynamic* functions] Ni., Si., Te., Fe. vs.
-- [*Static* static functions] Ne., Se., Ti., Fi. (see [Model A chapter](#7-model-a) on conscious vs. semiconscious functions for more details).
+- [*Static* functions] Ne., Se., Ti., Fi. (see [Model A chapter](#7-model-a) on conscious vs. semiconscious functions for more details).
 
 Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se. and Si. are good at dealing with physical qualities. Both strong Ne. and Ni. are good at dealing with associations.
 
