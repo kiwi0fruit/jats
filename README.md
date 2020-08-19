@@ -468,7 +468,7 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | QJDP=>QPDJ | IAg.EBd.=>EAg.IBd. | QJDP=>QPDJ (Negativist=>Positivist)                                      |
 | Bd.=>Ag.   | QYDO=>QODY         | **B**eta-**d**elta=>**A**lpha-**g**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
 
-P.S.: **U** is reserved for ne**U**roticism from Big Five.
+P.S.: **U** is reserved for ne**U**roticism from Big Five (in case neuroticism has meaning that is external to Socionics).
 
 
 ### 11.2 Khizhnyak functions and axes
