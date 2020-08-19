@@ -614,7 +614,7 @@ But if we take this hypothesis a bit further then we can even suggest that these
 
 For example there might be a ENT−IR(T<sub>−IR</sub>dom.) aka T<sub>−IR</sub>N or INT+IR(N<sub>+IR</sub>dom.) aka N<sub>+IR</sub>T. When classical Socionics combinations are ENT−IR(N<sub>−IR</sub>dom.) aka N<sub>−IR</sub>T and INT+IR(T<sub>+IR</sub>dom.) aka T<sub>+IR</sub>N.
 
-T<sub>−IR</sub>N would have strong N<sub>−IR</sub> and T<sub>−IR</sub> (and Q<sub>−IR</sub> but that's irrelevant for now) and would by default be in E−IR N<sub>−IR</sub> perception state but the most valued function that defines person's goals would still be T<sub>−IR</sub>.
+T<sub>−IR</sub>N would have strong N<sub>−IR</sub> and T<sub>−IR</sub> (and Q<sub>−IR</sub> but that's irrelevant for now) and would by default be in E−IR, N<sub>−IR</sub> perception state but the most valued function that defines person's goals would still be T<sub>−IR</sub>.
 
 If N<sub>−IR</sub>T would have curiosity and novelty seeking N<sub>−IR</sub> as central dominant drive. T<sub>−IR</sub>N would have T<sub>−IR</sub> as a dominant drive. And it would be something about independent thinking and valuing, using, hacking and fixing systems of the world.
 
