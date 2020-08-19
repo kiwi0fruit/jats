@@ -625,7 +625,7 @@ So each of the static-dynamic functions can be under a [Gulenko's Temperament](#
 * I+IR - rigid reactivity,
 * I−ER - spontaneous reactivity aka adaptivity.
 
-So T±IRdom.entp. would have dominant drive of spontaneous proactivity concerning systems.
+So T</sub>−IR</sub>N would have dominant drive of spontaneous proactivity concerning systems.
 
 More thought experiments on non-standard dominant functions is [**here**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=http%3A%2F%2Fdanidin.ucoz.net%2Findex%2Fzazerkalnaja_socionika%2F0-56&sandbox=1) (Autotranslated. And [original in Russian](http://danidin.ucoz.net/index/zazerkalnaja_socionika/0-56)).
 
