@@ -468,6 +468,8 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | QJDP=>QPDJ | IAg.EBd.=>EAg.IBd. | QJDP=>QPDJ (Negativist=>Positivist)                                      |
 | Bd.=>Ag.   | QYDO=>QODY         | **B**eta-**d**elta=>**A**lpha-**g**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
 
+P.S.: **U** is reserved for ne**U**roticism.
+
 
 ### 11.2 Khizhnyak functions and axes
 
@@ -722,7 +724,6 @@ If we take another hypothetical person example with T<sub>jey</sub>=0.5, T<sub>j
 
 --------
 
-PS: Used: I E J P Y O, S N F T Q D, G B A, C, L, X. Free: H K M R, V W Z.  
-Reserved: U (neUroticism).
+PS: Used: I E J P Y O, S N F T Q D, G B A, C, L, U, X. Free: H K M R, V W Z.
 
 *([Source code](https://github.com/kiwi0fruit/jats/blob/master/README.md) at GitHub)*
