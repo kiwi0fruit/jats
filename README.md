@@ -251,9 +251,9 @@ So in my translation of Model A I wanted to fix possible misunderstandings:
 
 * **pronal** vs. **antinal** functions (names derived from rational-irrational):
   * [*italic*]  functions are **pronal** functions: 1, 3, 5, 7.  
-    For judging types that's judging functions. For perceiving types that's perceiving functions,
+    For rational types that's rational functions. For irrational types that's irrational functions,
   * [not italic] functions are **antinal** functions: 2, 4, 6, 8.  
-    For judging types that's perceiving functions. For perceiving types that's judging functions,
+    For rational types that's irrational functions. For irrational types that's rational functions,
   * 1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only.
 * **proverted** vs. **antiverted** functions (names derived from extraverted-introverted):
   * [**bold**] functions (or having the same index as dominant function) are **proverted** functions: 1, 3, 6, 8.  
