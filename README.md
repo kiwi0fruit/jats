@@ -456,7 +456,7 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | S=>N       | Ad.PIJE/Bg.PEJI=>Ad.PEJI/Bg.PIJE | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)            |
 | NISE=>NESI | Ad.J/Bg.P=>Ad.P/Bg.J | NISE=>NESI (Farsighted=>Carefree)                                      |
 | NJSP=>NPSJ | Ad.I/Bg.E=>Ad.E/Bg.I | NJSP=>NPSJ (Strategic=>Tactical)                                       |
-| +C=>−C, Bg.=>Ad. | NPIJE/SPEJI=>NPEJI/SPIJE | **C**entral=>Peripheral, **B**eta-**g**amma=>**A**lpha-**d**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable) |
+| +C=>−C, Bg.=>Ad. | NPIJE/SPEJI=>NPEJI/SPIJE | **C**entral=>Noncentral, **B**eta-**g**amma=>**A**lpha-**d**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
 |            |                    |                                                                          |
 | F=>T       | Ab.PIJE/Gd.PEJI=>Ab.PEJI/Gd.PIJE | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking) |
 | TIFE=>TEFI | Ab.J/Gd.P=>Ab.P/Gd.J | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                   |
