@@ -720,6 +720,6 @@ If we take another hypothetical person example with T<sub>+ER</sub>=0.5, T<sub>+
 
 --------
 
-PS: Used: I E J P, S N F T Q D, G B A, C,R,U,X. Free: Y O, H K M L, V W Z.
+PS: Used: I E J P, S N F T Q D, G B A, C R U X. Free: Y O H K M L V W Z.
 
 *([Source code](https://github.com/kiwi0fruit/jats/blob/master/README.md) at GitHub)*
