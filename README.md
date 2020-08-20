@@ -450,17 +450,17 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | Short name | Alt. symmetry      | Full names                                                       |
 |:-----------|:-------------------|:-------------------------------------------------------------------------|
 | I=>E       |                    | **I**ntroverted=>**E**xtraverted                                         |
-| +R=>−R, J=>P |                  | **R**ational=>Irrational, **J**udging=>**P**erceiving                    |
-| PIJE=>PEJI | −ER/+ER=>−IR/+IR   | Dynamic=>Static                                                          |
+| +R=>−R     | J=>P               | **R**ational=>Irrational, **J**udging=>**P**erceiving                    |
+| ±ER=>±IR   | PIJE=>PEJI         | Dynamic=>Static                                                          |
 |            |                    |                                                                          |
 | S=>N       | PIJE+AD/PEJI+BG=>PEJI+AD/PIJE+BG | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)            |
-| NISE=>NESI | J+AD/P+BG=>P+AD/J+BG | NISE=>NESI (Farsighted=>Carefree)                                      |
-| NJSP=>NPSJ | I+AD/E+BG=>E+AD/I+BG | NJSP=>NPSJ (Strategic=>Tactical)                                       |
+| ggg | NISE=>NESI, J+AD/P+BG=>P+AD/J+BG | NISE=>NESI (Farsighted=>Carefree)                                      |
+| ggg | NJSP=>NPSJ, I+AD/E+BG=>E+AD/I+BG | NJSP=>NPSJ (Strategic=>Tactical)                                       |
 | +C=>−C, BG=>AD | NPIJE/SPEJI=>NPEJI/SPIJE | **C**entral=>Noncentral, **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
 |            |                    |                                                                          |
 | F=>T       | PIJE+AB/PEJI+GD=>PEJI+AB/PIJE+GD | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking) |
-| TIFE=>TEFI | J+AB/P+GD=>P+AB/J+GD | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                   |
-| TJFP=>TPFJ | I+AB/E+GD=>E+AB/I+GD | TJFP=>TPFJ (Emotivist=>Constructivist)                                   |
+| ±TI=>±FI   | TIFE=>TEFI, J+AB/P+GD=>P+AB/J+GD | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                   |
+| ±TR=>±FR   | TJFP=>TPFJ, I+AB/E+GD=>E+AB/I+GD | TJFP=>TPFJ (Emotivist=>Constructivist)                                   |
 | GD=>AB     | TPIJE/FPEJI=>TPEJI/FPIJE | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
 |            |                    |                                                                          |
 | D=>Q       | PIJE+AG/PEJI+BD=>PEJI+AG/PIJE+BD | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim)    |
