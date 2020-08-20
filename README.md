@@ -447,26 +447,26 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 
 Mind that Rational=>Irrational axis is denoted J=>P here.
 
-| Short name | Alt. symmetry      | Full names                                                       |
-|:-----------|:-------------------|:-------------------------------------------------------------------------|
-| I=>E       |                    | **I**ntroverted=>**E**xtraverted                                         |
-| R=>−R      | J=>P               | **R**ational=>Irrational (Judging=>Perceiving)                           |
-| [±ER]=>[±IR] | PIJE=>PEJI         | Dynamic=>Static                                                          |
-|            |                    |                                                                          |
-| S=>N       | PIJE+AD/PEJI+BG=>PEJI+AD/PIJE+BG | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)            |
-| [±NI]=>[±SI] | NISE=>NESI, J+AD/P+BG=>P+AD/J+BG | NISE=>NESI (Farsighted=>Carefree)                                      |
-| [±NR]=>[±SR] | NJSP=>NPSJ, I+AD/E+BG=>E+AD/I+BG | NJSP=>NPSJ (Strategic=>Tactical)                                       |
-| C=>−C, BG=>AD | NPIJE/SPEJI=>NPEJI/SPIJE | **C**entral=>Noncentral, **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
-|            |                    |                                                                          |
-| F=>T       | PIJE+AB/PEJI+GD=>PEJI+AB/PIJE+GD | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking) |
-| [±TI]=>[±FI] | TIFE=>TEFI, J+AB/P+GD=>P+AB/J+GD | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                   |
-| [±TR]=>[±FR] | TJFP=>TPFJ, I+AB/E+GD=>E+AB/I+GD | TJFP=>TPFJ (Emotivist=>Constructivist)                                   |
-| GD=>AB     | TPIJE/FPEJI=>TPEJI/FPIJE | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
-|            |                    |                                                                          |
-| D=>Q       | PIJE+AG/PEJI+BD=>PEJI+AG/PIJE+BD | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim)    |
-| [±QI]=>[±DI] | QIDE=>QEDI, J+AG/P+BD=>P+AG/J+BD | QIDE=>QEDI (Result=>Process, Left=>Right)                                |
-| [±QR]=>[±DR] | QJDP=>QPDJ, I+AG/E+BD=>E+AG/I+BD | QJDP=>QPDJ (Negativist=>Positivist)                                      |
-| BD=>AG     | QPIJE/DPEJI=>QPEJI/DPIJE | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
+| Short name  | Alt. symmetry      | Full names                                                               |
+|:------------|:-------------------|:-------------------------------------------------------------------------|
+| E=−I        |                    | **I**ntroverted=>**E**xtraverted                                         |
+| −R          | P=−J               | **R**ational=>Irrational (Judging=>Perceiving)                           |
+| [±IR]−[±ER] | PIJE=>PEJI         | Dynamic=>Static                                                          |
+|             |                    |                                                                          |
+| N=−S        | (PIJE+AD/PEJI+BG)=>(PEJI+AD/PIJE+BG) | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)        |
+| [±SI]−[±NI] | NISE=>NESI, (J+AD/P+BG)=>(P+AD/J+BG) | NISE=>NESI (Farsighted=>Carefree)                      |
+| [±SR]−[±NR] | NJSP=>NPSJ, (I+AD/E+BG)=>(E+AD/I+BG) | NJSP=>NPSJ (Strategic=>Tactical)                       |
+| −C, AD=−BG  | (NPIJE/SPEJI)=>(NPEJI/SPIJE) | **C**entral=>Noncentral, **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
+|             |                    |                                                                          |
+| T=−F        | (PIJE+AB/PEJI+GD)=>(PEJI+AB/PIJE+GD) | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking) |
+| [±FI]−[±TI] | TIFE=>TEFI, (J+AB/P+GD)=>(P+AB/J+GD) | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant) |
+| [±FR]−[±TR] | TJFP=>TPFJ, (I+AB/E+GD)=>(E+AB/I+GD) | TJFP=>TPFJ (Emotivist=>Constructivist)                 |
+| AB=−GD      | (TPIJE/FPEJI)=>(TPEJI/FPIJE) | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
+|             |                    |                                                                          |
+| Q=−D        | (PIJE+AG/PEJI+BD)=>(PEJI+AG/PIJE+BD) | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
+| [±DI]−[±QI] | QIDE=>QEDI, (J+AG/P+BD)=>(P+AG/J+BD) | QIDE=>QEDI (Result=>Process, Left=>Right)              |
+| [±DR]−[±QR] | QJDP=>QPDJ, (I+AG/E+BD)=>(E+AG/I+BD) | QJDP=>QPDJ (Negativist=>Positivist)                    |
+| AG=−BD      | (QPIJE/DPEJI)=>(QPEJI/DPIJE) | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
 
 P.S.: **+U/−U** is reserved for ne**U**roticism from Big Five (in case neuroticism has meaning that is external to Socionics).
 
@@ -520,22 +520,22 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 |     |               | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 |     |               |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 1   | E=−I         |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |
-| 2   | R            |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |
-| 3   | [±IR]=−[±ER] |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
+| 2   | −R           |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |
+| 3   | [±IR]−[±ER] |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
 |     |               |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 4   | N=−S         |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 5   | [±SI]=−[±NI] |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 6   | [±SR]=−[±NR] |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 5   | [±SI]−[±NI] |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 6   | [±SR]−[±NR] |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 7   | −C, AD=−BG |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 8   | T=−F       |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 9   | [±FI]=−[±TI] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 10  | [±FR]=−[±TR] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 9   | [±FI]−[±TI] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 10  | [±FR]−[±TR] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 11  | AB=−GD     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 12  | Q=−D       |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |
-| 13  | [±DI]=−[±QI] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |
-| 14  | [±DR]=−[±QR] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |
+| 13  | [±DI]−[±QI] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |
+| 14  | [±DR]−[±QR] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |
 | 15  | AG=−BD     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |
 
 
@@ -594,16 +594,16 @@ From previous table can be seen that not all Reinin axes can influence Khizhnyak
 
 Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes. And transition to Complementary Reinin-Khizhnyak axes is made via absolute values of the Khizhnyak axes (or via unreduced Huber loss with δ = 0.25):
 
-|     |              | &vert;N<sub>−IR</sub>&vert;= | &vert;N<sub>+IR</sub>&vert;= | &vert;N<sub>−ER</sub>&vert;= | &vert;N<sub>+ER</sub>&vert;= | &vert;T<sub>−IR</sub>&vert;= | &vert;T<sub>+IR</sub>&vert;= | &vert;T<sub>−ER</sub>&vert;= | &vert;T<sub>+ER</sub>&vert;= | &vert;Q<sub>−IR</sub>&vert;= | &vert;Q<sub>+IR</sub>&vert;= | &vert;Q<sub>−ER</sub>&vert;= | &vert;Q<sub>+ER</sub>&vert;= |
-| --- |:------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
-|     |              | <b>=&vert;S<sub>+IR</sub>&vert;</b> | <b>=&vert;S<sub>−IR</sub>&vert;</b> | <b>=&vert;S<sub>+ER</sub>&vert;</b> | <b>=&vert;S<sub>−ER</sub>&vert;</b> | <b>=&vert;F<sub>+IR</sub>&vert;</b> | <b>=&vert;F<sub>−IR</sub>&vert;</b> | <b>=&vert;F<sub>+ER</sub>&vert;</b> | <b>=&vert;F<sub>−ER</sub>&vert;</b> | <b>=&vert;D<sub>+IR</sub>&vert;</b> | <b>=&vert;D<sub>−IR</sub>&vert;</b> | <b>=&vert;D<sub>+ER</sub>&vert;</b> | <b>=&vert;D<sub>−ER</sub>&vert;</b> |
-| 1   | [±IR]=−[±ER] |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
-| 2   | [±SI]=−[±NI] |  3  | −3  | −3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 3   | [±SR]=−[±NR] |  3  | −3  |  3  | −3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 4   | [±FI]=−[±TI] |  0  |  0  |  0  |  0  |  3  | −3  | −3  |  3  |  0  |  0  |  0  |  0  |
-| 5   | [±FR]=−[±TR] |  0  |  0  |  0  |  0  |  3  | −3  |  3  | −3  |  0  |  0  |  0  |  0  |
-| 6   | [±DI]=−[±QI] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  | −3  | −3  |  3  |
-| 7   | [±DR]=−[±QR] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  | −3  |  3  | −3  |
+|     |             | &vert;N<sub>−IR</sub>&vert;= | &vert;N<sub>+IR</sub>&vert;= | &vert;N<sub>−ER</sub>&vert;= | &vert;N<sub>+ER</sub>&vert;= | &vert;T<sub>−IR</sub>&vert;= | &vert;T<sub>+IR</sub>&vert;= | &vert;T<sub>−ER</sub>&vert;= | &vert;T<sub>+ER</sub>&vert;= | &vert;Q<sub>−IR</sub>&vert;= | &vert;Q<sub>+IR</sub>&vert;= | &vert;Q<sub>−ER</sub>&vert;= | &vert;Q<sub>+ER</sub>&vert;= |
+| --- |:-----------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
+|     |             | <b>=&vert;S<sub>+IR</sub>&vert;</b> | <b>=&vert;S<sub>−IR</sub>&vert;</b> | <b>=&vert;S<sub>+ER</sub>&vert;</b> | <b>=&vert;S<sub>−ER</sub>&vert;</b> | <b>=&vert;F<sub>+IR</sub>&vert;</b> | <b>=&vert;F<sub>−IR</sub>&vert;</b> | <b>=&vert;F<sub>+ER</sub>&vert;</b> | <b>=&vert;F<sub>−ER</sub>&vert;</b> | <b>=&vert;D<sub>+IR</sub>&vert;</b> | <b>=&vert;D<sub>−IR</sub>&vert;</b> | <b>=&vert;D<sub>+ER</sub>&vert;</b> | <b>=&vert;D<sub>−ER</sub>&vert;</b> |
+| 1   | [±IR]−[±ER] |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
+| 2   | [±SI]−[±NI] |  3  | −3  | −3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 3   | [±SR]−[±NR] |  3  | −3  |  3  | −3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 4   | [±FI]−[±TI] |  0  |  0  |  0  |  0  |  3  | −3  | −3  |  3  |  0  |  0  |  0  |  0  |
+| 5   | [±FR]−[±TR] |  0  |  0  |  0  |  0  |  3  | −3  |  3  | −3  |  0  |  0  |  0  |  0  |
+| 6   | [±DI]−[±QI] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  | −3  | −3  |  3  |
+| 7   | [±DR]−[±QR] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  | −3  |  3  | −3  |
 
 
 ### 11.4 Non-standard dominant Khizhnyak functions
