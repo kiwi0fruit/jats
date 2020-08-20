@@ -606,11 +606,11 @@ Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes. And trans
 
 ### 11.4 Non-standard dominant Khizhnyak functions
 
-There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that ES\*−IR(S<sub>−IR</sub>dom.) types actually have very weak and vulnerable-like N<sub>+IR</sub> that governs consideration for all people even the "small" people (governs among other things). And that EN\*−IR(N<sub>−IR</sub> dom.) types have very weak S<sub>+IR</sub> that among other thing governs monotonous sensory affairs.
+There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that \*ES(−IR) (S<sub>−IR</sub> dom.) types actually have very weak and vulnerable-like N<sub>+IR</sub> that governs consideration for all people even the "small" people (governs among other things). And that \*EN(−IR) (N<sub>−IR</sub> dom.) types have very weak S<sub>+IR</sub> that among other thing governs monotonous sensory affairs.
 
 But if we take this hypothesis a bit further then we can even suggest that these new functions can be dominant functions. And there can be very unusual combinations of Gulenko's temperament (one of E−IR, I+IR, I−ER, E+ER) and dominant function (one of static-dynamic functions like N<sub>±IR</sub>, N<sub>±ER</sub>, T<sub>±IR</sub>, T<sub>±ER</sub>, etc. - see previous section for details).
 
-For example there might be a ENT−IR(T<sub>−IR</sub> dom.) aka T<sub>−IR</sub>N or INT+IR(N<sub>+IR</sub> dom.) aka N<sub>+IR</sub>T. When classical Socionics combinations are ENT−IR(N<sub>−IR</sub> dom.) aka N<sub>−IR</sub>T and INT+IR(T<sub>+IR</sub> dom.) aka T<sub>+IR</sub>N.
+For example there might be a ENT−IR (with T<sub>−IR</sub> dom.) aka T<sub>−IR</sub>N or INT+IR (with N<sub>+IR</sub> dom.) aka N<sub>+IR</sub>T. When classical Socionics combinations are ENT−IR (with N<sub>−IR</sub> dom.) aka N<sub>−IR</sub>T and INT+IR (with T<sub>+IR</sub> dom.) aka T<sub>+IR</sub>N.
 
 T<sub>−IR</sub>N would have strong N<sub>−IR</sub> and T<sub>−IR</sub> (and Q<sub>−IR</sub> but that's irrelevant for now) and would by default be in E−IR, N<sub>−IR</sub> perception state but the most valued function that defines person's goals would still be T<sub>−IR</sub>.
 
