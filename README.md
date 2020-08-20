@@ -450,13 +450,13 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | Short name | Alt. symmetry      | Full names                                                       |
 |:-----------|:-------------------|:-------------------------------------------------------------------------|
 | I=>E       |                    | **I**ntroverted=>**E**xtraverted                                         |
-| +R=>−R     | J=>P               | **R**ational=>Irrational (Judging=>Perceiving)                           |
+| R=>−R      | J=>P               | **R**ational=>Irrational (Judging=>Perceiving)                           |
 | [±ER]=>[±IR] | PIJE=>PEJI         | Dynamic=>Static                                                          |
 |            |                    |                                                                          |
 | S=>N       | PIJE+AD/PEJI+BG=>PEJI+AD/PIJE+BG | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)            |
 | [±NI]=>[±SI] | NISE=>NESI, J+AD/P+BG=>P+AD/J+BG | NISE=>NESI (Farsighted=>Carefree)                                      |
 | [±NR]=>[±SR] | NJSP=>NPSJ, I+AD/E+BG=>E+AD/I+BG | NJSP=>NPSJ (Strategic=>Tactical)                                       |
-| +C=>−C, BG=>AD | NPIJE/SPEJI=>NPEJI/SPIJE | **C**entral=>Noncentral, **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
+| C=>−C, BG=>AD | NPIJE/SPEJI=>NPEJI/SPIJE | **C**entral=>Noncentral, **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
 |            |                    |                                                                          |
 | F=>T       | PIJE+AB/PEJI+GD=>PEJI+AB/PIJE+GD | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking) |
 | [±TI]=>[±FI] | TIFE=>TEFI, J+AB/P+GD=>P+AB/J+GD | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                   |
@@ -473,7 +473,7 @@ P.S.: **+U/−U** is reserved for ne**U**roticism from Big Five (in case neuroti
 
 ### 11.2 Khizhnyak functions and axes
 
-Mind that NS and TF Khizhnyak functions and axes can be directly (and may be linearly) obtained from I=>E, J=>P, S=>N, Bg.=>Ad., F=>T, Gd.=>Ab., D=>Q, Bd.=>Ag. axes by moving along of the diagonal of 4 axes.
+Mind that NS and TF Khizhnyak functions and axes can be directly (and may be linearly) obtained from I=>E, R=>−R, S=>N, BG=>AD, F=>T, GD=>AB, D=>Q, BD=>AG axes by moving along of the diagonal of 4 axes.
 
 Note that QD functions and axes should first non-linearly get D=>Q axis.
 
@@ -519,24 +519,24 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | --- |:-------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
 |     |               | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 |     |               |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 1   | +E=−I         |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |
-| 2   | −R            |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |
-| 3   | +[±IR]=−[±ER] |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
+| 1   | E=−I         |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |
+| 2   | R            |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |
+| 3   | [±IR]=−[±ER] |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
 |     |               |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 4   | +N=−S         |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 5   | +[±SI]=−[±NI] |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 6   | +[±SR]=−[±NR] |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 7   | −C, +AD=−BG |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 4   | N=−S         |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 5   | [±SI]=−[±NI] |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 6   | [±SR]=−[±NR] |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 7   | −C, AD=−BG |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 8   | +T=−F       |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 9   | +[±FI]=−[±TI] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 10  | +[±FR]=−[±TR] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 11  | +AB=−GD     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 8   | T=−F       |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 9   | [±FI]=−[±TI] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 10  | [±FR]=−[±TR] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 11  | AB=−GD     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 12  | +Q=−D       |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |
-| 13  | +[±DI]=−[±QI] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |
-| 14  | +[±DR]=−[±QR] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |
-| 15  | +AG=−BD     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |
+| 12  | Q=−D       |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |
+| 13  | [±DI]=−[±QI] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |
+| 14  | [±DR]=−[±QR] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |
+| 15  | AG=−BD     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |
 
 
 ### 11.2.1 8 Abstracted Khizhnyak axes
@@ -551,21 +551,21 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | F±ER=>T±ER | −F<sub>±ER</sub>=T<sub>±ER</sub> |
 | D±IR=>Q±IR | −D<sub>±IR</sub>=Q<sub>±IR</sub> |
 | D±ER=>Q±ER | −D<sub>±ER</sub>=Q<sub>±ER</sub> |
-| +IR=>−IR   | −(+IR)=−IR                       |
-| −ER=>+ER   | −(−ER)=+ER                       |
+| IR=>−IR    | −(IR)=−IR                        |
+| −ER=>ER    | −(−ER)=ER                        |
 
 
-|     |                               | +N<sub>−IR</sub>= | +N<sub>+IR</sub>= | +N<sub>−ER</sub>= | +N<sub>+ER</sub>= | +T<sub>−IR</sub>= | +T<sub>+IR</sub>= | +T<sub>−ER</sub>= | +T<sub>+ER</sub>= | +Q<sub>−IR</sub>= | +Q<sub>+IR</sub>= | +Q<sub>−ER</sub>= | +Q<sub>+ER</sub>= |
-| --- |:-----------------------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
-|     |                               | <b>=−S<sub>+IR</sub></b> | <b>=−S<sub>−IR</sub></b> | <b>=−S<sub>+ER</sub></b> | <b>=−S<sub>−ER</sub></b> | <b>=−F<sub>+IR</sub></b> | <b>=−F<sub>−IR</sub></b> | <b>=−F<sub>+ER</sub></b> | <b>=−F<sub>−ER</sub></b> | <b>=−D<sub>+IR</sub></b> | <b>=−D<sub>−IR</sub></b> | <b>=−D<sub>+ER</sub></b> | <b>=−D<sub>−ER</sub></b> |
-| 1   | −IR                           |  1  | −1  |  0  |  0  |  1  | −1  |  0  |  0  |  1  | −1  |  0  |  0  |
-| 2   | +ER                           |  0  |  0  | −1  |  1  |  0  |  0  | −1  |  1  |  0  |  0  | −1  |  1  |
-| 3   | +N<sub>±IR</sub>=−S<sub>±IR</sub> |  3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 4   | +N<sub>±ER</sub>=−S<sub>±ER</sub> |  0  |  0  |  3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 5   | +T<sub>±IR</sub>=−F<sub>±IR</sub> |  0  |  0  |  0  |  0  |  3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 6   | +T<sub>±ER</sub>=−F<sub>±ER</sub> |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  |  0  |  0  |  0  |  0  |
-| 7   | +Q<sub>±IR</sub>=−D<sub>±IR</sub> |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  |  0  |  0  |
-| 8   | +Q<sub>±ER</sub>=−D<sub>±ER</sub> |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  |
+|     |                                  | N<sub>−IR</sub>= | N<sub>+IR</sub>= | N<sub>−ER</sub>= | N<sub>+ER</sub>= | T<sub>−IR</sub>= | T<sub>+IR</sub>= | T<sub>−ER</sub>= | T<sub>+ER</sub>= | Q<sub>−IR</sub>= | Q<sub>+IR</sub>= | Q<sub>−ER</sub>= | Q<sub>+ER</sub>= |
+| --- |:--------------------------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
+|     |                                  | <b>=−S<sub>+IR</sub></b> | <b>=−S<sub>−IR</sub></b> | <b>=−S<sub>+ER</sub></b> | <b>=−S<sub>−ER</sub></b> | <b>=−F<sub>+IR</sub></b> | <b>=−F<sub>−IR</sub></b> | <b>=−F<sub>+ER</sub></b> | <b>=−F<sub>−ER</sub></b> | <b>=−D<sub>+IR</sub></b> | <b>=−D<sub>−IR</sub></b> | <b>=−D<sub>+ER</sub></b> | <b>=−D<sub>−ER</sub></b> |
+| 1   | −IR                              |  1  | −1  |  0  |  0  |  1  | −1  |  0  |  0  |  1  | −1  |  0  |  0  |
+| 2   | ER                               |  0  |  0  | −1  |  1  |  0  |  0  | −1  |  1  |  0  |  0  | −1  |  1  |
+| 3   | N<sub>±IR</sub>=−S<sub>±IR</sub> |  3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 4   | N<sub>±ER</sub>=−S<sub>±ER</sub> |  0  |  0  |  3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 5   | T<sub>±IR</sub>=−F<sub>±IR</sub> |  0  |  0  |  0  |  0  |  3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 6   | T<sub>±ER</sub>=−F<sub>±ER</sub> |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  |  0  |  0  |  0  |  0  |
+| 7   | Q<sub>±IR</sub>=−D<sub>±IR</sub> |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  |  0  |  0  |
+| 8   | Q<sub>±ER</sub>=−D<sub>±ER</sub> |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  |
 
 
 8 Abstracted Khizhnyak axes might be a good representation for measure of functions differentiation. See [section 11.6](#116-dynamic-nondynamic-yo-axis-as-a-measure-of-khizhnyak-functions-differentiation).
@@ -575,17 +575,17 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
 From previous table can be seen that not all Reinin axes can influence Khizhnyak axes (that encode two Khizhnyak functions via single axis). That can also be seen from updated table from [section 11.2](#112-khizhnyak-functions-and-axes). Only **8 Reinin-Khizhnyak axes** can affect 12 Khizhnyak axes:
 
-|     |           | +N<sub>−IR</sub>= | +N<sub>+IR</sub>= | +N<sub>−ER</sub>= | +N<sub>+ER</sub>= | +T<sub>−IR</sub>= | +T<sub>+IR</sub>= | +T<sub>−ER</sub>= | +T<sub>+ER</sub>= | +Q<sub>−IR</sub>= | +Q<sub>+IR</sub>= | +Q<sub>−ER</sub>= | +Q<sub>+ER</sub>= |
-| --- |:---------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
-|     |           | <b>=−S<sub>+IR</sub></b> | <b>=−S<sub>−IR</sub></b> | <b>=−S<sub>+ER</sub></b> | <b>=−S<sub>−ER</sub></b> | <b>=−F<sub>+IR</sub></b> | <b>=−F<sub>−IR</sub></b> | <b>=−F<sub>+ER</sub></b> | <b>=−F<sub>−ER</sub></b> | <b>=−D<sub>+IR</sub></b> | <b>=−D<sub>−IR</sub></b> | <b>=−D<sub>+ER</sub></b> | <b>=−D<sub>−ER</sub></b> |
-| 1   | +E=−I     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |
-| 2   | −R, +P=−J |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |
-| 3   | +N=−S     |  3  |  3  |  3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 4   | −C, +AD=−BG |  3  |  3  | −3  | −3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 5   | +T=−F     |  0  |  0  |  0  |  0  |  3  |  3  |  3  |  3  |  0  |  0  |  0  |  0  |
-| 6   | +AB=−GD   |  0  |  0  |  0  |  0  |  3  |  3  | −3  | −3  |  0  |  0  |  0  |  0  |
-| 7   | +Q=−D     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  |  3  |  3  |
-| 8   | +AG=−BD   |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  | −3  | −3  |
+|     |            | N<sub>−IR</sub>= | N<sub>+IR</sub>= | N<sub>−ER</sub>= | N<sub>+ER</sub>= | T<sub>−IR</sub>= | T<sub>+IR</sub>= | T<sub>−ER</sub>= | T<sub>+ER</sub>= | Q<sub>−IR</sub>= | Q<sub>+IR</sub>= | Q<sub>−ER</sub>= | Q<sub>+ER</sub>= |
+| --- |:----------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
+|     |            | <b>=−S<sub>+IR</sub></b> | <b>=−S<sub>−IR</sub></b> | <b>=−S<sub>+ER</sub></b> | <b>=−S<sub>−ER</sub></b> | <b>=−F<sub>+IR</sub></b> | <b>=−F<sub>−IR</sub></b> | <b>=−F<sub>+ER</sub></b> | <b>=−F<sub>−ER</sub></b> | <b>=−D<sub>+IR</sub></b> | <b>=−D<sub>−IR</sub></b> | <b>=−D<sub>+ER</sub></b> | <b>=−D<sub>−ER</sub></b> |
+| 1   | E=−I       |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |
+| 2   | −R         |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |
+| 3   | N=−S       |  3  |  3  |  3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 4   | −C, AD=−BG |  3  |  3  | −3  | −3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 5   | T=−F       |  0  |  0  |  0  |  0  |  3  |  3  |  3  |  3  |  0  |  0  |  0  |  0  |
+| 6   | AB=−GD     |  0  |  0  |  0  |  0  |  3  |  3  | −3  | −3  |  0  |  0  |  0  |  0  |
+| 7   | Q=−D       |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  |  3  |  3  |
+| 8   | AG=−BD     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  | −3  | −3  |
 
 **There is a hypothesys that 8 Reinin-Khizhnyak axes are the only axes that have independent variation if we are to try to interpret Reinin axes as independent factors (correcting their dependence first). 8 Reinin axes would have independent variation and 7 would not (and would be fully determined by 8 Reinin-Khizhnyak axes).**
 
@@ -594,16 +594,16 @@ From previous table can be seen that not all Reinin axes can influence Khizhnyak
 
 Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes. And transition to Complementary Reinin-Khizhnyak axes is made via absolute values of the Khizhnyak axes (or via unreduced Huber loss with δ = 0.25):
 
-|     |             | &vert;N<sub>−IR</sub>&vert;= | &vert;N<sub>+IR</sub>&vert;= | &vert;N<sub>−ER</sub>&vert;= | &vert;N<sub>+ER</sub>&vert;= | &vert;T<sub>−IR</sub>&vert;= | &vert;T<sub>+IR</sub>&vert;= | &vert;T<sub>−ER</sub>&vert;= | &vert;T<sub>+ER</sub>&vert;= | &vert;Q<sub>−IR</sub>&vert;= | &vert;Q<sub>+IR</sub>&vert;= | &vert;Q<sub>−ER</sub>&vert;= | &vert;Q<sub>+ER</sub>&vert;= |
-| --- |:-----------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
-|     |             | <b>=&vert;S<sub>+IR</sub>&vert;</b> | <b>=&vert;S<sub>−IR</sub>&vert;</b> | <b>=&vert;S<sub>+ER</sub>&vert;</b> | <b>=&vert;S<sub>−ER</sub>&vert;</b> | <b>=&vert;F<sub>+IR</sub>&vert;</b> | <b>=&vert;F<sub>−IR</sub>&vert;</b> | <b>=&vert;F<sub>+ER</sub>&vert;</b> | <b>=&vert;F<sub>−ER</sub>&vert;</b> | <b>=&vert;D<sub>+IR</sub>&vert;</b> | <b>=&vert;D<sub>−IR</sub>&vert;</b> | <b>=&vert;D<sub>+ER</sub>&vert;</b> | <b>=&vert;D<sub>−ER</sub>&vert;</b> |
-| 1   | +PEJI=−PIJE |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
-| 2   | +NESI=−NISE |  3  | −3  | −3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 3   | +NPSJ=−NJSP |  3  | −3  |  3  | −3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 4   | +TEFI=−TIFE |  0  |  0  |  0  |  0  |  3  | −3  | −3  |  3  |  0  |  0  |  0  |  0  |
-| 5   | +TPFJ=−TJFP |  0  |  0  |  0  |  0  |  3  | −3  |  3  | −3  |  0  |  0  |  0  |  0  |
-| 6   | +QEDI=−QIDE |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  | −3  | −3  |  3  |
-| 7   | +QPDJ=−QJDP |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  | −3  |  3  | −3  |
+|     |              | &vert;N<sub>−IR</sub>&vert;= | &vert;N<sub>+IR</sub>&vert;= | &vert;N<sub>−ER</sub>&vert;= | &vert;N<sub>+ER</sub>&vert;= | &vert;T<sub>−IR</sub>&vert;= | &vert;T<sub>+IR</sub>&vert;= | &vert;T<sub>−ER</sub>&vert;= | &vert;T<sub>+ER</sub>&vert;= | &vert;Q<sub>−IR</sub>&vert;= | &vert;Q<sub>+IR</sub>&vert;= | &vert;Q<sub>−ER</sub>&vert;= | &vert;Q<sub>+ER</sub>&vert;= |
+| --- |:------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
+|     |              | <b>=&vert;S<sub>+IR</sub>&vert;</b> | <b>=&vert;S<sub>−IR</sub>&vert;</b> | <b>=&vert;S<sub>+ER</sub>&vert;</b> | <b>=&vert;S<sub>−ER</sub>&vert;</b> | <b>=&vert;F<sub>+IR</sub>&vert;</b> | <b>=&vert;F<sub>−IR</sub>&vert;</b> | <b>=&vert;F<sub>+ER</sub>&vert;</b> | <b>=&vert;F<sub>−ER</sub>&vert;</b> | <b>=&vert;D<sub>+IR</sub>&vert;</b> | <b>=&vert;D<sub>−IR</sub>&vert;</b> | <b>=&vert;D<sub>+ER</sub>&vert;</b> | <b>=&vert;D<sub>−ER</sub>&vert;</b> |
+| 1   | [±IR]=−[±ER] |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
+| 2   | [±SI]=−[±NI] |  3  | −3  | −3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 3   | [±SR]=−[±NR] |  3  | −3  |  3  | −3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 4   | [±FI]=−[±TI] |  0  |  0  |  0  |  0  |  3  | −3  | −3  |  3  |  0  |  0  |  0  |  0  |
+| 5   | [±FR]=−[±TR] |  0  |  0  |  0  |  0  |  3  | −3  |  3  | −3  |  0  |  0  |  0  |  0  |
+| 6   | [±DI]=−[±QI] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  | −3  | −3  |  3  |
+| 7   | [±DR]=−[±QR] |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  | −3  |  3  | −3  |
 
 
 ### 11.4 Non-standard dominant Khizhnyak functions
