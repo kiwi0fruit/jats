@@ -491,10 +491,10 @@ Khizhnyak functions names are made of Gulenko's temperament.
 | FJE+AB=>TPI+GD | F+ER=>T−ER | −F<sub>+ER</sub>=T<sub>−ER</sub> |
 | FPI+AB=>TJE+GD | F−ER=>T+ER | −F<sub>−ER</sub>=T<sub>+ER</sub> |
 |                |            |                                  |
-| Bd.DJI=>Ag.QPE | D+IR=>Q−IR | −D<sub>+IR</sub>=Q<sub>−IR</sub> |
-| Bd.DPE=>Ag.QJI | D−IR=>Q+IR | −D<sub>−IR</sub>=Q<sub>+IR</sub> |
-| Ag.DJE=>Bd.QPI | D+ER=>Q−ER | −D<sub>+ER</sub>=Q<sub>−ER</sub> |
-| Ag.DPI=>Bd.QJE | D−ER=>Q+ER | −D<sub>−ER</sub>=Q<sub>+ER</sub> |
+| DJI+BD=>QPE+AG | D+IR=>Q−IR | −D<sub>+IR</sub>=Q<sub>−IR</sub> |
+| DPE+BD=>QJI+AG | D−IR=>Q+IR | −D<sub>−IR</sub>=Q<sub>+IR</sub> |
+| DJE+AG=>QPI+BD | D+ER=>Q−ER | −D<sub>+ER</sub>=Q<sub>−ER</sub> |
+| DPI+AG=>QJE+BD | D−ER=>Q+ER | −D<sub>−ER</sub>=Q<sub>+ER</sub> |
 
 In addition to 12 Khizhnyak axes and 24 Khizhnyak functions we can define 12 abstract static-dynamic (n**o**ndynamic-d**y**namic) functions that lack IE and JP flavour:
 
@@ -520,23 +520,23 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 |     |             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 1   | +E=−I       |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |
-| 2   | −R, +P=−J       |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |
+| 2   | −R, +P=−J   |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |
 | 3   | +PEJI=−PIJE |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 4   | +N=−S       |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 5   | +NESI=−NISE |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 6   | +NPSJ=−NJSP |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 7   | −C, +Ad.=−Bg.   |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 7   | −C, +AD=−BG |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 8   | +T=−F       |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 9   | +TEFI=−TIFE |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 10  | +TPFJ=−TJFP |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 11  | +Ab.=−Gd.   |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 11  | +AB=−GD     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 12  | +Q=−D       |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |
 | 13  | +QEDI=−QIDE |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |
 | 14  | +QPDJ=−QJDP |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |
-| 15  | +Ag.=−Bd.   |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |
+| 15  | +AG=−BD     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |
 
 
 ### 11.2.1 8 Abstracted Khizhnyak axes
@@ -581,11 +581,11 @@ From previous table can be seen that not all Reinin axes can influence Khizhnyak
 | 1   | +E=−I     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |
 | 2   | −R, +P=−J |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |
 | 3   | +N=−S     |  3  |  3  |  3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 4   | −C, +Ad.=−Bg. |  3  |  3  | −3  | −3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 4   | −C, +AD=−BG |  3  |  3  | −3  | −3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 5   | +T=−F     |  0  |  0  |  0  |  0  |  3  |  3  |  3  |  3  |  0  |  0  |  0  |  0  |
-| 6   | +Ab.=−Gd. |  0  |  0  |  0  |  0  |  3  |  3  | −3  | −3  |  0  |  0  |  0  |  0  |
+| 6   | +AB=−GD   |  0  |  0  |  0  |  0  |  3  |  3  | −3  | −3  |  0  |  0  |  0  |  0  |
 | 7   | +Q=−D     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  |  3  |  3  |
-| 8   | +Ag.=−Bd. |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  | −3  | −3  |
+| 8   | +AG=−BD   |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  |  3  | −3  | −3  |
 
 **There is a hypothesys that 8 Reinin-Khizhnyak axes are the only axes that have independent variation if we are to try to interpret Reinin axes as independent factors (correcting their dependence first). 8 Reinin axes would have independent variation and 7 would not (and would be fully determined by 8 Reinin-Khizhnyak axes).**
 
