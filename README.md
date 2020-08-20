@@ -632,8 +632,6 @@ Worth noting that non-standard dominant functions do not require abstract static
 
 ### 11.5 Dominant-agnostic type names
 
-If non-standard dominant Khizhnyak functions are real then type names should be revised. The simplest way would be the return to axes without noting the dominant function. But this would require distinguishing from MBTI names and in particular fixing JP-switch ambiguity. So I suggest to rearrange and append new YO dynamic-nondynamic axis notation so that INT+IR could not be mistaken with INTJ. INT+IR would have I+IR Gulenko's Temperament (balanced-stable) be rational and introverted and have a static dominant function. But INTJ has dominant Ni. that is a dynamic function.
-
 |               |                     **E−IR**                     |                     **I+IR**                     |                     **I−ER**                     |                     **E+ER**                     |
 |:------------- |:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
 | α             |                   **ENT−IR 1**                   |                   **INT+IR 2**                   |                   **ISF−ER 3**                   |                   **ESF+ER 4**                   |
@@ -651,7 +649,7 @@ Even if non-standard dominant Khizhnyak functions are not real this notation can
 
 ### 11.6 Dynamic-static axis as a measure of Khizhnyak functions differentiation
 
-Dynamic-nondynamic axis is not in 8 Reinin-Khizhnyak axes but still it can be a special one. It's value can be interpretred as a max abs value of Khizhnyak axes and it can correspond to the most differentiated (as Jung meant it) cognitive function from 24 Khizhnyak functions.
+Dynamic-static axis is not in 8 Reinin-Khizhnyak axes but still it can be a special one. It's value can be interpretred as a max abs value of Khizhnyak axes and it can correspond to the most differentiated (as Jung meant it) cognitive function from 24 Khizhnyak functions.
 
 For example if we take ENT−IR type we would expect that it would have the most value for N<sub>−IR</sub> and T<sub>−IR</sub>. As N<sub>−IR</sub> is where 1-dominant function from Model A go and T<sub>−IR</sub> is where 2-supporting, 8-background and 4-vulnerable functions from Model A go. So this were the max abs values of Khizhnyak axes from conscious temperaments. But if we take values from semiconscious (automatic) temperaments we would expect to get lower max abs axes values (see next section for details).
 
