@@ -359,7 +359,7 @@ Deltas are: ENF−IR, INF+IR, EST+ER, IST−ER. So as commonly believed in MBTI 
 * EST+ER has dominant Te., supporting Si., and suggestive Fi.,
 * IST−ER has dominant Si., supporting Te., and suggestive Ne.
 
-Hence deltas are \*NF\*IR and \*ST\*ER.
+Hence deltas are \*NF(±IR) and \*ST(±ER). Or \*NF(−C) and \*ST(−C) - see below.
 
 So the functions the type values most are 1-dominant, 2-supporting and 5-suggestive. For some reason in Socionics believed that commonly ENF−IR also values Te., INF+IR also values Si., EST+ER also values Ne., IST−ER also values Fi. (6-activating).
 
