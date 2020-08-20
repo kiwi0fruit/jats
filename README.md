@@ -451,20 +451,20 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 |:------------|:-------------------|:-------------------------------------------------------------------------|
 | E=−I        |                    | **I**ntroverted=>**E**xtraverted                                         |
 | −R          | P=−J               | **R**ational=>Irrational (Judging=>Perceiving)                           |
-| PrevAbsIR=−PrevAbsER | PIJE=>PEJI, &vert;±IR&vert;−&vert;±ER&vert; | Dynamic=>Static (Prevalence of absolute values of ±IR over absolute values of ±ER) |
+| Static=−Dynamic | PIJE=>PEJI, &vert;±IR&vert;−&vert;±ER&vert; | Dynamic=>Static                             |
 |             |                    |                                                                          |
 | N=−S        | (PIJE+AD/PEJI+BG)=>(PEJI+AD/PIJE+BG) | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)        |
-| PrevAbsSI=−PrevAbsNI | NISE=>NESI, (J+AD/P+BG)=>(P+AD/J+BG), &vert;±SI&vert;−&vert;±NI&vert; | PrevAbsSI (Farsighted=>Carefree) |
+| NESI=−NISE  | (J+AD/P+BG)=>(P+AD/J+BG), &vert;±SI&vert;−&vert;±NI&vert; | NISE=>NESI (Farsighted=>Carefree) |
 | PrevAbsSR=−PrevAbsNR | NJSP=>NPSJ, (I+AD/E+BG)=>(E+AD/I+BG), &vert;±SR&vert;−&vert;±NR&vert; | PrevAbsSR (Strategic=>Tactical) |
 | −C, AD=−BG  | (NPIJE/SPEJI)=>(NPEJI/SPIJE) | **C**entral=>Noncentral, **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
 |             |                    |                                                                          |
 | T=−F        | (PIJE+AB/PEJI+GD)=>(PEJI+AB/PIJE+GD) | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking) |
-| PrevAbsFI=−PrevAbsTI | TIFE=>TEFI, (J+AB/P+GD)=>(P+AB/J+GD), &vert;±FI&vert;−&vert;±TI&vert; | PrevAbsFI (Obstinate=>Yielding, Obstinate=>Compliant) |
+| TEFI=−TIFE  | (J+AB/P+GD)=>(P+AB/J+GD), &vert;±FI&vert;−&vert;±TI&vert; | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant) |
 | PrevAbsFR=−PrevAbsTR | TJFP=>TPFJ, (I+AB/E+GD)=>(E+AB/I+GD), &vert;±FR&vert;−&vert;±TR&vert; | PrevAbsFR (Emotivist=>Constructivist) |
 | AB=−GD      | (TPIJE/FPEJI)=>(TPEJI/FPIJE) | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
 |             |                    |                                                                          |
 | Q=−D        | (PIJE+AG/PEJI+BD)=>(PEJI+AG/PIJE+BD) | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
-| PrevAbsDI=−PrevAbsQI | QIDE=>QEDI, (J+AG/P+BD)=>(P+AG/J+BD), &vert;±DI&vert;−&vert;±QI&vert; | PrevAbsDI (Result=>Process, Left=>Right) |
+| QEDI=−QIDE  | (J+AG/P+BD)=>(P+AG/J+BD), &vert;±DI&vert;−&vert;±QI&vert; | QIDE=>QEDI (Result=>Process, Left=>Right) |
 | PrevAbsDR=−PrevAbsQR | QJDP=>QPDJ, (I+AG/E+BD)=>(E+AG/I+BD), &vert;±DR&vert;−&vert;±QR&vert; | PrevAbsDR (Negativist=>Positivist) |
 | AG=−BD      | (QPIJE/DPEJI)=>(QPEJI/DPIJE) | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
 
@@ -521,20 +521,20 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 |     |               |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 1   | E=−I         |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |
 | 2   | −R           |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |
-| 3   | Static, PrevAbsIR |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
+| 3   | Static=−Dynamic |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
 |     |               |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 4   | N=−S         |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 5   | PrevAbsSI |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 5   | NESI=−NISE |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 6   | PrevAbsSR |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 7   | −C, AD=−BG |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 8   | T=−F       |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 9   | PrevAbsFI |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 9   | TEFI=−TIFE |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 10  | PrevAbsFR |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 11  | AB=−GD     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 12  | Q=−D       |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |
-| 13  | PrevAbsDI |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |
+| 13  | QEDI=−QIDE |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |
 | 14  | PrevAbsDR |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |
 | 15  | AG=−BD     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |
 
@@ -597,12 +597,12 @@ Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes. And trans
 |     |             | &vert;N<sub>−IR</sub>&vert;= | &vert;N<sub>+IR</sub>&vert;= | &vert;N<sub>−ER</sub>&vert;= | &vert;N<sub>+ER</sub>&vert;= | &vert;T<sub>−IR</sub>&vert;= | &vert;T<sub>+IR</sub>&vert;= | &vert;T<sub>−ER</sub>&vert;= | &vert;T<sub>+ER</sub>&vert;= | &vert;Q<sub>−IR</sub>&vert;= | &vert;Q<sub>+IR</sub>&vert;= | &vert;Q<sub>−ER</sub>&vert;= | &vert;Q<sub>+ER</sub>&vert;= |
 | --- |:-----------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
 |     |             | <b>=&vert;S<sub>+IR</sub>&vert;</b> | <b>=&vert;S<sub>−IR</sub>&vert;</b> | <b>=&vert;S<sub>+ER</sub>&vert;</b> | <b>=&vert;S<sub>−ER</sub>&vert;</b> | <b>=&vert;F<sub>+IR</sub>&vert;</b> | <b>=&vert;F<sub>−IR</sub>&vert;</b> | <b>=&vert;F<sub>+ER</sub>&vert;</b> | <b>=&vert;F<sub>−ER</sub>&vert;</b> | <b>=&vert;D<sub>+IR</sub>&vert;</b> | <b>=&vert;D<sub>−IR</sub>&vert;</b> | <b>=&vert;D<sub>+ER</sub>&vert;</b> | <b>=&vert;D<sub>−ER</sub>&vert;</b> |
-| 1   | Static, PrevAbsIR |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
-| 2   | PrevAbsSI |  3  | −3  | −3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 1   | Static=−Dynamic |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
+| 2   | NESI=−NISE |  3  | −3  | −3  |  3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 3   | PrevAbsSR |  3  | −3  |  3  | −3  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 4   | PrevAbsFI |  0  |  0  |  0  |  0  |  3  | −3  | −3  |  3  |  0  |  0  |  0  |  0  |
+| 4   | TEFI=−TIFE |  0  |  0  |  0  |  0  |  3  | −3  | −3  |  3  |  0  |  0  |  0  |  0  |
 | 5   | PrevAbsFR |  0  |  0  |  0  |  0  |  3  | −3  |  3  | −3  |  0  |  0  |  0  |  0  |
-| 6   | PrevAbsDI |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  | −3  | −3  |  3  |
+| 6   | QEDI=−QIDE |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  | −3  | −3  |  3  |
 | 7   | PrevAbsDR |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  3  | −3  |  3  | −3  |
 
 
