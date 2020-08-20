@@ -447,26 +447,26 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 
 Mind that Rational=>Irrational axis is denoted J=>P here.
 
-| Short name  | Alt. symmetry      | Full names                                                               |
-|:------------|:-------------------|:-------------------------------------------------------------------------|
-| E=−I        |                    | **I**ntroverted=>**E**xtraverted                                         |
-| −R          | P=−J               | **R**ational=>Irrational (Judging=>Perceiving)                           |
-| Static=−Dynamic | PIJE=>PEJI, &vert;±IR&vert;−&vert;±ER&vert; | Dynamic=>Static                             |
-|             |                    |                                                                          |
-| N=−S        | (PIJE+AD/PEJI+BG)=>(PEJI+AD/PIJE+BG) | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)        |
-| NESI=−NISE  | (J+AD/P+BG)=>(P+AD/J+BG), &vert;±SI&vert;−&vert;±NI&vert; | NISE=>NESI (Farsighted=>Carefree) |
-| PrevAbsSR=−PrevAbsNR | NJSP=>NPSJ, (I+AD/E+BG)=>(E+AD/I+BG), &vert;±SR&vert;−&vert;±NR&vert; | PrevAbsSR (Strategic=>Tactical) |
-| −C, AD=−BG  | (NPIJE/SPEJI)=>(NPEJI/SPIJE) | **C**entral=>Noncentral, **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
-|             |                    |                                                                          |
-| T=−F        | (PIJE+AB/PEJI+GD)=>(PEJI+AB/PIJE+GD) | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking) |
-| TEFI=−TIFE  | (J+AB/P+GD)=>(P+AB/J+GD), &vert;±FI&vert;−&vert;±TI&vert; | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant) |
-| PrevAbsFR=−PrevAbsTR | TJFP=>TPFJ, (I+AB/E+GD)=>(E+AB/I+GD), &vert;±FR&vert;−&vert;±TR&vert; | PrevAbsFR (Emotivist=>Constructivist) |
-| AB=−GD      | (TPIJE/FPEJI)=>(TPEJI/FPIJE) | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
-|             |                    |                                                                          |
-| Q=−D        | (PIJE+AG/PEJI+BD)=>(PEJI+AG/PIJE+BD) | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim) |
-| QEDI=−QIDE  | (J+AG/P+BD)=>(P+AG/J+BD), &vert;±DI&vert;−&vert;±QI&vert; | QIDE=>QEDI (Result=>Process, Left=>Right) |
-| PrevAbsDR=−PrevAbsQR | QJDP=>QPDJ, (I+AG/E+BD)=>(E+AG/I+BD), &vert;±DR&vert;−&vert;±QR&vert; | PrevAbsDR (Negativist=>Positivist) |
-| AG=−BD      | (QPIJE/DPEJI)=>(QPEJI/DPIJE) | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
+| Short name           | Full names                                                                                                                     | Alt. symmetry #1                     | #2                             | #3                              |
+|:-------------------- |:------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ------------------------------ | ------------------------------- |
+| E=−I                 | **I**ntroverted=>**E**xtraverted                                                                                               | E=−I                                 |                                |                                 |
+| −R                   | **R**ational=>Irrational (Judging=>Perceiving)                                                                                 | P=−J                                 |                                |                                 |
+| Static=−Dynamic      | Dynamic=>Static                                                                                                                | PEJI=−PIJE                           |                                | &vert;±IR&vert;−&vert;±ER&vert; |
+|                      |                                                                                                                                |                                      |                                |                                 |
+| N=−S                 | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                                                                                | (PEJI)AD:(PIJE)BG=−(PIJE)AD:(PEJI)BG | N=−S                           |                                 |
+| NESI=−NISE           | NISE=>NESI (Farsighted=>Carefree)                                                                                              | PAD:JBG=−JAD:PBG                     | NESI=−NISE                     | &vert;±SI&vert;−&vert;±NI&vert; |
+| PrevAbsSR=−PrevAbsNR | PrevAbsSR (Strategic=>Tactical)                                                                                                | EAD:IBG=−IAD:EBG                     | NPSJ=−NJSP                     | &vert;±SR&vert;−&vert;±NR&vert; |
+| −C, AD=−BG           | **C**entral=>Noncentral, **B**eta-**G**amma=>**A**lpha-**D**elta (Decisive=>Judicious, Resolute=>Pacific, Central=>Peripheral) | AD=−BG                               | N(PEJI)S(PIJE)=−N(PIJE)S(PEJI) |                                 |
+|                      |                                                                                                                                |                                      |                                |                                 |
+| T=−F                 | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking)                                                 | (PEJI)AB:(PIJE)GD=−(PIJE)AB:(PEJI)GD | T=−F                           |                                 |
+| TEFI=−TIFE           | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                                                                         | PAB:JGD=−JAB:PGD                     | TEFI=−TIFE                     | &vert;±FI&vert;−&vert;±TI&vert; |
+| PrevAbsFR=−PrevAbsTR | PrevAbsFR (Emotivist=>Constructivist)                                                                                          | EAB:IGD=−IAB:EGD                     | TPFJ=−TJFP                     | &vert;±FR&vert;−&vert;±TR&vert; |
+| AB=−GD               | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist)                     | AB=−GD                               | T(PEJI)F(PIJE)=−T(PIJE)F(PEJI) |                                 |
+|                      |                                                                                                                                |                                      |                                |                                 |
+| Q=−D                 | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim)                                                          | (PEJI)AG:(PIJE)BD=−(PIJE)AG:(PEJI)BD | Q=−D                           |                                 |
+| QEDI=−QIDE           | QIDE=>QEDI (Result=>Process, Left=>Right)                                                                                      | PAG:JBD=−JAG:PBD                     | QEDI=−QIDE                     | &vert;±DI&vert;−&vert;±QI&vert; |
+| PrevAbsDR=−PrevAbsQR | PrevAbsDR (Negativist=>Positivist)                                                                                             | EAG:IBD=−IAG:EBD                     | QPDJ=−QJDP                     | &vert;±DR&vert;−&vert;±QR&vert; |
+| AG=−BD               | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian)                                       | AG=−BD                               | Q(PEJI)D(PIJE)=−Q(PIJE)D(PEJI) |                                 |
 
 P.S.: **+U/−U** is reserved for ne**U**roticism from Big Five (in case neuroticism has meaning that is external to Socionics).
 
