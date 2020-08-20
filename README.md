@@ -494,7 +494,7 @@ Khizhnyak functions names are made of Gulenko's temperament.
 | D+ER+AG=>Q−ER+BD | D+ER=>Q−ER | −D<sub>+ER</sub>=Q<sub>−ER</sub> |
 | D−ER+AG=>Q+ER+BD | D−ER=>Q+ER | −D<sub>−ER</sub>=Q<sub>+ER</sub> |
 
-In addition to 12 Khizhnyak axes and 24 Khizhnyak functions we can define 12 abstract static-dynamic (n**o**ndynamic-d**y**namic) functions that lack IE and JP flavour:
+In addition to 12 Khizhnyak axes and 24 Khizhnyak functions we can define 12 abstract static-dynamic functions that lack IE and JP flavour:
 
 |         | Abbr.  | Alt.       | Is abstracted from |
 |:-------:|:------:|:--------------- |:------------- |
