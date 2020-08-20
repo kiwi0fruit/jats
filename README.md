@@ -453,20 +453,20 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | +R=>−R, J=>P |                  | **R**ational=>Irrational, **J**udging=>**P**erceiving                    |
 | PIJE=>PEJI | −ER/+ER=>−IR/+IR   | Dynamic=>Static                                                          |
 |            |                    |                                                                          |
-| S=>N       | Ad.PIJE/Bg.PEJI=>Ad.PEJI/Bg.PIJE | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)            |
-| NISE=>NESI | Ad.J/Bg.P=>Ad.P/Bg.J | NISE=>NESI (Farsighted=>Carefree)                                      |
-| NJSP=>NPSJ | Ad.I/Bg.E=>Ad.E/Bg.I | NJSP=>NPSJ (Strategic=>Tactical)                                       |
-| +C=>−C, Bg.=>Ad. | NPIJE/SPEJI=>NPEJI/SPIJE | **C**entral=>Noncentral, **B**eta-**g**amma=>**A**lpha-**d**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
+| S=>N       | PIJE+AD/PEJI+BG=>PEJI+AD/PIJE+BG | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)            |
+| NISE=>NESI | J+AD/P+BG=>P+AD/J+BG | NISE=>NESI (Farsighted=>Carefree)                                      |
+| NJSP=>NPSJ | I+AD/E+BG=>E+AD/I+BG | NJSP=>NPSJ (Strategic=>Tactical)                                       |
+| +C=>−C, BG=>AD | NPIJE/SPEJI=>NPEJI/SPIJE | **C**entral=>Noncentral, **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
 |            |                    |                                                                          |
-| F=>T       | Ab.PIJE/Gd.PEJI=>Ab.PEJI/Gd.PIJE | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking) |
-| TIFE=>TEFI | Ab.J/Gd.P=>Ab.P/Gd.J | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                   |
-| TJFP=>TPFJ | Ab.I/Gd.E=>Ab.E/Gd.I | TJFP=>TPFJ (Emotivist=>Constructivist)                                   |
-| Gd.=>Ab.   | TPIJE/FPEJI=>TPEJI/FPIJE | **G**amma-**d**elta=>**A**lpha-**b**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
+| F=>T       | PIJE+AB/PEJI+GD=>PEJI+AB/PIJE+GD | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking) |
+| TIFE=>TEFI | J+AB/P+GD=>P+AB/J+GD | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                   |
+| TJFP=>TPFJ | I+AB/E+GD=>E+AB/I+GD | TJFP=>TPFJ (Emotivist=>Constructivist)                                   |
+| GD=>AB     | TPIJE/FPEJI=>TPEJI/FPIJE | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
 |            |                    |                                                                          |
-| D=>Q       | Ag.PIJE/Bd.PEJI=>Ag.PEJI/Bd.PIJE | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim)    |
-| QIDE=>QEDI | Ag.J/Bd.P=>Ag.P/Bd.J | QIDE=>QEDI (Result=>Process, Left=>Right)                                |
-| QJDP=>QPDJ | Ag.I/Bd.E=>Ag.E/Bd.I | QJDP=>QPDJ (Negativist=>Positivist)                                      |
-| Bd.=>Ag.   | QPIJE/DPEJI=>QPEJI/DPIJE | **B**eta-**d**elta=>**A**lpha-**g**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
+| D=>Q       | PIJE+AG/PEJI+BD=>PEJI+AG/PIJE+BD | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim)    |
+| QIDE=>QEDI | J+AG/P+BD=>P+AG/J+BD | QIDE=>QEDI (Result=>Process, Left=>Right)                                |
+| QJDP=>QPDJ | I+AG/E+BD=>E+AG/I+BD | QJDP=>QPDJ (Negativist=>Positivist)                                      |
+| BD=>AG     | QPIJE/DPEJI=>QPEJI/DPIJE | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
 
 P.S.: **+U/−U** is reserved for ne**U**roticism from Big Five (in case neuroticism has meaning that is external to Socionics).
 
@@ -481,15 +481,15 @@ Khizhnyak functions names are made of Gulenko's temperament.
 
 | Khizhnyak axis | Khizhnyak axis in Khizhnyak functions terms | Khizhnyak functions relation |
 |:-------------- |:------------ |:------------------------------ |
-| Bg.SJI=>Ad.NPE | S+IR=>N−IR | −S<sub>+IR</sub>=N<sub>−IR</sub> |
-| Bg.SPE=>Ad.NJI | S−IR=>N+IR | −S<sub>−IR</sub>=N<sub>+IR</sub> |
-| Ad.SJE=>Bg.NPI | S+ER=>N−ER | −S<sub>+ER</sub>=N<sub>−ER</sub> |
-| Ad.SPI=>Bg.NJE | S−ER=>N+ER | −S<sub>−ER</sub>=N<sub>+ER</sub> |
+| SJI+BG=>NPE+AD | S+IR=>N−IR | −S<sub>+IR</sub>=N<sub>−IR</sub> |
+| SPE+BG=>NJI+AD | S−IR=>N+IR | −S<sub>−IR</sub>=N<sub>+IR</sub> |
+| SJE+AD=>NPI+BG | S+ER=>N−ER | −S<sub>+ER</sub>=N<sub>−ER</sub> |
+| SPI+AD=>NJE+BG | S−ER=>N+ER | −S<sub>−ER</sub>=N<sub>+ER</sub> |
 |                |            |                                  |
-| Gd.FJI=>Ab.TPE | F+IR=>T−IR | −F<sub>+IR</sub>=T<sub>−IR</sub> |
-| Gd.FPE=>Ab.TJI | F−IR=>T+IR | −F<sub>−IR</sub>=T<sub>+IR</sub> |
-| Ab.FJE=>Gd.TPI | F+ER=>T−ER | −F<sub>+ER</sub>=T<sub>−ER</sub> |
-| Ab.FPI=>Gd.TJE | F−ER=>T+ER | −F<sub>−ER</sub>=T<sub>+ER</sub> |
+| FJI+GD=>TPE+AB | F+IR=>T−IR | −F<sub>+IR</sub>=T<sub>−IR</sub> |
+| FPE+GD=>TJI+AB | F−IR=>T+IR | −F<sub>−IR</sub>=T<sub>+IR</sub> |
+| FJE+AB=>TPI+GD | F+ER=>T−ER | −F<sub>+ER</sub>=T<sub>−ER</sub> |
+| FPI+AB=>TJE+GD | F−ER=>T+ER | −F<sub>−ER</sub>=T<sub>+ER</sub> |
 |                |            |                                  |
 | Bd.DJI=>Ag.QPE | D+IR=>Q−IR | −D<sub>+IR</sub>=Q<sub>−IR</sub> |
 | Bd.DPE=>Ag.QJI | D−IR=>Q+IR | −D<sub>−IR</sub>=Q<sub>+IR</sub> |
