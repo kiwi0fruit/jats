@@ -39,7 +39,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 5. **Rational/Irrational** (**+R/−R**) names were used instead of **Judging/Perceiving** to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INT+IR** vs. **INT−ER** (LII vs. ILI) those are dominant introverted tasker & rational intuiter vs. dominant introverted intuiter & irrational tasker.
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **Noncentral** vs. **Central** types (**−C/+C**). The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
-8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **\*NT±IR**, **\~NT±IR** that are unknown and mixed types from ENT−IR/ENTP and INT+IR/LII.
+8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **\*NT\*IR**, **\~NT\~IR** that are unknown and mixed types from ENT−IR/ENTP and INT+IR/LII.
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for ENT−IR/ENTP, Enthusiast for ESF+ER/ESFJ, General for EST−IR/ESTP, Poet for INF−ER/IEI, **Inspirer** for ENF+ER/ENFJ, **Foreseer** for INT−ER/ILI, Entrepreneur for ENT+ER/ENTJ, **Journalist** for ENF−IR/ENFP.
 11. The set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions is given. Together hypotheses give **Model A** as consequences. Bonus: **Cognitive functions descriptions per position in Model A (8x8 auto-translated table)**.
@@ -411,16 +411,16 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |         \*EN+ER          |               ENT+ER v ENF+ER v \~EN+ER v ...               |     \~EN+ER     |
 |         \*INT            |               INT+IR v INT−ER v \~INT v ...                 |     \~INT       |
 |         \*IT+IR          |               INT+IR v IST+IR v \~IT+IR v ...               |     \~IT+IR     |
-|         \*NT±IR          |               ENT−IR v INT+IR v \~NT±IR v ...               |     \~NT±IR     |
+|         \*NT\*IR         |               ENT−IR v INT+IR v \~NT\~IR v ...              |     \~NT\~IR    |
 |         \*NT+\*R         |               ENT+ER v INT+IR v \~NT+\~R v ...              |     \~NT+\~R    |
 |         \*IN+IR          |               INT+IR v INF+IR v \~IN+IR v ...               |     \~IN+IR     |
 |       Ad.\*IT            |             INT+IR v IST−ER v Ad.\~IT\~ v ...               |   Ad.\~IT       |
 |       Ab.\*IN            |             INT+IR v INF−ER v Ab.\~IN v ...                 |   Ab.\~IN       |
 |       Ag.\*I+IR          |             INT+IR v ISF+IR v Ag.\~I+IR v ...               |   Ag.\~I+IR     |
 |        \*EN−IR¬13        |             ENT−IR v \~EN−IR v ... (not ENF−IR)             |    ENT−IR+13    |
-|        \*NT±IR¬1         |             INT+IR v \~NT±IR v ... (not ENT−IR)             |    INT+IR+1     |
+|        \*NT\*IR¬1        |             INT+IR v \~NT±IR v ... (not ENT−IR)             |    INT+IR+1     |
 |        \*IT+IR¬6         |             INT+IR v \~IT+IR v ... (not IST+IR)             |    INT+IR+6     |
-|        \*N±IR            |      INT+IR v ENT−IR v INF+IR v ENF−IR v \~EN−IR v ...      |        ?        |
+|        \*N\*IR           |      INT+IR v ENT−IR v INF+IR v ENF−IR v \~EN−IR v ...      |        ?        |
 |      Bg.\*I, \*I+C       |      IST+IR v INF−ER v ISF+IR v INT−ER v \~IN−ER v ...      |        ?        |
 |         \*N−\*R          | ENT−IR v INF−ER v INT−ER v ENF−IR v \~EN−IR v \~IN−ER v ... |        ?        |
 |         \*IT             |      INT+IR v IST+IR v INT−ER v IST−ER v \~IT+IR v ...      |        ?        |
