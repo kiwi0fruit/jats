@@ -405,28 +405,28 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 3. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 5 letter code at the beginning shows the position on 2 SN and FT axes and 3 temperament axes. All axes can be measured by MBTI or Big Five tests - it's OK for +R/−R (J/P) and conscientiousness. And the second part shows types shortcut numbers to pick prom. I guess it may even be possible to have **ENT+IR** if the person is a mixture equally of ENT−IR, ENT+ER and INT+IR: ENT+IR(1\~2\~12). But at the moment it's a speculation only and allowed combinations are \*E−IR, \*I+IR, \*I−ER, \*E+ER.
 4. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **\***/**x** on +R/−R (J/P) axis. For example **\*INT** = INT+IR or INT−ER or \~INT. But if we take MBTI types then **INTx** = Ti.dom.INTP or Ni.dom.INTJ or INT\~.
 
-|    **Unknown types**     |                **Meaning of unknown types**                 | **Mixed type**  |
-|:------------------------:|:-----------------------------------------------------------:|:---------------:|
-|         \*ET+ER          |               ENT+ER v EST+ER v \~ET+ER v ...               |     \~ET+ER     |
-|         \*EN+ER          |               ENT+ER v ENF+ER v \~EN+ER v ...               |     \~EN+ER     |
-|         \*INT            |               INT+IR v INT−ER v \~INT v ...                 |     \~INT       |
-|         \*IT+IR          |               INT+IR v IST+IR v \~IT+IR v ...               |     \~IT+IR     |
-|     \*NT−C, \*NT+AD      |               ENT−IR v INT+IR v \~NT−C v ...                | \~NT−C, \~NT+AD |
-|         \*NT+\*R         |               ENT+ER v INT+IR v \~NT+\~R v ...              |     \~NT+\~R    |
-|         \*IN+IR          |               INT+IR v INF+IR v \~IN+IR v ...               |     \~IN+IR     |
-|       \*IT+AD            |             INT+IR v IST−ER v \~IT+AD v ...                 |   \~IT+AD       |
-|       \*IN+AB            |             INT+IR v INF−ER v \~IN+AB v ...                 |   \~IN+AB       |
-|       \*I+IR+AG          |             INT+IR v ISF+IR v \~I+IR+AG v ...               |   \~I+IR+AG     |
-|        \*EN−IR¬13        |             ENT−IR v \~EN−IR v ... (not ENF−IR)             |    ENT−IR+13    |
-|        \*NT−C¬1          |             INT+IR v \~NT−C v ... (not ENT−IR)              |    INT+IR+1     |
-|        \*IT+IR¬6         |             INT+IR v \~IT+IR v ... (not IST+IR)             |    INT+IR+6     |
-|        \*N−C             |      INT+IR v ENT−IR v INF+IR v ENF−IR v \~EN−IR v ...      |        ?        |
-|      \*I+BG, \*I+C       |      IST+IR v INF−ER v ISF+IR v INT−ER v \~IN−ER v ...      |        ?        |
-|         \*N−\*R          | ENT−IR v INF−ER v INT−ER v ENF−IR v \~EN−IR v \~IN−ER v ... |        ?        |
-|         \*IT             |      INT+IR v IST+IR v INT−ER v IST−ER v \~IT+IR v ...      |        ?        |
-|       \*EN−IR[−13]       |             ENT−IR v \~EN−IR v ... (not ENF−IR)             |    ENT−IR+13    |
-|     \*EN−IR[1,1\~13]     |             ENT−IR v \~EN−IR v ... (not ENF−IR)             |    ENT−IR+13    |
-|      \*IT[2,15]          |             INT+IR v IST−ER v \~IT+AD v ...                 |  \~IT[2\~15]   |
+|    **Unknown types**     |                **Meaning of unknown types**                   | **Mixed type**  |
+|:------------------------:|:-------------------------------------------------------------:|:---------------:|
+|         \*ET(+ER)        |               ENT+ER v EST+ER v \~ET(+ER) v ...               |     \~ET(+ER)   |
+|         \*EN(+ER)        |               ENT+ER v ENF+ER v \~EN(+ER) v ...               |     \~EN(+ER)   |
+|         \*INT            |               INT+IR v INT−ER v \~INT v ...                   |     \~INT       |
+|         \*IT(+IR)        |               INT+IR v IST+IR v \~IT(+IR) v ...               |     \~IT(+IR)   |
+|     \*NT(−C), \*NT(AD)   |               ENT−IR v INT+IR v \~NT(−C) v ...                | \~NT(−C), \~NT(AD) |
+|         \*NT(+R)         |               ENT+ER v INT+IR v \~NT(+R) v ...                |     \~NT(+R)    |
+|         \*IN(+IR)        |               INT+IR v INF+IR v \~IN(+IR) v ...               |     \~IN(+IR)   |
+|       \*IT(AD)           |             INT+IR v IST−ER v \~IT(AD) v ...                  |   \~IT(AD)      |
+|       \*IN(AB)           |             INT+IR v INF−ER v \~IN(AB) v ...                  |   \~IN(AB)      |
+|       \*I(+IR+AG)        |             INT+IR v ISF+IR v \~I(+IR+AG) v ...               |   \~I(+IR+AG)   |
+|        \*EN(−IR¬13)      |             ENT−IR v \~EN(−IR) v ... (not ENF−IR)             |    ENT(−IR+13)  |
+|        \*NT(−C¬1)        |             INT+IR v \~NT(−C) v ... (not ENT−IR)              |    INT(+IR+1)   |
+|        \*IT(+IR¬6)       |             INT+IR v \~IT(+IR) v ... (not IST+IR)             |    INT(+IR+6)   |
+|        \*N(−C)           |      INT+IR v ENT−IR v INF+IR v ENF−IR v \~EN(−IR) v ...      |        ?        |
+|      \*I(BG), \*I(+C)    |      IST+IR v INF−ER v ISF+IR v INT−ER v \~IN(−ER) v ...      |        ?        |
+|         \*N(−R)          | ENT−IR v INF−ER v INT−ER v ENF−IR v \~EN(−IR) v \~IN(−ER) v ... |      ?        |
+|         \*IT             |      INT+IR v IST+IR v INT−ER v IST−ER v \~IT(+IR) v ...      |        ?        |
+|       \*EN(−IR−13)       |             ENT−IR v \~EN(−IR) v ... (not ENF−IR)             |    ENT(−IR+13)  |
+|     \*EN(−IR)[1,1\~13]   |             ENT−IR v \~EN(−IR) v ... (not ENF−IR)             |    ENT(−IR+13)  |
+|      \*IT[2,15]          |             INT+IR v IST−ER v \~IT(+AD) v ...                 |    \~IT[2\~15]  |
 
 
 ## 10. Further reading and notable discussions
