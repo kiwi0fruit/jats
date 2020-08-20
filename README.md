@@ -450,12 +450,12 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | Short name | Alt. symmetry      | Full names                                                       |
 |:-----------|:-------------------|:-------------------------------------------------------------------------|
 | I=>E       |                    | **I**ntroverted=>**E**xtraverted                                         |
-| +R=>−R     | J=>P               | **R**ational=>Irrational, **J**udging=>**P**erceiving                    |
+| +R=>−R     | J=>P               | **R**ational=>Irrational (Judging=>Perceiving)                           |
 | ±ER=>±IR   | PIJE=>PEJI         | Dynamic=>Static                                                          |
 |            |                    |                                                                          |
 | S=>N       | PIJE+AD/PEJI+BG=>PEJI+AD/PIJE+BG | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)            |
-| ggg | NISE=>NESI, J+AD/P+BG=>P+AD/J+BG | NISE=>NESI (Farsighted=>Carefree)                                      |
-| ggg | NJSP=>NPSJ, I+AD/E+BG=>E+AD/I+BG | NJSP=>NPSJ (Strategic=>Tactical)                                       |
+| ±NI=>±SI   | NISE=>NESI, J+AD/P+BG=>P+AD/J+BG | NISE=>NESI (Farsighted=>Carefree)                                      |
+| ±NR=>±SR   | NJSP=>NPSJ, I+AD/E+BG=>E+AD/I+BG | NJSP=>NPSJ (Strategic=>Tactical)                                       |
 | +C=>−C, BG=>AD | NPIJE/SPEJI=>NPEJI/SPIJE | **C**entral=>Noncentral, **B**eta-**G**amma=>**A**lpha-**D**elta (Resolute=>Pacific, Decisive=>Judicious, Resolute=>Reasonable, Central=>Peripheral) |
 |            |                    |                                                                          |
 | F=>T       | PIJE+AB/PEJI+GD=>PEJI+AB/PIJE+GD | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking) |
@@ -464,8 +464,8 @@ Mind that Rational=>Irrational axis is denoted J=>P here.
 | GD=>AB     | TPIJE/FPEJI=>TPEJI/FPIJE | **G**amma-**D**elta=>**A**lpha-**B**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist) |
 |            |                    |                                                                          |
 | D=>Q       | PIJE+AG/PEJI+BD=>PEJI+AG/PIJE+BD | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim)    |
-| QIDE=>QEDI | J+AG/P+BD=>P+AG/J+BD | QIDE=>QEDI (Result=>Process, Left=>Right)                                |
-| QJDP=>QPDJ | I+AG/E+BD=>E+AG/I+BD | QJDP=>QPDJ (Negativist=>Positivist)                                      |
+| ±QI=>±DI   | QIDE=>QEDI, J+AG/P+BD=>P+AG/J+BD | QIDE=>QEDI (Result=>Process, Left=>Right)                                |
+| ±QR=>±DR   | QJDP=>QPDJ, I+AG/E+BD=>E+AG/I+BD | QJDP=>QPDJ (Negativist=>Positivist)                                      |
 | BD=>AG     | QPIJE/DPEJI=>QPEJI/DPIJE | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian) |
 
 P.S.: **+U/−U** is reserved for ne**U**roticism from Big Five (in case neuroticism has meaning that is external to Socionics).
@@ -479,22 +479,22 @@ Note that QD functions and axes should first non-linearly get D=>Q axis.
 
 Khizhnyak functions names are made of Gulenko's temperament.
 
-| Khizhnyak axis | Khizhnyak axis in Khizhnyak functions terms | Khizhnyak functions relation |
-|:-------------- |:------------ |:------------------------------ |
-| SJI+BG=>NPE+AD | S+IR=>N−IR | −S<sub>+IR</sub>=N<sub>−IR</sub> |
-| SPE+BG=>NJI+AD | S−IR=>N+IR | −S<sub>−IR</sub>=N<sub>+IR</sub> |
-| SJE+AD=>NPI+BG | S+ER=>N−ER | −S<sub>+ER</sub>=N<sub>−ER</sub> |
-| SPI+AD=>NJE+BG | S−ER=>N+ER | −S<sub>−ER</sub>=N<sub>+ER</sub> |
-|                |            |                                  |
-| FJI+GD=>TPE+AB | F+IR=>T−IR | −F<sub>+IR</sub>=T<sub>−IR</sub> |
-| FPE+GD=>TJI+AB | F−IR=>T+IR | −F<sub>−IR</sub>=T<sub>+IR</sub> |
-| FJE+AB=>TPI+GD | F+ER=>T−ER | −F<sub>+ER</sub>=T<sub>−ER</sub> |
-| FPI+AB=>TJE+GD | F−ER=>T+ER | −F<sub>−ER</sub>=T<sub>+ER</sub> |
-|                |            |                                  |
-| DJI+BD=>QPE+AG | D+IR=>Q−IR | −D<sub>+IR</sub>=Q<sub>−IR</sub> |
-| DPE+BD=>QJI+AG | D−IR=>Q+IR | −D<sub>−IR</sub>=Q<sub>+IR</sub> |
-| DJE+AG=>QPI+BD | D+ER=>Q−ER | −D<sub>+ER</sub>=Q<sub>−ER</sub> |
-| DPI+AG=>QJE+BD | D−ER=>Q+ER | −D<sub>−ER</sub>=Q<sub>+ER</sub> |
+| Khizhnyak axis meaning | Khizhnyak axis in Khizhnyak functions terms | Khizhnyak functions relation |
+|:---------------- |:---------- |:-------------------------------- |
+| S+IR+BG=>N−IR+AD | S+IR=>N−IR | −S<sub>+IR</sub>=N<sub>−IR</sub> |
+| S−IR+BG=>N+IR+AD | S−IR=>N+IR | −S<sub>−IR</sub>=N<sub>+IR</sub> |
+| S+ER+AD=>N−ER+BG | S+ER=>N−ER | −S<sub>+ER</sub>=N<sub>−ER</sub> |
+| S−ER+AD=>N+ER+BG | S−ER=>N+ER | −S<sub>−ER</sub>=N<sub>+ER</sub> |
+|                  |            |                                  |
+| F+IR+GD=>T−IR+AB | F+IR=>T−IR | −F<sub>+IR</sub>=T<sub>−IR</sub> |
+| F−IR+GD=>T+IR+AB | F−IR=>T+IR | −F<sub>−IR</sub>=T<sub>+IR</sub> |
+| F+ER+AB=>T−ER+GD | F+ER=>T−ER | −F<sub>+ER</sub>=T<sub>−ER</sub> |
+| F−ER+AB=>T+ER+GD | F−ER=>T+ER | −F<sub>−ER</sub>=T<sub>+ER</sub> |
+|                  |            |                                  |
+| D+IR+BD=>Q−IR+AG | D+IR=>Q−IR | −D<sub>+IR</sub>=Q<sub>−IR</sub> |
+| D−IR+BD=>Q+IR+AG | D−IR=>Q+IR | −D<sub>−IR</sub>=Q<sub>+IR</sub> |
+| D+ER+AG=>Q−ER+BD | D+ER=>Q−ER | −D<sub>+ER</sub>=Q<sub>−ER</sub> |
+| D−ER+AG=>Q+ER+BD | D−ER=>Q+ER | −D<sub>−ER</sub>=Q<sub>+ER</sub> |
 
 In addition to 12 Khizhnyak axes and 24 Khizhnyak functions we can define 12 abstract static-dynamic (n**o**ndynamic-d**y**namic) functions that lack IE and JP flavour:
 
@@ -515,27 +515,27 @@ In addition to 12 Khizhnyak axes and 24 Khizhnyak functions we can define 12 abs
 
 Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
-|     |             | N<sub>−IR</sub> | N<sub>+IR</sub> | N<sub>−ER</sub> | N<sub>+ER</sub> | S<sub>−IR</sub> | S<sub>+IR</sub> | S<sub>−ER</sub> | S<sub>+ER</sub> | | T<sub>−IR</sub> | T<sub>+IR</sub> | T<sub>−ER</sub> | T<sub>+ER</sub> | F<sub>−IR</sub> | F<sub>+IR</sub> | F<sub>−ER</sub> | F<sub>+ER</sub> | | Q<sub>−IR</sub> | Q<sub>+IR</sub> | Q<sub>−ER</sub> | Q<sub>+ER</sub> | D<sub>−IR</sub> | D<sub>+IR</sub> | D<sub>−ER</sub> | D<sub>+ER</sub> |
-| --- |:-----------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
-|     |             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
-|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 1   | +E=−I       |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |
-| 2   | −R, +P=−J   |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |
-| 3   | +PEJI=−PIJE |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
-|     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 4   | +N=−S       |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 5   | +NESI=−NISE |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 6   | +NPSJ=−NJSP |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+|     |               | N<sub>−IR</sub> | N<sub>+IR</sub> | N<sub>−ER</sub> | N<sub>+ER</sub> | S<sub>−IR</sub> | S<sub>+IR</sub> | S<sub>−ER</sub> | S<sub>+ER</sub> | | T<sub>−IR</sub> | T<sub>+IR</sub> | T<sub>−ER</sub> | T<sub>+ER</sub> | F<sub>−IR</sub> | F<sub>+IR</sub> | F<sub>−ER</sub> | F<sub>+ER</sub> | | Q<sub>−IR</sub> | Q<sub>+IR</sub> | Q<sub>−ER</sub> | Q<sub>+ER</sub> | D<sub>−IR</sub> | D<sub>+IR</sub> | D<sub>−ER</sub> | D<sub>+ER</sub> |
+| --- |:-------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
+|     |               | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |     | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
+|     |               |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 1   | +E=−I         |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |     |  1  | −1  | −1  |  1  |  1  | −1  | −1  |  1  |
+| 2   | −R            |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |     |  1  | −1  |  1  | −1  |  1  | −1  |  1  | −1  |
+| 3   | +&vert;±IR&vert;=−&vert;±ER&vert; |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |     |  1  |  1  | −1  | −1  |  1  |  1  | −1  | −1  |
+|     |               |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 4   | +N=−S         |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 5   | +&vert;±SI&vert;=−&vert;±NI&vert; |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 6   | +&vert;±SR&vert;=−&vert;±NR&vert; |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 7   | −C, +AD=−BG |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 8   | +T=−F       |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
-| 9   | +TEFI=−TIFE |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
+| 9   | +&vert;±FI&vert;=−&vert;±TI&vert; |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 10  | +TPFJ=−TJFP |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 | 11  | +AB=−GD     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 |     |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 12  | +Q=−D       |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  |  3  |  3  | −3  | −3  | −3  | −3  |
-| 13  | +QEDI=−QIDE |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |
-| 14  | +QPDJ=−QJDP |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |
+| 13  | +&vert;±DI&vert;=−&vert;±QI&vert; |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  | −3  |  3  | −3  |  3  |  3  | −3  |
+| 14  | +&vert;±DR&vert;=−&vert;±QR&vert; |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  | −3  |  3  | −3  | −3  |  3  | −3  |  3  |
 | 15  | +AG=−BD     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |     |  3  |  3  | −3  | −3  | −3  | −3  |  3  |  3  |
 
 
