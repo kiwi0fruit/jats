@@ -414,19 +414,19 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |     \*NT−C, \*NT+AD      |               ENT−IR v INT+IR v \~NT−C v ...                | \~NT−C, \~NT+AD |
 |         \*NT+\*R         |               ENT+ER v INT+IR v \~NT+\~R v ...              |     \~NT+\~R    |
 |         \*IN+IR          |               INT+IR v INF+IR v \~IN+IR v ...               |     \~IN+IR     |
-|       \*IT+AD            |             INT+IR v IST−ER v \~IT+AD v ...               |   \~IT+AD       |
+|       \*IT+AD            |             INT+IR v IST−ER v \~IT+AD v ...                 |   \~IT+AD       |
 |       \*IN+AB            |             INT+IR v INF−ER v \~IN+AB v ...                 |   \~IN+AB       |
 |       \*I+IR+AG          |             INT+IR v ISF+IR v \~I+IR+AG v ...               |   \~I+IR+AG     |
 |        \*EN−IR¬13        |             ENT−IR v \~EN−IR v ... (not ENF−IR)             |    ENT−IR+13    |
 |        \*NT−C¬1          |             INT+IR v \~NT−C v ... (not ENT−IR)              |    INT+IR+1     |
 |        \*IT+IR¬6         |             INT+IR v \~IT+IR v ... (not IST+IR)             |    INT+IR+6     |
 |        \*N−C             |      INT+IR v ENT−IR v INF+IR v ENF−IR v \~EN−IR v ...      |        ?        |
-|      Bg.\*I, \*I+C       |      IST+IR v INF−ER v ISF+IR v INT−ER v \~IN−ER v ...      |        ?        |
+|      \*I+BG, \*I+C       |      IST+IR v INF−ER v ISF+IR v INT−ER v \~IN−ER v ...      |        ?        |
 |         \*N−\*R          | ENT−IR v INF−ER v INT−ER v ENF−IR v \~EN−IR v \~IN−ER v ... |        ?        |
 |         \*IT             |      INT+IR v IST+IR v INT−ER v IST−ER v \~IT+IR v ...      |        ?        |
-|       \*EN−IR(−13)       |             ENT−IR v \~EN−IR v ... (not ENF−IR)             |    ENT−IR+13    |
-|     \*EN−IR(1,1\~13)     |             ENT−IR v \~EN−IR v ... (not ENF−IR)             |    ENT−IR+13    |
-|      \*IT(2,15)          |             INT+IR v IST−ER v \~IT+AD v ...                 |  \~IT(2\~15)    |
+|       \*EN−IR[−13]       |             ENT−IR v \~EN−IR v ... (not ENF−IR)             |    ENT−IR+13    |
+|     \*EN−IR[1,1\~13]     |             ENT−IR v \~EN−IR v ... (not ENF−IR)             |    ENT−IR+13    |
+|      \*IT[2,15]          |             INT+IR v IST−ER v \~IT+AD v ...                 |  \~IT[2\~15]   |
 
 
 ## 10. Further reading and notable discussions
