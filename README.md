@@ -554,15 +554,15 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | F±er.=>T±er.            | −F<sub>±ER</sub>=T<sub>±ER</sub> |
 | D±ir.=>Q±ir.            | −D<sub>±IR</sub>=Q<sub>±IR</sub> |
 | D±er.=>Q±er.            | −D<sub>±ER</sub>=Q<sub>±ER</sub> |
-| iR=>−iR                   | −(iR)=−iR                        |
-| −eR=>eR                   | −(-eR)=eR                        |
+| IR=>−IR                   | −(ER)=−ER                        |
+| −ER=>ER                   | −(-ER)=ER                        |
 
 
 |     |                                  | N<sub>−IR</sub>= | N<sub>IR</sub>= | N<sub>−ER</sub>= | N<sub>ER</sub>= | T<sub>−IR</sub>= | T<sub>IR</sub>= | T<sub>−ER</sub>= | T<sub>ER</sub>= | Q<sub>−IR</sub>= | Q<sub>IR</sub>= | Q<sub>−ER</sub>= | Q<sub>ER</sub>= |
 | --- |:--------------------------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
 |     |                                  | <b>=−S<sub>IR</sub></b> | <b>=−S<sub>−IR</sub></b> | <b>=−S<sub>ER</sub></b> | <b>=−S<sub>−ER</sub></b> | <b>=−F<sub>IR</sub></b> | <b>=−F<sub>−IR</sub></b> | <b>=−F<sub>ER</sub></b> | <b>=−F<sub>−ER</sub></b> | <b>=−D<sub>IR</sub></b> | <b>=−D<sub>−IR</sub></b> | <b>=−D<sub>ER</sub></b> | <b>=−D<sub>−ER</sub></b> |
-| 1   |               −iR                |   1 |  −1 |   0 |   0 |   1 |  −1 |   0 |   0 |   1 |  −1 |   0 |   0 |
-| 2   |                eR                |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |
+| 1   |               −IR                |   1 |  −1 |   0 |   0 |   1 |  −1 |   0 |   0 |   1 |  −1 |   0 |   0 |
+| 2   |                ER                |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |
 | 3   | N<sub>±IR</sub>=−S<sub>±IR</sub> |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 | 4   | N<sub>±ER</sub>=−S<sub>±ER</sub> |   0 |   0 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 | 5   | T<sub>±IR</sub>=−F<sub>±IR</sub> |   0 |   0 |   0 |   0 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |
