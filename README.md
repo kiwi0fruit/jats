@@ -758,7 +758,7 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 * first E is obtained from (−IR, +ER, −IC, +EC) vector via projecting on (0.5, 0.5, 0.5, 0.5) direction.
 
 
-### 11.8.1 Brackets - difference between reference types names and survey results names
+#### 11.8.1 Brackets - difference between reference types names and survey results names
 
 Reference types names are without brackets as postfix like "−ER" has only theoretical meaning. It only helps to pick the right reference cognitive functions stack. But when we have survey results notation we are no longer sure about the stack and only have values of positions on independent axes.
 
