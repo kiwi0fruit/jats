@@ -14,7 +14,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 * [5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics](#5-revised-gulenkos-names-for-types-1-16-numbers-as-names-for-types-with-mnemonics)
 * [6. On dichotomies, MBTI incompatibility, Big Five](#6-on-dichotomies-mbti-incompatibility-big-five)
 * [7. Model A](#7-model-a)
-* [8. Quadras and functions. Why quadras grouped this way? Central vs. Noncentral types](#8-quadras-and-functions-why-quadras-grouped-this-way-central-vs-noncentral-types)
+* [8. Quadras and functions. Why quadras grouped this way? Central vs. Lateral types](#8-quadras-and-functions-why-quadras-grouped-this-way-central-vs-lateral-types)
   - [8.1 Interactive table of intertype relationships](#81-interactive-table-of-intertype-relationships)
 * [9. Intermediate and unknown types names](#9-intermediate-and-unknown-types-names)
 * [10. Further reading and notable discussions](#10-further-reading-and-notable-discussions)
@@ -39,7 +39,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 4. Single-noun terms like **intuiter, sensor, feeler and tasker** are used (also **perceiver** and **judger**).
 5. **Rational/Irrational** (**+R/−R**) names were used instead of **Judging/Perceiving** to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INT+IR** vs. **INT−ER** (LII vs. ILI) those are dominant introverted tasker & rational intuiter vs. dominant introverted intuiter & irrational tasker.
-7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-Delta vs. Beta-Gamma types are translated as **Noncentral** vs. **Central** types (**−C/+C**). The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
+7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-Delta vs. Beta-Gamma types are translated as **Lateral** vs. **Central** types (**−C/+C**). The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
 8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **\*NT(−C)**, **\~NT(−C)** that are unknown and mixed types from ENT−IR (ENTP) and INT+IR (LII).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for ENT−IR (ENTP), Enthusiast for ESF+ER (ESFJ), General for EST−IR (ESTP), Poet for INF−ER (IEI), **Inspirer** for ENF+ER (ENFJ), **Foreseer** for INT−ER (ILI), Entrepreneur for ENT+ER (ENTJ), **Journalist** for ENF−IR (ENFP).
@@ -343,7 +343,7 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
   1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only.
 
 
-## 8. Quadras and functions. Why quadras grouped this way? Central vs. Noncentral types
+## 8. Quadras and functions. Why quadras grouped this way? Central vs. Lateral types
 
 Socionics **quadras** split 16 types to 4 groups. Each group has **E−IR** type with a dominant extraverted irrational-perceiving function, **I+IR** type with a dominant introverted rational-judging function, **E+ER** type with a dominant extraverted rational-judging function and **I−ER** type with a dominant introverted irrational-perceiving function.
 
@@ -381,14 +381,14 @@ It's possible to drop postfix for introverts too but then it can easily be mista
 
 |     Quadras | Abbr.   | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
 | -----------:| ------- | ------------------- | ------------------ | -------- | ------------- |
-| Alpha-delta | **AD**, **−C** | Ne. or Si.          | Ne. and Si.        | **Noncentral**  | Pacific, peaceful, cooperative, sensible, and leisurely unhurried ways |
-|  Beta-gamma | **BG**, **+C** | Se. or Ni.          | Se. and Ni.        | **Central**  | Rival, competitive, argessive, time-bound and fast resolutive ways |
+| Alpha-delta | **AD**, **−C** | Ne. or Si.          | Ne. and Si.        | Lateral  | Pacific, peaceful, cooperative, sensible, and leisurely unhurried ways |
+|  Beta-gamma | **BG**, **+C** | Se. or Ni.          | Se. and Ni.        | **C**entral  | Rival, competitive, argessive, time-bound and fast resolutive ways |
 |  Alpha-beta | **AB** | Fe. or Ti.          | Fe. and Ti.        |          |               |
 | Gamma-delta | **GD** | Te. or Fi.          | Te. and Fi.        |          |               |
 
 Examples:
 
-* alpha-delta intuiter, noncentral intuiter, noncentral sensor,
+* alpha-delta intuiter, lateral intuiter, lateral sensor,
 * beta-gamma intuiter, central intuiter, central sensor,
 * gamma-delta tasker,
 * central introvert.
@@ -455,7 +455,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 | N=−S            | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                                                                                | OAD.YBG=−YAD.OBG | N=−S                           |                                                                                 |
 | NESI=−NISE      | NISE=>NESI (Farsighted=>Carefree)                                                                                              | PAD.JBG=−JAD.PBG             | NESI=−NISE                     | &vert;&#x2060;±SI&#x2060;&vert;&#x2060;−&#x2060;&vert;&#x2060;±NI&#x2060;&vert; |
 | NPSJ=−NJSP      | NJSP=>NPSJ (Strategic=>Tactical)                                                                                               | EAD.IBG=−IAD.EBG             | NPSJ=−NJSP                     | &vert;&#x2060;±SR&#x2060;&vert;&#x2060;−&#x2060;&vert;&#x2060;±NR&#x2060;&vert; |
-| −C, AD=−BG      | **C**entral=>Noncentral, **B**eta-**G**amma=>**A**lpha-**D**elta (Decisive=>Judicious, Resolute=>Pacific, Central=>Peripheral) | AD=−BG                             | NOSY=−NYSO |                                                                                 |
+| −C, AD=−BG      | **C**entral=>Lateral, **B**eta-**G**amma=>**A**lpha-**D**elta (Decisive=>Judicious, Resolute=>Pacific, Central=>Peripheral) | AD=−BG                             | NOSY=−NYSO |                                                                                 |
 |                 |                                                                                                                                |                                    |                                |                                                                                 |
 | T=−F            | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking)                                                 | OAB.YGD=−YAB.OGD | T=−F                           |                                                                                 |
 | TEFI=−TIFE      | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                                                                         | PAB.JGD=−JAB.PGD             | TEFI=−TIFE                     | &vert;&#x2060;±FI&#x2060;&vert;&#x2060;−&#x2060;&vert;&#x2060;±TI&#x2060;&vert; |
@@ -725,15 +725,15 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 
 To summ up briefly in old terms: N/S, T/F, neUroticism, PE/JI, JE/PI, EAD/IBG, EBG/IAD.
 
-|    | FZA1 | Axis name                                                              | Value-dependent notation for survey results\* |
-| -- |:---- | ---------------------------------------------------------------------- |:--------------------------------:|
-| 1. | +N   | **S**ensory=>i**N**tuitive                                             | S => s => skip => n => N         |
-| 2. | +T   | **F**eelings-oriented=>**T**ask-oriented                               | F => f => skip => t => T         |
-| 3. | −IR  | **R**ational-**I**ntroverted=>ir**R**ational-**E**xtraverted           | +IR => +ir => skip => −ir => −IR |
-| 4. | +ER  | ir**R**ational-**I**ntroverted=>**R**ational-**E**xtraverted           | −ER => −er => skip => +er => +ER |
-| 5. | −IC  | **C**entral-**I**ntroverted=>non**C**entral-**E**xtraverted (IBG=>EAD) | +IC => +ic => skip => −ic => −IC |
-| 6. | +EC  | non**C**entral-**I**ntroverted=>**C**entral-**E**xtraverted (IAD=>EBG) | −EC => −ec => skip => +ec => +EC |
-| 7. | +U   | ne**U**roticism                                                        | −U => −u => skip => +u => +U     |
+|    | FZA1 | Axis name                                          | Value-dependent notation for survey results\* |
+| -- |:---- | --------------------------------------------------------------- |:--------------------------------:|
+| 1. | +N   | **S**ensory=>i**N**tuitive                                      | S => s => skip => n => N         |
+| 2. | +T   | **F**eelings-oriented=>**T**ask-oriented                        | F => f => skip => t => T         |
+| 3. | −IR  | **R**ational-**I**ntroverted=>Irrational-**E**xtraverted        | +IR => +ir => skip => −ir => −IR |
+| 4. | +ER  | Irrational-**I**ntroverted=>**R**ational-**E**xtraverted        | −ER => −er => skip => +er => +ER |
+| 5. | −IC  | **C**entral-**I**ntroverted=>Lateral-**E**xtraverted (IBG=>EAD) | +IC => +ic => skip => −ic => −IC |
+| 6. | +EC  | Lateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAD=>EBG) | −EC => −ec => skip => +ec => +EC |
+| 7. | +U   | ne**U**roticism                                                 | −U => −u => skip => +u => +U     |
 
 \*Value-dependent notation details:
 
