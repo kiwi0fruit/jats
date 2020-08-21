@@ -30,7 +30,7 @@ This is an alternative translation of the basic concepts of one of the braches o
   - [11.6 Dynamic-static axis as a measure of Khizhnyak functions differentiation](#116-dynamic-static-axis-as-a-measure-of-khizhnyak-functions-differentiation)
   - [11.7 Model A analogue stub with Gulenko's temperaments and Khizhnyak functions](#117-model-a-analogue-stub-with-gulenkos-temperaments-and-khizhnyak-functions)
   - [11.8 FZA1: Hypothesis for 7 axes of independent variation in factorized traits space](#118-fza1-hypothesis-for-7-axes-of-independent-variation-in-factorized-traits-space)
-    - [11.8.1 Brackets - difference between reference types names and survey results names]()
+    - [11.8.1 Brackets - difference between reference types names and survey results names](#1181-brackets---difference-between-reference-types-names-and-survey-results-names)
 
 
 ## Summary
