@@ -113,7 +113,7 @@ Gulenko's Temperaments:
 * I/IR - balanced-stable, **R**ational-**I**ntroverted-static. Are characterized by slow and methodical behavior,
 * I/-ER - receptive-adaptive, Ir**R**ational-**I**ntroverted-dynamic. Are characterized by lack of motivation, inertia, and unstable moods and energy levels.
 
-Note that first E/I letter is redundant as it only helps to read faster. −IR, +ER, +IR, −ER are enough to encode all 4 temperaments.
+Note that first E/I letter is redundant as it only helps to read faster. -IR, ER, IR, -ER are enough to encode all 4 temperaments.
 
 It can also be speculated that temperaments can be classified according to +R/−R and I/E traits:
 
@@ -147,7 +147,7 @@ Names are in the following order:
 |         |                     IEE  ENFP                     |                    EII  INFx                    |                     SLI  ISTx                     |                    LSE  ESTJ                    |
 |         | dominant extraverted intuiter & irrational feeler | dominant introverted feeler & rational intuiter |  dominant introverted sensor & irrational tasker  |  dominant extraverted tasker & rational sensor  |
 
-Note that first E/I letter is redundant as it only helps to read faster. −IR, +ER, +IR, −ER are enough to encode all 4 temperaments.
+Note that first E/I letter is redundant as it only helps to read faster. -iR, iR, -eR, eR are enough to encode all 4 temperaments.
 
 For example INT(iR) is *intuitive task-oriented rational introvert with dominant Ti.* or *dominant introverted tasker & rational intuiter*.
 
@@ -169,21 +169,21 @@ Both translations and names were revised. Lytov's translation of Gulenko's names
 
 |  ID | JATS¹  | Mnemonic               | Revised Gulenko's | Literal Gulenko (Gulenko-Lytov), Keirsey³ (Keirsey-1984²) |
 | ---:| ------ | ---------------------- | ----------------- |:---------------------------------------------------------:|
-|   1 | ENT(-iR) | The very first curious | **Inventor**      |                     Seeker, Inventor                      |
+|   1 | ENT(−iR) | The very first curious | **Inventor**      |                     Seeker, Inventor                      |
 |   2 | INT(iR) | The second one curious | Analyst           |              Analyst, Mastermind (Scientist)              |
-|   3 | ISF(-eR) | Three Musketeers Dumas | Mediator          |                Mediator, Composer (Artist)                |
+|   3 | ISF(−eR) | Three Musketeers Dumas | Mediator          |                Mediator, Composer (Artist)                |
 |   4 | ESF(eR) | Four elements          | **Enthusiast**    |         Enthusiast (Bonvivant), Provider (Seller)         |
-|   5 | EST(-iR) | The five senses        | **General**       |               Marshal (Commander), Promoter               |
+|   5 | EST(−iR) | The five senses        | **General**       |               Marshal (Commander), Promoter               |
 |   6 | IST(iR) | Has no sixth sense     | Inspector         |              Inspector, Inspector (Trustee)               |
-|   7 | INF(-eR) | Seven Sins / Wonders   | **Poet**          |                Lyricist, Healer (Questor)                 |
+|   7 | INF(−eR) | Seven Sins / Wonders   | **Poet**          |                Lyricist, Healer (Questor)                 |
 |   8 | ENF(eR) | Eight-bit              | **Inspirer**      |                Mentor, Teacher (Pedagogue)                |
-|   9 | ESF(-iR) | Nine lives of a cat    | Politician        |            Politician, Performer (Entertainer)            |
+|   9 | ESF(−iR) | Nine lives of a cat    | Politician        |            Politician, Performer (Entertainer)            |
 |  10 | ISF(iR) | Proper as a dozen      | Guardian          |             Guardian, Protector (Conservator)             |
-|  11 | INT(-eR) | 11 football players    | **Foreseer**      |                     Critic, Architect                     |
+|  11 | INT(−eR) | 11 football players    | **Foreseer**      |                     Critic, Architect                     |
 |  12 | ENT(eR) | 12 hours, dozen        | **Entrepreneur**  |         Entrepreneur (Enterpriser), Fieldmarshal          |
-|  13 | ENF(-iR) | Devil's/Baker's dozen  | **Journalist**    |   Advise-giver (Psychologist), Champion\* (Journalist)    |
+|  13 | ENF(−iR) | Devil's/Baker's dozen  | **Journalist**    |   Advise-giver (Psychologist), Champion\* (Journalist)    |
 |  14 | INF(iR) | Twice sinful as 7 type | Humanist          |               Humanist, Counselor (Author)                |
-|  15 | IST(-eR) | Finishes the job too   | Craftsman         |               Craftsman, Crafter (Artisan)                |
+|  15 | IST(−eR) | Finishes the job too   | Craftsman         |               Craftsman, Crafter (Artisan)                |
 |  16 | EST(eR) | Finishes the job       | Administrator     |         Administrator, Supervisor (Administrator)         |
 
 ¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
