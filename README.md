@@ -242,7 +242,7 @@ So in my translation of Model A I wanted to fix possible misunderstandings:
 * I simply like **7-Restrictive** more than alternatives (it also better than *restricting*).
 * **8-Background** is better than *demonstrative* which became ambiguous because of the Model G. And *background* better aligns with it's meaning of **Automatic auxiliary**.
 
-| Functions        |                  | Strength | Consciousness             | Value        | Example     | ENT(-iR)      |
+| Functions        |                  | Strength | Consciousness             | Value        | Example     | ENT(−iR)      |
 | ---------------- | ---------------- | -------- | ------------------------- | ------------ | -----------:|:----------- |
 | ***1 Dominant*** | 2 Supporting     | strong   | conscious                 | valuable     | ***1 Ne.*** | 2 Ti.       |
 | 4 Vulnerable     | ***3 Role***     | weak     | conscious                 | not valuable | 4 Fi.       | ***3 Se.*** |
@@ -417,7 +417,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |       \*INT        |                    INT(iR) v INT(-eR) v \~INT v ...                     |       \~INT        |
 |      \*IT(iR)      |                   INT(iR) v IST(iR) v \~IT(iR) v ...                    |      \~IT(iR)      |
 | \*NT(-C), \*NT(Ad) |                   ENT(-iR) v INT(iR) v \~NT(-C) v ...                   | \~NT(-C), \~NT(Ad) |
-|      \*NT(+R)      |                   ENT(eR) v INT(iR) v \~NT(+R) v ...                    |      \~NT(+R)      |
+|      \*NT(R)       |                    ENT(eR) v INT(iR) v \~NT(R) v ...                    |      \~NT(R)       |
 |      \*IN(iR)      |                   INT(iR) v INF(iR) v \~IN(iR) v ...                    |      \~IN(iR)      |
 |      \*IT(Ad)      |                   INT(iR) v IST(-eR) v \~IT(Ad) v ...                   |      \~IT(Ad)      |
 |      \*IN(Ab)      |                   INT(iR) v INF(-eR) v \~IN(Ab) v ...                   |      \~IN(Ab)      |
@@ -426,7 +426,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |     \*NT(-C¬1)     |                 INT(iR) v \~NT(-C) v ... (not ENT(-iR))                 |     INT(iR+1)      |
 |     \*IT(iR¬6)     |                 INT(iR) v \~IT(iR) v ... (not IST(iR))                  |     INT(iR+6)      |
 |      \*N(-C)       |        INT(iR) v ENT(-iR) v INF(iR) v ENF(-iR) v \~EN(-iR) v ...        |         ?          |
-|  \*I(Bg), \*I(+C)  |        IST(iR) v INF(-eR) v ISF(iR) v INT(-eR) v \~IN(-eR) v ...        |         ?          |
+|  \*I(Bg), \*I(C)   |        IST(iR) v INF(-eR) v ISF(iR) v INT(-eR) v \~IN(-eR) v ...        |         ?          |
 |      \*N(-R)       | ENT(-iR) v INF(-eR) v INT(-eR) v ENF(-iR) v \~EN(-iR) v \~IN(-eR) v ... |         ?          |
 |        \*IT        |        INT(iR) v IST(iR) v INT(-eR) v IST(-eR) v \~IT(iR) v ...         |         ?          |
 |    \*EN(-iR-13)    |                ENT(-iR) v \~EN(-iR) v ... (not ENF(-iR))                |    ENT(-iR+13)     |
