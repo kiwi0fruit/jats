@@ -30,6 +30,7 @@ This is an alternative translation of the basic concepts of one of the braches o
   - [11.6 Dynamic-static axis as a measure of Khizhnyak functions differentiation](#116-dynamic-static-axis-as-a-measure-of-khizhnyak-functions-differentiation)
   - [11.7 Model A analogue stub with Gulenko's temperaments and Khizhnyak functions](#117-model-a-analogue-stub-with-gulenkos-temperaments-and-khizhnyak-functions)
   - [11.8 FZA1: Hypothesis for 7 axes of independent variation in factorized traits space](#118-fza1-hypothesis-for-7-axes-of-independent-variation-in-factorized-traits-space)
+    - [11.8.1 Brackets - difference between reference types names and survey results names]()
 
 
 ## Summary
@@ -755,6 +756,11 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 * axis is skipped if 0.00 ≤ round(|x|) < 0.3
 * notation example: ENT(-IR+er-IC+ec-U)
 * first E is obtained from (−IR, +ER, −IC, +EC) vector via projecting on (0.5, 0.5, 0.5, 0.5) direction.
+
+
+### 11.8.1 Brackets - difference between reference types names and survey results names
+
+Reference types names are without brackets as postfix like "−ER" has only theoretical meaning. It only helps to pick the right reference cognitive functions stack. But when we have survey results notation we are no longer sure about the stack and only have values of positions on independent axes.
 
 --------
 
