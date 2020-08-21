@@ -28,6 +28,7 @@ This is an alternative translation of the basic concepts of one of the braches o
   - [11.5 Dominant-agnostic type names](#115-dominant-agnostic-type-names)
   - [11.6 Dynamic-static axis as a measure of Khizhnyak functions differentiation](#116-dynamic-static-axis-as-a-measure-of-khizhnyak-functions-differentiation)
   - [11.7 Model A analogue stub with Gulenko's temperaments and Khizhnyak functions](#117-model-a-analogue-stub-with-gulenkos-temperaments-and-khizhnyak-functions)
+  - [11.8 FZA1: Hypothesis for 7 axes of independent variation in factorized traits space](#118-fza1--hypothesis-for-7-axes-of-independent-variation-in-factorized-traits-space)
 
 
 ## Summary
@@ -646,7 +647,6 @@ Worth noting that non-standard dominant functions do not require abstract static
 Even if non-standard dominant Khizhnyak functions are not real this notation can still be used for classical Socionics types.
 
 
-
 ### 11.6 Dynamic-static axis as a measure of Khizhnyak functions differentiation
 
 Dynamic-static axis is not in 8 Reinin-Khizhnyak axes but still it can be a special one. It's value can be interpretred as a max abs value of Khizhnyak axes and it can correspond to the most differentiated (as Jung meant it) cognitive function from 24 Khizhnyak functions.
@@ -717,6 +717,28 @@ This would give: (1T<sub>+IR</sub>, 2N<sub>+IR</sub>, 2Q<sub>+IR</sub>, 7T<sub>+
 Here I assumed that I need to put functions in 1-dominant/2-supporting pair in a way that they are of different nature (T/N or T/Q are fine but T/F or T<sub>+IR</sub>/T<sub>−IR</sub> are not) but of the **same** dynamic/static axis (T<sub>±IR</sub>/N<sub>±IR</sub> is fine but T<sub>±IR</sub>/N<sub>±ER</sub> is not). Hence I need to mix functions from conscious temperaments for this. I also assumed that I need to put functions in 1-dominant/8-background pair in a way that they are of different nature (T/N or T/Q are fine but T/F or T<sub>+IR</sub>/T<sub>+ER</sub> are not) and of **different** dynamic/static axis (T<sub>±IR</sub>/N<sub>±ER</sub> is fine but T<sub>±IR</sub>/N<sub>±IR</sub> is not). This way I emulate Model A behaviour of 1-2-8 functions with Abstracted Khizhnyak X<sub>±IR</sub>/X<sub>±ER</sub> functions.
 
 If we take another hypothetical person example with T<sub>+ER</sub>=0.5, T<sub>+IR</sub>=S<sub>+IR</sub>=D<sub>+IR</sub>=0.3, other Khizhnyak functions ~0 then we can either assume (1T<sub>+ER</sub>, 7T<sub>+IR</sub>, 8S<sub>+IR</sub>, 8D<sub>+IR</sub>) or assume (1S<sub>+IR</sub>, 2D<sub>+IR</sub>, 2T<sub>+IR</sub>, 8T<sub>+ER</sub>). The second case is tempting because it doesn't have strong 7-restrictive but it uses non-standard Khizhnyak dominant function and would have 8th stronger than 1th. So the first case is more likely (with standard 1-dominant that is the strongest of all).
+
+
+### 11.8 FZA1: Hypothesis for 7 axes of independent variation in factorized traits space
+
+Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstracted Khizhnyak axes) might be axes of independent variation in factorized traits space. But I'm of opinion (based on almost ready model fitted to the Socionics database of \~10000 surveys) that it's not the case. More likely that it would be **Factorized Axes FZA1**:
+
+|    | FZA1 | Axis name                                                              | Value-dependent notation for survey results\* |
+| -- |:---- | ---------------------------------------------------------------------- |:--------------------------------:|
+| 1. | +N   | **S**ensory=>i**N**tuitive                                             | S => s => skip => n => N         |
+| 2. | +T   | **F**eelings-oriented=>**T**ask-oriented                               | F => f => skip => t => T         |
+| 3. | −IR  | **R**ational-**I**ntroverted=>ir**R**ational-**E**xtraverted           | +IR => +ir => skip => −ir => −IR |
+| 4. | +ER  | ir**R**ational-**I**ntroverted=>**Rational**-**E**xtraverted           | −ER => −er => skip => +er => +ER |
+| 5. | −IC  | **C**entral-**I**ntroverted=>non**C**entral-**E**xtraverted (IBG=>EAD) | +IC => +ic => skip => −ic => −IC |
+| 6. | +EC  | non**C**entral-**I**ntroverted=>**C**entral-**E**xtraverted (IAD=>EBG) | −EC => −ec => skip => +ec => +EC |
+| 7. | +U   | ne**U**roticism                                                        | −U => −u => skip => +u => +U     |
+
+\*Value-dependent notation details:
+
+* UPPERCASE if 0.9 ≤ round(|x|)
+* lowercase if 0.3 ≤ round(|x|) < 0.9
+* axis is skipped if 0.00 ≤ round(|x|) < 0.3
+* Notation example: ENT(-IR+er+IC+ec-U) (first E is taken from IR and ER axes via rot 45°)
 
 --------
 
