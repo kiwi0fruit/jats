@@ -113,6 +113,8 @@ Gulenko's Temperaments:
 * I+IR - balanced-stable, **R**ational-**I**ntroverted-static. Are characterized by slow and methodical behavior,
 * I−ER - receptive-adaptive, Ir**R**ational-**I**ntroverted-dynamic. Are characterized by lack of motivation, inertia, and unstable moods and energy levels.
 
+Note that first E/I letter is redundant as it only helps to read faster. −IR, +ER, +IR, −ER are enough to encode all 4 temperaments.
+
 It can also be speculated that temperaments can be classified according to +R/−R and I/E traits:
 
 * E−IR - spontaneous proactivity,
@@ -144,6 +146,8 @@ Names are in the following order:
 | δ Delta |                **ENF−IR**  **13**                 |               **INF+IR**  **14**                |                **IST−ER**  **15**                 |               **EST+ER**  **16**                |
 |         |                     IEE  ENFP                     |                    EII  INFx                    |                     SLI  ISTx                     |                    LSE  ESTJ                    |
 |         | dominant extraverted intuiter & irrational feeler | dominant introverted feeler & rational intuiter |  dominant introverted sensor & irrational tasker  |  dominant extraverted tasker & rational sensor  |
+
+Note that first E/I letter is redundant as it only helps to read faster. −IR, +ER, +IR, −ER are enough to encode all 4 temperaments.
 
 For example INT+IR is *intuitive task-oriented rational introvert with dominant Ti.* or *dominant introverted tasker & rational intuiter*.
 
