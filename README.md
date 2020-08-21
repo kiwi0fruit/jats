@@ -17,6 +17,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 * [8. Quadras and functions. Why quadras grouped this way? Central vs. Lateral types](#8-quadras-and-functions-why-quadras-grouped-this-way-central-vs-lateral-types)
   - [8.1 Interactive table of intertype relationships](#81-interactive-table-of-intertype-relationships)
 * [9. Intermediate and unknown types names](#9-intermediate-and-unknown-types-names)
+  - [9.1 Brackets - difference between reference types names and intermediate types names](#91-brackets-difference-between-reference-types-names-and-intermediate-types names)
 * [10. Further reading and notable discussions](#10-further-reading-and-notable-discussions)
 * [11. Symmetries of Reinin dichotomies and their connection to Khizhnyak functions and axes](#11-symmetries-of-reinin-dichotomies-and-their-connection-to-khizhnyak-functions-and-axes)
   - [11.1 Reinin dichotomies](#111-reinin-dichotomies)
@@ -432,6 +433,11 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |    \*EN(−IR−13)    |              ENT−IR v \~EN(−IR) v ... (not ENF−IR)              |    ENT(−IR+13)     |
 | \*EN(−IR)[1,1\~13] |              ENT−IR v \~EN(−IR) v ... (not ENF−IR)              |    ENT(−IR+13)     |
 |     \*IT[2,15]     |                INT+IR v IST−ER v \~IT(+AD) v ...                |    \~IT[2\~15]     |
+
+
+### 9.1 Brackets - difference between reference types names and intermediate types names
+
+Reference types names are without brackets as postfix like "−ER" has only theoretical meaning. It only helps to pick the right reference cognitive functions stack. But when we use intermediate types we are no longer sure about the stack and are about to approximately place the person in relation to reference types. Hence postfix like "−ER" can be of different purposes: either to pick the right reference cognitive functions stack or to describe a behaviour directly.
 
 
 ## 10. Further reading and notable discussions
