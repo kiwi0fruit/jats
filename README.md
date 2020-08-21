@@ -422,9 +422,9 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |      \*IT(Ad)      |                   INT(iR) v IST(-eR) v \~IT(Ad) v ...                   |      \~IT(Ad)      |
 |      \*IN(Ab)      |                   INT(iR) v INF(-eR) v \~IN(Ab) v ...                   |      \~IN(Ab)      |
 |     \*I(iR+Ag)     |                  INT(iR) v ISF(iR) v \~I(iR+Ag) v ...                   |     \~I(iR+Ag)     |
-|    \*EN(-iR¬13)    |                ENT(-iR) v \~EN(-iR) v ... (not ENF(-iR))                |    ENT(-iR+13)     |
-|     \*NT(-C¬1)     |                 INT(iR) v \~NT(-C) v ... (not ENT(-iR))                 |     INT(iR+1)      |
-|     \*IT(iR¬6)     |                 INT(iR) v \~IT(iR) v ... (not IST(iR))                  |     INT(iR+6)      |
+|    \*EN(-iR-13)    |                ENT(-iR) v \~EN(-iR) v ... (not ENF(-iR))                |    ENT(-iR+13)     |
+|     \*NT(-C-1)     |                 INT(iR) v \~NT(-C) v ... (not ENT(-iR))                 |     INT(iR+1)      |
+|     \*IT(iR-6)     |                 INT(iR) v \~IT(iR) v ... (not IST(iR))                  |     INT(iR+6)      |
 |      \*N(-C)       |        INT(iR) v ENT(-iR) v INF(iR) v ENF(-iR) v \~EN(-iR) v ...        |         ?          |
 |  \*I(Bg), \*I(C)   |        IST(iR) v INF(-eR) v ISF(iR) v INT(-eR) v \~IN(-eR) v ...        |         ?          |
 |      \*N(-R)       | ENT(-iR) v INF(-eR) v INT(-eR) v ENF(-iR) v \~EN(-iR) v \~IN(-eR) v ... |         ?          |
