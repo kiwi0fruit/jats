@@ -28,7 +28,7 @@ This is an alternative translation of the basic concepts of one of the braches o
   - [11.5 Dominant-agnostic type names](#115-dominant-agnostic-type-names)
   - [11.6 Dynamic-static axis as a measure of Khizhnyak functions differentiation](#116-dynamic-static-axis-as-a-measure-of-khizhnyak-functions-differentiation)
   - [11.7 Model A analogue stub with Gulenko's temperaments and Khizhnyak functions](#117-model-a-analogue-stub-with-gulenkos-temperaments-and-khizhnyak-functions)
-  - [11.8 FZA1: Hypothesis for 7 axes of independent variation in factorized traits space](#118-fza1--hypothesis-for-7-axes-of-independent-variation-in-factorized-traits-space)
+  - [11.8 FZA1: Hypothesis for 7 axes of independent variation in factorized traits space](#118-fza1-hypothesis-for-7-axes-of-independent-variation-in-factorized-traits-space)
 
 
 ## Summary
@@ -728,7 +728,7 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 | 1. | +N   | **S**ensory=>i**N**tuitive                                             | S => s => skip => n => N         |
 | 2. | +T   | **F**eelings-oriented=>**T**ask-oriented                               | F => f => skip => t => T         |
 | 3. | −IR  | **R**ational-**I**ntroverted=>ir**R**ational-**E**xtraverted           | +IR => +ir => skip => −ir => −IR |
-| 4. | +ER  | ir**R**ational-**I**ntroverted=>**Rational**-**E**xtraverted           | −ER => −er => skip => +er => +ER |
+| 4. | +ER  | ir**R**ational-**I**ntroverted=>**R**ational-**E**xtraverted           | −ER => −er => skip => +er => +ER |
 | 5. | −IC  | **C**entral-**I**ntroverted=>non**C**entral-**E**xtraverted (IBG=>EAD) | +IC => +ic => skip => −ic => −IC |
 | 6. | +EC  | non**C**entral-**I**ntroverted=>**C**entral-**E**xtraverted (IAD=>EBG) | −EC => −ec => skip => +ec => +EC |
 | 7. | +U   | ne**U**roticism                                                        | −U => −u => skip => +u => +U     |
