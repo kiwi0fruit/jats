@@ -738,7 +738,8 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 * UPPERCASE if 0.9 ≤ round(|x|)
 * lowercase if 0.3 ≤ round(|x|) < 0.9
 * axis is skipped if 0.00 ≤ round(|x|) < 0.3
-* Notation example: ENT(-IR+er+IC+ec-U) (first E is taken from IR and ER axes via rot 45°)
+* notation example: ENT(-IR+er+IC+ec-U)
+* first E is taken from (-IR, +ER) vector via rot(+45°) and taking first component.
 
 --------
 
