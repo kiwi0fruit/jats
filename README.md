@@ -381,10 +381,10 @@ It's possible to drop postfix for introverts too but then it can easily be mista
 
 |     Quadras | Abbr.   | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
 | -----------:| ------- | ------------------- | ------------------ | -------- | ------------- |
-| Alpha-delta | **AD**, **−C** | Ne. or Si.          | Ne. and Si.        | Lateral  | Pacific, peaceful, cooperative, sensible, and leisurely unhurried ways |
-|  Beta-gamma | **BG**, **+C** | Se. or Ni.          | Se. and Ni.        | **C**entral  | Rival, competitive, argessive, time-bound and fast resolutive ways |
-|  Alpha-beta | **AB** | Fe. or Ti.          | Fe. and Ti.        |          |               |
-| Gamma-delta | **GD** | Te. or Fi.          | Te. and Fi.        |          |               |
+| Alpha-Delta | **AD**, **−C** | Ne. or Si.          | Ne. and Si.        | Lateral  | Pacific, peaceful, cooperative, sensible, and leisurely unhurried ways |
+|  Beta-Gamma | **BG**, **+C** | Se. or Ni.          | Se. and Ni.        | **C**entral  | Rival, competitive, argessive, time-bound and fast resolutive ways |
+|  Alpha-Beta | **AB** | Fe. or Ti.          | Fe. and Ti.        |          |               |
+| Gamma-Delta | **GD** | Te. or Fi.          | Te. and Fi.        |          |               |
 
 Examples:
 
@@ -740,8 +740,8 @@ To summ up briefly in old terms: N/S, T/F, neUroticism, PE/JI, JE/PI, EAD/IBG, E
 * UPPERCASE if 0.9 ≤ round(|x|)
 * lowercase if 0.3 ≤ round(|x|) < 0.9
 * axis is skipped if 0.00 ≤ round(|x|) < 0.3
-* notation example: ENT(-IR+er+IC+ec-U)
-* first E is obtained from (-IR, +ER, -IC, +EC) vector via projecting on (0.5, 0.5, 0.5, 0.5) direction.
+* notation example: ENT(-IR+er−IC+ec-U)
+* first E is obtained from (−IR, +ER, −IC, +EC) vector via projecting on (0.5, 0.5, 0.5, 0.5) direction.
 
 --------
 
