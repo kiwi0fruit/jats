@@ -132,18 +132,18 @@ Names are in the following order:
 - **Socionics reference type**, **Number name**,
 - Socionics type name literal translation, MBTI name.
 
-| quadra  |                       E/‑IR                        |                      I/IR                       |                       I/‑ER                        |                      E/ER                       |
+| quadra  |                       E/‑IR                       |                      I/IR                       |                       I/‑ER                       |                      E/ER                       |
 |:------- |:-------------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------------:|:-----------------------------------------------:|
-| α Alpha |                 **ENT(‑iR)**  **1**                 |                **INT(iR)**  **2**                |                 **ISF(‑eR)**  **3**                 |                **ESF(eR)**  **4**                |
+| α Alpha |                **ENT(‑iR)**  **1**                |               **INT(iR)**  **2**                |                **ISF(‑eR)**  **3**                |               **ESF(eR)**  **4**                |
 |         |                     ILE  ENTP                     |                    LII  INTx                    |                     SEI  ISFx                     |                    ESE  ESFJ                    |
 |         | dominant extraverted intuiter & irrational tasker | dominant introverted tasker & rational intuiter |  dominant introverted sensor & irrational feeler  |  dominant extraverted feeler & rational sensor  |
-| β Beta  |                 **EST(‑iR)**  **5**                 |                **IST(iR)**  **6**                |                 **INF(‑eR)**  **7**                 |                **ENF(eR)**  **8**                |
+| β Beta  |                **EST(‑iR)**  **5**                |               **IST(iR)**  **6**                |                **INF(‑eR)**  **7**                |               **ENF(eR)**  **8**                |
 |         |                     SLE  ESTP                     |                    LSI  ISTx                    |                     IEI  INFx                     |                    EIE  ENFJ                    |
 |         |  dominant extraverted sensor & irrational tasker  |  dominant introverted tasker & rational sensor  | dominant introverted intuiter & irrational feeler | dominant extraverted feeler & rational intuiter |
-| γ Gamma |                 **ESF(‑iR)**  **9**                 |               **ISF(iR)**  **10**                |                **INT(‑eR)**  **11**                 |               **ENT(eR)**  **12**                |
+| γ Gamma |                **ESF(‑iR)**  **9**                |               **ISF(iR)**  **10**               |               **INT(‑eR)**  **11**                |               **ENT(eR)**  **12**               |
 |         |                     SEE  ESFP                     |                    ESI  ISFx                    |                     ILI  INTx                     |                    LIE  ENTJ                    |
 |         |  dominant extraverted sensor & irrational feeler  |  dominant introverted feeler & rational sensor  | dominant introverted intuiter & irrational tasker | dominant extraverted tasker & rational intuiter |
-| δ Delta |                **ENF(‑iR)**  **13**                 |               **INF(iR)**  **14**                |                **IST(‑eR)**  **15**                 |               **EST(eR)**  **16**                |
+| δ Delta |               **ENF(‑iR)**  **13**                |               **INF(iR)**  **14**               |               **IST(‑eR)**  **15**                |               **EST(eR)**  **16**               |
 |         |                     IEE  ENFP                     |                    EII  INFx                    |                     SLI  ISTx                     |                    LSE  ESTJ                    |
 |         | dominant extraverted intuiter & irrational feeler | dominant introverted feeler & rational intuiter |  dominant introverted sensor & irrational tasker  |  dominant extraverted tasker & rational sensor  |
 
@@ -167,24 +167,24 @@ Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor 
 
 Both translations and names were revised. Lytov's translation of Gulenko's names is the main translation used now.
 
-|  ID | JATS¹  | Mnemonic               | Revised Gulenko's | Literal Gulenko (Gulenko-Lytov), Keirsey³ (Keirsey-1984²) |
-| ---:| ------ | ---------------------- | ----------------- |:---------------------------------------------------------:|
+|  ID | JATS¹    | Mnemonic               | Revised Gulenko's | Literal Gulenko (Gulenko-Lytov), Keirsey³ (Keirsey-1984²) |
+| ---:| -------- | ---------------------- | ----------------- |:---------------------------------------------------------:|
 |   1 | ENT(‑iR) | The very first curious | **Inventor**      |                     Seeker, Inventor                      |
-|   2 | INT(iR) | The second one curious | Analyst           |              Analyst, Mastermind (Scientist)              |
+|   2 | INT(iR)  | The second one curious | Analyst           |              Analyst, Mastermind (Scientist)              |
 |   3 | ISF(‑eR) | Three Musketeers Dumas | Mediator          |                Mediator, Composer (Artist)                |
-|   4 | ESF(eR) | Four elements          | **Enthusiast**    |         Enthusiast (Bonvivant), Provider (Seller)         |
+|   4 | ESF(eR)  | Four elements          | **Enthusiast**    |         Enthusiast (Bonvivant), Provider (Seller)         |
 |   5 | EST(‑iR) | The five senses        | **General**       |               Marshal (Commander), Promoter               |
-|   6 | IST(iR) | Has no sixth sense     | Inspector         |              Inspector, Inspector (Trustee)               |
+|   6 | IST(iR)  | Has no sixth sense     | Inspector         |              Inspector, Inspector (Trustee)               |
 |   7 | INF(‑eR) | Seven Sins / Wonders   | **Poet**          |                Lyricist, Healer (Questor)                 |
-|   8 | ENF(eR) | Eight-bit              | **Inspirer**      |                Mentor, Teacher (Pedagogue)                |
+|   8 | ENF(eR)  | Eight-bit              | **Inspirer**      |                Mentor, Teacher (Pedagogue)                |
 |   9 | ESF(‑iR) | Nine lives of a cat    | Politician        |            Politician, Performer (Entertainer)            |
-|  10 | ISF(iR) | Proper as a dozen      | Guardian          |             Guardian, Protector (Conservator)             |
+|  10 | ISF(iR)  | Proper as a dozen      | Guardian          |             Guardian, Protector (Conservator)             |
 |  11 | INT(‑eR) | 11 football players    | **Foreseer**      |                     Critic, Architect                     |
-|  12 | ENT(eR) | 12 hours, dozen        | **Entrepreneur**  |         Entrepreneur (Enterpriser), Fieldmarshal          |
+|  12 | ENT(eR)  | 12 hours, dozen        | **Entrepreneur**  |         Entrepreneur (Enterpriser), Fieldmarshal          |
 |  13 | ENF(‑iR) | Devil's/Baker's dozen  | **Journalist**    |   Advise-giver (Psychologist), Champion\* (Journalist)    |
-|  14 | INF(iR) | Twice sinful as 7 type | Humanist          |               Humanist, Counselor (Author)                |
+|  14 | INF(iR)  | Twice sinful as 7 type | Humanist          |               Humanist, Counselor (Author)                |
 |  15 | IST(‑eR) | Finishes the job too   | Craftsman         |               Craftsman, Crafter (Artisan)                |
-|  16 | EST(eR) | Finishes the job       | Administrator     |         Administrator, Supervisor (Administrator)         |
+|  16 | EST(eR)  | Finishes the job       | Administrator     |         Administrator, Supervisor (Administrator)         |
 
 ¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
 ² David Keirsey, Marilyn Bates, *Please understand Me, Character and Temperament Types*, 1984,  
@@ -278,30 +278,30 @@ So in my translation of Model A I wanted to fix possible misunderstandings:
 * Additional info on Model A can be found in [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 
 |       | **E/‑IR**    |             |     | **I/IR**    |             |     | **I/‑ER**    |             |     | **E/ER**    |             |
-| ----- |:----------- |:----------- | --- |:----------- |:----------- | --- |:----------- |:----------- | --- |:----------- |:----------- |
-| **α** | **ENT(‑iR)**  | **1**       |     | **INT(iR)**  | **2**       |     | **ISF(‑eR)**  | **3**       |     | **ESF(eR)**  | **4**       |
-|       | ***1 Ne.*** | 2 Ti.       |     | ***1 Ti.*** | 2 Ne.       |     | ***1 Si.*** | 2 Fe.       |     | ***1 Fe.*** | 2 Si.       |
-|       | 4 Fi.       | ***3 Se.*** |     | 4 Se.       | ***3 Fi.*** |     | 4 Te.       | ***3 Ni.*** |     | 4 Ni.       | ***3 Te.*** |
-|       | *5 Si.*     | **6 Fe.**   |     | *5 Fe.*     | **6 Si.**   |     | *5 Ne.*     | **6 Ti.**   |     | *5 Ti.*     | **6 Ne.**   |
-|       | **8 Te.**   | *7 Ni.*     |     | **8 Ni.**   | *7 Te.*     |     | **8 Fi.**   | *7 Se.*     |     | **8 Se.**   | *7 Fi.*     |
-|       |             |             |     |             |             |     |             |             |     |             |             |
-| **β** | **EST(‑iR)**  | **5**       |     | **IST(iR)**  | **6**       |     | **INF(‑eR)**  | **7**       |     | **ENF(eR)**  | **8**       |
-|       | ***1 Se.*** | 2 Ti.       |     | ***1 Ti.*** | 2 Se.       |     | ***1 Ni.*** | 2 Fe.       |     | ***1 Fe.*** | 2 Ni.       |
-|       | 4 Fi.       | ***3 Ne.*** |     | 4 Ne.       | ***3 Fi.*** |     | 4 Te.       | ***3 Si.*** |     | 4 Si.       | ***3 Te.*** |
-|       | *5 Ni.*     | **6 Fe.**   |     | *5 Fe.*     | **6 Ni.**   |     | *5 Se.*     | **6 Ti.**   |     | *5 Ti.*     | **6 Se.**   |
-|       | **8 Te.**   | *7 Si.*     |     | **8 Si.**   | *7 Te.*     |     | **8 Fi.**   | *7 Ne.*     |     | **8 Ne.**   | *7 Fi.*     |
-|       |             |             |     |             |             |     |             |             |     |             |             |
-| **γ** | **ESF(‑iR)**  | **9**       |     | **ISF(iR)**  | **10**      |     | **INT(‑eR)**  | **11**      |     | **ENT(eR)**  | **12**      |
-|       | ***1 Se.*** | 2 Fi.       |     | ***1 Fi.*** | 2 Se.       |     | ***1 Ni.*** | 2 Te.       |     | ***1 Te.*** | 2 Ni.       |
-|       | 4 Ti.       | ***3 Ne.*** |     | 4 Ne.       | ***3 Ti.*** |     | 4 Fe.       | ***3 Si.*** |     | 4 Si.       | ***3 Fe.*** |
-|       | *5 Ni.*     | **6 Te.**   |     | *5 Te.*     | **6 Ni.**   |     | *5 Se.*     | **6 Fi.**   |     | *5 Fi.*     | **6 Se.**   |
-|       | **8 Fe.**   | *7 Si.*     |     | **8 Si.**   | *7 Fe.*     |     | **8 Ti.**   | *7 Ne.*     |     | **8 Ne.**   | *7 Ti.*     |
-|       |             |             |     |             |             |     |             |             |     |             |             |
-| **δ** | **ENF(‑iR)**  | **13**      |     | **INF(iR)**  | **14**      |     | **IST(‑eR)**  | **15**      |     | **EST(eR)**  | **16**      |
-|       | ***1 Ne.*** | 2 Fi.       |     | ***1 Fi.*** | 2 Ne.       |     | ***1 Si.*** | 2 Te.       |     | ***1 Te.*** | 2 Si.       |
-|       | 4 Ti.       | ***3 Se.*** |     | 4 Se.       | ***3 Ti.*** |     | 4 Fe.       | ***3 Ni.*** |     | 4 Ni.       | ***3 Fe.*** |
-|       | *5 Si.*     | **6 Te.**   |     | *5 Te.*     | **6 Si.**   |     | *5 Ne.*     | **6 Fi.**   |     | *5 Fi.*     | **6 Ne.**   |
-|       | **8 Fe.**   | *7 Ni.*     |     | **8 Ni.**   | *7 Fe.*     |     | **8 Ti.**   | *7 Se.*     |     | **8 Se.**   | *7 Ti.*     |
+| ----- |:------------ |:----------- | --- |:----------- |:----------- | --- |:------------ |:----------- | --- |:----------- |:----------- |
+| **α** | **ENT(‑iR)** | **1**       |     | **INT(iR)** | **2**       |     | **ISF(‑eR)** | **3**       |     | **ESF(eR)** | **4**       |
+|       | ***1 Ne.***  | 2 Ti.       |     | ***1 Ti.*** | 2 Ne.       |     | ***1 Si.***  | 2 Fe.       |     | ***1 Fe.*** | 2 Si.       |
+|       | 4 Fi.        | ***3 Se.*** |     | 4 Se.       | ***3 Fi.*** |     | 4 Te.        | ***3 Ni.*** |     | 4 Ni.       | ***3 Te.*** |
+|       | *5 Si.*      | **6 Fe.**   |     | *5 Fe.*     | **6 Si.**   |     | *5 Ne.*      | **6 Ti.**   |     | *5 Ti.*     | **6 Ne.**   |
+|       | **8 Te.**    | *7 Ni.*     |     | **8 Ni.**   | *7 Te.*     |     | **8 Fi.**    | *7 Se.*     |     | **8 Se.**   | *7 Fi.*     |
+|       |              |             |     |             |             |     |              |             |     |             |             |
+| **β** | **EST(‑iR)** | **5**       |     | **IST(iR)** | **6**       |     | **INF(‑eR)** | **7**       |     | **ENF(eR)** | **8**       |
+|       | ***1 Se.***  | 2 Ti.       |     | ***1 Ti.*** | 2 Se.       |     | ***1 Ni.***  | 2 Fe.       |     | ***1 Fe.*** | 2 Ni.       |
+|       | 4 Fi.        | ***3 Ne.*** |     | 4 Ne.       | ***3 Fi.*** |     | 4 Te.        | ***3 Si.*** |     | 4 Si.       | ***3 Te.*** |
+|       | *5 Ni.*      | **6 Fe.**   |     | *5 Fe.*     | **6 Ni.**   |     | *5 Se.*      | **6 Ti.**   |     | *5 Ti.*     | **6 Se.**   |
+|       | **8 Te.**    | *7 Si.*     |     | **8 Si.**   | *7 Te.*     |     | **8 Fi.**    | *7 Ne.*     |     | **8 Ne.**   | *7 Fi.*     |
+|       |              |             |     |             |             |     |              |             |     |             |             |
+| **γ** | **ESF(‑iR)** | **9**       |     | **ISF(iR)** | **10**      |     | **INT(‑eR)** | **11**      |     | **ENT(eR)** | **12**      |
+|       | ***1 Se.***  | 2 Fi.       |     | ***1 Fi.*** | 2 Se.       |     | ***1 Ni.***  | 2 Te.       |     | ***1 Te.*** | 2 Ni.       |
+|       | 4 Ti.        | ***3 Ne.*** |     | 4 Ne.       | ***3 Ti.*** |     | 4 Fe.        | ***3 Si.*** |     | 4 Si.       | ***3 Fe.*** |
+|       | *5 Ni.*      | **6 Te.**   |     | *5 Te.*     | **6 Ni.**   |     | *5 Se.*      | **6 Fi.**   |     | *5 Fi.*     | **6 Se.**   |
+|       | **8 Fe.**    | *7 Si.*     |     | **8 Si.**   | *7 Fe.*     |     | **8 Ti.**    | *7 Ne.*     |     | **8 Ne.**   | *7 Ti.*     |
+|       |              |             |     |             |             |     |              |             |     |             |             |
+| **δ** | **ENF(‑iR)** | **13**      |     | **INF(iR)** | **14**      |     | **IST(‑eR)** | **15**      |     | **EST(eR)** | **16**      |
+|       | ***1 Ne.***  | 2 Fi.       |     | ***1 Fi.*** | 2 Ne.       |     | ***1 Si.***  | 2 Te.       |     | ***1 Te.*** | 2 Si.       |
+|       | 4 Ti.        | ***3 Se.*** |     | 4 Se.       | ***3 Ti.*** |     | 4 Fe.        | ***3 Ni.*** |     | 4 Ni.       | ***3 Fe.*** |
+|       | *5 Si.*      | **6 Te.**   |     | *5 Te.*     | **6 Si.**   |     | *5 Ne.*      | **6 Fi.**   |     | *5 Fi.*     | **6 Ne.**   |
+|       | **8 Fe.**    | *7 Ni.*     |     | **8 Ni.**   | *7 Fe.*     |     | **8 Ti.**    | *7 Se.*     |     | **8 Se.**   | *7 Ti.*     |
 
 
 ### Model A decomposition
@@ -370,16 +370,16 @@ So the functions the type values most are 1-dominant, 2-supporting and 5-suggest
 
 So this can be seen that these 4 types has the same 4 most valued functions (1st, 2nd, 5th, 6th):
 
-| **quadra**  | **E/‑IR**               | **I/IR**               | **I/‑ER**               | **E/ER**               |
+| **quadra**  | **E/‑IR**              | **I/IR**               | **I/‑ER**              | **E/ER**               |
 |:----------- |:---------------------- |:---------------------- |:---------------------- |:---------------------- |
 | Alpha       | 1Ne.2Ti.[8Te.]5Si.6Fe. | 1Ti.2Ne.[8Ni.]5Fe.6Si. | 1Si.2Fe.[8Fi.]5Ne.6Ti. | 1Fe.2Si.[8Se.]5Ti.6Ne. |
-| **A α a**   | **ENT(‑iR)**             | **INT(iR)**             | **ISF(‑eR)**             | **ESF(eR)**             |
+| **A α a**   | **ENT(‑iR)**           | **INT(iR)**            | **ISF(‑eR)**           | **ESF(eR)**            |
 | Beta        | 1Se.2Ti.[8Te.]5Ni.6Fe. | 1Ti.2Se.[8Si.]5Fe.6Ni. | 1Ni.2Fe.[8Fi.]5Se.6Ti. | 1Fe.2Ni.[8Ne.]5Ti.6Se. |
-| **B β b**   | **EST(‑iR)**             | **IST(iR)**             | **INF(‑eR)**             | **ENF(eR)**             |
+| **B β b**   | **EST(‑iR)**           | **IST(iR)**            | **INF(‑eR)**           | **ENF(eR)**            |
 | Gamma       | 1Se.2Fi.[8Fe.]5Ni.6Te. | 1Fi.2Se.[8Si.]5Te.6Ni. | 1Ni.2Te.[8Ti.]5Se.6Fi. | 1Te.2Ni.[8Ne.]5Fi.6Se. |
-| **Γ G γ g** | **ESF(‑iR)**             | **ISF(iR)**             | **INT(‑eR)**             | **ENT(eR)**             |
+| **Γ G γ g** | **ESF(‑iR)**           | **ISF(iR)**            | **INT(‑eR)**           | **ENT(eR)**            |
 | Delta       | 1Ne.2Fi.[8Fe.]5Si.6Te. | 1Fi.2Ne.[8Ni.]5Te.6Si. | 1Si.2Te.[8Ti.]5Ne.6Fi. | 1Te.2Si.[8Se.]5Fi.6Ne. |
-| **Δ D δ d** | **ENF(‑iR)**             | **INF(iR)**             | **IST(‑eR)**             | **EST(eR)**             |
+| **Δ D δ d** | **ENF(‑iR)**           | **INF(iR)**            | **IST(‑eR)**           | **EST(eR)**            |
 
 It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
@@ -482,43 +482,43 @@ Note that QD functions and axes should first non-linearly get D=>Q axis.
 
 Khizhnyak functions names are made of Gulenko's temperament.
 
-| Axis meaning     | Khizhnyak axis | Khizhnyak functions relation    |
-|:---------------- |:-------------- |:------------------------------- |
-| S+IR+BG=>N−IR+AD | S/ir.=>N/‑ir.  | −S<sub>IR</sub>=N<sub>−IR</sub> |
-| S−IR+BG=>N+IR+AD | S/‑ir.=>N/ir.  | −S<sub>−IR</sub>=N<sub>IR</sub> |
-| S+ER+AD=>N−ER+BG | S/er.=>N/‑er.  | −S<sub>ER</sub>=N<sub>−ER</sub> |
-| S−ER+AD=>N+ER+BG | S/‑er.=>N/er.  | −S<sub>−ER</sub>=N<sub>ER</sub> |
-|                  |                |                                 |
-| F+IR+GD=>T−IR+AB | F/ir.=>T/‑ir.  | −F<sub>IR</sub>=T<sub>−IR</sub> |
-| F−IR+GD=>T+IR+AB | F/‑ir.=>T/ir.  | −F<sub>−IR</sub>=T<sub>IR</sub> |
-| F+ER+AB=>T−ER+GD | F/er.=>T/‑er.  | −F<sub>ER</sub>=T<sub>−ER</sub> |
-| F−ER+AB=>T+ER+GD | F/‑er.=>T/er.  | −F<sub>−ER</sub>=T<sub>ER</sub> |
-|                  |                |                                 |
-| D+IR+BD=>Q−IR+AG | D/ir.=>Q/‑ir.  | −D<sub>IR</sub>=Q<sub>−IR</sub> |
-| D−IR+BD=>Q+IR+AG | D/‑ir.=>Q/ir.  | −D<sub>−IR</sub>=Q<sub>IR</sub> |
-| D+ER+AG=>Q−ER+BD | D/er.=>Q/‑er.  | −D<sub>ER</sub>=Q<sub>−ER</sub> |
-| D−ER+AG=>Q+ER+BD | D/‑er.=>Q/er.  | −D<sub>−ER</sub>=Q<sub>ER</sub> |
+| Axis meaning     | Khizhnyak axis | Khizhnyak functions relation     |
+|:---------------- |:-------------- |:-------------------------------- |
+| S+IR+BG=>N−IR+AD | S/ir.=>N/‑ir.  | −S<sub>+iR</sub>=N<sub>−iR</sub> |
+| S−IR+BG=>N+IR+AD | S/‑ir.=>N/ir.  | −S<sub>−iR</sub>=N<sub>+iR</sub> |
+| S+ER+AD=>N−ER+BG | S/er.=>N/‑er.  | −S<sub>+eR</sub>=N<sub>−eR</sub> |
+| S−ER+AD=>N+ER+BG | S/‑er.=>N/er.  | −S<sub>−eR</sub>=N<sub>+eR</sub> |
+|                  |                |                                  |
+| F+IR+GD=>T−IR+AB | F/ir.=>T/‑ir.  | −F<sub>+iR</sub>=T<sub>−iR</sub> |
+| F−IR+GD=>T+IR+AB | F/‑ir.=>T/ir.  | −F<sub>−iR</sub>=T<sub>+iR</sub> |
+| F+ER+AB=>T−ER+GD | F/er.=>T/‑er.  | −F<sub>+eR</sub>=T<sub>−eR</sub> |
+| F−ER+AB=>T+ER+GD | F/‑er.=>T/er.  | −F<sub>−eR</sub>=T<sub>+eR</sub> |
+|                  |                |                                  |
+| D+IR+BD=>Q−IR+AG | D/ir.=>Q/‑ir.  | −D<sub>+iR</sub>=Q<sub>−iR</sub> |
+| D−IR+BD=>Q+IR+AG | D/‑ir.=>Q/ir.  | −D<sub>−iR</sub>=Q<sub>+iR</sub> |
+| D+ER+AG=>Q−ER+BD | D/er.=>Q/‑er.  | −D<sub>+eR</sub>=Q<sub>−eR</sub> |
+| D−ER+AG=>Q+ER+BD | D/‑er.=>Q/er.  | −D<sub>−eR</sub>=Q<sub>+eR</sub> |
 
 In addition to 12 Khizhnyak axes and 24 Khizhnyak functions we can define 12 abstract static-dynamic functions that lack I/E and -R/+R flavour:
 
-|         | Abbr.  | Alt.            | Is abstracted from                 |
-|:-------:|:------:|:--------------- |:---------------------------------- |
-| static  | N±ir. | N<sub>±IR</sub> | N<sub>−IR</sub> and N<sub>IR</sub> |
-| dynamic | N±er. | N<sub>±ER</sub> | N<sub>−ER</sub> and N<sub>ER</sub> |
-| static  | S±ir. | S<sub>±IR</sub> | S<sub>−IR</sub> and S<sub>IR</sub> |
-| dynamic | S±er. | S<sub>±ER</sub> | S<sub>−ER</sub> and S<sub>ER</sub> |
-| static  | T±ir. | T<sub>±IR</sub> | T<sub>−IR</sub> and T<sub>IR</sub> |
-| dynamic | T±er. | T<sub>±ER</sub> | T<sub>−ER</sub> and T<sub>ER</sub> |
-| static  | F±ir. | F<sub>±IR</sub> | F<sub>−IR</sub> and F<sub>IR</sub> |
-| dynamic | F±er. | F<sub>±ER</sub> | F<sub>−ER</sub> and F<sub>ER</sub> |
-| static  | Q±ir. | Q<sub>±IR</sub> | Q<sub>−IR</sub> and Q<sub>IR</sub> |
-| dynamic | Q±er. | Q<sub>±ER</sub> | Q<sub>−ER</sub> and Q<sub>ER</sub> |
-| static  | D±ir. | D<sub>±IR</sub> | D<sub>−IR</sub> and D<sub>IR</sub> |
-| dynamic | D±er. | D<sub>±ER</sub> | D<sub>−ER</sub> and D<sub>ER</sub> |
+|         | Abbr. | Alt.            | Is abstracted from                  |
+|:-------:|:-----:|:--------------- |:----------------------------------- |
+| static  | N±ir. | N<sub>±iR</sub> | N<sub>−iR</sub> and N<sub>+iR</sub> |
+| dynamic | N±er. | N<sub>±eR</sub> | N<sub>−eR</sub> and N<sub>+eR</sub> |
+| static  | S±ir. | S<sub>±iR</sub> | S<sub>−iR</sub> and S<sub>+iR</sub> |
+| dynamic | S±er. | S<sub>±eR</sub> | S<sub>−eR</sub> and S<sub>+eR</sub> |
+| static  | T±ir. | T<sub>±iR</sub> | T<sub>−iR</sub> and T<sub>+iR</sub> |
+| dynamic | T±er. | T<sub>±eR</sub> | T<sub>−eR</sub> and T<sub>+eR</sub> |
+| static  | F±ir. | F<sub>±iR</sub> | F<sub>−iR</sub> and F<sub>+iR</sub> |
+| dynamic | F±er. | F<sub>±eR</sub> | F<sub>−eR</sub> and F<sub>+eR</sub> |
+| static  | Q±ir. | Q<sub>±iR</sub> | Q<sub>−iR</sub> and Q<sub>+iR</sub> |
+| dynamic | Q±er. | Q<sub>±eR</sub> | Q<sub>−eR</sub> and Q<sub>+eR</sub> |
+| static  | D±ir. | D<sub>±iR</sub> | D<sub>−iR</sub> and D<sub>+iR</sub> |
+| dynamic | D±er. | D<sub>±eR</sub> | D<sub>−eR</sub> and D<sub>+eR</sub> |
 
 Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
-|     |                 | N<sub>−IR</sub> | N<sub>IR</sub> | N<sub>−ER</sub> | N<sub>ER</sub> | S<sub>−IR</sub> | S<sub>IR</sub> | S<sub>−ER</sub> | S<sub>ER</sub> |     | T<sub>−IR</sub> | T<sub>IR</sub> | T<sub>−ER</sub> | T<sub>ER</sub> | F<sub>−IR</sub> | F<sub>IR</sub> | F<sub>−ER</sub> | F<sub>ER</sub> |     | Q<sub>−IR</sub> | Q<sub>IR</sub> | Q<sub>−ER</sub> | Q<sub>ER</sub> | D<sub>−IR</sub> | D<sub>IR</sub> | D<sub>−ER</sub> | D<sub>ER</sub> |
+|     |                 | N<sub>−iR</sub> | N<sub>+iR</sub> | N<sub>−eR</sub> | N<sub>+eR</sub> | S<sub>−iR</sub> | S<sub>+iR</sub> | S<sub>−eR</sub> | S<sub>+eR</sub> |     | T<sub>−iR</sub> | T<sub>+iR</sub> | T<sub>−eR</sub> | T<sub>+eR</sub> | F<sub>−iR</sub> | F<sub>+iR</sub> | F<sub>−eR</sub> | F<sub>+eR</sub> |     | Q<sub>−iR</sub> | Q<sub>+iR</sub> | Q<sub>−eR</sub> | Q<sub>+eR</sub> | D<sub>−iR</sub> | D<sub>+iR</sub> | D<sub>−eR</sub> | D<sub>+eR</sub> |
 | --- |:---------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
 |     |                 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |     |   9 |  10 |  11 |  12 |  13 |  14 |  15 |  16 |     |  17 |  18 |  19 |  20 |  21 |  22 |  23 |  24 |
 |     |                 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
@@ -548,27 +548,27 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
 | Abstracted Khizhnyak axes | Relations                        |
 |:------------------------- |:-------------------------------- |
-| S±ir.=>N±ir.            | −S<sub>±IR</sub>=N<sub>±IR</sub> |
-| S±er.=>N±er.            | −S<sub>±ER</sub>=N<sub>±ER</sub> |
-| F±ir.=>T±ir.            | −F<sub>±IR</sub>=T<sub>±IR</sub> |
-| F±er.=>T±er.            | −F<sub>±ER</sub>=T<sub>±ER</sub> |
-| D±ir.=>Q±ir.            | −D<sub>±IR</sub>=Q<sub>±IR</sub> |
-| D±er.=>Q±er.            | −D<sub>±ER</sub>=Q<sub>±ER</sub> |
-| IR=>−IR                   | −(ER)=−ER                        |
+| S±ir.=>N±ir.              | −S<sub>±iR</sub>=N<sub>±iR</sub> |
+| S±er.=>N±er.              | −S<sub>±eR</sub>=N<sub>±eR</sub> |
+| F±ir.=>T±ir.              | −F<sub>±iR</sub>=T<sub>±iR</sub> |
+| F±er.=>T±er.              | −F<sub>±eR</sub>=T<sub>±eR</sub> |
+| D±ir.=>Q±ir.              | −D<sub>±iR</sub>=Q<sub>±iR</sub> |
+| D±er.=>Q±er.              | −D<sub>±eR</sub>=Q<sub>±eR</sub> |
+| IR=>−IR                   | −(IR)=−IR                        |
 | −ER=>ER                   | −(−ER)=ER                        |
 
 
-|     |                                  | N<sub>−IR</sub>= | N<sub>IR</sub>= | N<sub>−ER</sub>= | N<sub>ER</sub>= | T<sub>−IR</sub>= | T<sub>IR</sub>= | T<sub>−ER</sub>= | T<sub>ER</sub>= | Q<sub>−IR</sub>= | Q<sub>IR</sub>= | Q<sub>−ER</sub>= | Q<sub>ER</sub>= |
+|     |                                  | N<sub>−iR</sub>= | N<sub>+iR</sub>= | N<sub>−eR</sub>= | N<sub>+eR</sub>= | T<sub>−iR</sub>= | T<sub>+iR</sub>= | T<sub>−eR</sub>= | T<sub>+eR</sub>= | Q<sub>−iR</sub>= | Q<sub>+iR</sub>= | Q<sub>−eR</sub>= | Q<sub>+eR</sub>= |
 | --- |:--------------------------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
-|     |                                  | <b>=−S<sub>IR</sub></b> | <b>=−S<sub>−IR</sub></b> | <b>=−S<sub>ER</sub></b> | <b>=−S<sub>−ER</sub></b> | <b>=−F<sub>IR</sub></b> | <b>=−F<sub>−IR</sub></b> | <b>=−F<sub>ER</sub></b> | <b>=−F<sub>−ER</sub></b> | <b>=−D<sub>IR</sub></b> | <b>=−D<sub>−IR</sub></b> | <b>=−D<sub>ER</sub></b> | <b>=−D<sub>−ER</sub></b> |
+|     |                                  | <b>=−S<sub>+iR</sub></b> | <b>=−S<sub>−iR</sub></b> | <b>=−S<sub>+eR</sub></b> | <b>=−S<sub>−eR</sub></b> | <b>=−F<sub>+iR</sub></b> | <b>=−F<sub>−iR</sub></b> | <b>=−F<sub>+eR</sub></b> | <b>=−F<sub>−eR</sub></b> | <b>=−D<sub>+iR</sub></b> | <b>=−D<sub>−iR</sub></b> | <b>=−D<sub>+eR</sub></b> | <b>=−D<sub>−eR</sub></b> |
 | 1   |               −IR                |   1 |  −1 |   0 |   0 |   1 |  −1 |   0 |   0 |   1 |  −1 |   0 |   0 |
 | 2   |                ER                |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |
-| 3   | N<sub>±IR</sub>=−S<sub>±IR</sub> |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
-| 4   | N<sub>±ER</sub>=−S<sub>±ER</sub> |   0 |   0 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
-| 5   | T<sub>±IR</sub>=−F<sub>±IR</sub> |   0 |   0 |   0 |   0 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |
-| 6   | T<sub>±ER</sub>=−F<sub>±ER</sub> |   0 |   0 |   0 |   0 |   0 |   0 |   3 |   3 |   0 |   0 |   0 |   0 |
-| 7   | Q<sub>±IR</sub>=−D<sub>±IR</sub> |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   3 |   3 |   0 |   0 |
-| 8   | Q<sub>±ER</sub>=−D<sub>±ER</sub> |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   3 |   3 |
+| 3   | N<sub>±iR</sub>=−S<sub>±iR</sub> |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+| 4   | N<sub>±eR</sub>=−S<sub>±eR</sub> |   0 |   0 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+| 5   | T<sub>±iR</sub>=−F<sub>±iR</sub> |   0 |   0 |   0 |   0 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |
+| 6   | T<sub>±eR</sub>=−F<sub>±eR</sub> |   0 |   0 |   0 |   0 |   0 |   0 |   3 |   3 |   0 |   0 |   0 |   0 |
+| 7   | Q<sub>±iR</sub>=−D<sub>±iR</sub> |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   3 |   3 |   0 |   0 |
+| 8   | Q<sub>±eR</sub>=−D<sub>±eR</sub> |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   3 |   3 |
 
 
 8 Abstracted Khizhnyak axes might be a good representation for measure of functions differentiation. See [section 11.6](#116-dynamic-nondynamic-yo-axis-as-a-measure-of-khizhnyak-functions-differentiation).
@@ -578,9 +578,9 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
 From previous table can be seen that not all Reinin axes can influence Khizhnyak axes (that encode two Khizhnyak functions via single axis). That can also be seen from updated table from [section 11.2](#112-khizhnyak-functions-and-axes). Only **8 Reinin-Khizhnyak axes** can affect 12 Khizhnyak axes:
 
-|     |            | N<sub>−IR</sub>= | N<sub>IR</sub>= | N<sub>−ER</sub>= | N<sub>ER</sub>= | T<sub>−IR</sub>= | T<sub>IR</sub>= | T<sub>−ER</sub>= | T<sub>ER</sub>= | Q<sub>−IR</sub>= | Q<sub>IR</sub>= | Q<sub>−ER</sub>= | Q<sub>ER</sub>= |
+|     |            | N<sub>−iR</sub>= | N<sub>+iR</sub>= | N<sub>−eR</sub>= | N<sub>+eR</sub>= | T<sub>−iR</sub>= | T<sub>+iR</sub>= | T<sub>−eR</sub>= | T<sub>+eR</sub>= | Q<sub>−iR</sub>= | Q<sub>+iR</sub>= | Q<sub>−eR</sub>= | Q<sub>+eR</sub>= |
 | --- |:----------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
-|     |            | <b>=−S<sub>IR</sub></b> | <b>=−S<sub>−IR</sub></b> | <b>=−S<sub>ER</sub></b> | <b>=−S<sub>−ER</sub></b> | <b>=−F<sub>IR</sub></b> | <b>=−F<sub>−IR</sub></b> | <b>=−F<sub>ER</sub></b> | <b>=−F<sub>−ER</sub></b> | <b>=−D<sub>IR</sub></b> | <b>=−D<sub>−IR</sub></b> | <b>=−D<sub>ER</sub></b> | <b>=−D<sub>−ER</sub></b> |
+|     |            | <b>=−S<sub>+iR</sub></b> | <b>=−S<sub>−iR</sub></b> | <b>=−S<sub>+eR</sub></b> | <b>=−S<sub>−eR</sub></b> | <b>=−F<sub>+iR</sub></b> | <b>=−F<sub>−iR</sub></b> | <b>=−F<sub>+eR</sub></b> | <b>=−F<sub>−eR</sub></b> | <b>=−D<sub>+iR</sub></b> | <b>=−D<sub>−iR</sub></b> | <b>=−D<sub>+eR</sub></b> | <b>=−D<sub>−eR</sub></b> |
 | 1   |    E=−I    |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |   1 |
 | 2   |     −R     |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |
 | 3   |    N=−S    |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
@@ -597,9 +597,9 @@ From previous table can be seen that not all Reinin axes can influence Khizhnyak
 
 Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes. And transition to Complementary Reinin-Khizhnyak axes is made via absolute values of the Khizhnyak axes (or via unreduced Huber loss with δ = 0.25):
 
-|     |                 | &vert;N<sub>−IR</sub>&vert;= | &vert;N<sub>IR</sub>&vert;= | &vert;N<sub>−ER</sub>&vert;= | &vert;N<sub>ER</sub>&vert;= | &vert;T<sub>−IR</sub>&vert;= | &vert;T<sub>IR</sub>&vert;= | &vert;T<sub>−ER</sub>&vert;= | &vert;T<sub>ER</sub>&vert;= | &vert;Q<sub>−IR</sub>&vert;= | &vert;Q<sub>IR</sub>&vert;= | &vert;Q<sub>−ER</sub>&vert;= | &vert;Q<sub>ER</sub>&vert;= |
+|     |                 | &vert;N<sub>−iR</sub>&vert;= | &vert;N<sub>+iR</sub>&vert;= | &vert;N<sub>−eR</sub>&vert;= | &vert;N<sub>+eR</sub>&vert;= | &vert;T<sub>−iR</sub>&vert;= | &vert;T<sub>+iR</sub>&vert;= | &vert;T<sub>−eR</sub>&vert;= | &vert;T<sub>+eR</sub>&vert;= | &vert;Q<sub>−iR</sub>&vert;= | &vert;Q<sub>+iR</sub>&vert;= | &vert;Q<sub>−eR</sub>&vert;= | &vert;Q<sub>+eR</sub>&vert;= |
 | --- |:---------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
-|     |                 | <b>=&vert;S<sub>IR</sub>&vert;</b> | <b>=&vert;S<sub>−IR</sub>&vert;</b> | <b>=&vert;S<sub>ER</sub>&vert;</b> | <b>=&vert;S<sub>−ER</sub>&vert;</b> | <b>=&vert;F<sub>IR</sub>&vert;</b> | <b>=&vert;F<sub>−IR</sub>&vert;</b> | <b>=&vert;F<sub>ER</sub>&vert;</b> | <b>=&vert;F<sub>−ER</sub>&vert;</b> | <b>=&vert;D<sub>IR</sub>&vert;</b> | <b>=&vert;D<sub>−IR</sub>&vert;</b> | <b>=&vert;D<sub>ER</sub>&vert;</b> | <b>=&vert;D<sub>−ER</sub>&vert;</b> |
+|     |                 | <b>=&vert;S<sub>+iR</sub>&vert;</b> | <b>=&vert;S<sub>−iR</sub>&vert;</b> | <b>=&vert;S<sub>+eR</sub>&vert;</b> | <b>=&vert;S<sub>−eR</sub>&vert;</b> | <b>=&vert;F<sub>+iR</sub>&vert;</b> | <b>=&vert;F<sub>−iR</sub>&vert;</b> | <b>=&vert;F<sub>+eR</sub>&vert;</b> | <b>=&vert;F<sub>−eR</sub>&vert;</b> | <b>=&vert;D<sub>+iR</sub>&vert;</b> | <b>=&vert;D<sub>−iR</sub>&vert;</b> | <b>=&vert;D<sub>+eR</sub>&vert;</b> | <b>=&vert;D<sub>−eR</sub>&vert;</b> |
 | 1   | Static=−Dynamic |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |
 | 2   |   NESI=−NISE    |   3 |  −3 |  −3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 | 3   |   NPSJ=−NJSP    |   3 |  −3 |   3 |  −3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
@@ -611,15 +611,15 @@ Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes. And trans
 
 ### 11.4 Non-standard dominant Khizhnyak functions
 
-There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that \*ES(‑iR) (S<sub>−IR</sub> dom.) types actually have very weak and vulnerable-like N<sub>IR</sub> that governs consideration for all people even the "small" people (governs among other things). And that \*EN(‑iR) (N<sub>−IR</sub> dom.) types have very weak S<sub>IR</sub> that among other thing governs monotonous sensory affairs.
+There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that \*ES(‑iR) (S<sub>−iR</sub> dom.) types actually have very weak and vulnerable-like N<sub>+iR</sub> that governs consideration for all people even the "small" people (governs among other things). And that \*EN(‑iR) (N<sub>−iR</sub> dom.) types have very weak S<sub>+iR</sub> that among other thing governs monotonous sensory affairs.
 
-But if we take this hypothesis a bit further then we can even suggest that these new functions can be dominant functions. And there can be very unusual combinations of Gulenko's temperament (one of E/‑IR, I/IR, I/‑ER, E/ER) and dominant function (one of static-dynamic functions like N<sub>±IR</sub>, N<sub>±ER</sub>, T<sub>±IR</sub>, T<sub>±ER</sub>, etc. - see previous section for details).
+But if we take this hypothesis a bit further then we can even suggest that these new functions can be dominant functions. And there can be very unusual combinations of Gulenko's temperament (one of E/‑IR, I/IR, I/‑ER, E/ER) and dominant function (one of static-dynamic functions like N<sub>±iR</sub>, N<sub>±eR</sub>, T<sub>±iR</sub>, T<sub>±eR</sub>, etc. - see previous section for details).
 
-For example there might be a ENT(‑iR) (with T<sub>−IR</sub> dom.) aka T<sub>−IR</sub>N or INT(iR) (with N<sub>IR</sub> dom.) aka N<sub>IR</sub>T. When classical Socionics combinations are ENT(‑iR) (with N<sub>−IR</sub> dom.) aka N<sub>−IR</sub>T and INT(iR) (with T<sub>IR</sub> dom.) aka T<sub>IR</sub>N.
+For example there might be a ENT(‑iR) (with T<sub>−iR</sub> dom.) aka T<sub>−iR</sub>N or INT(iR) (with N<sub>+iR</sub> dom.) aka N<sub>+iR</sub>T. When classical Socionics combinations are ENT(‑iR) (with N<sub>−iR</sub> dom.) aka N<sub>−iR</sub>T and INT(iR) (with T<sub>+iR</sub> dom.) aka T<sub>+iR</sub>N.
 
-T<sub>−IR</sub>N would have strong N<sub>−IR</sub> and T<sub>−IR</sub> (and Q<sub>−IR</sub> but that's irrelevant for now) and would by default be in E/‑IR, N<sub>−IR</sub> perception state but the most valued function that defines person's goals would still be T<sub>−IR</sub>.
+T<sub>−iR</sub>N would have strong N<sub>−iR</sub> and T<sub>−iR</sub> (and Q<sub>−iR</sub> but that's irrelevant for now) and would by default be in E/‑IR, N<sub>−iR</sub> perception state but the most valued function that defines person's goals would still be T<sub>−iR</sub>.
 
-If N<sub>−IR</sub>T would have curiosity and novelty seeking N<sub>−IR</sub> as central dominant drive. T<sub>−IR</sub>N would have T<sub>−IR</sub> as a dominant drive. And it would be something about independent thinking and valuing, using, hacking and fixing systems of the world.
+If N<sub>−iR</sub>T would have curiosity and novelty seeking N<sub>−iR</sub> as central dominant drive. T<sub>−iR</sub>N would have T<sub>−iR</sub> as a dominant drive. And it would be something about independent thinking and valuing, using, hacking and fixing systems of the world.
 
 So each of the static-dynamic functions can be under a [Gulenko's Temperament](#41-gulenkos-temperaments-translated) that could be described approximately like (just a random classification that most likely is wrong):
 
@@ -628,25 +628,25 @@ So each of the static-dynamic functions can be under a [Gulenko's Temperament](#
 * I/IR - rigid reactivity,
 * I/‑ER - spontaneous reactivity aka adaptivity.
 
-So T<sub>−IR</sub>N would have dominant drive of spontaneous proactivity concerning systems.
+So T<sub>−iR</sub>N would have dominant drive of spontaneous proactivity concerning systems.
 
 More thought experiments on non-standard dominant functions is [**here**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=http%3A%2F%2Fdanidin.ucoz.net%2Findex%2Fzazerkalnaja_socionika%2F0-56&sandbox=1) (Autotranslated. And [original in Russian](http://danidin.ucoz.net/index/zazerkalnaja_socionika/0-56)).
 
-Worth noting that non-standard dominant functions do not require abstract static-dynamic functions. Underlying cognitive functions can actually have EI and PJ roots in them that make some combination manifestations more common. For example if NS functions stem from some more ancient instinctual subsystem of the brain. And TF stem from more young and impulse-controlling subsystem. But the brain can be flexible enough to be E/‑IR temperament that is more instinctual but actually have dominant T<sub>±IR</sub> that's from the impulse-controlling subsystem. Like N<sub>−IR</sub> part is a thin proxy to the T<sub>−IR</sub>.
+Worth noting that non-standard dominant functions do not require abstract static-dynamic functions. Underlying cognitive functions can actually have EI and PJ roots in them that make some combination manifestations more common. For example if NS functions stem from some more ancient instinctual subsystem of the brain. And TF stem from more young and impulse-controlling subsystem. But the brain can be flexible enough to be E/‑IR temperament that is more instinctual but actually have dominant T<sub>±iR</sub> that's from the impulse-controlling subsystem. Like N<sub>−iR</sub> part is a thin proxy to the T<sub>−iR</sub>.
 
 
 ### 11.5 Dominant-agnostic type names
 
-|               |                    **E/‑IR**                     |                    **I/IR**                     |                    **I/‑ER**                     |                    **E/ER**                     |
+|               |                    **E/‑IR**                    |                    **I/IR**                     |                    **I/‑ER**                    |                    **E/ER**                     |
 |:------------- |:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| α             |                  **ENT(‑iR) 1**                   |                  **INT(iR) 2**                   |                  **ISF(‑eR) 3**                   |                  **ESF(eR) 4**                   |
-| possible dom. | N<sub>−IR</sub> T<sub>−IR</sub> Q<sub>−IR</sub> | T<sub>IR</sub> N<sub>IR</sub> Q<sub>IR</sub> | S<sub>−ER</sub> F<sub>−ER</sub> D<sub>−ER</sub> | F<sub>ER</sub> S<sub>ER</sub> D<sub>ER</sub> |
-| β             |                  **EST(‑iR) 5**                   |                  **IST(iR) 6**                   |                  **INF(‑eR) 7**                   |                  **ENF(eR) 8**                   |
-| possible dom. | S<sub>−IR</sub> T<sub>−IR</sub> D<sub>−IR</sub> | T<sub>IR</sub> S<sub>IR</sub> D<sub>IR</sub> | N<sub>−ER</sub> F<sub>−ER</sub> Q<sub>−ER</sub> | F<sub>ER</sub> N<sub>ER</sub> Q<sub>ER</sub> |
-| γ             |                  **ESF(‑iR) 9**                   |                  **ISF(iR) 10**                  |                  **INT(‑eR) 11**                  |                  **ENT(eR) 12**                  |
-| possible dom. | S<sub>−IR</sub> F<sub>−IR</sub> Q<sub>−IR</sub> | F<sub>IR</sub> S<sub>IR</sub> Q<sub>IR</sub> | N<sub>−ER</sub> T<sub>−ER</sub> D<sub>−ER</sub> | T<sub>ER</sub> N<sub>ER</sub> D<sub>ER</sub> |
-| δ             |                  **ENF(‑iR) 13**                  |                  **INF(iR) 14**                  |                  **IST(‑eR) 15**                  |                  **EST(eR) 16**                  |
-| possible dom. | N<sub>−IR</sub> F<sub>−IR</sub> D<sub>−IR</sub> | F<sub>IR</sub> N<sub>IR</sub> D<sub>IR</sub> | S<sub>−ER</sub> T<sub>−ER</sub> Q<sub>−ER</sub> | T<sub>ER</sub> S<sub>ER</sub> Q<sub>ER</sub> |
+| α             |                 **ENT(‑iR) 1**                  |                  **INT(iR) 2**                  |                 **ISF(‑eR) 3**                  |                  **ESF(eR) 4**                  |
+| possible dom. | N<sub>−iR</sub> T<sub>−iR</sub> Q<sub>−iR</sub> | T<sub>+iR</sub> N<sub>+iR</sub> Q<sub>+iR</sub> | S<sub>−eR</sub> F<sub>−eR</sub> D<sub>−eR</sub> | F<sub>+eR</sub> S<sub>+eR</sub> D<sub>+eR</sub> |
+| β             |                 **EST(‑iR) 5**                  |                  **IST(iR) 6**                  |                 **INF(‑eR) 7**                  |                  **ENF(eR) 8**                  |
+| possible dom. | S<sub>−iR</sub> T<sub>−iR</sub> D<sub>−iR</sub> | T<sub>+iR</sub> S<sub>+iR</sub> D<sub>+iR</sub> | N<sub>−eR</sub> F<sub>−eR</sub> Q<sub>−eR</sub> | F<sub>+eR</sub> N<sub>+eR</sub> Q<sub>+eR</sub> |
+| γ             |                 **ESF(‑iR) 9**                  |                 **ISF(iR) 10**                  |                 **INT(‑eR) 11**                 |                 **ENT(eR) 12**                  |
+| possible dom. | S<sub>−iR</sub> F<sub>−iR</sub> Q<sub>−iR</sub> | F<sub>+iR</sub> S<sub>+iR</sub> Q<sub>+iR</sub> | N<sub>−eR</sub> T<sub>−eR</sub> D<sub>−eR</sub> | T<sub>+eR</sub> N<sub>+eR</sub> D<sub>+eR</sub> |
+| δ             |                 **ENF(‑iR) 13**                 |                 **INF(iR) 14**                  |                 **IST(‑eR) 15**                 |                 **EST(eR) 16**                  |
+| possible dom. | N<sub>−iR</sub> F<sub>−iR</sub> D<sub>−iR</sub> | F<sub>+iR</sub> N<sub>+iR</sub> D<sub>+iR</sub> | S<sub>−eR</sub> T<sub>−eR</sub> Q<sub>−eR</sub> | T<sub>+eR</sub> S<sub>+eR</sub> Q<sub>+eR</sub> |
 
 Even if non-standard dominant Khizhnyak functions are not real this notation can still be used for classical Socionics types.
 
@@ -655,7 +655,7 @@ Even if non-standard dominant Khizhnyak functions are not real this notation can
 
 Dynamic-static axis is not in 8 Reinin-Khizhnyak axes but still it can be a special one. It's value can be interpretred as a max abs value of Khizhnyak axes and it can correspond to the most differentiated (as Jung meant it) cognitive function from 24 Khizhnyak functions.
 
-For example if we take ENT(‑iR) type we would expect that it would have the most value for N<sub>−IR</sub> and T<sub>−IR</sub>. As N<sub>−IR</sub> is where 1-dominant function from Model A go and T<sub>−IR</sub> is where 2-supporting, 8-background and 4-vulnerable functions from Model A go. So this were the max abs values of Khizhnyak axes from conscious temperaments. But if we take values from semiconscious (automatic) temperaments we would expect to get lower max abs axes values (see next section for details).
+For example if we take ENT(‑iR) type we would expect that it would have the most value for N<sub>−iR</sub> and T<sub>−iR</sub>. As N<sub>−iR</sub> is where 1-dominant function from Model A go and T<sub>−iR</sub> is where 2-supporting, 8-background and 4-vulnerable functions from Model A go. So this were the max abs values of Khizhnyak axes from conscious temperaments. But if we take values from semiconscious (automatic) temperaments we would expect to get lower max abs axes values (see next section for details).
 
 And this would exactly mean that conscious Khizhnyak functions from base temperament are the most differentiated functions of the type.
 
@@ -677,50 +677,50 @@ I didn't use numbers for temperament positions on purpose. Number positions are 
 
 In the table below the strong above weak and weak above strong pairs of Khizhnyak functions actually form Khizhnyak axes and weak functions values can be obtained from strong ones simply via sign inversion:
 
-|        |     | **E/‑IR**                                        |     |                                                 |     |     | **I/IR**                                        |     |                                                 |     |     | **I/‑ER**                                        |     |                                                 |     |     | **E/ER**                                        |     |                                                 |
+|        |     | **E/‑IR**                                       |     |                                                 |     |     | **I/IR**                                        |     |                                                 |     |     | **I/‑ER**                                       |     |                                                 |     |     | **E/ER**                                        |     |                                                 |
 | ------ | --- |:----------------------------------------------- | --- |:----------------------------------------------- | --- | --- |:----------------------------------------------- | --- |:----------------------------------------------- | --- | --- |:----------------------------------------------- | --- |:----------------------------------------------- | --- | --- |:----------------------------------------------- | --- |:----------------------------------------------- |
-| **α**  |     | **ENT(‑iR) 1**                                    |     |                                                 |     |     | **INT(iR) 2**                                    |     |                                                 |     |     | **ISF(‑eR) 3**                                    |     |                                                 |     |     | **ESF(eR) 4**                                    |     |                                                 |
-| Strong | B   | N<sub>−IR</sub> T<sub>−IR</sub> Q<sub>−IR</sub> | M   | N<sub>IR</sub> T<sub>IR</sub> Q<sub>IR</sub> |     | B   | T<sub>IR</sub> N<sub>IR</sub> Q<sub>IR</sub> | M   | T<sub>−IR</sub> N<sub>−IR</sub> Q<sub>−IR</sub> |     | B   | S<sub>−ER</sub> F<sub>−ER</sub> D<sub>−ER</sub> | M   | S<sub>ER</sub> F<sub>ER</sub> D<sub>ER</sub> |     | B   | F<sub>ER</sub> S<sub>ER</sub> D<sub>ER</sub> | M   | F<sub>−ER</sub> S<sub>−ER</sub> D<sub>−ER</sub> |
-| Weak   | M   | S<sub>IR</sub> F<sub>IR</sub> D<sub>IR</sub> | B   | S<sub>−IR</sub> F<sub>−IR</sub> D<sub>−IR</sub> |     | M   | F<sub>−IR</sub> S<sub>−IR</sub> D<sub>−IR</sub> | B   | F<sub>IR</sub> S<sub>IR</sub> D<sub>IR</sub> |     | M   | N<sub>ER</sub> T<sub>ER</sub> Q<sub>ER</sub> | B   | N<sub>−ER</sub> T<sub>−ER</sub> Q<sub>−ER</sub> |     | M   | T<sub>−ER</sub> N<sub>−ER</sub> Q<sub>−ER</sub> | B   | T<sub>ER</sub> N<sub>ER</sub> Q<sub>ER</sub> |
-| Weak   | D   | S<sub>−ER</sub> F<sub>−ER</sub> D<sub>−ER</sub> | R   | S<sub>ER</sub> F<sub>ER</sub> D<sub>ER</sub> |     | D   | F<sub>ER</sub> S<sub>ER</sub> D<sub>ER</sub> | R   | F<sub>−ER</sub> S<sub>−ER</sub> D<sub>−ER</sub> |     | D   | N<sub>−IR</sub> T<sub>−IR</sub> Q<sub>−IR</sub> | R   | N<sub>IR</sub> T<sub>IR</sub> Q<sub>IR</sub> |     | D   | T<sub>IR</sub> N<sub>IR</sub> Q<sub>IR</sub> | R   | T<sub>−IR</sub> N<sub>−IR</sub> Q<sub>−IR</sub> |
-| Strong | R   | N<sub>ER</sub> T<sub>ER</sub> Q<sub>ER</sub> | D   | N<sub>−ER</sub> T<sub>−ER</sub> Q<sub>−ER</sub> |     | R   | T<sub>−ER</sub> N<sub>−ER</sub> Q<sub>−ER</sub> | D   | T<sub>ER</sub> N<sub>ER</sub> Q<sub>ER</sub> |     | R   | S<sub>IR</sub> F<sub>IR</sub> D<sub>IR</sub> | D   | S<sub>−IR</sub> F<sub>−IR</sub> D<sub>−IR</sub> |     | R   | F<sub>−IR</sub> S<sub>−IR</sub> D<sub>−IR</sub> | D   | F<sub>IR</sub> S<sub>IR</sub> D<sub>IR</sub> |
+| **α**  |     | **ENT(‑iR) 1**                                  |     |                                                 |     |     | **INT(iR) 2**                                   |     |                                                 |     |     | **ISF(‑eR) 3**                                  |     |                                                 |     |     | **ESF(eR) 4**                                   |     |                                                 |
+| Strong | B   | N<sub>−iR</sub> T<sub>−iR</sub> Q<sub>−iR</sub> | M   | N<sub>+iR</sub> T<sub>+iR</sub> Q<sub>+iR</sub> |     | B   | T<sub>+iR</sub> N<sub>+iR</sub> Q<sub>+iR</sub> | M   | T<sub>−iR</sub> N<sub>−iR</sub> Q<sub>−iR</sub> |     | B   | S<sub>−eR</sub> F<sub>−eR</sub> D<sub>−eR</sub> | M   | S<sub>+eR</sub> F<sub>+eR</sub> D<sub>+eR</sub> |     | B   | F<sub>+eR</sub> S<sub>+eR</sub> D<sub>+eR</sub> | M   | F<sub>−eR</sub> S<sub>−eR</sub> D<sub>−eR</sub> |
+| Weak   | M   | S<sub>+iR</sub> F<sub>+iR</sub> D<sub>+iR</sub> | B   | S<sub>−iR</sub> F<sub>−iR</sub> D<sub>−iR</sub> |     | M   | F<sub>−iR</sub> S<sub>−iR</sub> D<sub>−iR</sub> | B   | F<sub>+iR</sub> S<sub>+iR</sub> D<sub>+iR</sub> |     | M   | N<sub>+eR</sub> T<sub>+eR</sub> Q<sub>+eR</sub> | B   | N<sub>−eR</sub> T<sub>−eR</sub> Q<sub>−eR</sub> |     | M   | T<sub>−eR</sub> N<sub>−eR</sub> Q<sub>−eR</sub> | B   | T<sub>+eR</sub> N<sub>+eR</sub> Q<sub>+eR</sub> |
+| Weak   | D   | S<sub>−eR</sub> F<sub>−eR</sub> D<sub>−eR</sub> | R   | S<sub>+eR</sub> F<sub>+eR</sub> D<sub>+eR</sub> |     | D   | F<sub>+eR</sub> S<sub>+eR</sub> D<sub>+eR</sub> | R   | F<sub>−eR</sub> S<sub>−eR</sub> D<sub>−eR</sub> |     | D   | N<sub>−iR</sub> T<sub>−iR</sub> Q<sub>−iR</sub> | R   | N<sub>+iR</sub> T<sub>+iR</sub> Q<sub>+iR</sub> |     | D   | T<sub>+iR</sub> N<sub>+iR</sub> Q<sub>+iR</sub> | R   | T<sub>−iR</sub> N<sub>−iR</sub> Q<sub>−iR</sub> |
+| Strong | R   | N<sub>+eR</sub> T<sub>+eR</sub> Q<sub>+eR</sub> | D   | N<sub>−eR</sub> T<sub>−eR</sub> Q<sub>−eR</sub> |     | R   | T<sub>−eR</sub> N<sub>−eR</sub> Q<sub>−eR</sub> | D   | T<sub>+eR</sub> N<sub>+eR</sub> Q<sub>+eR</sub> |     | R   | S<sub>+iR</sub> F<sub>+iR</sub> D<sub>+iR</sub> | D   | S<sub>−iR</sub> F<sub>−iR</sub> D<sub>−iR</sub> |     | R   | F<sub>−iR</sub> S<sub>−iR</sub> D<sub>−iR</sub> | D   | F<sub>+iR</sub> S<sub>+iR</sub> D<sub>+iR</sub> |
 |        |     |                                                 |     |                                                 |     |     |                                                 |     |                                                 |     |     |                                                 |     |                                                 |     |     |                                                 |     |                                                 |
-| **β**  |     | **EST(‑iR) 5**                                    |     |                                                 |     |     | **IST(iR) 6**                                    |     |                                                 |     |     | **INF(‑eR) 7**                                    |     |                                                 |     |     | **ENF(eR) 8**                                    |     |                                                 |
-| Strong | B   | S<sub>−IR</sub> T<sub>−IR</sub> D<sub>−IR</sub> | M   | S<sub>IR</sub> T<sub>IR</sub> D<sub>IR</sub> |     | B   | T<sub>IR</sub> S<sub>IR</sub> D<sub>IR</sub> | M   | T<sub>−IR</sub> S<sub>−IR</sub> D<sub>−IR</sub> |     | B   | N<sub>−ER</sub> F<sub>−ER</sub> Q<sub>−ER</sub> | M   | N<sub>ER</sub> F<sub>ER</sub> Q<sub>ER</sub> |     | B   | F<sub>ER</sub> N<sub>ER</sub> Q<sub>ER</sub> | M   | F<sub>−ER</sub> N<sub>−ER</sub> Q<sub>−ER</sub> |
-| Weak   | M   | N<sub>IR</sub> F<sub>IR</sub> Q<sub>IR</sub> | B   | N<sub>−IR</sub> F<sub>−IR</sub> Q<sub>−IR</sub> |     | M   | F<sub>−IR</sub> N<sub>−IR</sub> Q<sub>−IR</sub> | B   | F<sub>IR</sub> N<sub>IR</sub> Q<sub>IR</sub> |     | M   | S<sub>ER</sub> T<sub>ER</sub> D<sub>ER</sub> | B   | S<sub>−ER</sub> T<sub>−ER</sub> D<sub>−ER</sub> |     | M   | T<sub>−ER</sub> S<sub>−ER</sub> D<sub>−ER</sub> | B   | T<sub>ER</sub> S<sub>ER</sub> D<sub>ER</sub> |
-| Weak   | D   | N<sub>−ER</sub> F<sub>−ER</sub> Q<sub>−ER</sub> | R   | N<sub>ER</sub> F<sub>ER</sub> Q<sub>ER</sub> |     | D   | F<sub>ER</sub> N<sub>ER</sub> Q<sub>ER</sub> | R   | F<sub>−ER</sub> N<sub>−ER</sub> Q<sub>−ER</sub> |     | D   | S<sub>−IR</sub> T<sub>−IR</sub> D<sub>−IR</sub> | R   | S<sub>IR</sub> T<sub>IR</sub> D<sub>IR</sub> |     | D   | T<sub>IR</sub> S<sub>IR</sub> D<sub>IR</sub> | R   | T<sub>−IR</sub> S<sub>−IR</sub> D<sub>−IR</sub> |
-| Strong | R   | S<sub>ER</sub> T<sub>ER</sub> D<sub>ER</sub> | D   | S<sub>−ER</sub> T<sub>−ER</sub> D<sub>−ER</sub> |     | R   | T<sub>−ER</sub> S<sub>−ER</sub> D<sub>−ER</sub> | D   | T<sub>ER</sub> S<sub>ER</sub> D<sub>ER</sub> |     | R   | N<sub>IR</sub> F<sub>IR</sub> Q<sub>IR</sub> | D   | N<sub>−IR</sub> F<sub>−IR</sub> Q<sub>−IR</sub> |     | R   | F<sub>−IR</sub> N<sub>−IR</sub> Q<sub>−IR</sub> | D   | F<sub>IR</sub> N<sub>IR</sub> Q<sub>IR</sub> |
+| **β**  |     | **EST(‑iR) 5**                                  |     |                                                 |     |     | **IST(iR) 6**                                   |     |                                                 |     |     | **INF(‑eR) 7**                                  |     |                                                 |     |     | **ENF(eR) 8**                                   |     |                                                 |
+| Strong | B   | S<sub>−iR</sub> T<sub>−iR</sub> D<sub>−iR</sub> | M   | S<sub>+iR</sub> T<sub>+iR</sub> D<sub>+iR</sub> |     | B   | T<sub>+iR</sub> S<sub>+iR</sub> D<sub>+iR</sub> | M   | T<sub>−iR</sub> S<sub>−iR</sub> D<sub>−iR</sub> |     | B   | N<sub>−eR</sub> F<sub>−eR</sub> Q<sub>−eR</sub> | M   | N<sub>+eR</sub> F<sub>+eR</sub> Q<sub>+eR</sub> |     | B   | F<sub>+eR</sub> N<sub>+eR</sub> Q<sub>+eR</sub> | M   | F<sub>−eR</sub> N<sub>−eR</sub> Q<sub>−eR</sub> |
+| Weak   | M   | N<sub>+iR</sub> F<sub>+iR</sub> Q<sub>+iR</sub> | B   | N<sub>−iR</sub> F<sub>−iR</sub> Q<sub>−iR</sub> |     | M   | F<sub>−iR</sub> N<sub>−iR</sub> Q<sub>−iR</sub> | B   | F<sub>+iR</sub> N<sub>+iR</sub> Q<sub>+iR</sub> |     | M   | S<sub>+eR</sub> T<sub>+eR</sub> D<sub>+eR</sub> | B   | S<sub>−eR</sub> T<sub>−eR</sub> D<sub>−eR</sub> |     | M   | T<sub>−eR</sub> S<sub>−eR</sub> D<sub>−eR</sub> | B   | T<sub>+eR</sub> S<sub>+eR</sub> D<sub>+eR</sub> |
+| Weak   | D   | N<sub>−eR</sub> F<sub>−eR</sub> Q<sub>−eR</sub> | R   | N<sub>+eR</sub> F<sub>+eR</sub> Q<sub>+eR</sub> |     | D   | F<sub>+eR</sub> N<sub>+eR</sub> Q<sub>+eR</sub> | R   | F<sub>−eR</sub> N<sub>−eR</sub> Q<sub>−eR</sub> |     | D   | S<sub>−iR</sub> T<sub>−iR</sub> D<sub>−iR</sub> | R   | S<sub>+iR</sub> T<sub>+iR</sub> D<sub>+iR</sub> |     | D   | T<sub>+iR</sub> S<sub>+iR</sub> D<sub>+iR</sub> | R   | T<sub>−iR</sub> S<sub>−iR</sub> D<sub>−iR</sub> |
+| Strong | R   | S<sub>+eR</sub> T<sub>+eR</sub> D<sub>+eR</sub> | D   | S<sub>−eR</sub> T<sub>−eR</sub> D<sub>−eR</sub> |     | R   | T<sub>−eR</sub> S<sub>−eR</sub> D<sub>−eR</sub> | D   | T<sub>+eR</sub> S<sub>+eR</sub> D<sub>+eR</sub> |     | R   | N<sub>+iR</sub> F<sub>+iR</sub> Q<sub>+iR</sub> | D   | N<sub>−iR</sub> F<sub>−iR</sub> Q<sub>−iR</sub> |     | R   | F<sub>−iR</sub> N<sub>−iR</sub> Q<sub>−iR</sub> | D   | F<sub>+iR</sub> N<sub>+iR</sub> Q<sub>+iR</sub> |
 |        |     |                                                 |     |                                                 |     |     |                                                 |     |                                                 |     |     |                                                 |     |                                                 |     |     |                                                 |     |                                                 |
-| **γ**  |     | **ESF(‑iR) 9**                                    |     |                                                 |     |     | **ISF(iR) 10**                                   |     |                                                 |     |     | **INT(‑eR) 11**                                   |     |                                                 |     |     | **ENT(eR) 12**                                   |     |                                                 |
-| Strong | B   | S<sub>−IR</sub> F<sub>−IR</sub> Q<sub>−IR</sub> | M   | S<sub>IR</sub> F<sub>IR</sub> Q<sub>IR</sub> |     | B   | F<sub>IR</sub> S<sub>IR</sub> Q<sub>IR</sub> | M   | F<sub>−IR</sub> S<sub>−IR</sub> Q<sub>−IR</sub> |     | B   | N<sub>−ER</sub> T<sub>−ER</sub> D<sub>−ER</sub> | M   | N<sub>ER</sub> T<sub>ER</sub> D<sub>ER</sub> |     | B   | T<sub>ER</sub> N<sub>ER</sub> D<sub>ER</sub> | M   | T<sub>−ER</sub> N<sub>−ER</sub> D<sub>−ER</sub> |
-| Weak   | M   | N<sub>IR</sub> T<sub>IR</sub> D<sub>IR</sub> | B   | N<sub>−IR</sub> T<sub>−IR</sub> D<sub>−IR</sub> |     | M   | T<sub>−IR</sub> N<sub>−IR</sub> D<sub>−IR</sub> | B   | T<sub>IR</sub> N<sub>IR</sub> D<sub>IR</sub> |     | M   | S<sub>ER</sub> F<sub>ER</sub> Q<sub>ER</sub> | B   | S<sub>−ER</sub> F<sub>−ER</sub> Q<sub>−ER</sub> |     | M   | F<sub>−ER</sub> S<sub>−ER</sub> Q<sub>−ER</sub> | B   | F<sub>ER</sub> S<sub>ER</sub> Q<sub>ER</sub> |
-| Weak   | D   | N<sub>−ER</sub> T<sub>−ER</sub> D<sub>−ER</sub> | R   | N<sub>ER</sub> T<sub>ER</sub> D<sub>ER</sub> |     | D   | T<sub>ER</sub> N<sub>ER</sub> D<sub>ER</sub> | R   | T<sub>−ER</sub> N<sub>−ER</sub> D<sub>−ER</sub> |     | D   | S<sub>−IR</sub> F<sub>−IR</sub> Q<sub>−IR</sub> | R   | S<sub>IR</sub> F<sub>IR</sub> Q<sub>IR</sub> |     | D   | F<sub>IR</sub> S<sub>IR</sub> Q<sub>IR</sub> | R   | F<sub>−IR</sub> S<sub>−IR</sub> Q<sub>−IR</sub> |
-| Strong | R   | S<sub>ER</sub> F<sub>ER</sub> Q<sub>ER</sub> | D   | S<sub>−ER</sub> F<sub>−ER</sub> Q<sub>−ER</sub> |     | R   | F<sub>−ER</sub> S<sub>−ER</sub> Q<sub>−ER</sub> | D   | F<sub>ER</sub> S<sub>ER</sub> Q<sub>ER</sub> |     | R   | N<sub>IR</sub> T<sub>IR</sub> D<sub>IR</sub> | D   | N<sub>−IR</sub> T<sub>−IR</sub> D<sub>−IR</sub> |     | R   | T<sub>−IR</sub> N<sub>−IR</sub> D<sub>−IR</sub> | D   | T<sub>IR</sub> N<sub>IR</sub> D<sub>IR</sub> |
+| **γ**  |     | **ESF(‑iR) 9**                                  |     |                                                 |     |     | **ISF(iR) 10**                                  |     |                                                 |     |     | **INT(‑eR) 11**                                 |     |                                                 |     |     | **ENT(eR) 12**                                  |     |                                                 |
+| Strong | B   | S<sub>−iR</sub> F<sub>−iR</sub> Q<sub>−iR</sub> | M   | S<sub>+iR</sub> F<sub>+iR</sub> Q<sub>+iR</sub> |     | B   | F<sub>+iR</sub> S<sub>+iR</sub> Q<sub>+iR</sub> | M   | F<sub>−iR</sub> S<sub>−iR</sub> Q<sub>−iR</sub> |     | B   | N<sub>−eR</sub> T<sub>−eR</sub> D<sub>−eR</sub> | M   | N<sub>+eR</sub> T<sub>+eR</sub> D<sub>+eR</sub> |     | B   | T<sub>+eR</sub> N<sub>+eR</sub> D<sub>+eR</sub> | M   | T<sub>−eR</sub> N<sub>−eR</sub> D<sub>−eR</sub> |
+| Weak   | M   | N<sub>+iR</sub> T<sub>+iR</sub> D<sub>+iR</sub> | B   | N<sub>−iR</sub> T<sub>−iR</sub> D<sub>−iR</sub> |     | M   | T<sub>−iR</sub> N<sub>−iR</sub> D<sub>−iR</sub> | B   | T<sub>+iR</sub> N<sub>+iR</sub> D<sub>+iR</sub> |     | M   | S<sub>+eR</sub> F<sub>+eR</sub> Q<sub>+eR</sub> | B   | S<sub>−eR</sub> F<sub>−eR</sub> Q<sub>−eR</sub> |     | M   | F<sub>−eR</sub> S<sub>−eR</sub> Q<sub>−eR</sub> | B   | F<sub>+eR</sub> S<sub>+eR</sub> Q<sub>+eR</sub> |
+| Weak   | D   | N<sub>−eR</sub> T<sub>−eR</sub> D<sub>−eR</sub> | R   | N<sub>+eR</sub> T<sub>+eR</sub> D<sub>+eR</sub> |     | D   | T<sub>+eR</sub> N<sub>+eR</sub> D<sub>+eR</sub> | R   | T<sub>−eR</sub> N<sub>−eR</sub> D<sub>−eR</sub> |     | D   | S<sub>−iR</sub> F<sub>−iR</sub> Q<sub>−iR</sub> | R   | S<sub>+iR</sub> F<sub>+iR</sub> Q<sub>+iR</sub> |     | D   | F<sub>+iR</sub> S<sub>+iR</sub> Q<sub>+iR</sub> | R   | F<sub>−iR</sub> S<sub>−iR</sub> Q<sub>−iR</sub> |
+| Strong | R   | S<sub>+eR</sub> F<sub>+eR</sub> Q<sub>+eR</sub> | D   | S<sub>−eR</sub> F<sub>−eR</sub> Q<sub>−eR</sub> |     | R   | F<sub>−eR</sub> S<sub>−eR</sub> Q<sub>−eR</sub> | D   | F<sub>+eR</sub> S<sub>+eR</sub> Q<sub>+eR</sub> |     | R   | N<sub>+iR</sub> T<sub>+iR</sub> D<sub>+iR</sub> | D   | N<sub>−iR</sub> T<sub>−iR</sub> D<sub>−iR</sub> |     | R   | T<sub>−iR</sub> N<sub>−iR</sub> D<sub>−iR</sub> | D   | T<sub>+iR</sub> N<sub>+iR</sub> D<sub>+iR</sub> |
 |        |     |                                                 |     |                                                 |     |     |                                                 |     |                                                 |     |     |                                                 |     |                                                 |     |     |                                                 |     |                                                 |
-| **δ**  |     | **ENF(‑iR) 13**                                   |     |                                                 |     |     | **INF(iR) 14**                                   |     |                                                 |     |     | **IST(‑eR) 15**                                   |     |                                                 |     |     | **EST(eR) 16**                                   |     |                                                 |
-| Strong | B   | N<sub>−IR</sub> F<sub>−IR</sub> D<sub>−IR</sub> | M   | N<sub>IR</sub> F<sub>IR</sub> D<sub>IR</sub> |     | B   | F<sub>IR</sub> N<sub>IR</sub> D<sub>IR</sub> | M   | F<sub>−IR</sub> N<sub>−IR</sub> D<sub>−IR</sub> |     | B   | S<sub>−ER</sub> T<sub>−ER</sub> Q<sub>−ER</sub> | M   | S<sub>ER</sub> T<sub>ER</sub> Q<sub>ER</sub> |     | B   | T<sub>ER</sub> S<sub>ER</sub> Q<sub>ER</sub> | M   | T<sub>−ER</sub> S<sub>−ER</sub> Q<sub>−ER</sub> |
-| Weak   | M   | S<sub>IR</sub> T<sub>IR</sub> Q<sub>IR</sub> | B   | S<sub>−IR</sub> T<sub>−IR</sub> Q<sub>−IR</sub> |     | M   | T<sub>−IR</sub> S<sub>−IR</sub> Q<sub>−IR</sub> | B   | T<sub>IR</sub> S<sub>IR</sub> Q<sub>IR</sub> |     | M   | N<sub>ER</sub> F<sub>ER</sub> D<sub>ER</sub> | B   | N<sub>−ER</sub> F<sub>−ER</sub> D<sub>−ER</sub> |     | M   | F<sub>−ER</sub> N<sub>−ER</sub> D<sub>−ER</sub> | B   | F<sub>ER</sub> N<sub>ER</sub> D<sub>ER</sub> |
-| Weak   | D   | S<sub>−ER</sub> T<sub>−ER</sub> Q<sub>−ER</sub> | R   | S<sub>ER</sub> T<sub>ER</sub> Q<sub>ER</sub> |     | D   | T<sub>ER</sub> S<sub>ER</sub> Q<sub>ER</sub> | R   | T<sub>−ER</sub> S<sub>−ER</sub> Q<sub>−ER</sub> |     | D   | N<sub>−IR</sub> F<sub>−IR</sub> D<sub>−IR</sub> | R   | N<sub>IR</sub> F<sub>IR</sub> D<sub>IR</sub> |     | D   | F<sub>IR</sub> N<sub>IR</sub> D<sub>IR</sub> | R   | F<sub>−IR</sub> N<sub>−IR</sub> D<sub>−IR</sub> |
-| Strong | R   | N<sub>ER</sub> F<sub>ER</sub> D<sub>ER</sub> | D   | N<sub>−ER</sub> F<sub>−ER</sub> D<sub>−ER</sub> |     | R   | F<sub>−ER</sub> N<sub>−ER</sub> D<sub>−ER</sub> | D   | F<sub>ER</sub> N<sub>ER</sub> D<sub>ER</sub> |     | R   | S<sub>IR</sub> T<sub>IR</sub> Q<sub>IR</sub> | D   | S<sub>−IR</sub> T<sub>−IR</sub> Q<sub>−IR</sub> |     | R   | T<sub>−IR</sub> S<sub>−IR</sub> Q<sub>−IR</sub> | D   | T<sub>IR</sub> S<sub>IR</sub> Q<sub>IR</sub> |
+| **δ**  |     | **ENF(‑iR) 13**                                 |     |                                                 |     |     | **INF(iR) 14**                                  |     |                                                 |     |     | **IST(‑eR) 15**                                 |     |                                                 |     |     | **EST(eR) 16**                                  |     |                                                 |
+| Strong | B   | N<sub>−iR</sub> F<sub>−iR</sub> D<sub>−iR</sub> | M   | N<sub>+iR</sub> F<sub>+iR</sub> D<sub>+iR</sub> |     | B   | F<sub>+iR</sub> N<sub>+iR</sub> D<sub>+iR</sub> | M   | F<sub>−iR</sub> N<sub>−iR</sub> D<sub>−iR</sub> |     | B   | S<sub>−eR</sub> T<sub>−eR</sub> Q<sub>−eR</sub> | M   | S<sub>+eR</sub> T<sub>+eR</sub> Q<sub>+eR</sub> |     | B   | T<sub>+eR</sub> S<sub>+eR</sub> Q<sub>+eR</sub> | M   | T<sub>−eR</sub> S<sub>−eR</sub> Q<sub>−eR</sub> |
+| Weak   | M   | S<sub>+iR</sub> T<sub>+iR</sub> Q<sub>+iR</sub> | B   | S<sub>−iR</sub> T<sub>−iR</sub> Q<sub>−iR</sub> |     | M   | T<sub>−iR</sub> S<sub>−iR</sub> Q<sub>−iR</sub> | B   | T<sub>+iR</sub> S<sub>+iR</sub> Q<sub>+iR</sub> |     | M   | N<sub>+eR</sub> F<sub>+eR</sub> D<sub>+eR</sub> | B   | N<sub>−eR</sub> F<sub>−eR</sub> D<sub>−eR</sub> |     | M   | F<sub>−eR</sub> N<sub>−eR</sub> D<sub>−eR</sub> | B   | F<sub>+eR</sub> N<sub>+eR</sub> D<sub>+eR</sub> |
+| Weak   | D   | S<sub>−eR</sub> T<sub>−eR</sub> Q<sub>−eR</sub> | R   | S<sub>+eR</sub> T<sub>+eR</sub> Q<sub>+eR</sub> |     | D   | T<sub>+eR</sub> S<sub>+eR</sub> Q<sub>+eR</sub> | R   | T<sub>−eR</sub> S<sub>−eR</sub> Q<sub>−eR</sub> |     | D   | N<sub>−iR</sub> F<sub>−iR</sub> D<sub>−iR</sub> | R   | N<sub>+iR</sub> F<sub>+iR</sub> D<sub>+iR</sub> |     | D   | F<sub>+iR</sub> N<sub>+iR</sub> D<sub>+iR</sub> | R   | F<sub>−iR</sub> N<sub>−iR</sub> D<sub>−iR</sub> |
+| Strong | R   | N<sub>+eR</sub> F<sub>+eR</sub> D<sub>+eR</sub> | D   | N<sub>−eR</sub> F<sub>−eR</sub> D<sub>−eR</sub> |     | R   | F<sub>−eR</sub> N<sub>−eR</sub> D<sub>−eR</sub> | D   | F<sub>+eR</sub> N<sub>+eR</sub> D<sub>+eR</sub> |     | R   | S<sub>+iR</sub> T<sub>+iR</sub> Q<sub>+iR</sub> | D   | S<sub>−iR</sub> T<sub>−iR</sub> Q<sub>−iR</sub> |     | R   | T<sub>−iR</sub> S<sub>−iR</sub> Q<sub>−iR</sub> | D   | T<sub>+iR</sub> S<sub>+iR</sub> Q<sub>+iR</sub> |
 
 If we reduce 24 Khizhnyak functions table to 12 Khizhnyak axes table we would get the following axes directed towards strong functions (weak functions are obtained via sign negation):
 
-|     | ENT(‑iR) 1                                        |     |                                                 |
+|     | ENT(‑iR) 1                                      |     |                                                 |
 | --- |:----------------------------------------------- | --- |:----------------------------------------------- |
-| B   | N<sub>−IR</sub> T<sub>−IR</sub> Q<sub>−IR</sub> | M   | N<sub>IR</sub> T<sub>IR</sub> Q<sub>IR</sub> |
-| R   | N<sub>ER</sub> T<sub>ER</sub> Q<sub>ER</sub> | D   | N<sub>−ER</sub> T<sub>−ER</sub> Q<sub>−ER</sub> |
+| B   | N<sub>−iR</sub> T<sub>−iR</sub> Q<sub>−iR</sub> | M   | N<sub>+iR</sub> T<sub>+iR</sub> Q<sub>+iR</sub> |
+| R   | N<sub>+eR</sub> T<sub>+eR</sub> Q<sub>+eR</sub> | D   | N<sub>−eR</sub> T<sub>−eR</sub> Q<sub>−eR</sub> |
 
 Now that we have 12 values of strong Khizhnyak functions (12 values of weak functions are redundant) lets try interpret them via roles from Model A: 1-dominant, 2-supporting, 7-restrictive, 8-background (I'm aware that lack of weak functions interpretation is not OK but lets restrict the scope for now).
 
 **Some examples:**
 
-If we have a hypothetical person with T<sub>IR</sub>=N<sub>IR</sub>=Q<sub>IR</sub>=0.5, T<sub>ER</sub>=N<sub>ER</sub>=D<sub>ER</sub>=0.2, other Khizhnyak functions ~0 (that's values of Khizhnyak axes - not just functions) then we can assume T<sub>IR</sub> as 1-dominant like role, and *both* N<sub>IR</sub> and Q<sub>IR</sub> as 2-supporting like role. Yep. Supporting functions are from the same temperament as dominant function (strong base temperament group). N<sub>ER</sub> and D<sub>ER</sub> *both* can be assumed with 8-background like role. And T<sub>ER</sub> would be something like strong 7-restrictive role (all three from strong dual temperament group).
+If we have a hypothetical person with T<sub>+iR</sub>=N<sub>+iR</sub>=Q<sub>+iR</sub>=0.5, T<sub>+eR</sub>=N<sub>+eR</sub>=D<sub>+eR</sub>=0.2, other Khizhnyak functions ~0 (that's values of Khizhnyak axes - not just functions) then we can assume T<sub>+iR</sub> as 1-dominant like role, and *both* N<sub>+iR</sub> and Q<sub>+iR</sub> as 2-supporting like role. Yep. Supporting functions are from the same temperament as dominant function (strong base temperament group). N<sub>+eR</sub> and D<sub>+eR</sub> *both* can be assumed with 8-background like role. And T<sub>+eR</sub> would be something like strong 7-restrictive role (all three from strong dual temperament group).
 
-This would give: (1T<sub>IR</sub>, 2N<sub>IR</sub>, 2Q<sub>IR</sub>, 7T<sub>ER</sub>, 8N<sub>ER</sub>, 8D<sub>ER</sub>). But 8D<sub>ER</sub> may be a misinterpretation as it's from the weak dual temperament group actually. In this example background functions are from strong dual temperament group but I guess there can be persons with background functions from strong request temperament group.
+This would give: (1T<sub>+iR</sub>, 2N<sub>+iR</sub>, 2Q<sub>+iR</sub>, 7T<sub>+eR</sub>, 8N<sub>+eR</sub>, 8D<sub>+eR</sub>). But 8D<sub>+eR</sub> may be a misinterpretation as it's from the weak dual temperament group actually. In this example background functions are from strong dual temperament group but I guess there can be persons with background functions from strong request temperament group.
 
-Here I assumed that I need to put functions in 1-dominant/2-supporting pair in a way that they are of different nature (T/N or T/Q are fine but T/F or T<sub>IR</sub>/T<sub>−IR</sub> are not) but of the **same** dynamic/static axis (T<sub>±IR</sub>/N<sub>±IR</sub> is fine but T<sub>±IR</sub>/N<sub>±ER</sub> is not). Hence I need to mix functions from conscious temperaments for this. I also assumed that I need to put functions in 1-dominant/8-background pair in a way that they are of different nature (T/N or T/Q are fine but T/F or T<sub>IR</sub>/T<sub>ER</sub> are not) and of **different** dynamic/static axis (T<sub>±IR</sub>/N<sub>±ER</sub> is fine but T<sub>±IR</sub>/N<sub>±IR</sub> is not). This way I emulate Model A behaviour of 1-2-8 functions with Abstracted Khizhnyak X<sub>±IR</sub>/X<sub>±ER</sub> functions.
+Here I assumed that I need to put functions in 1-dominant/2-supporting pair in a way that they are of different nature (T/N or T/Q are fine but T/F or T<sub>+iR</sub>/T<sub>−iR</sub> are not) but of the **same** dynamic/static axis (T<sub>±iR</sub>/N<sub>±iR</sub> is fine but T<sub>±iR</sub>/N<sub>±eR</sub> is not). Hence I need to mix functions from conscious temperaments for this. I also assumed that I need to put functions in 1-dominant/8-background pair in a way that they are of different nature (T/N or T/Q are fine but T/F or T<sub>+iR</sub>/T<sub>+eR</sub> are not) and of **different** dynamic/static axis (T<sub>±iR</sub>/N<sub>±eR</sub> is fine but T<sub>±iR</sub>/N<sub>±iR</sub> is not). This way I emulate Model A behaviour of 1-2-8 functions with Abstracted Khizhnyak X<sub>±iR</sub>/X<sub>±eR</sub> functions.
 
-If we take another hypothetical person example with T<sub>ER</sub>=0.5, T<sub>IR</sub>=S<sub>IR</sub>=D<sub>IR</sub>=0.3, other Khizhnyak functions ~0 then we can either assume (1T<sub>ER</sub>, 7T<sub>IR</sub>, 8S<sub>IR</sub>, 8D<sub>IR</sub>) or assume (1S<sub>IR</sub>, 2D<sub>IR</sub>, 2T<sub>IR</sub>, 8T<sub>ER</sub>). The second case is tempting because it doesn't have strong 7-restrictive but it uses non-standard Khizhnyak dominant function and would have 8th stronger than 1th. So the first case is more likely (with standard 1-dominant that is the strongest of all).
+If we take another hypothetical person example with T<sub>+eR</sub>=0.5, T<sub>+iR</sub>=S<sub>+iR</sub>=D<sub>+iR</sub>=0.3, other Khizhnyak functions ~0 then we can either assume (1T<sub>+eR</sub>, 7T<sub>+iR</sub>, 8S<sub>+iR</sub>, 8D<sub>+iR</sub>) or assume (1S<sub>+iR</sub>, 2D<sub>+iR</sub>, 2T<sub>+iR</sub>, 8T<sub>+eR</sub>). The second case is tempting because it doesn't have strong 7-restrictive but it uses non-standard Khizhnyak dominant function and would have 8th stronger than 1th. So the first case is more likely (with standard 1-dominant that is the strongest of all).
 
 
 ### 11.8 FZA1: Hypothesis for 7 axes of independent variation in factorized traits space
