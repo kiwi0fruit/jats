@@ -40,7 +40,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 5. **Rational/Irrational** (**+R/−R**) names were used instead of **Judging/Perceiving** to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INT(iR)** vs. **INT(‑eR)** (LII vs. ILI) those are dominant introverted tasker & rational intuiter vs. dominant introverted intuiter & irrational tasker.
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-Delta vs. Beta-Gamma types are translated as **Lateral** vs. **Central** types (**−C/+C**). The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
-8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **\*NT(-C)**, **\~NT(-C)** that are unknown and mixed types from ENT(‑iR) (ENTP) and INT(iR) (LII).
+8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **\*NT(Ad)**, **\~NT(Ad)** that are unknown and mixed types from ENT(‑iR) (ENTP) and INT(iR) (LII).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for ENT(‑iR) (ENTP), Enthusiast for ESF(eR) (ESFJ), General for EST(‑iR) (ESTP), Poet for INF(‑eR) (IEI), **Inspirer** for ENF(eR) (ENFJ), **Foreseer** for INT(‑eR) (ILI), Entrepreneur for ENT(eR) (ENTJ), **Journalist** for ENF(‑iR) (ENFP).
 11. The set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions is given. Together hypotheses give **Model A** as consequences. Bonus: **Cognitive functions descriptions per position in Model A (8x8 auto-translated table)**.
@@ -364,7 +364,7 @@ Deltas are: ENF(‑iR), INF(iR), EST(eR), IST(‑eR). So as commonly believed in
 * EST(eR) has dominant Te., supporting Si., and suggestive Fi.,
 * IST(‑eR) has dominant Si., supporting Te., and suggestive Ne.
 
-Hence deltas are \*NF(±iR) and \*ST(±eR). Or \*NF(-C) and \*ST(-C) - see below.
+Hence deltas are \*NF(±iR) and \*ST(±eR). Or \*NF(Ad) and \*ST(Ad), or \*NF(-C) and \*ST(-C) - see below.
 
 So the functions the type values most are 1-dominant, 2-supporting and 5-suggestive. For some reason in Socionics believed that commonly ENF(‑iR) also values Te., INF(iR) also values Si., EST(eR) also values Ne., IST(‑eR) also values Fi. (6-activating).
 
@@ -416,16 +416,16 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |      \*EN(eR)      |                   ENT(eR) v ENF(eR) v \~EN(eR) v ...                    |      \~EN(eR)      |
 |       \*INT        |                    INT(iR) v INT(‑eR) v \~INT v ...                     |       \~INT        |
 |      \*IT(iR)      |                   INT(iR) v IST(iR) v \~IT(iR) v ...                    |      \~IT(iR)      |
-| \*NT(‑C), \*NT(Ad) |                   ENT(‑iR) v INT(iR) v \~NT(-C) v ...                   | \~NT(-C), \~NT(Ad) |
+| \*NT(Ad), \*NT(‑C) |                   ENT(‑iR) v INT(iR) v \~NT(Ad) v ...                   | \~NT(Ad), \~NT(-C) |
 |      \*NT(R)       |                    ENT(eR) v INT(iR) v \~NT(R) v ...                    |      \~NT(R)       |
 |      \*IN(iR)      |                   INT(iR) v INF(iR) v \~IN(iR) v ...                    |      \~IN(iR)      |
 |      \*IT(Ad)      |                   INT(iR) v IST(‑eR) v \~IT(Ad) v ...                   |      \~IT(Ad)      |
 |      \*IN(Ab)      |                   INT(iR) v INF(‑eR) v \~IN(Ab) v ...                   |      \~IN(Ab)      |
 |     \*I(iR+Ag)     |                  INT(iR) v ISF(iR) v \~I(iR+Ag) v ...                   |     \~I(iR+Ag)     |
 |    \*EN(‑iR‑13)    |                ENT(‑iR) v \~EN(‑iR) v ... (not ENF(‑iR))                |    ENT(‑iR+13)     |
-|     \*NT(‑C‑1)     |                 INT(iR) v \~NT(-C) v ... (not ENT(‑iR))                 |     INT(iR+1)      |
+|     \*NT(Ad‑1)     |                 INT(iR) v \~NT(-C) v ... (not ENT(‑iR))                 |     INT(iR+1)      |
 |     \*IT(iR‑6)     |                 INT(iR) v \~IT(iR) v ... (not IST(iR))                  |     INT(iR+6)      |
-|      \*N(‑C)       |        INT(iR) v ENT(‑iR) v INF(iR) v ENF(‑iR) v \~EN(‑iR) v ...        |         ?          |
+|      \*N(Ad)       |        INT(iR) v ENT(‑iR) v INF(iR) v ENF(‑iR) v \~EN(‑iR) v ...        |         ?          |
 |  \*I(Bg), \*I(C)   |        IST(iR) v INF(‑eR) v ISF(iR) v INT(‑eR) v \~IN(‑eR) v ...        |         ?          |
 |      \*N(‑R)       | ENT(‑iR) v INF(‑eR) v INT(‑eR) v ENF(‑iR) v \~EN(‑iR) v \~IN(‑eR) v ... |         ?          |
 |        \*IT        |        INT(iR) v IST(iR) v INT(‑eR) v IST(‑eR) v \~IT(iR) v ...         |         ?          |
