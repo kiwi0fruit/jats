@@ -728,9 +728,9 @@ If we take another hypothetical person example with T<sub>+eR</sub>=0.5, T<sub>+
 Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstracted Khizhnyak axes) might be axes of independent variation in factorized traits space. But I'm of opinion (based on almost ready model fitted to the Socionics database of \~10000 surveys) that it's not the case. More likely that it would be **Factorized Axes 1 (FZA1)**:
 
 * To summ up briefly in old terms:
-  * +N=−S, +T=−F, +PE=−JI, +JE=−PI, +EAD=−IBG, +EBG=−IAD, +U (neUroticism).
+  * N=−S, T=−F, PE=−JI, JE=−PI, EAD=−IBG, EBG=−IAD, U (neUroticism).
 * In new terms:
-  * +N=−S, +T=−F, −iR, +eR, −iC, +eC, +U.
+  * N=−S, T=−F, −iR, eR, −iC, eC, U.
 
 |     | FZA1 | Axis name                                                       | Value-dependent notation for survey results\* |
 | --- |:---- | --------------------------------------------------------------- |:---------------------------------------------:|
