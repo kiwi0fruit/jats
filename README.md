@@ -40,7 +40,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 5. **Rational/Irrational** (**+R/−R**) names were used instead of **Judging/Perceiving** to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INT(iR)** vs. **INT(‑eR)** (LII vs. ILI) those are dominant introverted tasker & rational intuiter vs. dominant introverted intuiter & irrational tasker
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-Delta vs. Beta-Gamma types are translated as **Lateral** vs. **Central** types (**−C/+C**). The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
-8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **\*NT(ad)**, **\~NT(ad)** that are unknown and mixed types from ENT(‑iR) (ENTP) and INT(iR) (LII).
+8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **\*NT(Ad)**, **\~NT(Ad)** that are unknown and mixed types from ENT(‑iR) (ENTP) and INT(iR) (LII).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for ENT(‑iR) (ENTP), Enthusiast for ESF(eR) (ESFJ), General for EST(‑iR) (ESTP), Poet for INF(‑eR) (IEI), **Inspirer** for ENF(eR) (ENFJ), **Foreseer** for INT(‑eR) (ILI), Entrepreneur for ENT(eR) (ENTJ), **Journalist** for ENF(‑iR) (ENFP).
 11. The set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions is given. Together hypotheses give **Model A** as consequences. Bonus: **Cognitive functions descriptions per position in Model A (8x8 auto-translated table)**.
@@ -147,7 +147,7 @@ Names are in the following order:
 |         |                     IEE  ENFP                     |                    EII  INFx                    |                     SLI  ISTx                     |                    LSE  ESTJ                    |
 |         | dominant extraverted intuiter & irrational feeler | dominant introverted feeler & rational intuiter |  dominant introverted sensor & irrational tasker  |  dominant extraverted tasker & rational sensor  |
 
-Note that first E/I letter is redundant as it only helps to read faster ‑iR, ir, ‑eR, er are enough to encode all 4 temperaments.
+Note that first E/I letter is redundant as it only helps to read faster ‑iR, iR, ‑eR, eR are enough to encode all 4 temperaments.
 
 For example INT(iR) is *intuitive task-oriented rational introvert with dominant Ti.* or *dominant introverted tasker & rational intuiter*.
 
