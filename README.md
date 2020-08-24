@@ -130,21 +130,21 @@ These temperaments can be used for [dominant agnostic type names](#115-dominant-
 Names are in the following order:
 
 - **Socionics reference type**, **Number name**,
-- Socionics type name literal translation, MBTI name.
+- Socionics type name literal translation, MBTI name, [reddit.com/r/JungianTypology](https://www.reddit.com/r/JungianTypology/) name.
 
 | quadra  |                       E/‑IR                       |                      I/IR                       |                       I/‑ER                       |                      E/ER                       |
 |:------- |:-------------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------------:|:-----------------------------------------------:|
 | α Alpha |                **ENT(‑iR)**  **1**                |               **INT(iR)**  **2**                |                **ISF(‑eR)**  **3**                |               **ESF(eR)**  **4**                |
-|         |                     ILE  ENTP                     |                    LII  INTx                    |                     SEI  ISFx                     |                    ESE  ESFJ                    |
+|         |                     ILE  ENTP NeT                 |                    LII  INTx TiN                |                     SEI  ISFx SiF                 |                    ESE  ESFJ FeS                |
 |         | dominant extraverted intuiter & irrational tasker | dominant introverted tasker & rational intuiter |  dominant introverted sensor & irrational feeler  |  dominant extraverted feeler & rational sensor  |
 | β Beta  |                **EST(‑iR)**  **5**                |               **IST(iR)**  **6**                |                **INF(‑eR)**  **7**                |               **ENF(eR)**  **8**                |
-|         |                     SLE  ESTP                     |                    LSI  ISTx                    |                     IEI  INFx                     |                    EIE  ENFJ                    |
+|         |                     SLE  ESTP SeT                 |                    LSI  ISTx TiS                |                     IEI  INFx NiF                 |                    EIE  ENFJ FeN                |
 |         |  dominant extraverted sensor & irrational tasker  |  dominant introverted tasker & rational sensor  | dominant introverted intuiter & irrational feeler | dominant extraverted feeler & rational intuiter |
 | γ Gamma |                **ESF(‑iR)**  **9**                |               **ISF(iR)**  **10**               |               **INT(‑eR)**  **11**                |               **ENT(eR)**  **12**               |
-|         |                     SEE  ESFP                     |                    ESI  ISFx                    |                     ILI  INTx                     |                    LIE  ENTJ                    |
+|         |                     SEE  ESFP SeF                 |                    ESI  ISFx FiS                |                     ILI  INTx NiT                 |                    LIE  ENTJ TeN                |
 |         |  dominant extraverted sensor & irrational feeler  |  dominant introverted feeler & rational sensor  | dominant introverted intuiter & irrational tasker | dominant extraverted tasker & rational intuiter |
 | δ Delta |               **ENF(‑iR)**  **13**                |               **INF(iR)**  **14**               |               **IST(‑eR)**  **15**                |               **EST(eR)**  **16**               |
-|         |                     IEE  ENFP                     |                    EII  INFx                    |                     SLI  ISTx                     |                    LSE  ESTJ                    |
+|         |                     IEE  ENFP NeF                 |                    EII  INFx FiN                |                     SLI  ISTx SiT                 |                    LSE  ESTJ TeS                |
 |         | dominant extraverted intuiter & irrational feeler | dominant introverted feeler & rational intuiter |  dominant introverted sensor & irrational tasker  |  dominant extraverted tasker & rational sensor  |
 
 Note that first E/I letter is redundant as it only helps to read faster ‑iR, iR, ‑eR, eR are enough to encode all 4 temperaments.
