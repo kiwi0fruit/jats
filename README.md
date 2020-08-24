@@ -34,7 +34,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 ## Summary
 
 1. The short **descriptions of JAT cognitive functions** that are consistent (I hope) with JATS are given. These descriptions are sometimes different from understanding of cognitive functions in other branches of Socionics.
-2. Standard MBTI acronyms for Jung cognitive functions (**Se., Si., Ne., Ni., Fe., Fi., Te., Ti.**) and original dichotomies (**E/I, N/S, T/F**) are used for MBTI partial compatibility purpose (**P/J** was dropped). Dichotomies that are measured by tests are compatible enough in Socionics, MBTI and Big Five to be called the same term (good **infographics on Big Five** is given here: [psychologycharts.com/big-five-personality-traits.html](http://www.psychologycharts.com/big-five-personality-traits.html)). Congnitive functions deviate more but not enough to deserve a separate name. Standard Socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird.
+2. Standard MBTI acronyms for Jung cognitive functions (**Se, Si, Ne, Ni, Fe, Fi, Te, Ti**) and original dichotomies (**E/I, N/S, T/F**) are used for MBTI partial compatibility purpose (**P/J** was dropped). Dichotomies that are measured by tests are compatible enough in Socionics, MBTI and Big Five to be called the same term (good **infographics on Big Five** is given here: [psychologycharts.com/big-five-personality-traits.html](http://www.psychologycharts.com/big-five-personality-traits.html)). Congnitive functions deviate more but not enough to deserve a separate name. Standard Socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird.
 3. All cognitive functions are called **kinds of perceprion** and **kinds of judging**. “**Sensory perceprion**” is used instead of Sensing/Sensorics, “**Intuitive perceprion**” is used instead of Intuition, “**Task-oriented judging**” is used instead of Thinking/Logic, “**Feelings-oriented judging**” is used instead of Feeling/Ethics. I also like HBDI approach [en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument](https://en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument) that calls all them the kinds of thinking.
 4. Single-noun terms like **intuiter, sensor, feeler and tasker** are used (also **perceiver** and **judger**).
 5. **Rational/Irrational** (**+R/−R**) names were used instead of **Judging/Perceiving** to make Socionics vs. MBTI contradictions more clear.
@@ -64,21 +64,21 @@ But there are some differences between definitions of **cognitive functions** in
     - [**Task-oriented** judging (**T**)] Logical, analytical, algorithmic, task-oriented thinking, reasoning (orientation to formal side and facs) vs.
     - [**Feelings-oriented** judging (**F**)] Moral, empathic, sentimental, social-oriented, interpersonal emotional thinking (feelings, emotional regulation of society).
 
-- **Ne.** - _Extraverted intuitive perception_. Conjectures, guesses and speculations (e.g. about the essence), ideas, curiosity, novelty seeking.
-- **Ni.** - _Introverted intuitive perception_. Fantasy, fictional reality, imagining processes in time, prognostication, prediction, forecasting
-- **Se.** - _Extraverted sensory perception_. Active actions, confrontation, the accumulation of material resources, aggression, strength.
-- **Si.** - _Introverted sensory perception_. Health, comfort, convenience, safety. Perception of sensations. Some people claim that aestetics of various perceptions is in Si. domain.
-- **Te.** - _Extraverted task-oriented judging_. Actions and their algorithms, tools, pattern action-result (formal part of activities organizing).
-- **Ti.** - _Introverted task-oriented judging_. Order, laws, structures, classification, analysis and comparison.
-- **Fe.** - _Extraverted feelings-oriented judging_. Modifying the mood and the emotional state of people hence manipulating their activities (e.g. by means of inspiration and enthusiasm). Modifying group activity is specifically important.
-- **Fi.** - _Introverted feelings-oriented judging_. Moral judgment and evaluation, building relationships, synchronization of attitude towards something in a group of people, morality.
+- **Ne** - _Extraverted intuitive perception_. Conjectures, guesses and speculations (e.g. about the essence), ideas, curiosity, novelty seeking.
+- **Ni** - _Introverted intuitive perception_. Fantasy, fictional reality, imagining processes in time, prognostication, prediction, forecasting
+- **Se** - _Extraverted sensory perception_. Active actions, confrontation, the accumulation of material resources, aggression, strength.
+- **Si** - _Introverted sensory perception_. Health, comfort, convenience, safety. Perception of sensations. Some people claim that aestetics of various perceptions is in Si domain.
+- **Te** - _Extraverted task-oriented judging_. Actions and their algorithms, tools, pattern action-result (formal part of activities organizing).
+- **Ti** - _Introverted task-oriented judging_. Order, laws, structures, classification, analysis and comparison.
+- **Fe** - _Extraverted feelings-oriented judging_. Modifying the mood and the emotional state of people hence manipulating their activities (e.g. by means of inspiration and enthusiasm). Modifying group activity is specifically important.
+- **Fi** - _Introverted feelings-oriented judging_. Moral judgment and evaluation, building relationships, synchronization of attitude towards something in a group of people, morality.
 
 Another useful section of the functions is:
 
-- [*Dynamic* functions] Ni., Si., Te., Fe. vs.
-- [*Static* functions] Ne., Se., Ti., Fi. (see [Model A chapter](#7-model-a) on conscious vs. semiconscious functions for more details).
+- [*Dynamic* functions] Ni, Si, Te, Fe vs.
+- [*Static* functions] Ne, Se, Ti, Fi (see [Model A chapter](#7-model-a) on conscious vs. semiconscious functions for more details).
 
-Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se. and Si. are good at dealing with physical qualities. Both strong Ne. and Ni. are good at dealing with associations.
+Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se and Si are good at dealing with physical qualities. Both strong Ne and Ni are good at dealing with associations.
 
 
 ## 2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JATS
@@ -149,7 +149,7 @@ Names are in the following order:
 
 Note that first E/I letter is redundant as it only helps to read faster ‑iR, iR, ‑eR, eR are enough to encode all 4 temperaments.
 
-For example INT(iR) is *intuitive task-oriented rational introvert with dominant Ti.* or *dominant introverted tasker & rational intuiter*.
+For example INT(iR) is *intuitive task-oriented rational introvert with dominant Ti* or *dominant introverted tasker & rational intuiter*.
 
 - **N** - intuitive, intuiter,
 - **S** - sensory, sensor,
@@ -214,9 +214,9 @@ This leads to the possibility of defining I/E, P/J, S/N, F/T dichotomies and obt
 
 Good infographics on Big Five (that have close relations with socioncs and MBTI) is given here: [psychologycharts.com/big-five-personality-traits.html](http://www.psychologycharts.com/big-five-personality-traits.html). There are also some other good names and connections.
 
-It’s worth mentioning that the Socionics hypothesis of correlations between dichotomies and Jung cognitive functions are expected to be statistical or visible only in the most vivid cases of persons. For example: if we see the highly introverted (I) and highly self-disciplined (+R aka J) person then what Jung congnitive function he would expect they has as dominant function? Socionics says that it would be Ti. or Fi. MBTI says it would be Ni. or Si. But in many particular cases of people there can be combinations of “Ti. dominant and more like irrational-perceiving behavior” or “Ni. dominant and more like rational-judging behaviour”. But in most cases Socionics expects “Ti. dominant and more like rational-judging behavior”. This even can be experimentally verified by tests that measure Jung cognitive functions and dichotomies independently.
+It’s worth mentioning that the Socionics hypothesis of correlations between dichotomies and Jung cognitive functions are expected to be statistical or visible only in the most vivid cases of persons. For example: if we see the highly introverted (I) and highly self-disciplined (+R aka J) person then what Jung congnitive function he would expect they has as dominant function? Socionics says that it would be Ti or Fi MBTI says it would be Ni or Si But in many particular cases of people there can be combinations of “Ti dominant and more like irrational-perceiving behavior” or “Ni dominant and more like rational-judging behaviour”. But in most cases Socionics expects “Ti dominant and more like rational-judging behavior”. This even can be experimentally verified by tests that measure Jung cognitive functions and dichotomies independently.
 
-So if we are talking about type of particular person not about reference types then using I/E and +R/−R (J/P) dichotomies can be misleading or inaccurate. So the noting person’s dominant function is a better option. For example: Ne.dom., Ti.dom. Auxiliary function also worth noting but Socionics research shown that for example in case of Ne.dom. and task-oriented thinking (T) both Te. (8) and Ti. (2) may play importaint role in assisting dominant Ne. So they both can be viewed as auxiliary function as Jung meant it (actually Jung didn’t say whether auxilary function for Ne.dom. is Ti. or Te.). There need to be more invesigations on this topic but for now it’s more accurate to think that the auxilary function is just T, F, S or N withount specifying whether it is Te. or Ti., etc.
+So if we are talking about type of particular person not about reference types then using I/E and +R/−R (J/P) dichotomies can be misleading or inaccurate. So the noting person’s dominant function is a better option. For example: Nedom., Tidom. Auxiliary function also worth noting but Socionics research shown that for example in case of Nedom. and task-oriented thinking (T) both Te (8) and Ti (2) may play importaint role in assisting dominant Ne So they both can be viewed as auxiliary function as Jung meant it (actually Jung didn’t say whether auxilary function for Nedom. is Ti or Te). There need to be more invesigations on this topic but for now it’s more accurate to think that the auxilary function is just T, F, S or N withount specifying whether it is Te or Ti, etc.
 
 ***Explicit notation*** for Socionics types are **INT(iR)** and **INT(‑eR)**. **+R**/**−R** in Socionics mean the same as **J**/**P** in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And the first cognitive function is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
 
@@ -242,12 +242,12 @@ So in my translation of Model A I wanted to fix possible misunderstandings:
 * I simply like **7-Restrictive** more than alternatives (it also better than *restricting*).
 * **8-Background** is better than *demonstrative* which became ambiguous because of the Model G. And *background* better aligns with it's meaning of **Automatic auxiliary**.
 
-| Functions        |                  | Strength | Consciousness             | Value        | Example     | ENT(‑iR)      |
-| ---------------- | ---------------- | -------- | ------------------------- | ------------ | -----------:|:----------- |
-| ***1 Dominant*** | 2 Supporting     | strong   | conscious                 | valuable     | ***1 Ne.*** | 2 Ti.       |
-| 4 Vulnerable     | ***3 Role***     | weak     | conscious                 | not valuable | 4 Fi.       | ***3 Se.*** |
-| *5 Suggestive*   | **6 Activating** | weak     | semiconscious (automatic) | valuable     | *5 Si.*     | **6 Fe.**   |
-| **8 Background** | *7 Restrictive*  | strong   | semiconscious (automatic) | not valuable | **8 Te.**   | *7 Ni.*     |
+| Functions        |                  | Strength | Consciousness             | Value        |    Example | ENT(‑iR)   |
+| ---------------- | ---------------- | -------- | ------------------------- | ------------ | ----------:|:---------- |
+| ***1 Dominant*** | 2 Supporting     | strong   | conscious                 | valuable     | ***1 Ne*** | 2 Ti       |
+| 4 Vulnerable     | ***3 Role***     | weak     | conscious                 | not valuable |       4 Fi | ***3 Se*** |
+| *5 Suggestive*   | **6 Activating** | weak     | semiconscious (automatic) | valuable     |     *5 Si* | **6 Fe**   |
+| **8 Background** | *7 Restrictive*  | strong   | semiconscious (automatic) | not valuable |   **8 Te** | *7 Ni*     |
 | **proverted: 1,3,6,8**; antiverted: 2,4,5,7; *pronal: 1,3,5,7*; antinal: 2,4,6,8\* | | 1 > 8 > 2&7 > 3 > 6 > 5 > 4; **strong proverted** > **strong antiverted**; **weak proverted** > **weak antiverted** | | 1>2; 5>6; 4>3; 8>7; **valuable pronal** (1,5) set long-term life goals | | |
 
 \* names were derived from rational-irrational and extraverted-introverted.
@@ -277,31 +277,31 @@ So in my translation of Model A I wanted to fix possible misunderstandings:
   * The work of valuable functions and its nuances are important for the type, they are interesting, type can listen and talk on these topics with pleasure. Valuable functions provide an active exchange of information between people, what is associated with the work of these functions is easily discussed. The work of not valuable functions is what the type considers in life not the most important, something that can be neglected, something that makes sense only as an addition to valuable functions. As a rule, the discussion of the work of these functions is not interesting and does not give pleasure (but there are exceptions), it is preferred to help each other without further ado. The type in most cases limits the activity of the not valuable functions to the needs of valuable ones (that mostly 1st and 2nd functions), the demands of society or circumstances.
 * Additional info on Model A can be found in [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 
-|       | **E/‑IR**    |             |     | **I/IR**    |             |     | **I/‑ER**    |             |     | **E/ER**    |             |
-| ----- |:------------ |:----------- | --- |:----------- |:----------- | --- |:------------ |:----------- | --- |:----------- |:----------- |
-| **α** | **ENT(‑iR)** | **1**       |     | **INT(iR)** | **2**       |     | **ISF(‑eR)** | **3**       |     | **ESF(eR)** | **4**       |
-|       | ***1 Ne.***  | 2 Ti.       |     | ***1 Ti.*** | 2 Ne.       |     | ***1 Si.***  | 2 Fe.       |     | ***1 Fe.*** | 2 Si.       |
-|       | 4 Fi.        | ***3 Se.*** |     | 4 Se.       | ***3 Fi.*** |     | 4 Te.        | ***3 Ni.*** |     | 4 Ni.       | ***3 Te.*** |
-|       | *5 Si.*      | **6 Fe.**   |     | *5 Fe.*     | **6 Si.**   |     | *5 Ne.*      | **6 Ti.**   |     | *5 Ti.*     | **6 Ne.**   |
-|       | **8 Te.**    | *7 Ni.*     |     | **8 Ni.**   | *7 Te.*     |     | **8 Fi.**    | *7 Se.*     |     | **8 Se.**   | *7 Fi.*     |
-|       |              |             |     |             |             |     |              |             |     |             |             |
-| **β** | **EST(‑iR)** | **5**       |     | **IST(iR)** | **6**       |     | **INF(‑eR)** | **7**       |     | **ENF(eR)** | **8**       |
-|       | ***1 Se.***  | 2 Ti.       |     | ***1 Ti.*** | 2 Se.       |     | ***1 Ni.***  | 2 Fe.       |     | ***1 Fe.*** | 2 Ni.       |
-|       | 4 Fi.        | ***3 Ne.*** |     | 4 Ne.       | ***3 Fi.*** |     | 4 Te.        | ***3 Si.*** |     | 4 Si.       | ***3 Te.*** |
-|       | *5 Ni.*      | **6 Fe.**   |     | *5 Fe.*     | **6 Ni.**   |     | *5 Se.*      | **6 Ti.**   |     | *5 Ti.*     | **6 Se.**   |
-|       | **8 Te.**    | *7 Si.*     |     | **8 Si.**   | *7 Te.*     |     | **8 Fi.**    | *7 Ne.*     |     | **8 Ne.**   | *7 Fi.*     |
-|       |              |             |     |             |             |     |              |             |     |             |             |
-| **γ** | **ESF(‑iR)** | **9**       |     | **ISF(iR)** | **10**      |     | **INT(‑eR)** | **11**      |     | **ENT(eR)** | **12**      |
-|       | ***1 Se.***  | 2 Fi.       |     | ***1 Fi.*** | 2 Se.       |     | ***1 Ni.***  | 2 Te.       |     | ***1 Te.*** | 2 Ni.       |
-|       | 4 Ti.        | ***3 Ne.*** |     | 4 Ne.       | ***3 Ti.*** |     | 4 Fe.        | ***3 Si.*** |     | 4 Si.       | ***3 Fe.*** |
-|       | *5 Ni.*      | **6 Te.**   |     | *5 Te.*     | **6 Ni.**   |     | *5 Se.*      | **6 Fi.**   |     | *5 Fi.*     | **6 Se.**   |
-|       | **8 Fe.**    | *7 Si.*     |     | **8 Si.**   | *7 Fe.*     |     | **8 Ti.**    | *7 Ne.*     |     | **8 Ne.**   | *7 Ti.*     |
-|       |              |             |     |             |             |     |              |             |     |             |             |
-| **δ** | **ENF(‑iR)** | **13**      |     | **INF(iR)** | **14**      |     | **IST(‑eR)** | **15**      |     | **EST(eR)** | **16**      |
-|       | ***1 Ne.***  | 2 Fi.       |     | ***1 Fi.*** | 2 Ne.       |     | ***1 Si.***  | 2 Te.       |     | ***1 Te.*** | 2 Si.       |
-|       | 4 Ti.        | ***3 Se.*** |     | 4 Se.       | ***3 Ti.*** |     | 4 Fe.        | ***3 Ni.*** |     | 4 Ni.       | ***3 Fe.*** |
-|       | *5 Si.*      | **6 Te.**   |     | *5 Te.*     | **6 Si.**   |     | *5 Ne.*      | **6 Fi.**   |     | *5 Fi.*     | **6 Ne.**   |
-|       | **8 Fe.**    | *7 Ni.*     |     | **8 Ni.**   | *7 Fe.*     |     | **8 Ti.**    | *7 Se.*     |     | **8 Se.**   | *7 Ti.*     |
+|       | **E/‑IR**    |            |     | **I/IR**    |            |     | **I/‑ER**    |            |     | **E/ER**    |            |
+| ----- |:------------ |:---------- | --- |:----------- |:---------- | --- |:------------ |:---------- | --- |:----------- |:---------- |
+| **α** | **ENT(‑iR)** | **1**      |     | **INT(iR)** | **2**      |     | **ISF(‑eR)** | **3**      |     | **ESF(eR)** | **4**      |
+|       | ***1 Ne***   | 2 Ti       |     | ***1 Ti***  | 2 Ne       |     | ***1 Si***   | 2 Fe       |     | ***1 Fe***  | 2 Si       |
+|       | 4 Fi         | ***3 Se*** |     | 4 Se        | ***3 Fi*** |     | 4 Te         | ***3 Ni*** |     | 4 Ni        | ***3 Te*** |
+|       | *5 Si*       | **6 Fe**   |     | *5 Fe*      | **6 Si**   |     | *5 Ne*       | **6 Ti**   |     | *5 Ti*      | **6 Ne**   |
+|       | **8 Te**     | *7 Ni*     |     | **8 Ni**    | *7 Te*     |     | **8 Fi**     | *7 Se*     |     | **8 Se**    | *7 Fi*     |
+|       |              |            |     |             |            |     |              |            |     |             |            |
+| **β** | **EST(‑iR)** | **5**      |     | **IST(iR)** | **6**      |     | **INF(‑eR)** | **7**      |     | **ENF(eR)** | **8**      |
+|       | ***1 Se***   | 2 Ti       |     | ***1 Ti***  | 2 Se       |     | ***1 Ni***   | 2 Fe       |     | ***1 Fe***  | 2 Ni       |
+|       | 4 Fi         | ***3 Ne*** |     | 4 Ne        | ***3 Fi*** |     | 4 Te         | ***3 Si*** |     | 4 Si        | ***3 Te*** |
+|       | *5 Ni*       | **6 Fe**   |     | *5 Fe*      | **6 Ni**   |     | *5 Se*       | **6 Ti**   |     | *5 Ti*      | **6 Se**   |
+|       | **8 Te**     | *7 Si*     |     | **8 Si**    | *7 Te*     |     | **8 Fi**     | *7 Ne*     |     | **8 Ne**    | *7 Fi*     |
+|       |              |            |     |             |            |     |              |            |     |             |            |
+| **γ** | **ESF(‑iR)** | **9**      |     | **ISF(iR)** | **10**     |     | **INT(‑eR)** | **11**     |     | **ENT(eR)** | **12**     |
+|       | ***1 Se***   | 2 Fi       |     | ***1 Fi***  | 2 Se       |     | ***1 Ni***   | 2 Te       |     | ***1 Te***  | 2 Ni       |
+|       | 4 Ti         | ***3 Ne*** |     | 4 Ne        | ***3 Ti*** |     | 4 Fe         | ***3 Si*** |     | 4 Si        | ***3 Fe*** |
+|       | *5 Ni*       | **6 Te**   |     | *5 Te*      | **6 Ni**   |     | *5 Se*       | **6 Fi**   |     | *5 Fi*      | **6 Se**   |
+|       | **8 Fe**     | *7 Si*     |     | **8 Si**    | *7 Fe*     |     | **8 Ti**     | *7 Ne*     |     | **8 Ne**    | *7 Ti*     |
+|       |              |            |     |             |            |     |              |            |     |             |            |
+| **δ** | **ENF(‑iR)** | **13**     |     | **INF(iR)** | **14**     |     | **IST(‑eR)** | **15**     |     | **EST(eR)** | **16**     |
+|       | ***1 Ne***   | 2 Fi       |     | ***1 Fi***  | 2 Ne       |     | ***1 Si***   | 2 Te       |     | ***1 Te***  | 2 Si       |
+|       | 4 Ti         | ***3 Se*** |     | 4 Se        | ***3 Ti*** |     | 4 Fe         | ***3 Ni*** |     | 4 Ni        | ***3 Fe*** |
+|       | *5 Si*       | **6 Te**   |     | *5 Te*      | **6 Si**   |     | *5 Ne*       | **6 Fi**   |     | *5 Fi*      | **6 Ne**   |
+|       | **8 Fe**     | *7 Ni*     |     | **8 Ni**    | *7 Fe*     |     | **8 Ti**     | *7 Se*     |     | **8 Se**    | *7 Ti*     |
 
 
 ### Model A decomposition
@@ -312,12 +312,12 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 #### Set of hypotheses:
 
 * **H1 [8-cognitive-functions]** We can allocate 8 JAT cognitive functions in the human psyche. They are defined descriptively by researchers as the basis for observations. See [Section 1](#1-jung-augustinavichiute-talanov-cognitive-functions) for details.
-* **H2 [strong-weak]** There are strong and weak functions. Either Ne. and Ni. are strong and Se. and Si. are weak or Se. and Si. are strong and Ne. and Ni. are weak. Independently either Te. and Ti. are strong and Fe. and Fi. are weak or Fe. and Fi. are strong and Te. and Ti. are weak.
+* **H2 [strong-weak]** There are strong and weak functions. Either Ne and Ni are strong and Se and Si are weak or Se and Si are strong and Ne and Ni are weak. Independently either Te and Ti are strong and Fe and Fi are weak or Fe and Fi are strong and Te and Ti are weak.
 * **H3 [dominant]** There is a dominant “first” function that stands out and becomes the strongest and the main “conductor of the orchestra”.
 * **H4 [PeJi-PiJe]** Functions form pairs to think well-consciously about something (the most productive way of thinking). That's pairs of opposite functions: extraverted + introverted, judging + perceiving (just like 1st and 2nd functions pair).
 * **H5 [PeJe-PiJi]** Functions also form pairs when one function support another (that is they together perform some task but one of them acts only as support for solving the task of another function). But in this case it's not like that well-conscious thinking in H4. It's pairs of same-verted (extravert + extravert or introvert + introvert) but judging + perceiving functions (just like 1st and 8th functions pair).
 * **H6 [most-inferior]** Weak function that is pronal but antiverted to dominant function (perceiving if 1st is perceiving, judging if 1st is judging, extraverted if 1st is introverted, introverted if 1st is extraverted) becomes the most inferior function (to the point of not controlling it so it has its own motivation and becomes valuable function). That's the 5th function.
-* **H7 [EI]** Extraversion is a general property of a person manifested in the fact that extroverted functions are stronger than their introverted counterparts (Ne. is stronger than Ni; Se. > Si; Te. > Ti; Fe. > Fi). Similarly for introversion (Ni. > Ne.; Si. > Se.; Ti. > Te.; Fi. > Fe.). This is not just the dominance of the 1st function and the manifestation of its properties by type most clearly and vividly. This attitude is of a general nature, i.e. it affects all functions of the type. The state of immersion in oneself for an introvert is more natural than the state of immersion in the external world (for an extrovert it's the opposite). And if some state is more natural then it is easier for a person. It happens more often and manifests itself brighter and stronger
+* **H7 [EI]** Extraversion is a general property of a person manifested in the fact that extroverted functions are stronger than their introverted counterparts (Ne is stronger than Ni; Se > Si; Te > Ti; Fe > Fi). Similarly for introversion (Ni > Ne; Si > Se; Ti > Te; Fi > Fe). This is not just the dominance of the 1st function and the manifestation of its properties by type most clearly and vividly. This attitude is of a general nature, i.e. it affects all functions of the type. The state of immersion in oneself for an introvert is more natural than the state of immersion in the external world (for an extrovert it's the opposite). And if some state is more natural then it is easier for a person. It happens more often and manifests itself brighter and stronger
 * **H8 [PJ]** Judging or Perceiving is a general property of a person manifested in the choice between greater control of behavior with focusing on stability and planning or preferring improvisation, impulsive behavior and spontaneity.
 * **H9 [auxilary]** There are two same-named auxilary functions (“2nd” and “8th”) that stand out as the dominant function assistants (they are the second in strength after the dominant). Same named means they are both intuitive or both sensory or both task-oriented or both feelings-oriented.
 * **H10 [IE>JP]** H7 [EI] has stronger effects than H8 [PJ]. That means that:
@@ -351,7 +351,7 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 
 Socionics **quadras** split 16 types to 4 groups. Each group has **E/‑IR** type with a dominant extraverted irrational-perceiving function, **I/IR** type with a dominant introverted rational-judging function, **E/ER** type with a dominant extraverted rational-judging function and **I/‑ER** type with a dominant introverted irrational-perceiving function.
 
-Dominant function in Socionics is called **1st** function. And Socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INT(iR) it would be 1Ti.2Ne.8Ni. 1st, 2nd and 8th functions are the most important from the point of view of the type's social activities (and are the reference type's strongest functions). And may be also they are the most important from the point of view of the type’s self-identification. 2nd and 8th functions both are like auxilary function as Jung meant it. But only 1st and 2nd are valuable functions.
+Dominant function in Socionics is called **1st** function. And Socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INT(iR) it would be 1Ti2Ne8Ni 1st, 2nd and 8th functions are the most important from the point of view of the type's social activities (and are the reference type's strongest functions). And may be also they are the most important from the point of view of the type’s self-identification. 2nd and 8th functions both are like auxilary function as Jung meant it. But only 1st and 2nd are valuable functions.
 
 #### Why quadras grouped this way?
 
@@ -359,36 +359,36 @@ Let's explain this in the example of the delta quadra.
 
 Deltas are: ENF(‑iR), INF(iR), EST(eR), IST(‑eR). So as commonly believed in MBTI xNFP and xSTJ are not delta. As believed in Socionics:
 
-* ENF(‑iR) has dominant Ne., supporting Fi., and Si. as the most inferior function (to the point of dominant function not controlling it so it has its own motivation and becomes valuable function) - _autonomous inferior_ function aka _suggestive_ function,
-* INF(iR) has dominant Fi., supporting Ne., and suggestive Te.,
-* EST(eR) has dominant Te., supporting Si., and suggestive Fi.,
-* IST(‑eR) has dominant Si., supporting Te., and suggestive Ne.
+* ENF(‑iR) has dominant Ne, supporting Fi, and Si as the most inferior function (to the point of dominant function not controlling it so it has its own motivation and becomes valuable function) - _autonomous inferior_ function aka _suggestive_ function,
+* INF(iR) has dominant Fi, supporting Ne, and suggestive Te,
+* EST(eR) has dominant Te, supporting Si, and suggestive Fi,
+* IST(‑eR) has dominant Si, supporting Te, and suggestive Ne
 
 Hence deltas are \*NF(±iR) and \*ST(±eR). Or \*NF(Ad) and \*ST(Ad), or \*NF(-C) and \*ST(-C) - see below.
 
-So the functions the type values most are 1-dominant, 2-supporting and 5-suggestive. For some reason in Socionics believed that commonly ENF(‑iR) also values Te., INF(iR) also values Si., EST(eR) also values Ne., IST(‑eR) also values Fi. (6-activating).
+So the functions the type values most are 1-dominant, 2-supporting and 5-suggestive. For some reason in Socionics believed that commonly ENF(‑iR) also values Te, INF(iR) also values Si, EST(eR) also values Ne, IST(‑eR) also values Fi (6-activating).
 
 So this can be seen that these 4 types has the same 4 most valued functions (1st, 2nd, 5th, 6th):
 
-| **quadra**  | **E/‑IR**              | **I/IR**               | **I/‑ER**              | **E/ER**               |
-|:----------- |:---------------------- |:---------------------- |:---------------------- |:---------------------- |
-| Alpha       | 1Ne.2Ti.[8Te.]5Si.6Fe. | 1Ti.2Ne.[8Ni.]5Fe.6Si. | 1Si.2Fe.[8Fi.]5Ne.6Ti. | 1Fe.2Si.[8Se.]5Ti.6Ne. |
-| **A α a**   | **ENT(‑iR)**           | **INT(iR)**            | **ISF(‑eR)**           | **ESF(eR)**            |
-| Beta        | 1Se.2Ti.[8Te.]5Ni.6Fe. | 1Ti.2Se.[8Si.]5Fe.6Ni. | 1Ni.2Fe.[8Fi.]5Se.6Ti. | 1Fe.2Ni.[8Ne.]5Ti.6Se. |
-| **B β b**   | **EST(‑iR)**           | **IST(iR)**            | **INF(‑eR)**           | **ENF(eR)**            |
-| Gamma       | 1Se.2Fi.[8Fe.]5Ni.6Te. | 1Fi.2Se.[8Si.]5Te.6Ni. | 1Ni.2Te.[8Ti.]5Se.6Fi. | 1Te.2Ni.[8Ne.]5Fi.6Se. |
-| **Γ G γ g** | **ESF(‑iR)**           | **ISF(iR)**            | **INT(‑eR)**           | **ENT(eR)**            |
-| Delta       | 1Ne.2Fi.[8Fe.]5Si.6Te. | 1Fi.2Ne.[8Ni.]5Te.6Si. | 1Si.2Te.[8Ti.]5Ne.6Fi. | 1Te.2Si.[8Se.]5Fi.6Ne. |
-| **Δ D δ d** | **ENF(‑iR)**           | **INF(iR)**            | **IST(‑eR)**           | **EST(eR)**            |
+| **quadra**  | **E/‑IR**           | **I/IR**            | **I/‑ER**           | **E/ER**            |
+|:----------- |:------------------- |:------------------- |:------------------- |:------------------- |
+| Alpha       | 1Ne,2Ti[8Te]5Si,6Fe | 1Ti,2Ne[8Ni]5Fe,6Si | 1Si,2Fe[8Fi]5Ne,6Ti | 1Fe,2Si[8Se]5Ti,6Ne |
+| **A α a**   | **ENT(‑iR)**        | **INT(iR)**         | **ISF(‑eR)**        | **ESF(eR)**         |
+| Beta        | 1Se,2Ti[8Te]5Ni,6Fe | 1Ti,2Se[8Si]5Fe,6Ni | 1Ni,2Fe[8Fi]5Se,6Ti | 1Fe,2Ni[8Ne]5Ti,6Se |
+| **B β b**   | **EST(‑iR)**        | **IST(iR)**         | **INF(‑eR)**        | **ENF(eR)**         |
+| Gamma       | 1Se,2Fi[8Fe]5Ni,6Te | 1Fi,2Se[8Si]5Te,6Ni | 1Ni,2Te[8Ti]5Se,6Fi | 1Te,2Ni[8Ne]5Fi,6Se |
+| **Γ G γ g** | **ESF(‑iR)**        | **ISF(iR)**         | **INT(‑eR)**        | **ENT(eR)**         |
+| Delta       | 1Ne,2Fi[8Fe]5Si,6Te | 1Fi,2Ne[8Ni]5Te,6Si | 1Si,2Te[8Ti]5Ne,6Fi | 1Te,2Si[8Se]5Fi,6Ne |
+| **Δ D δ d** | **ENF(‑iR)**        | **INF(iR)**         | **IST(‑eR)**        | **EST(eR)**         |
 
 It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
 |     Quadras | Abbr.          | 1st or 2nd function | Valuable functions | Adj.        | More fond of:                                                          |
 | -----------:| -------------- | ------------------- | ------------------ | ----------- | ---------------------------------------------------------------------- |
-| Alpha-Delta | **AD**, **−C** | Ne. or Si.          | Ne. and Si.        | Lateral     | Pacific, peaceful, cooperative, sensible, and leisurely unhurried ways |
-|  Beta-Gamma | **BG**, **+C** | Se. or Ni.          | Se. and Ni.        | **C**entral | Rival, competitive, argessive, time-bound and fast resolutive ways     |
-|  Alpha-Beta | **AB**         | Fe. or Ti.          | Fe. and Ti.        |             |                                                                        |
-| Gamma-Delta | **GD**         | Te. or Fi.          | Te. and Fi.        |             |                                                                        |
+| Alpha-Delta | **AD**, **−C** | Ne or Si            | Ne and Si          | Lateral     | Pacific, peaceful, cooperative, sensible, and leisurely unhurried ways |
+|  Beta-Gamma | **BG**, **+C** | Se or Ni            | Se and Ni          | **C**entral | Rival, competitive, argessive, time-bound and fast resolutive ways     |
+|  Alpha-Beta | **AB**         | Fe or Ti            | Fe and Ti          |             |                                                                        |
+| Gamma-Delta | **GD**         | Te or Fi            | Te and Fi          |             |                                                                        |
 
 Examples:
 
@@ -408,7 +408,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 1. In order to distinguish from MBTI the 5-letter notation from [section 11.5](#115-dominant-agnostic-type-names) is used.
 2. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common in MBTI (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly \~ET(eR) is the name for truly intermediate type and \*ET(eR) is the name for unknown in JATS notation. Tilda or asterisk denote whether we should use mean values for skipped axes (\~) or they are unknown (\*). The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
 3. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 3 letter code at the beginning shows the position on EI, SN and FT axes. Then Gulenko's temperament in brackets. All axes can be measured by MBTI or Big Five tests. +R/−R, J/P and conscientiousness are roughly the same. Next in the brackets additional info is shown. For finer details types shortcut numbers to pick from can be used. I guess it may even be possible to have **ENT(iR)** if the person is a mixture equally of ENT(‑iR), ENT(eR) and INT(iR): ENT(iR)[1\~2\~12]. But at the moment it's a speculation only and allowed combinations are \*E(‑iR), \*I(iR), \*I(‑eR), \*E(eR).
-4. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **\***/**x** on +R/−R axis (J/P in MBTI). For example **\*INT** = INT(iR) or INT(‑eR) or \~INT. But if we take MBTI types then **INTx** = Ti.dom.INTP or Ni.dom.INTJ.
+4. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **\***/**x** on +R/−R axis (J/P in MBTI). For example **\*INT** = INT(iR) or INT(‑eR) or \~INT. But if we take MBTI types then **INTx** = Tidom.INTP or Nidom.INTJ.
 
 | **Unknown types**  |                      **Meaning of unknown types**                       |   **Mixed type**   |
 |:------------------:|:-----------------------------------------------------------------------:|:------------------:|
@@ -548,12 +548,12 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 
 | Abstracted Khizhnyak axes | Relations                        |
 |:------------------------- |:-------------------------------- |
-| S±ir=>N±ir              | −S<sub>±ir</sub>=N<sub>±ir</sub> |
-| S±er=>N±er              | −S<sub>±er</sub>=N<sub>±er</sub> |
-| F±ir=>T±ir              | −F<sub>±ir</sub>=T<sub>±ir</sub> |
-| F±er=>T±er              | −F<sub>±er</sub>=T<sub>±er</sub> |
-| D±ir=>Q±ir              | −D<sub>±ir</sub>=Q<sub>±ir</sub> |
-| D±er=>Q±er              | −D<sub>±er</sub>=Q<sub>±er</sub> |
+| S±ir=>N±ir                | −S<sub>±ir</sub>=N<sub>±ir</sub> |
+| S±er=>N±er                | −S<sub>±er</sub>=N<sub>±er</sub> |
+| F±ir=>T±ir                | −F<sub>±ir</sub>=T<sub>±ir</sub> |
+| F±er=>T±er                | −F<sub>±er</sub>=T<sub>±er</sub> |
+| D±ir=>Q±ir                | −D<sub>±ir</sub>=Q<sub>±ir</sub> |
+| D±er=>Q±er                | −D<sub>±er</sub>=Q<sub>±er</sub> |
 | IR=>−IR                   | −(iR)=−IR                        |
 | −ER=>ER                   | −(−ER)=ER                        |
 
@@ -747,7 +747,7 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 * UPPERCASE if 0.9 ≤ |x|
 * lowercase if 0.3 ≤ |x| < 0.9
 * axis is skipped if 0.00 ≤ |x| < 0.3
-* notation example: ENt(‑iR+er-iC+ec-U), eNT(‑iR-iC-U)
+* notation example: ENT(‑iR+er-iC+ec-U), EnT(‑iR-iC-U)
 * first E is obtained from (−iR, +eR, −iC, +eC) vector via projecting on (0.5, 0.5, 0.5, 0.5) direction.
 
 
