@@ -484,20 +484,20 @@ Khizhnyak functions names are made of Gulenko's temperament.
 
 | Axis meaning     | Khizhnyak axis | Khizhnyak functions relation     |
 |:---------------- |:-------------- |:-------------------------------- |
-| S+IR+BG=>N−IR+AD | S/ir=>N/‑iR    | −S<sub>+ir</sub>=N<sub>−ir</sub> |
-| S−IR+BG=>N+IR+AD | S/‑iR=>N/ir    | −S<sub>−ir</sub>=N<sub>+ir</sub> |
-| S+ER+AD=>N−ER+BG | S/er=>N/‑eR    | −S<sub>+er</sub>=N<sub>−er</sub> |
-| S−ER+AD=>N+ER+BG | S/‑eR=>N/er    | −S<sub>−er</sub>=N<sub>+er</sub> |
+| S+IR+BG=>N−IR+AD | S/ir=>N/‑ir    | −S<sub>+ir</sub>=N<sub>−ir</sub> |
+| S−IR+BG=>N+IR+AD | S/‑ir=>N/ir    | −S<sub>−ir</sub>=N<sub>+ir</sub> |
+| S+ER+AD=>N−ER+BG | S/er=>N/‑er    | −S<sub>+er</sub>=N<sub>−er</sub> |
+| S−ER+AD=>N+ER+BG | S/‑er=>N/er    | −S<sub>−er</sub>=N<sub>+er</sub> |
 |                  |                |                                  |
-| F+IR+GD=>T−IR+AB | F/ir=>T/‑iR    | −F<sub>+ir</sub>=T<sub>−ir</sub> |
-| F−IR+GD=>T+IR+AB | F/‑iR=>T/ir    | −F<sub>−ir</sub>=T<sub>+ir</sub> |
-| F+ER+AB=>T−ER+GD | F/er=>T/‑eR    | −F<sub>+er</sub>=T<sub>−er</sub> |
-| F−ER+AB=>T+ER+GD | F/‑eR=>T/er    | −F<sub>−er</sub>=T<sub>+er</sub> |
+| F+IR+GD=>T−IR+AB | F/ir=>T/‑ir    | −F<sub>+ir</sub>=T<sub>−ir</sub> |
+| F−IR+GD=>T+IR+AB | F/‑ir=>T/ir    | −F<sub>−ir</sub>=T<sub>+ir</sub> |
+| F+ER+AB=>T−ER+GD | F/er=>T/‑er    | −F<sub>+er</sub>=T<sub>−er</sub> |
+| F−ER+AB=>T+ER+GD | F/‑er=>T/er    | −F<sub>−er</sub>=T<sub>+er</sub> |
 |                  |                |                                  |
-| D+IR+BD=>Q−IR+AG | D/ir=>Q/‑iR    | −D<sub>+ir</sub>=Q<sub>−ir</sub> |
-| D−IR+BD=>Q+IR+AG | D/‑iR=>Q/ir    | −D<sub>−ir</sub>=Q<sub>+ir</sub> |
-| D+ER+AG=>Q−ER+BD | D/er=>Q/‑eR    | −D<sub>+er</sub>=Q<sub>−er</sub> |
-| D−ER+AG=>Q+ER+BD | D/‑eR=>Q/er    | −D<sub>−er</sub>=Q<sub>+er</sub> |
+| D+IR+BD=>Q−IR+AG | D/ir=>Q/‑ir    | −D<sub>+ir</sub>=Q<sub>−ir</sub> |
+| D−IR+BD=>Q+IR+AG | D/‑ir=>Q/ir    | −D<sub>−ir</sub>=Q<sub>+ir</sub> |
+| D+ER+AG=>Q−ER+BD | D/er=>Q/‑er    | −D<sub>+er</sub>=Q<sub>−er</sub> |
+| D−ER+AG=>Q+ER+BD | D/‑er=>Q/er    | −D<sub>−er</sub>=Q<sub>+er</sub> |
 
 In addition to 12 Khizhnyak axes and 24 Khizhnyak functions we can define 12 abstract static-dynamic functions that lack I/E and -R/+R flavour:
 
