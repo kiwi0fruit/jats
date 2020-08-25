@@ -760,24 +760,24 @@ Types are in standard Talanov's order.
 8 bright rainbow colors from red to magenta are mapped to Alpha and Delta quadras.  
 Dark/Light switch would be Rational/Irrational switch to quasi-identity type.
 
-| Color           | Color name    | No.  |
-|:---------------:|:-------------:|:----:|
-| ![](pic/1.png)  | bright red    | 1    |
-| ![](pic/2.png)  | bright orange | 2    |
-| ![](pic/3.png)  | bright yellow | 3    |
-| ![](pic/4.png)  | bright green  | 4    |
-| ![](pic/5.png)  | dark magenta  | 5    |
-| ![](pic/6.png)  | dark purple   | 6    |
-| ![](pic/7.png)  | dark blue     | 7    |
-| ![](pic/8.png)  | dark blue     | 8    |
-| ![](pic/9.png)  | dark blue     | 9    |
-| ![](pic/10.png) | dark blue     | 10   |
-| ![](pic/11.png) | dark blue     | 11   |
-| ![](pic/12.png) | dark blue     | 12   |
-| ![](pic/13.png) | dark blue     | 13   |
-| ![](pic/14.png) | dark blue     | 14   |
-| ![](pic/15.png) | dark blue     | 15   |
-| ![](pic/16.png) | dark blue     | 16   |
+| Color           | Color name     | No.  |
+|:---------------:|:--------------:|:----:|
+| ![](pic/1.png)  | bright red     | 1    |
+| ![](pic/2.png)  | bright orange  | 2    |
+| ![](pic/3.png)  | bright yellow  | 3    |
+| ![](pic/4.png)  | bright green   | 4    |
+| ![](pic/5.png)  | dark magenta   | 5    |
+| ![](pic/6.png)  | dark purple    | 6    |
+| ![](pic/7.png)  | dark blue      | 7    |
+| ![](pic/8.png)  | dark aqua      | 8    |
+| ![](pic/9.png)  | dark green     | 9    |
+| ![](pic/10.png) | dark yellow    | 10   |
+| ![](pic/11.png) | dark orange    | 11   |
+| ![](pic/12.png) | dark red       | 12   |
+| ![](pic/13.png) | bright aqua    | 13   |
+| ![](pic/14.png) | bright blue    | 14   |
+| ![](pic/15.png) | bright purple  | 15   |
+| ![](pic/16.png) | bright magenta | 16   |
 
 
 --------
