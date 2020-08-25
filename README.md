@@ -113,7 +113,7 @@ Gulenko's Temperaments:
 * I/&#x2060;-&#x2060;ER - receptive-adaptive, Ir**R**ational-**I**ntroverted-dynamic. Are characterized by lack of motivation, inertia, and unstable moods and energy levels,
 * E/ER - linear-assertive, **R**ational-**E**xtraverted-dynamic. Are characterized by energetic and proactive behavior.
 
-Note that first E/I letter is redundant as it only helps to read faster -IR, ER, IR, -ER are enough to encode all 4 temperaments.
+Note that first E/I letter is redundant as it only helps to read faster -&#x2060;IR, IR, -&#x2060;ER, ER are enough to encode all 4 temperaments.
 
 It can also be speculated that temperaments can be classified according to +R/−R and I/E traits:
 
