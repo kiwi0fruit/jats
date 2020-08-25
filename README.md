@@ -762,7 +762,7 @@ Dark/Light switch would be Rational/Irrational switch to quasi-identity type.
 8 dark rainbow colors from red to magenta are mapped to Beta+Gamma quadras in *inverse direction*.  
 
 | Color           | Color name     | No   | Type              | Alt. names     |
-|:--------------- |:-------------- |:---- |:----------------- |: ------------- |
+|:--------------- |:-------------- |:---- |:----------------- |:-------------- |
 | ![](pic/1.png)  | bright red     | 1    | ENT<sub>−ir</sub> | ILE, ENTP, NeT |
 | ![](pic/2.png)  | bright orange  | 2    | INT<sub>+ir</sub> | LII, INTx, TiN |
 | ![](pic/3.png)  | bright yellow  | 3    | ISF<sub>−er</sub> | SEI, ISFx, SiF |
