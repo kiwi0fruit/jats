@@ -757,27 +757,28 @@ Bright colors - Lateral types (Alpha-Delta).
 Dark colors - Central types (Beta-Gamma).
 
 Types are in standard Talanov's order.  
-8 bright rainbow colors from red to magenta are mapped to Alpha and Delta quadras.  
-Dark/Light switch would be Rational/Irrational switch to quasi-identity type.
+8 bright rainbow colors from red to magenta are mapped to Alpha+Delta quadras in *normal direction*.  
+Dark/Light switch would be Rational/Irrational switch to quasi-identity type.  
+8 dark rainbow colors from red to magenta are mapped to Beta+Gamma quadras in *inverse direction*.  
 
-| Color           | Color name     | No.  | Ref. type         |
-|:--------------- |:-------------- |:---- |:----------------- |
-| ![](pic/1.png)  | bright red     | 1    | ENT<sub>−ir</sub> |
-| ![](pic/2.png)  | bright orange  | 2    | INT<sub>+ir</sub> |
-| ![](pic/3.png)  | bright yellow  | 3    | ISF<sub>−er</sub> |
-| ![](pic/4.png)  | bright green   | 4    | ESF<sub>+er</sub> |
-| ![](pic/5.png)  | dark magenta   | 5    | EST<sub>−ir</sub> |
-| ![](pic/6.png)  | dark purple    | 6    | IST<sub>+ir</sub> |
-| ![](pic/7.png)  | dark blue      | 7    | INF<sub>−er</sub> |
-| ![](pic/8.png)  | dark aqua      | 8    | ENF<sub>+er</sub> |
-| ![](pic/9.png)  | dark green     | 9    | ESF<sub>−ir</sub> |
-| ![](pic/10.png) | dark yellow    | 10   | ISF<sub>+ir</sub> |
-| ![](pic/11.png) | dark orange    | 11   | INT<sub>−er</sub> |
-| ![](pic/12.png) | dark red       | 12   | ENT<sub>+er</sub> |
-| ![](pic/13.png) | bright aqua    | 13   | ENF<sub>−ir</sub> |
-| ![](pic/14.png) | bright blue    | 14   | INF<sub>+ir</sub> |
-| ![](pic/15.png) | bright purple  | 15   | IST<sub>−er</sub> |
-| ![](pic/16.png) | bright magenta | 16   | EST<sub>+er</sub> |
+| Color           | Color name     | No   | Type              | Alt. names     |
+|:--------------- |:-------------- |:---- |:----------------- |: ------------- |
+| ![](pic/1.png)  | bright red     | 1    | ENT<sub>−ir</sub> | ILE, ENTP, NeT |
+| ![](pic/2.png)  | bright orange  | 2    | INT<sub>+ir</sub> | LII, INTx, TiN |
+| ![](pic/3.png)  | bright yellow  | 3    | ISF<sub>−er</sub> | SEI, ISFx, SiF |
+| ![](pic/4.png)  | bright green   | 4    | ESF<sub>+er</sub> | ESE, ESFJ, FeS |
+| ![](pic/5.png)  | dark magenta   | 5    | EST<sub>−ir</sub> | SLE, ESTP, SeT |
+| ![](pic/6.png)  | dark purple    | 6    | IST<sub>+ir</sub> | LSI, ISTx, TiS |
+| ![](pic/7.png)  | dark blue      | 7    | INF<sub>−er</sub> | IEI, INFx, NiF |
+| ![](pic/8.png)  | dark aqua      | 8    | ENF<sub>+er</sub> | EIE, ENFJ, FeN |
+| ![](pic/9.png)  | dark green     | 9    | ESF<sub>−ir</sub> | SEE, ESFP, SeF |
+| ![](pic/10.png) | dark yellow    | 10   | ISF<sub>+ir</sub> | ESI, ISFx, FiS |
+| ![](pic/11.png) | dark orange    | 11   | INT<sub>−er</sub> | ILI, INTx, NiT |
+| ![](pic/12.png) | dark red       | 12   | ENT<sub>+er</sub> | LIE, ENTJ, TeN |
+| ![](pic/13.png) | bright aqua    | 13   | ENF<sub>−ir</sub> | IEE, ENFP, NeF |
+| ![](pic/14.png) | bright blue    | 14   | INF<sub>+ir</sub> | EII, INFx, FiN |
+| ![](pic/15.png) | bright purple  | 15   | IST<sub>−er</sub> | SLI, ISTx, SiT |
+| ![](pic/16.png) | bright magenta | 16   | EST<sub>+er</sub> | LSE, ESTJ, TeS |
 
 
 --------
