@@ -29,7 +29,7 @@ This is an alternative translation of the basic concepts of one of the braches o
   - [11.6 Dynamic-static axis as a measure of Khizhnyak functions differentiation](#116-dynamic-static-axis-as-a-measure-of-khizhnyak-functions-differentiation)
   - [11.7 Model A analogue stub with Gulenko's temperaments and Khizhnyak functions](#117-model-a-analogue-stub-with-gulenkos-temperaments-and-khizhnyak-functions)
   - [11.8 FZA1: Hypothesis for 7 axes of independent variation in factorized traits space](#118-fza1-hypothesis-for-7-axes-of-independent-variation-in-factorized-traits-space)
-
+  - [11.9 Colors to plot 16 probability density functions on a single image](#119-colors-to-plot-16-probability-density-functions-on-a-single-image)
 
 ## Summary
 
@@ -749,6 +749,35 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 * axis is skipped if 0.00 ≤ |x| < 0.3
 * notation example: ENT(−iR+er−iC+ec−U), INt(+iR−ic−U)
 * first E is obtained from (−iR, +eR, −iC, +eC) vector via projecting on (0.5, 0.5, 0.5, 0.5) direction.
+
+
+### 11.9 Colors to plot 16 probability density functions on a single image
+
+Bright colors - Lateral types (Alpha-Delta).  
+Dark colors - Central types (Beta-Gamma).
+
+Types are in standard Talanov's order.  
+8 bright rainbow colors from red to magenta are mapped to Alpha and Delta quadras.  
+Dark/Light switch would be Rational/Irrational switch to quasi-identity type.
+
+| Color           | Color name    | No.  |
+|:---------------:|:-------------:|:----:|
+| ![](pic/1.png)  | bright red    | 1    |
+| ![](pic/2.png)  | bright orange | 2    |
+| ![](pic/3.png)  | bright yellow | 3    |
+| ![](pic/4.png)  | bright green  | 4    |
+| ![](pic/5.png)  | dark magenta  | 5    |
+| ![](pic/6.png)  | dark purple   | 6    |
+| ![](pic/7.png)  | dark blue     | 7    |
+| ![](pic/8.png)  | dark blue     | 8    |
+| ![](pic/9.png)  | dark blue     | 9    |
+| ![](pic/10.png) | dark blue     | 10   |
+| ![](pic/11.png) | dark blue     | 11   |
+| ![](pic/12.png) | dark blue     | 12   |
+| ![](pic/13.png) | dark blue     | 13   |
+| ![](pic/14.png) | dark blue     | 14   |
+| ![](pic/15.png) | dark blue     | 15   |
+| ![](pic/16.png) | dark blue     | 16   |
 
 
 --------
