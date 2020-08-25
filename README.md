@@ -780,7 +780,7 @@ Dark/Light switch would be Rational/Irrational switch to quasi-identity type.
 | ![](pic/15.png) | bright purple  | 15   | IST<sub>−er</sub> | SLI, ISTx, SiT | bright purple |
 | ![](pic/16.png) | bright magenta | 16   | EST<sub>+er</sub> | LSE, ESTJ, TeS | bright pink |
 
-Socionics rainbow mnemonics flag:
+Socionics rainbow mnemonics:
 
 ![](pic/all.png)
 
