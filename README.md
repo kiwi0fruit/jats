@@ -751,7 +751,7 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 * first E is obtained from (−iR, +eR, −iC, +eC) vector via projecting on (0.5, 0.5, 0.5, 0.5) direction.
 
 
-### 11.9 Colors to plot 16 probability density functions on a single image
+### 11.9 Bright/deep rainbow colors to plot 16 probability density functions on a single image
 
 Bright colors - Lateral types (Alpha-Delta).  
 Deep colors - Central types (Beta-Gamma).
