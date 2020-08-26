@@ -784,7 +784,7 @@ Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.
 
 Socionics rainbow mnemonics flag:
 
-![](pic/all.png)
+![Socionics rainbow mnemonics flag](pic/all.png)
 
 --------
 
