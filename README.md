@@ -753,8 +753,10 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 
 ### 11.9 Bright/deep rainbow colors to plot 16 probability density functions on a single image
 
-Bright colors - Lateral types (Alpha-Delta).  
-Deep colors - Central types (Beta-Gamma).
+* AD/−C: Bright colors (Lateral types, Alpha-Delta),
+* BG/+C: Deep colors (Central types, Beta-Gamma),
+* T: Colors near Red (Task-oriented types),
+* F: Colors near Green (Feelings-oriented types)
 
 Types are in standard Talanov's order.  
 8 bright rainbow colors from red to magenta are mapped to Alpha+Delta quadras in *normal order*.  
