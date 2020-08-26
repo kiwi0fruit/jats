@@ -761,24 +761,24 @@ Types are in standard Talanov's order.
 Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.  
 8 deep rainbow colors from red to magenta are mapped to Beta+Gamma quadras in *reverse order*.  
 
-| Color           | Color        | No   | Type              | Alt. names     | xkcd          |
-|:--------------- |:------------ |:---- |:----------------- |:-------------- |:------------- |
-| ![](pic/1.png)  | bri. red     | 1    | ENT<sub>−ir</sub> | ILE, ENTP, NeT | bright red    |
-| ![](pic/2.png)  | bri. orange  | 2    | INT<sub>+ir</sub> | LII, INTx, TiN | tangerine     |
-| ![](pic/3.png)  | bri. yellow  | 3    | ISF<sub>−er</sub> | SEI, ISFx, SiF | bright yellow |
-| ![](pic/4.png)  | bri. green   | 4    | ESF<sub>+er</sub> | ESE, ESFJ, FeS | apple green   |
-| ![](pic/5.png)  | dee. magenta | 5    | EST<sub>−ir</sub> | SLE, ESTP, SeT | magenta       |
-| ![](pic/6.png)  | dee. purple  | 6    | IST<sub>+ir</sub> | LSI, ISTx, TiS | purple        |
-| ![](pic/7.png)  | dee. blue    | 7    | INF<sub>−er</sub> | IEI, INFx, NiF | blue          |
-| ![](pic/8.png)  | dee. aqua    | 8    | ENF<sub>+er</sub> | EIE, ENFJ, FeN | teal blue     |
-| ![](pic/9.png)  | dee. green   | 9    | ESF<sub>−ir</sub> | SEE, ESFP, SeF | grass green   |
-| ![](pic/10.png) | dee. yellow  | 10   | ISF<sub>+ir</sub> | ESI, ISFx, FiS | gold          |
-| ![](pic/11.png) | dee. orange  | 11   | INT<sub>−er</sub> | ILI, INTx, NiT | dark orange   |
-| ![](pic/12.png) | dee. red     | 12   | ENT<sub>+er</sub> | LIE, ENTJ, TeN | blood red     |
-| ![](pic/13.png) | bri. aqua    | 13   | ENF<sub>−ir</sub> | IEE, ENFP, NeF | aqua blue     |
-| ![](pic/14.png) | bri. blue    | 14   | INF<sub>+ir</sub> | EII, INFx, FiN | azure         |
-| ![](pic/15.png) | bri. purple  | 15   | IST<sub>−er</sub> | SLI, ISTx, SiT | bright purple |
-| ![](pic/16.png) | bri. magenta | 16   | EST<sub>+er</sub> | LSE, ESTJ, TeS | bright pink   |
+| Color           | Color        | No  | Type              |     | Alt. names     | xkcd          |
+|:--------------- |:------------ |:--- |:----------------- | --- |:-------------- |:------------- |
+| ![](pic/1.png)  | bri. red     | 1   | ENT<sub>−ir</sub> | α   | ILE, ENTP, NeT | bright red    |
+| ![](pic/2.png)  | bri. orange  | 2   | INT<sub>+ir</sub> | α   | LII, INTx, TiN | tangerine     |
+| ![](pic/3.png)  | bri. yellow  | 3   | ISF<sub>−er</sub> | α   | SEI, ISFx, SiF | bright yellow |
+| ![](pic/4.png)  | bri. green   | 4   | ESF<sub>+er</sub> | α   | ESE, ESFJ, FeS | apple green   |
+| ![](pic/5.png)  | dee. magenta | 5   | EST<sub>−ir</sub> | β   | SLE, ESTP, SeT | magenta       |
+| ![](pic/6.png)  | dee. purple  | 6   | IST<sub>+ir</sub> | β   | LSI, ISTx, TiS | purple        |
+| ![](pic/7.png)  | dee. blue    | 7   | INF<sub>−er</sub> | β   | IEI, INFx, NiF | blue          |
+| ![](pic/8.png)  | dee. aqua    | 8   | ENF<sub>+er</sub> | β   | EIE, ENFJ, FeN | teal blue     |
+| ![](pic/9.png)  | dee. green   | 9   | ESF<sub>−ir</sub> | γ   | SEE, ESFP, SeF | grass green   |
+| ![](pic/10.png) | dee. yellow  | 10  | ISF<sub>+ir</sub> | γ   | ESI, ISFx, FiS | gold          |
+| ![](pic/11.png) | dee. orange  | 11  | INT<sub>−er</sub> | γ   | ILI, INTx, NiT | dark orange   |
+| ![](pic/12.png) | dee. red     | 12  | ENT<sub>+er</sub> | γ   | LIE, ENTJ, TeN | blood red     |
+| ![](pic/13.png) | bri. aqua    | 13  | ENF<sub>−ir</sub> | δ   | IEE, ENFP, NeF | aqua blue     |
+| ![](pic/14.png) | bri. blue    | 14  | INF<sub>+ir</sub> | δ   | EII, INFx, FiN | azure         |
+| ![](pic/15.png) | bri. purple  | 15  | IST<sub>−er</sub> | δ   | SLI, ISTx, SiT | bright purple |
+| ![](pic/16.png) | bri. magenta | 16  | EST<sub>+er</sub> | δ   | LSE, ESTJ, TeS | bright pink   |
 
 Socionics rainbow mnemonics:
 
