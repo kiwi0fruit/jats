@@ -782,9 +782,9 @@ Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.
 | ![](pic/15.png) | bri. purple  | 15  | IST<sub>−er</sub> | δ   | SLI, ISTx, SiT | bright purple |
 | ![](pic/16.png) | bri. magenta | 16  | EST<sub>+er</sub> | δ   | LSE, ESTJ, TeS | bright pink   |
 
-Socionics rainbow mnemonics flag:
+Socionics rainbow mnemonics flag (truncated MBTI abbreviations were used):
 
-![Socionics rainbow mnemonics flag](pic/all.png)
+![Socionics rainbow mnemonics flag (truncated MBTI abbreviations were used)](pic/all.png)
 
 --------
 
