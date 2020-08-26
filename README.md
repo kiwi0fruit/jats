@@ -786,6 +786,11 @@ Socionics rainbow mnemonics flag (truncated MBTI abbreviations were used):
 
 ![Socionics rainbow mnemonics flag (truncated MBTI abbreviations were used)](pic/all.png)
 
+Version without MBTI abbreviations:
+
+![Socionics rainbow mnemonics flag (version without MBTI abbreviations)](pic/all2.png)
+
+
 --------
 
 PS: Used: I E J P, S N F T Q D, G B A, C R U X. Free: Y O H K M L V W Z.
