@@ -761,7 +761,7 @@ Types are in standard Talanov's order.
 Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.  
 8 deep rainbow colors from red to magenta are mapped to Beta+Gamma quadras in *reverse order*.  
 
-| Color           | Color        | No  | Type              |     | Alt. names     | xkcd color    |
+| Color           |              |     | Type              |     | Alt. names     | xkcd color    |
 |:--------------- |:------------ |:--- |:----------------- | --- |:-------------- |:------------- |
 | ![](pic/1.png)  | bri. red     | 1   | ENT<sub>−ir</sub> | α   | ILE, ENTP, NeT | bright red    |
 | ![](pic/2.png)  | bri. orange  | 2   | INT<sub>+ir</sub> | α   | LII, INTx, TiN | tangerine     |
