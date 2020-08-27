@@ -777,7 +777,7 @@ Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.
 | ![](pic/12.png) | maroon  | 12  | ENT<sub>+er</sub> | γ   | LIE, ENTJ, TeN | blood red     |
 | ![](pic/13.png) | aqua    | 13  | ENF<sub>−ir</sub> | δ   | IEE, ENFP, NeF | aqua blue     |
 | ![](pic/14.png) | azure   | 14  | INF<sub>+ir</sub> | δ   | EII, INFx, FiN | azure         |
-| ![](pic/15.png) | violet  | 15  | IST<sub>−er</sub> | δ   | SLI, ISTx, SiT | bright violet |
+| ![](pic/15.png) | violet  | 15  | IST<sub>−er</sub> | δ   | SLI, ISTx, SiT | bright purple |
 | ![](pic/16.png) | pink    | 16  | EST<sub>+er</sub> | δ   | LSE, ESTJ, TeS | bright pink   |
 
 * Bright colors: red, orange, yellow, lime, aqua, azure, violet, pink
