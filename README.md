@@ -780,7 +780,6 @@ Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.
 | ![](pic/15.png) | violet  | 15  | IST<sub>−er</sub> | δ   | SLI, ISTx, SiT | bright violet |
 | ![](pic/16.png) | pink    | 16  | EST<sub>+er</sub> | δ   | LSE, ESTJ, TeS | bright pink   |
 
-* Colors: (bright-/deep-) red, orange, yellow, green, teal, blue, purple, magenta
 * Bright colors: red, orange, yellow, lime, aqua, azure, violet, pink
 * Deep colors: maroon, brown, gold, green, teal, blue, purple, magenta
 
