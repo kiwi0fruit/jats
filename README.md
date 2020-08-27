@@ -775,12 +775,12 @@ Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.
 | ![](pic/10.png) | gold    | 10  | ISF<sub>+ir</sub> | γ   | ESI, ISFx, FiS | gold          |
 | ![](pic/11.png) | brown   | 11  | INT<sub>−er</sub> | γ   | ILI, INTx, NiT | dark orange   |
 | ![](pic/12.png) | maroon  | 12  | ENT<sub>+er</sub> | γ   | LIE, ENTJ, TeN | blood red     |
-| ![](pic/13.png) | aqua    | 13  | ENF<sub>−ir</sub> | δ   | IEE, ENFP, NeF | aqua blue     |
+| ![](pic/13.png) | cyan    | 13  | ENF<sub>−ir</sub> | δ   | IEE, ENFP, NeF | aqua blue     |
 | ![](pic/14.png) | azure   | 14  | INF<sub>+ir</sub> | δ   | EII, INFx, FiN | azure         |
 | ![](pic/15.png) | orchid  | 15  | IST<sub>−er</sub> | δ   | SLI, ISTx, SiT | bright purple |
 | ![](pic/16.png) | pink    | 16  | EST<sub>+er</sub> | δ   | LSE, ESTJ, TeS | bright pink   |
 
-* Bright colors: red, orange, yellow, lime, aqua, azure, orchid, pink (Яркие цвета: красный, оранжевый, жёлтый, лаймовый, циановый, голубой, сиреневый, розовый),
+* Bright colors: red, orange, yellow, lime, cyan, azure, orchid, pink (Яркие цвета: красный, оранжевый, жёлтый, лаймовый, циановый, голубой, сиреневый, розовый),
 * Deep colors: maroon, brown, gold, green, teal, blue, purple, magenta (Густые цвета: бордовый, коричневый, золотой, зеленый, бирюзовый, синий, фиолетовый, пурпурный).
 
 Socionics rainbow mnemonics (truncated MBTI abbreviations were used):
