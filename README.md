@@ -780,8 +780,8 @@ Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.
 | ![](pic/15.png) | orchid  | 15  | IST<sub>−er</sub> | δ   | SLI, ISTx, SiT | bright purple |
 | ![](pic/16.png) | pink    | 16  | EST<sub>+er</sub> | δ   | LSE, ESTJ, TeS | bright pink   |
 
-* Bright colors: red, orange, yellow, lime, aqua, azure, orchid, pink (красный, оранжевый, жёлтый, лаймовый, циановый, голубой, сиреневый, розовый),
-* Deep colors: maroon, brown, gold, green, teal, blue, purple, magenta (бордовый, коричневый, золотой, зеленый, бирюзовый, синий, фиолетовый, пурпурный).
+* Bright colors: red, orange, yellow, lime, aqua, azure, orchid, pink (Яркие цвета: красный, оранжевый, жёлтый, лаймовый, циановый, голубой, сиреневый, розовый),
+* Deep colors: maroon, brown, gold, green, teal, blue, purple, magenta (Густые цвета: бордовый, коричневый, золотой, зеленый, бирюзовый, синий, фиолетовый, пурпурный).
 
 Socionics rainbow mnemonics (truncated MBTI abbreviations were used):
 
