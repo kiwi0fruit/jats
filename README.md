@@ -759,7 +759,7 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 Types are in standard Talanov's order.  
 8 bright rainbow colors from red to pink are mapped to Alpha+Delta quadras in *normal order*.  
 Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.  
-8 deep rainbow colors from maroon to magenta are mapped to Beta+Gamma quadras in *reverse order*.  
+8 deep rainbow colors from crimson to magenta are mapped to Beta+Gamma quadras in *reverse order*.  
 
 | Color           |         |     | Type              |     | Alt. names     | xkcd color    |
 |:--------------- |:------- |:--- |:----------------- | --- |:-------------- |:------------- |
