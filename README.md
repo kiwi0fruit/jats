@@ -754,9 +754,7 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 ### 11.9 Bright/deep rainbow colors to plot 16 probability density functions on a single image
 
 * AD/−C: Bright colors (Lateral types, Alpha-Delta),
-* BG/+C: Deep colors (Central types, Beta-Gamma),
-* T: Colors near Red (Task-oriented types),
-* F: Colors near Green (Feelings-oriented types)
+* BG/+C: Deep colors (Central types, Beta-Gamma).
 
 Types are in standard Talanov's order.  
 8 bright rainbow colors from red to pink are mapped to Alpha+Delta quadras in *normal order*.  
@@ -779,8 +777,12 @@ Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.
 | ![](pic/12.png) | maroon  | 12  | ENT<sub>+er</sub> | γ   | LIE, ENTJ, TeN | blood red     |
 | ![](pic/13.png) | aqua    | 13  | ENF<sub>−ir</sub> | δ   | IEE, ENFP, NeF | aqua blue     |
 | ![](pic/14.png) | azure   | 14  | INF<sub>+ir</sub> | δ   | EII, INFx, FiN | azure         |
-| ![](pic/15.png) | b. purple | 15  | IST<sub>−er</sub> | δ   | SLI, ISTx, SiT | bright purple |
+| ![](pic/15.png) | violet  | 15  | IST<sub>−er</sub> | δ   | SLI, ISTx, SiT | bright violet |
 | ![](pic/16.png) | pink    | 16  | EST<sub>+er</sub> | δ   | LSE, ESTJ, TeS | bright pink   |
+
+* Colors: (bright-/deep-) red, orange, yellow, green, teal, blue, purple, magenta
+* Bright colors: red, orange, yellow, lime, aqua, azure, violet, pink
+* Deep colors: maroon, brown, gold, green, teal, blue, purple, magenta
 
 Socionics rainbow mnemonics (truncated MBTI abbreviations were used):
 
