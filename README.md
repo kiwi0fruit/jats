@@ -787,7 +787,7 @@ Socionics rainbow mnemonics (truncated MBTI abbreviations were used):
 
 ![Socionics rainbow mnemonics flag (truncated MBTI abbreviations were used)](pic/all.png)
 
-Version without MBTI abbreviations:
+Version without MBTI abbreviations (font used is STIX Two Text):
 
 ![Socionics rainbow mnemonics flag (version without MBTI abbreviations)](pic/all2.png)
 
