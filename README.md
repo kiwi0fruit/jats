@@ -728,9 +728,11 @@ If we take another hypothetical person example with T<sub>+er</sub>=0.5, T<sub>+
 Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstracted Khizhnyak axes) might be axes of independent variation in factorized traits space. But I'm of opinion (based on almost ready model fitted to the Socionics database of \~10000 surveys) that it's not the case. More likely that it would be **Factorized Axes 1 (FZA1)**:
 
 * To summ up briefly in old terms:
-  * N=−S, T=−F, PE=−JI, JE=−PI, EAD=−IBG, EBG=−IAD, U (neUroticism).
+  * 1) N=−S, 2) T=−F, 3) PE=−JI, 4) JE=−PI, 5) EAD=−IBG, 6) EBG=−IAD, 7) U (neUroticism),
+  * alternative: 5a) TAD=−FBG, 7a) UBG.
 * In new terms:
-  * N=−S, T=−F, −iR, eR, −iC, eC, U.
+  * 1) N=−S, 2) T=−F, 3) −iR, 4) eR, 5) −iC, 6) eC, 7) U,
+  * alternative: 5a) −fC, 7a) uC.
 
 |     | FZA1 | Axis name                                                       | Value-dependent notation for survey results\* |
 | --- |:---- | --------------------------------------------------------------- |:---------------------------------------------:|
@@ -741,6 +743,9 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 | 5.  | −iC  | **C**entral-**I**ntroverted=>Lateral-**E**xtraverted (IBG=>EAD) |       +iC => +ic => skip => −ic => −iC        |
 | 6.  | +eC  | Lateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAD=>EBG) |       −eC => −ec => skip => +ec => +eC        |
 | 7.  | +U   | ne**U**roticism                                                 |         −U => −u => skip => +u => +U          |
+|     | **FZA1a** | Alternative axis                                           |         −U => −u => skip => +u => +U          |
+| 5a. | −fC  | **C**entral-**F**eelings-oriented=>Lateral-**T**ask-oriented (FBG=>TAD) | +iC => +ic => skip => −ic => −iC      |
+| 7a. | +uC  | Lateral-anti-ne**U**roticism=>**C**entral ne**U**roticism       |       −uC => −uc => skip => +uc => +uC        |
 
 \*Value-dependent notation details:
 
