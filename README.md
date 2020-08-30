@@ -743,8 +743,8 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 | 5.  | −iC  | **C**entral-**I**ntroverted=>Lateral-Extraverted (IBG=>EAD) |       +iC => +ic => skip => −ic => −iC        |
 | 6.  | +eC  | Lateral-Introverted=>**C**entral-**E**xtraverted (IAD=>EBG) |       −eC => −ec => skip => +ec => +eC        |
 | 7.  | +U   | ne**U**roticism                                                 |         −U => −u => skip => +u => +U          |
-|     | **FZA1a** | Alternative axes                                           |         −U => −u => skip => +u => +U          |
-| 5a. | −fC  | **C**entral-**F**eelings-oriented=>Lateral-Task-oriented (FBG=>TAD) | +iC => +ic => skip => −ic => −iC      |
+|     | **FZA1a** | Alternative axes                                           |                   |
+| 5a. | −fC  | **C**entral-**F**eelings-oriented=>Lateral-Task-oriented (FBG=>TAD) | +fC => +fc => skip => −fc => −fC      |
 | 7a. | +uC  | Lateral-anti-neuroticism=>**C**entral ne**U**roticism       |       −uC => −uc => skip => +uc => +uC        |
 
 \*Value-dependent notation details:
