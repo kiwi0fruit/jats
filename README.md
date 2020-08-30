@@ -738,14 +738,14 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 | --- |:---- | --------------------------------------------------------------- |:---------------------------------------------:|
 | 1.  | +N   | **S**ensory=>i**N**tuitive                                      |           S => s => skip => n => N            |
 | 2.  | +T   | **F**eelings-oriented=>**T**ask-oriented                        |           F => f => skip => t => T            |
-| 3.  | −iR  | **R**ational-**I**ntroverted=>Irrational-**E**xtraverted        |       +iR => +ir => skip => −ir => −iR        |
-| 4.  | +eR  | Irrational-**I**ntroverted=>**R**ational-**E**xtraverted        |       −eR => −er => skip => +er => +eR        |
-| 5.  | −iC  | **C**entral-**I**ntroverted=>Lateral-**E**xtraverted (IBG=>EAD) |       +iC => +ic => skip => −ic => −iC        |
-| 6.  | +eC  | Lateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAD=>EBG) |       −eC => −ec => skip => +ec => +eC        |
+| 3.  | −iR  | **R**ational-**I**ntroverted=>Irrational-Extraverted        |       +iR => +ir => skip => −ir => −iR        |
+| 4.  | +eR  | Irrational-Introverted=>**R**ational-**E**xtraverted        |       −eR => −er => skip => +er => +eR        |
+| 5.  | −iC  | **C**entral-**I**ntroverted=>Lateral-Extraverted (IBG=>EAD) |       +iC => +ic => skip => −ic => −iC        |
+| 6.  | +eC  | Lateral-Introverted=>**C**entral-**E**xtraverted (IAD=>EBG) |       −eC => −ec => skip => +ec => +eC        |
 | 7.  | +U   | ne**U**roticism                                                 |         −U => −u => skip => +u => +U          |
 |     | **FZA1a** | Alternative axis                                           |         −U => −u => skip => +u => +U          |
-| 5a. | −fC  | **C**entral-**F**eelings-oriented=>Lateral-**T**ask-oriented (FBG=>TAD) | +iC => +ic => skip => −ic => −iC      |
-| 7a. | +uC  | Lateral-anti-ne**U**roticism=>**C**entral ne**U**roticism       |       −uC => −uc => skip => +uc => +uC        |
+| 5a. | −fC  | **C**entral-**F**eelings-oriented=>Lateral-Task-oriented (FBG=>TAD) | +iC => +ic => skip => −ic => −iC      |
+| 7a. | +uC  | Lateral-anti-neuroticism=>**C**entral ne**U**roticism       |       −uC => −uc => skip => +uc => +uC        |
 
 \*Value-dependent notation details:
 
