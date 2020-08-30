@@ -774,7 +774,7 @@ Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.
 | ![](pic/4.png)  | lime    | 4   | ESF<sub>+er</sub> | α   | ESE, ESFJ, FeS | apple green   |
 | ![](pic/5.png)  | magenta | 5   | EST<sub>−ir</sub> | β   | SLE, ESTP, SeT | magenta       |
 | ![](pic/6.png)  | purple  | 6   | IST<sub>+ir</sub> | β   | LSI, ISTx, TiS | purple        |
-| ![](pic/7.png)  | blue    | 7   | INF<sub>−er</sub> | β   | IEI, INFx, NiF | blue blue     |
+| ![](pic/7.png)  | blue    | 7   | INF<sub>−er</sub> | β   | IEI, INFx, NiF | blue          |
 | ![](pic/8.png)  | teal    | 8   | ENF<sub>+er</sub> | β   | EIE, ENFJ, FeN | teal blue     |
 | ![](pic/9.png)  | green   | 9   | ESF<sub>−ir</sub> | γ   | SEE, ESFP, SeF | grass green   |
 | ![](pic/10.png) | mustard | 10  | ISF<sub>+ir</sub> | γ   | ESI, ISFx, FiS | gold          |
