@@ -40,7 +40,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 5. **Rational/Irrational** (**+R/−R**) names were used instead of **Judging/Perceiving** to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INT<sub>+ir</sub>** (INT/ir, LII) vs. **INT<sub>−er</sub>** (INT/&#x2060;-&#x2060;er, ILI) those are dominant introverted tasker & rational intuiter vs. dominant introverted intuiter & irrational tasker
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-Delta vs. Beta-Gamma types are translated as **Lateral** vs. **Central** types (**−C/+C**). The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
-8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **\*NT(+ad)**, **\~NT(+ad)** that are unknown and mixed types from ENT<sub>−ir</sub> (ENTP) and INT<sub>+ir</sub> (LII).
+8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNT(+ad)**, **uNT(+ad)** that are unknown and mixed types from ENT<sub>−ir</sub> (ENTP) and INT<sub>+ir</sub> (LII).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for ENT<sub>−ir</sub> (ENTP), Enthusiast for ESF<sub>+er</sub> (ESFJ), General for EST<sub>−ir</sub> (ESTP), Poet for INF<sub>−er</sub> (IEI), **Inspirer** for ENF<sub>+er</sub> (ENFJ), **Foreseer** for INT<sub>−er</sub> (ILI), Entrepreneur for ENT<sub>+er</sub> (ENTJ), **Journalist** for ENF<sub>−ir</sub> (ENFP).
 11. The set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions is given. Together hypotheses give **Model A** as consequences. Bonus: **Cognitive functions descriptions per position in Model A (8x8 auto-translated table)**.
@@ -406,32 +406,32 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 ## 9. Intermediate and unknown types names
 
 1. In order to distinguish from MBTI the 5-letter notation from [section 11.5](#115-dominant-agnostic-type-names) is used.
-2. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common in MBTI (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly E\~T/er is the name for truly intermediate type and E\*T/er is the name for unknown in JATS notation. Tilda or asterisk denote whether we should use mean values for skipped axes (\~) or they are unknown (\*). The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
+2. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common in MBTI (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EuT/er is the name for truly intermediate type and ExT/er is the name for unknown in JATS notation. "u" or "x" denote whether we should use mean values for skipped axes (u is from μ that denotes mean) or they are unknown (x). The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
 3. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 3 letter code at the beginning shows the position on EI, SN and FT axes. Then Gulenko's temperament in brackets. All axes can be measured by MBTI or Big Five tests. +R/−R, J/P and conscientiousness are roughly the same. Next in the brackets additional info is shown. For finer details types shortcut numbers to pick from can be used. I guess it may even be possible to have **ENT/ir** if the person is a mixture equally of ENT<sub>−ir</sub>, ENT<sub>+er</sub> and INT<sub>+ir</sub>: ENT(+ir)[1\~2\~12]. But at the moment it's a speculation only and allowed combinations are E..(−ir), I..(+ir), I..(−er), E..(+er).
-4. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **\***/**x** on +R/−R axis (J/P in MBTI). For example **INT\*** = INT<sub>+ir</sub> or INT<sub>−er</sub> or INT\~. But if we take MBTI types then **INTx** = INTP (Ti dom.) or INTJ (Ni dom.).
+4. Additional postfixes might be needed if there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on +R/−R axis (J/P in MBTI). For example in JAST **INTx** = INT<sub>+ir</sub> or INT<sub>−er</sub> or INTu. But if we take MBTI types then **INTx** = INTP (Ti dom.) or INTJ (Ni dom.).
 
-|   **Unknown types**   |                                                                   **Meaning of unknown types**                                                                    |   **Mixed type**    |
-|:---------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|
-|        E\*T/er        |                                                                  ENT/er v EST/er v E\~T/er v ...                                                                  |       E\~T/er       |
-|        EN\*/er        |                                                                  ENT/er v ENF/er v EN\~/er v ...                                                                  |       EN\~/er       |
-|         INT\*         |                                                          INT/ir v INT/&#x2060;-&#x2060;er v INT\~ v ...                                                           |        INT\~        |
-|        I\*T/ir        |                                                                  INT/ir v IST/ir v I\~T/ir v ...                                                                  |       I\~T/ir       |
-|  \*NT(+ad), \*NT(−c)  |                                                        ENT/&#x2060;-&#x2060;ir v INT/ir v \~NT(+ad) v ...                                                         | \~NT(+ad), \~NT(−c) |
-|       \*NT(+r)        |                                                                 ENT/er v INT/ir v \~NT(+r) v ...                                                                  |      \~NT(+r)       |
-|        IN\*/ir        |                                                                  INT/ir v INF/ir v IN\~/ir v ...                                                                  |       IN\~/ir       |
-|       I\*T(+ad)       |                                                        INT/ir v IST/&#x2060;-&#x2060;er v I\~T(+ad) v ...                                                         |      I\~T(+ad)      |
-|       IN\*(+ab)       |                                                        INT/ir v INF/&#x2060;-&#x2060;er v IN\~(+ab) v ...                                                         |      IN\~(+ab)      |
-|     I\*\*(+ir+ag)     |                                                               INT/ir v ISF/ir v I\~\~(+ir+ag) v ...                                                               |    I\~\~(+ir+ag)    |
-|     EN\*(−ir−13)      |                                      ENT/&#x2060;-&#x2060;ir v EN\~/&#x2060;-&#x2060;ir v ... (not ENF/&#x2060;-&#x2060;ir)                                       |     ENT(−ir+13)     |
-|      \*NT(+ad−1)      |                                                      INT/ir v \~NT(+ad) v ... (not ENT/&#x2060;-&#x2060;ir)                                                       |     INT(+ir+1)      |
-|      I\*T(+ir−6)      |                                                                INT/ir v I\~T/ir v ... (not IST/ir)                                                                |     INT(+ir+6)      |
-|      \*N\*(+ad)       |                               INT/ir v ENT/&#x2060;-&#x2060;ir v INF/ir v ENF/&#x2060;-&#x2060;ir v EN\~/&#x2060;-&#x2060;ir v ...                                |          ?          |
-| I\*\*(+bg), I\*\*(+c) |                               IST/ir v INF/&#x2060;-&#x2060;er v ISF/ir v INT/&#x2060;-&#x2060;er v IN\~/&#x2060;-&#x2060;er v ...                                |          ?          |
-|       \*N\*(−r)       | ENT/&#x2060;-&#x2060;ir v INF/&#x2060;-&#x2060;er v INT/&#x2060;-&#x2060;er v ENF/&#x2060;-&#x2060;ir v EN\~/&#x2060;-&#x2060;ir v IN\~/&#x2060;-&#x2060;er v ... |          ?          |
-|        I\*T\*         |                               INT/ir v IST/ir v INT/&#x2060;-&#x2060;er v IST/&#x2060;-&#x2060;er v I\~T/&#x2060;-&#x2060;ir v ...                                |          ?          |
-|     EN\*(−ir−13)      |                                      ENT/&#x2060;-&#x2060;ir v EN\~/&#x2060;-&#x2060;ir v ... (not ENF/&#x2060;-&#x2060;ir)                                       |     ENT(−ir+13)     |
-|  EN\*(−ir)[1,1\~13]   |                                      ENT/&#x2060;-&#x2060;ir v EN\~/&#x2060;-&#x2060;ir v ... (not ENF/&#x2060;-&#x2060;ir)                                       |     ENT(−ir+13)     |
-|     I\*T\*[2,15]      |                                                        INT/ir v IST/&#x2060;-&#x2060;er v I\~T(+ad) v ...                                                         |    I\~T\~[2\~15]    |
+| **Unknown types** |                                                                  **Meaning of unknown types**                                                                   |  **Mixed type**   |
+|:-----------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------:|
+|      ExT/er       |                                                                 ENT/er v EST/er v EuT/er v ...                                                                  |      EuT/er       |
+|      ENx/er       |                                                                 ENT/er v ENF/er v ENu/er v ...                                                                  |      ENu/er       |
+|       INTx        |                                                          INT/ir v INT/&#x2060;-&#x2060;er v INTu v ...                                                          |       INTu        |
+|      IxT/ir       |                                                                 INT/ir v IST/ir v IuT/ir v ...                                                                  |      IuT/ir       |
+| xNT(+ad), xNT(−c) |                                                        ENT/&#x2060;-&#x2060;ir v INT/ir v uNT(+ad) v ...                                                        | uNT(+ad), uNT(−c) |
+|      xNT(+r)      |                                                                 ENT/er v INT/ir v uNT(+r) v ...                                                                 |      uNT(+r)      |
+|      INx/ir       |                                                                 INT/ir v INF/ir v INu/ir v ...                                                                  |      INu/ir       |
+|     IxT(+ad)      |                                                        INT/ir v IST/&#x2060;-&#x2060;er v IuT(+ad) v ...                                                        |     IuT(+ad)      |
+|     INx(+ab)      |                                                        INT/ir v INF/&#x2060;-&#x2060;er v INu(+ab) v ...                                                        |     INu(+ab)      |
+|    Ixx(+ir+ag)    |                                                               INT/ir v ISF/ir v Iuu(+ir+ag) v ...                                                               |    Iuu(+ir+ag)    |
+|    ENx(−ir−13)    |                                      ENT/&#x2060;-&#x2060;ir v ENu/&#x2060;-&#x2060;ir v ... (not ENF/&#x2060;-&#x2060;ir)                                      |    ENT(−ir+13)    |
+|    xNT(+ad−1)     |                                                      INT/ir v uNT(+ad) v ... (not ENT/&#x2060;-&#x2060;ir)                                                      |    INT(+ir+1)     |
+|    IxT(+ir−6)     |                                                               INT/ir v IuT/ir v ... (not IST/ir)                                                                |    INT(+ir+6)     |
+|     xNx(+ad)      |                               INT/ir v ENT/&#x2060;-&#x2060;ir v INF/ir v ENF/&#x2060;-&#x2060;ir v ENu/&#x2060;-&#x2060;ir v ...                               |         ?         |
+| Ixx(+bg), Ixx(+c) |                               IST/ir v INF/&#x2060;-&#x2060;er v ISF/ir v INT/&#x2060;-&#x2060;er v INu/&#x2060;-&#x2060;er v ...                               |         ?         |
+|      xNx(−r)      | ENT/&#x2060;-&#x2060;ir v INF/&#x2060;-&#x2060;er v INT/&#x2060;-&#x2060;er v ENF/&#x2060;-&#x2060;ir v ENu/&#x2060;-&#x2060;ir v INu/&#x2060;-&#x2060;er v ... |         ?         |
+|       IxTx        |                               INT/ir v IST/ir v INT/&#x2060;-&#x2060;er v IST/&#x2060;-&#x2060;er v IuT/&#x2060;-&#x2060;ir v ...                               |         ?         |
+|    ENx(−ir−13)    |                                      ENT/&#x2060;-&#x2060;ir v ENu/&#x2060;-&#x2060;ir v ... (not ENF/&#x2060;-&#x2060;ir)                                      |    ENT(−ir+13)    |
+| ENx(−ir)[1,1\~13] |                                      ENT/&#x2060;-&#x2060;ir v ENu/&#x2060;-&#x2060;ir v ... (not ENF/&#x2060;-&#x2060;ir)                                      |    ENT(−ir+13)    |
+|    IxTx[2,15]     |                                                        INT/ir v IST/&#x2060;-&#x2060;er v IuT(+ad) v ...                                                        |    IuTu[2\~15]    |
 
 
 ## 10. Further reading and notable discussions
@@ -471,7 +471,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 | QPDJ=−QJDP      | QJDP=>QPDJ (Negativist=>Positivist)                                                                                         | EAG.IBD=−IAG.EBD                     | QPDJ=−QJDP | &vert;&#x2060;±DR&#x2060;&vert;&#x2060;−&#x2060;&vert;&#x2060;±QR&#x2060;&vert; |
 | AG=−BD          | **B**eta-**D**elta=>**A**lpha-**G**amma (Aristocratic=>Democratic, Elitist=>Egalitarian)                                    | AG=−BD                               | QODY=−QYDO |                                                                                 |
 
-P.S.: **+U/−U** is reserved for ne**U**roticism from Big Five (in case neuroticism has meaning that is external to Socionics).
++U/−U is reserved for ne**U**roticism from Big Five (in case neuroticism has meaning that is external to Socionics).
 
 
 ### 11.2 Khizhnyak functions and axes
@@ -611,7 +611,7 @@ Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes. And trans
 
 ### 11.4 Non-standard dominant Khizhnyak functions
 
-There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that ES\*/&#x2060;-&#x2060;ir (S<sub>−ir</sub> dom.) types actually have very weak and vulnerable-like N<sub>+ir</sub> that governs consideration for all people even the "small" people (governs among other things). And that EN\*/&#x2060;-&#x2060;ir (N<sub>−ir</sub> dom.) types have very weak S<sub>+ir</sub> that among other thing governs monotonous sensory affairs.
+There is a Khizhnyak's hypothesys where he argues that 24 (or 16) Khizhnyak functions can be viewed as something like cognitive functions instead of merely a description of auxiliary function. For example that ESx/&#x2060;-&#x2060;ir (S<sub>−ir</sub> dom.) types actually have very weak and vulnerable-like N<sub>+ir</sub> that governs consideration for all people even the "small" people (governs among other things). And that ENx/&#x2060;-&#x2060;ir (N<sub>−ir</sub> dom.) types have very weak S<sub>+ir</sub> that among other thing governs monotonous sensory affairs.
 
 But if we take this hypothesis a bit further then we can even suggest that these new functions can be dominant functions. And there can be very unusual combinations of Gulenko's temperament (one of E/&#x2060;-&#x2060;IR, I/IR, I/&#x2060;-&#x2060;ER, E/ER) and dominant function (one of static-dynamic functions like N<sub>±ir</sub>, N<sub>±er</sub>, T<sub>±ir</sub>, T<sub>±er</sub>, etc. - see previous section for details).
 
@@ -734,18 +734,18 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
   * (1) N=−S, (2) T=−F, (3) −iR, (4) eR, (5) −iC, (6) eC, (7) U,
   * alternative: (5a) −fC, (7a) uC.
 
-|     | FZA1 | Axis name                                                       | Value-dependent notation for survey results\* |
-| --- |:---- | --------------------------------------------------------------- |:---------------------------------------------:|
-| 1.  | +N   | **S**ensory=>i**N**tuitive                                      |           S => s => skip => n => N            |
-| 2.  | +T   | **F**eelings-oriented=>**T**ask-oriented                        |           F => f => skip => t => T            |
-| 3.  | −iR  | **R**ational-**I**ntroverted=>Irrational-Extraverted        |       +iR => +ir => skip => −ir => −iR        |
-| 4.  | +eR  | Irrational-Introverted=>**R**ational-**E**xtraverted        |       −eR => −er => skip => +er => +eR        |
-| 5.  | −iC  | **C**entral-**I**ntroverted=>Lateral-Extraverted (IBG=>EAD) |       +iC => +ic => skip => −ic => −iC        |
-| 6.  | +eC  | Lateral-Introverted=>**C**entral-**E**xtraverted (IAD=>EBG) |       −eC => −ec => skip => +ec => +eC        |
-| 7.  | +U   | ne**U**roticism                                                 |         −U => −u => skip => +u => +U          |
-|     | **FZA1a** | Alternative axes                                           |                   |
-| 5a. | −fC  | **C**entral-**F**eelings-oriented=>Lateral-Task-oriented (FBG=>TAD) | +fC => +fc => skip => −fc => −fC      |
-| 7a. | +uC  | Lateral-anti-neuroticism=>**C**entral ne**U**roticism       |       −uC => −uc => skip => +uc => +uC        |
+|     | FZA1      | Axis name                                                           | Value-dependent notation for survey results\* |
+| --- |:--------- | ------------------------------------------------------------------- |:---------------------------------------------:|
+| 1.  | +N        | **S**ensory=>i**N**tuitive                                          |           S => s => skip => n => N            |
+| 2.  | +T        | **F**eelings-oriented=>**T**ask-oriented                            |           F => f => skip => t => T            |
+| 3.  | −iR       | **R**ational-**I**ntroverted=>Irrational-Extraverted                |       +iR => +ir => skip => −ir => −iR        |
+| 4.  | +eR       | Irrational-Introverted=>**R**ational-**E**xtraverted                |       −eR => −er => skip => +er => +eR        |
+| 5.  | −iC       | **C**entral-**I**ntroverted=>Lateral-Extraverted (IBG=>EAD)         |       +iC => +ic => skip => −ic => −iC        |
+| 6.  | +eC       | Lateral-Introverted=>**C**entral-**E**xtraverted (IAD=>EBG)         |       −eC => −ec => skip => +ec => +eC        |
+| 7.  | +U        | ne**U**roticism                                                     |         −U => −u => skip => +u => +U          |
+|     | **FZA1a** | Alternative axes                                                    |                                               |
+| 5a. | −fC       | **C**entral-**F**eelings-oriented=>Lateral-Task-oriented (FBG=>TAD) |       +fC => +fc => skip => −fc => −fC        |
+| 7a. | +uC       | Lateral-anti-neuroticism=>**C**entral ne**U**roticism               |       −uC => −uc => skip => +uc => +uC        |
 
 \*Value-dependent notation details:
 
