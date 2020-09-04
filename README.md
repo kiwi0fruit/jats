@@ -433,7 +433,10 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 | ENx(−ir/1^1\~13)  |                                      ENT/&#x2060;-&#x2060;ir v ENu/&#x2060;-&#x2060;ir v ... (not ENF/&#x2060;-&#x2060;ir)                                      |    ENT(−ir+13)    |
 |      IxT(2^15)    |                                                        INT/ir v IST/&#x2060;-&#x2060;er v IuT(+ad) v ...                                                        |    IuT(2\~15)     |
 
-**^** stands for **simplex**.
+* **^** stands for **simplex**,
+* **v** stands for **or**,
+* **-** and **−** stand for **minus**,
+* **~** stands for **approximately equals**.
 
 
 ## 10. Further reading and notable discussions
