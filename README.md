@@ -430,8 +430,8 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |      xNx(−r)      | ENT/&#x2060;-&#x2060;ir v INF/&#x2060;-&#x2060;er v INT/&#x2060;-&#x2060;er v ENF/&#x2060;-&#x2060;ir v ENu/&#x2060;-&#x2060;ir v INu/&#x2060;-&#x2060;er v ... |         ?         |
 |       IxTx        |                               INT/ir v IST/ir v INT/&#x2060;-&#x2060;er v IST/&#x2060;-&#x2060;er v IuT/&#x2060;-&#x2060;ir v ...                               |         ?         |
 |    ENx(−ir−13)    |                                      ENT/&#x2060;-&#x2060;ir v ENu/&#x2060;-&#x2060;ir v ... (not ENF/&#x2060;-&#x2060;ir)                                      |    ENT(−ir+13)    |
-| ENx(−ir/sx:1;1\~13) |                                      ENT/&#x2060;-&#x2060;ir v ENu/&#x2060;-&#x2060;ir v ... (not ENF/&#x2060;-&#x2060;ir)                                      |    ENT(−ir+13)    |
-|   IxTx(sx:2;15)   |                                                        INT/ir v IST/&#x2060;-&#x2060;er v IuT(+ad) v ...                                                        |    IuTu(2\~15)    |
+| ENx(−ir/1^1\~13;sx) |                                      ENT/&#x2060;-&#x2060;ir v ENu/&#x2060;-&#x2060;ir v ... (not ENF/&#x2060;-&#x2060;ir)                                      |    ENT(−ir+13)    |
+|   IxT(2^15;sx)   |                                                        INT/ir v IST/&#x2060;-&#x2060;er v IuT(+ad) v ...                                                        |    IuTu(2\~15)    |
 
 **sx** is **simplex**.
 
