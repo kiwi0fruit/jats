@@ -671,12 +671,12 @@ Model A analogue stub consists of 8 temperament positions.
 
 * **Strong** temperament positions,
 * **Weak** temperament positions,
-* **Base** temperament positions (**B**),
-* **Mirror** temperament positions (**M**),
-* **Dual** temperament positions (**D**),
-* **Request** temperament positions (**R**),
-* *Conscious* temperaments positions (**B**, **M**),
-* *Automatic (Semiconscious)* temperaments positions (**D**, **R**).
+* **Dominant** temperament positions (**Dm.**),
+* **Revision** temperament positions (**Rv.**),
+* **Dual** temperament positions (**Dl.**),
+* **Request** temperament positions (**Rq.**),
+* *Conscious* temperaments positions (**Dm.**, **Rv.**),
+* *Automatic (Semiconscious)* temperaments positions (**Dl.**, **Rq.**).
 
 I didn't use numbers for temperament positions on purpose. Number positions are reserved for roles like in Model A (*See examples after the table*).
 
@@ -685,10 +685,10 @@ In the table below the strong above weak and weak above strong pairs of Khizhnya
 |        |     | **E/&#x2060;-&#x2060;IR**                       |     |                                                 |     |     | **I/IR**                                        |     |                                                 |     |     | **I/&#x2060;-&#x2060;ER**                       |     |                                                 |     |     | **E/ER**                                        |     |                                                 |
 | ------ | --- |:----------------------------------------------- | --- |:----------------------------------------------- | --- | --- |:----------------------------------------------- | --- |:----------------------------------------------- | --- | --- |:----------------------------------------------- | --- |:----------------------------------------------- | --- | --- |:----------------------------------------------- | --- |:----------------------------------------------- |
 | **α**  |     | **ENT<sub>−ir</sub>  1**                        |     |                                                 |     |     | **INT<sub>+ir</sub>  2**                        |     |                                                 |     |     | **ISF<sub>−er</sub>  3**                        |     |                                                 |     |     | **ESF<sub>+er</sub>  4**                        |     |                                                 |
-| Strong | B   | N<sub>−ir</sub> T<sub>−ir</sub> Q<sub>−ir</sub> | M   | N<sub>+ir</sub> T<sub>+ir</sub> Q<sub>+ir</sub> |     | B   | T<sub>+ir</sub> N<sub>+ir</sub> Q<sub>+ir</sub> | M   | T<sub>−ir</sub> N<sub>−ir</sub> Q<sub>−ir</sub> |     | B   | S<sub>−er</sub> F<sub>−er</sub> D<sub>−er</sub> | M   | S<sub>+er</sub> F<sub>+er</sub> D<sub>+er</sub> |     | B   | F<sub>+er</sub> S<sub>+er</sub> D<sub>+er</sub> | M   | F<sub>−er</sub> S<sub>−er</sub> D<sub>−er</sub> |
-| Weak   | M   | S<sub>+ir</sub> F<sub>+ir</sub> D<sub>+ir</sub> | B   | S<sub>−ir</sub> F<sub>−ir</sub> D<sub>−ir</sub> |     | M   | F<sub>−ir</sub> S<sub>−ir</sub> D<sub>−ir</sub> | B   | F<sub>+ir</sub> S<sub>+ir</sub> D<sub>+ir</sub> |     | M   | N<sub>+er</sub> T<sub>+er</sub> Q<sub>+er</sub> | B   | N<sub>−er</sub> T<sub>−er</sub> Q<sub>−er</sub> |     | M   | T<sub>−er</sub> N<sub>−er</sub> Q<sub>−er</sub> | B   | T<sub>+er</sub> N<sub>+er</sub> Q<sub>+er</sub> |
-| Weak   | D   | S<sub>−er</sub> F<sub>−er</sub> D<sub>−er</sub> | R   | S<sub>+er</sub> F<sub>+er</sub> D<sub>+er</sub> |     | D   | F<sub>+er</sub> S<sub>+er</sub> D<sub>+er</sub> | R   | F<sub>−er</sub> S<sub>−er</sub> D<sub>−er</sub> |     | D   | N<sub>−ir</sub> T<sub>−ir</sub> Q<sub>−ir</sub> | R   | N<sub>+ir</sub> T<sub>+ir</sub> Q<sub>+ir</sub> |     | D   | T<sub>+ir</sub> N<sub>+ir</sub> Q<sub>+ir</sub> | R   | T<sub>−ir</sub> N<sub>−ir</sub> Q<sub>−ir</sub> |
-| Strong | R   | N<sub>+er</sub> T<sub>+er</sub> Q<sub>+er</sub> | D   | N<sub>−er</sub> T<sub>−er</sub> Q<sub>−er</sub> |     | R   | T<sub>−er</sub> N<sub>−er</sub> Q<sub>−er</sub> | D   | T<sub>+er</sub> N<sub>+er</sub> Q<sub>+er</sub> |     | R   | S<sub>+ir</sub> F<sub>+ir</sub> D<sub>+ir</sub> | D   | S<sub>−ir</sub> F<sub>−ir</sub> D<sub>−ir</sub> |     | R   | F<sub>−ir</sub> S<sub>−ir</sub> D<sub>−ir</sub> | D   | F<sub>+ir</sub> S<sub>+ir</sub> D<sub>+ir</sub> |
+| Strong | Dm  | N<sub>−ir</sub> T<sub>−ir</sub> Q<sub>−ir</sub> | Rv  | N<sub>+ir</sub> T<sub>+ir</sub> Q<sub>+ir</sub> |     | B   | T<sub>+ir</sub> N<sub>+ir</sub> Q<sub>+ir</sub> | M   | T<sub>−ir</sub> N<sub>−ir</sub> Q<sub>−ir</sub> |     | B   | S<sub>−er</sub> F<sub>−er</sub> D<sub>−er</sub> | M   | S<sub>+er</sub> F<sub>+er</sub> D<sub>+er</sub> |     | B   | F<sub>+er</sub> S<sub>+er</sub> D<sub>+er</sub> | M   | F<sub>−er</sub> S<sub>−er</sub> D<sub>−er</sub> |
+| Weak   | Rv  | S<sub>+ir</sub> F<sub>+ir</sub> D<sub>+ir</sub> | Dm  | S<sub>−ir</sub> F<sub>−ir</sub> D<sub>−ir</sub> |     | M   | F<sub>−ir</sub> S<sub>−ir</sub> D<sub>−ir</sub> | B   | F<sub>+ir</sub> S<sub>+ir</sub> D<sub>+ir</sub> |     | M   | N<sub>+er</sub> T<sub>+er</sub> Q<sub>+er</sub> | B   | N<sub>−er</sub> T<sub>−er</sub> Q<sub>−er</sub> |     | M   | T<sub>−er</sub> N<sub>−er</sub> Q<sub>−er</sub> | B   | T<sub>+er</sub> N<sub>+er</sub> Q<sub>+er</sub> |
+| Weak   | Dl  | S<sub>−er</sub> F<sub>−er</sub> D<sub>−er</sub> | Rq  | S<sub>+er</sub> F<sub>+er</sub> D<sub>+er</sub> |     | D   | F<sub>+er</sub> S<sub>+er</sub> D<sub>+er</sub> | R   | F<sub>−er</sub> S<sub>−er</sub> D<sub>−er</sub> |     | D   | N<sub>−ir</sub> T<sub>−ir</sub> Q<sub>−ir</sub> | R   | N<sub>+ir</sub> T<sub>+ir</sub> Q<sub>+ir</sub> |     | D   | T<sub>+ir</sub> N<sub>+ir</sub> Q<sub>+ir</sub> | R   | T<sub>−ir</sub> N<sub>−ir</sub> Q<sub>−ir</sub> |
+| Strong | Rq  | N<sub>+er</sub> T<sub>+er</sub> Q<sub>+er</sub> | Dl  | N<sub>−er</sub> T<sub>−er</sub> Q<sub>−er</sub> |     | R   | T<sub>−er</sub> N<sub>−er</sub> Q<sub>−er</sub> | D   | T<sub>+er</sub> N<sub>+er</sub> Q<sub>+er</sub> |     | R   | S<sub>+ir</sub> F<sub>+ir</sub> D<sub>+ir</sub> | D   | S<sub>−ir</sub> F<sub>−ir</sub> D<sub>−ir</sub> |     | R   | F<sub>−ir</sub> S<sub>−ir</sub> D<sub>−ir</sub> | D   | F<sub>+ir</sub> S<sub>+ir</sub> D<sub>+ir</sub> |
 |        |     |                                                 |     |                                                 |     |     |                                                 |     |                                                 |     |     |                                                 |     |                                                 |     |     |                                                 |     |                                                 |
 | **β**  |     | **EST<sub>−ir</sub>  5**                        |     |                                                 |     |     | **IST<sub>+ir</sub>  6**                        |     |                                                 |     |     | **INF<sub>−er</sub>  7**                        |     |                                                 |     |     | **ENF<sub>+er</sub>  8**                        |     |                                                 |
 | Strong | B   | S<sub>−ir</sub> T<sub>−ir</sub> D<sub>−ir</sub> | M   | S<sub>+ir</sub> T<sub>+ir</sub> D<sub>+ir</sub> |     | B   | T<sub>+ir</sub> S<sub>+ir</sub> D<sub>+ir</sub> | M   | T<sub>−ir</sub> S<sub>−ir</sub> D<sub>−ir</sub> |     | B   | N<sub>−er</sub> F<sub>−er</sub> Q<sub>−er</sub> | M   | N<sub>+er</sub> F<sub>+er</sub> Q<sub>+er</sub> |     | B   | F<sub>+er</sub> N<sub>+er</sub> Q<sub>+er</sub> | M   | F<sub>−er</sub> N<sub>−er</sub> Q<sub>−er</sub> |
@@ -712,8 +712,8 @@ If we reduce 24 Khizhnyak functions table to 12 Khizhnyak axes table we would ge
 
 |     | ENT<sub>−ir</sub>  1                            |     |                                                 |
 | --- |:----------------------------------------------- | --- |:----------------------------------------------- |
-| B   | N<sub>−ir</sub> T<sub>−ir</sub> Q<sub>−ir</sub> | M   | N<sub>+ir</sub> T<sub>+ir</sub> Q<sub>+ir</sub> |
-| R   | N<sub>+er</sub> T<sub>+er</sub> Q<sub>+er</sub> | D   | N<sub>−er</sub> T<sub>−er</sub> Q<sub>−er</sub> |
+| Dm  | N<sub>−ir</sub> T<sub>−ir</sub> Q<sub>−ir</sub> | Rv  | N<sub>+ir</sub> T<sub>+ir</sub> Q<sub>+ir</sub> |
+| Rq  | N<sub>+er</sub> T<sub>+er</sub> Q<sub>+er</sub> | Dl  | N<sub>−er</sub> T<sub>−er</sub> Q<sub>−er</sub> |
 
 Now that we have 12 values of strong Khizhnyak functions (12 values of weak functions are redundant) lets try interpret them via roles from Model A: 1-dominant, 2-supporting, 7-restrictive, 8-background (I'm aware that lack of weak functions interpretation is not OK but lets restrict the scope for now).
 
