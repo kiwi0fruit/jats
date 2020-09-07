@@ -379,16 +379,16 @@ So this can be seen that these 4 types has the same 4 most valued functions (1st
 | Gamma       | 1Se,2Fi,[8Fe],5Ni,6Te     | 1Fi,2Se,[8Si],5Te,6Ni | 1Ni,2Te,[8Ti],5Se,6Fi     | 1Te,2Ni,[8Ne],5Fi,6Se |
 | **Γ G γ g** | **ESF<sub>−ir</sub>**     | **ISF<sub>+ir</sub>** | **INT<sub>−er</sub>**     | **ENT<sub>+er</sub>** |
 | Delta       | 1Ne,2Fi,[8Fe],5Si,6Te     | 1Fi,2Ne,[8Ni],5Te,6Si | 1Si,2Te,[8Ti],5Ne,6Fi     | 1Te,2Si,[8Se],5Fi,6Ne |
-| **Δ D δ d** | **ENF<sub>−ir</sub>**     | **INF<sub>+ir</sub>** | **IST<sub>−er</sub>**     | **EST<sub>+er</sub>** |
+| **Δ δ d**   | **ENF<sub>−ir</sub>**     | **INF<sub>+ir</sub>** | **IST<sub>−er</sub>**     | **EST<sub>+er</sub>** |
 
 It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
 |     Quadras | Abbr.          | 1st or 2nd function | Valuable functions | Adj.        | More fond of:                                                          |
 | -----------:| -------------- | ------------------- | ------------------ | ----------- | ---------------------------------------------------------------------- |
-| Alpha-Delta | **AD**, **−C** | Ne or Si            | Ne and Si          | Lateral     | Pacific, peaceful, cooperative, sensible, and leisurely unhurried ways |
-|  Beta-Gamma | **BG**, **+C** | Se or Ni            | Se and Ni          | **C**entral | Rival, competitive, argessive, time-bound and fast resolutive ways     |
-|  Alpha-Beta | **AB**         | Fe or Ti            | Fe and Ti          |             |                                                                        |
-| Gamma-Delta | **GD**         | Te or Fi            | Te and Fi          |             |                                                                        |
+| Alpha-delta | **Ad**, **−C** | Ne or Si            | Ne and Si          | Lateral     | Pacific, peaceful, cooperative, sensible, and leisurely unhurried ways |
+|  Beta-gamma | **Bg**, **+C** | Se or Ni            | Se and Ni          | **C**entral | Rival, competitive, argessive, time-bound and fast resolutive ways     |
+|  Alpha-beta | **Ab**         | Fe or Ti            | Fe and Ti          |             |                                                                        |
+| Gamma-delta | **Gd**         | Te or Fi            | Te and Fi          |             |                                                                        |
 
 Examples:
 
@@ -420,7 +420,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |      xNT(+r)      |                                                                 ENT/er v INT/ir v uNT(+r) v ...                                                                 |      uNT(+r)      |
 |      INx/ir       |                                                                 INT/ir v INF/ir v INu/ir v ...                                                                  |      INu/ir       |
 |     IxT(+ad)      |                                                        INT/ir v IST/&#x2060;-&#x2060;er v IuT(+ad) v ...                                                        |     IuT(+ad)      |
-|     INx(+ab)      |                                                        INT/ir v INF/&#x2060;-&#x2060;er v INu(+ab) v ...                                                        |     INu(+ab)      |
+| INx(+ab), INx(+q) |                                                        INT/ir v INF/&#x2060;-&#x2060;er v INu(+ab) v ...                                                        |     INu(+ab)      |
 |    Ixx(+ir+ag)    |                                                               INT/ir v ISF/ir v Iuu(+ir+ag) v ...                                                               |    Iuu(+ir+ag)    |
 |    ENx(−ir−13)    |                                      ENT/&#x2060;-&#x2060;ir v ENu/&#x2060;-&#x2060;ir v ... (not ENF/&#x2060;-&#x2060;ir)                                      |    ENT(−ir+13)    |
 |    xNT(+ad−1)     |                                                      INT/ir v uNT(+ad) v ... (not ENT/&#x2060;-&#x2060;ir)                                                      |    INT(+ir+1)     |
