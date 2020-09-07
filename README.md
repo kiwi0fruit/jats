@@ -662,7 +662,7 @@ Dynamic-static axis is not in 8 Reinin-Khizhnyak axes but still it can be a spec
 
 For example if we take ENT<sub>−ir</sub> type we would expect that it would have the most value for N<sub>−ir</sub> and T<sub>−ir</sub>. As N<sub>−ir</sub> is where 1-dominant function from Model A go and T<sub>−ir</sub> is where 2-supporting, 8-background and 4-vulnerable functions from Model A go. So this were the max abs values of Khizhnyak axes from conscious temperaments. But if we take values from semiconscious (automatic) temperaments we would expect to get lower max abs axes values (see next section for details).
 
-And this would exactly mean that conscious Khizhnyak functions from base temperament are the most differentiated functions of the type.
+And this would exactly mean that conscious Khizhnyak functions from dominant temperament are the most differentiated functions of the type.
 
 
 ### 11.7 Model A analogue stub with Gulenko's temperaments and Khizhnyak functions
