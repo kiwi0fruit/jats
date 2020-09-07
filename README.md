@@ -737,7 +737,7 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
   * alternative: (5a) TAD=−FBG, (7a) UBG.
 * In new terms:
   * (1) N=−S, (2) T=−F, (3) −iR, (4) eR, (5) −iC, (6) eC, (7) U,
-  * alternative: (5a) −fC, (7a) uC.
+  * alternative: (5a) −cF, (7a) cU.
 
 |     | FZA1      | Axis name                                                           | Value-dependent notation for survey results\* |
 | --- |:--------- | ------------------------------------------------------------------- |:---------------------------------------------:|
@@ -749,8 +749,8 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 | 6.  | +eC       | Lateral-Introverted=>**C**entral-**E**xtraverted (IAD=>EBG)         |       −eC => −ec => skip => +ec => +eC        |
 | 7.  | +U        | ne**U**roticism                                                     |         −U => −u => skip => +u => +U          |
 |     | **FZA1a** | Alternative axes                                                    |                                               |
-| 5a. | −fC       | **C**entral-**F**eelings-oriented=>Lateral-Task-oriented (FBG=>TAD) |       +fC => +fc => skip => −fc => −fC        |
-| 7a. | +uC       | Lateral-anti-neuroticism=>**C**entral ne**U**roticism               |       −uC => −uc => skip => +uc => +uC        |
+| 5a. | −cF       | **C**entral-**F**eelings-oriented=>Lateral-Task-oriented (FBG=>TAD) |       +cF => +cf => skip => −cf => −cF        |
+| 7a. | +cU       | Lateral-anti-neuroticism=>**C**entral ne**U**roticism               |       −cU => −cu => skip => +cu => +cU        |
 
 \*Value-dependent notation details:
 
