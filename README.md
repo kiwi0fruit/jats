@@ -481,7 +481,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 
 ### 11.2 Khizhnyak functions and axes
 
-Mind that NS and TF Khizhnyak functions and axes can be directly (and may be linearly) obtained from I=>E, R=>−R, S=>N, BG=>AD, F=>T, GD=>AB, D=>Q, BD=>AG axes by moving along of the diagonal of 4 axes.
+Mind that NS and TF Khizhnyak functions and axes can be directly (and may be linearly) obtained from I=>E, R=>−R, S=>N, Bg=>Ad, F=>T, Gd=>Ab, D=>Q, Bd=>Ag axes by moving along of the diagonal of 4 axes.
 
 Note that QD functions and axes should first non-linearly get D=>Q axis.
 
@@ -490,7 +490,7 @@ Khizhnyak functions names are made of Gulenko's temperament.
 | Axis meaning     | Khizhnyak axis              | Khizhnyak functions relation     |
 |:---------------- |:--------------------------- |:-------------------------------- |
 | S+IR+Bg=>N−IR+Ad | S/ir=>N/&#x2060;-&#x2060;ir | −S<sub>+ir</sub>=N<sub>−ir</sub> |
-| S−IR+BG=>N+IR+Ad | S/&#x2060;-&#x2060;ir=>N/ir | −S<sub>−ir</sub>=N<sub>+ir</sub> |
+| S−IR+Bg=>N+IR+Ad | S/&#x2060;-&#x2060;ir=>N/ir | −S<sub>−ir</sub>=N<sub>+ir</sub> |
 | S+ER+Ad=>N−ER+Bg | S/er=>N/&#x2060;-&#x2060;er | −S<sub>+er</sub>=N<sub>−er</sub> |
 | S−ER+Ad=>N+ER+Bg | S/&#x2060;-&#x2060;er=>N/er | −S<sub>−er</sub>=N<sub>+er</sub> |
 |                  |                             |                                  |
