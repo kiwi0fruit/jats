@@ -134,16 +134,16 @@ Names are in the following order:
 
 | quadra  |                   E/&#x2060;-&#x2060;IR                    |                      I/IR                       |                   I/&#x2060;-&#x2060;ER                    |                      E/ER                       |
 |:------- |:----------------------------------------------------------:|:-----------------------------------------------:|:----------------------------------------------------------:|:-----------------------------------------------:|
-| α Alpha | **ENT/&#x2060;-&#x2060;ir**  **ENT<sub>−ir</sub>**  **1**  |    **INT/ir**  **INT<sub>+ir</sub>**  **2**     | **ISF/&#x2060;-&#x2060;er**  **ISF<sub>−er</sub>**  **3**  |    **ESF/er**  **ESF<sub>+er</sub>**  **4**     |
+| α alpha | **ENT/&#x2060;-&#x2060;ir**  **ENT<sub>−ir</sub>**  **1**  |    **INT/ir**  **INT<sub>+ir</sub>**  **2**     | **ISF/&#x2060;-&#x2060;er**  **ISF<sub>−er</sub>**  **3**  |    **ESF/er**  **ESF<sub>+er</sub>**  **4**     |
 |         |                       ILE  ENTP  NeT                       |                 LII  INTx  TiN                  |                       SEI  ISFx  SiF                       |                 ESE  ESFJ  FeS                  |
 |         |     dominant extraverted intuiter & irrational tasker      | dominant introverted tasker & rational intuiter |      dominant introverted sensor & irrational feeler       |  dominant extraverted feeler & rational sensor  |
-| β Beta  | **EST/&#x2060;-&#x2060;ir**  **EST<sub>−ir</sub>**  **5**  |    **IST/ir**  **IST<sub>+ir</sub>**  **6**     | **INF/&#x2060;-&#x2060;er**  **INF<sub>−er</sub>**  **7**  |    **ENF/er**  **ENF<sub>+er</sub>**  **8**     |
+| β beta  | **EST/&#x2060;-&#x2060;ir**  **EST<sub>−ir</sub>**  **5**  |    **IST/ir**  **IST<sub>+ir</sub>**  **6**     | **INF/&#x2060;-&#x2060;er**  **INF<sub>−er</sub>**  **7**  |    **ENF/er**  **ENF<sub>+er</sub>**  **8**     |
 |         |                       SLE  ESTP  SeT                       |                 LSI  ISTx  TiS                  |                       IEI  INFx  NiF                       |                 EIE  ENFJ  FeN                  |
 |         |      dominant extraverted sensor & irrational tasker       |  dominant introverted tasker & rational sensor  |     dominant introverted intuiter & irrational feeler      | dominant extraverted feeler & rational intuiter |
-| γ Gamma | **ESF/&#x2060;-&#x2060;ir**  **ESF<sub>−ir</sub>**  **9**  |    **ISF/ir**  **ISF<sub>+ir</sub>**  **10**    | **INT/&#x2060;-&#x2060;er**  **INT<sub>−er</sub>**  **11** |    **ENT/er**  **ENT<sub>+er</sub>**  **12**    |
+| γ gamma | **ESF/&#x2060;-&#x2060;ir**  **ESF<sub>−ir</sub>**  **9**  |    **ISF/ir**  **ISF<sub>+ir</sub>**  **10**    | **INT/&#x2060;-&#x2060;er**  **INT<sub>−er</sub>**  **11** |    **ENT/er**  **ENT<sub>+er</sub>**  **12**    |
 |         |                       SEE  ESFP  SeF                       |                 ESI  ISFx  FiS                  |                       ILI  INTx  NiT                       |                 LIE  ENTJ  TeN                  |
 |         |      dominant extraverted sensor & irrational feeler       |  dominant introverted feeler & rational sensor  |     dominant introverted intuiter & irrational tasker      | dominant extraverted tasker & rational intuiter |
-| δ Delta | **ENF/&#x2060;-&#x2060;ir**  **ENF<sub>−ir</sub>**  **13** |    **INF/ir**  **INF<sub>+ir</sub>**  **14**    | **IST/&#x2060;-&#x2060;er**  **IST<sub>−er</sub>**  **15** |    **EST/er**  **EST<sub>+er</sub>**  **16**    |
+| δ delta | **ENF/&#x2060;-&#x2060;ir**  **ENF<sub>−ir</sub>**  **13** |    **INF/ir**  **INF<sub>+ir</sub>**  **14**    | **IST/&#x2060;-&#x2060;er**  **IST<sub>−er</sub>**  **15** |    **EST/er**  **EST<sub>+er</sub>**  **16**    |
 |         |                       IEE  ENFP  NeF                       |                 EII  INFx  FiN                  |                       SLI  ISTx  SiT                       |                 LSE  ESTJ  TeS                  |
 |         |     dominant extraverted intuiter & irrational feeler      | dominant introverted feeler & rational intuiter |      dominant introverted sensor & irrational tasker       |  dominant extraverted tasker & rational sensor  |
 
@@ -364,7 +364,7 @@ Deltas are: ENF<sub>−ir</sub>, INF<sub>+ir</sub>, EST<sub>+er</sub>, IST<sub>�
 * EST<sub>+er</sub> has dominant Te, supporting Si, and suggestive Fi,
 * IST<sub>−er</sub> has dominant Si, supporting Te, and suggestive Ne
 
-Hence deltas are \*NF/±ir and \*ST/±er. Or \*NF(+ad) and \*ST(+ad) - see below.
+Hence deltas are xNF(±ir) and xST(±er) or xNF(+ad) and \*ST(+ad) - see below.
 
 So the functions the type values most are 1-dominant, 2-supporting and 5-suggestive. For some reason in Socionics believed that commonly ENF<sub>−ir</sub> also values Te, INF<sub>+ir</sub> also values Si, EST<sub>+er</sub> also values Ne, IST<sub>−er</sub> also values Fi (6-activating).
 
@@ -377,7 +377,7 @@ So this can be seen that these 4 types has the same 4 most valued functions (1st
 | Beta        | 1Se,2Ti,[8Te],5Ni,6Fe     | 1Ti,2Se,[8Si],5Fe,6Ni | 1Ni,2Fe,[8Fi],5Se,6Ti     | 1Fe,2Ni,[8Ne],5Ti,6Se |
 | **B β b**   | **EST<sub>−ir</sub>**     | **IST<sub>+ir</sub>** | **INF<sub>−er</sub>**     | **ENF<sub>+er</sub>** |
 | Gamma       | 1Se,2Fi,[8Fe],5Ni,6Te     | 1Fi,2Se,[8Si],5Te,6Ni | 1Ni,2Te,[8Ti],5Se,6Fi     | 1Te,2Ni,[8Ne],5Fi,6Se |
-| **Γ G γ g** | **ESF<sub>−ir</sub>**     | **ISF<sub>+ir</sub>** | **INT<sub>−er</sub>**     | **ENT<sub>+er</sub>** |
+| **Γ γ G g** | **ESF<sub>−ir</sub>**     | **ISF<sub>+ir</sub>** | **INT<sub>−er</sub>**     | **ENT<sub>+er</sub>** |
 | Delta       | 1Ne,2Fi,[8Fe],5Si,6Te     | 1Fi,2Ne,[8Ni],5Te,6Si | 1Si,2Te,[8Ti],5Ne,6Fi     | 1Te,2Si,[8Se],5Fi,6Ne |
 | **Δ δ d**   | **ENF<sub>−ir</sub>**     | **INF<sub>+ir</sub>** | **IST<sub>−er</sub>**     | **EST<sub>+er</sub>** |
 
@@ -768,9 +768,9 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 * Bg/+C: Deep colors (Central types, Beta-gamma).
 
 Types are in standard Talanov's order.  
-8 bright rainbow colors from red to pink are mapped to Alpha+Delta quadras in *normal order*.  
+8 bright rainbow colors from red to pink are mapped to alpha+delta quadras in *normal order*.  
 Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.  
-8 deep rainbow colors from crimson to magenta are mapped to Beta+Gamma quadras in *reverse order*.  
+8 deep rainbow colors from crimson to magenta are mapped to beta+gamma quadras in *reverse order*.  
 
 | Color           |         |     | Type              |     | Alt. names     | xkcd color    |
 |:--------------- |:------- |:--- |:----------------- | --- |:-------------- |:------------- |
