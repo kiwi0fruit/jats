@@ -204,7 +204,7 @@ That indirectly supports the assumption that MBTI-Socionics mapping should be do
 ***Important*** thing to note is that
 
 *   If the reference type’s dominant function is extraverted then the behaviour of the reference type is also more extraverted than introverted (and vice versa).
-*   If the reference type’s dominant function is irrational then the behaviour of the reference type is also more perceiving than judging (and vice versa).
+*   If the reference type’s dominant function is irrational then the behaviour of the reference type is also more irrational-improvising than rational-rigid (and vice versa).
 *   If the reference type’s dominant function is one of the intuitive thinking functions then the behaviour of the reference type is also more intuitive than tangible-oriented and sensory (and vice versa).
 *   If the reference type’s dominant function is one of the task-oriented thinking functions then the behaviour of the reference type is also more task-oriented than feelings-oriented (and vice versa).
 
