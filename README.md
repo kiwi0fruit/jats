@@ -347,7 +347,7 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 
 ## 8. Quadras and functions. Why quadras grouped this way? Central vs. Lateral types
 
-Socionics **quadras** split 16 types to 4 groups. Each group has **EM<sub>−IR</sub>** type with a dominant extraverted irrational-perceiving function, **IR<sub>+IR</sub>** type with a dominant introverted rational-judging function, **ER<sub>+ER</sub>** type with a dominant extraverted rational-judging function and **IM<sub>−ER</sub>** type with a dominant introverted irrational-perceiving function.
+Socionics **quadras** split 16 types to 4 groups. Each group has **EM<sub>−IR</sub>** type with a dominant extraverted irrational-improvising function, **IR<sub>+IR</sub>** type with a dominant introverted rational function, **ER<sub>+ER</sub>** type with a dominant extraverted rational function and **IM<sub>−ER</sub>** type with a dominant introverted irrational-improvising function.
 
 Dominant function in Socionics is called **1st** function. And Socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTR it would be 1Ti2Ne8Ni 1st, 2nd and 8th functions are the most important from the point of view of the type's social activities (and are the reference type's strongest functions). And may be also they are the most important from the point of view of the type’s self-identification. 2nd and 8th functions both are like auxilary function as Jung meant it. But only 1st and 2nd are valuable functions.
 
