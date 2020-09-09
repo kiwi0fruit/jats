@@ -108,10 +108,10 @@ In works of Victor Talanov types are groped by Quadras (see section 8.) and temp
 
 Gulenko's Temperaments:
 
-* EM<sub>−IR</sub>, EM/⁠-⁠ir - flexible-maneuvering, Ir**R**ational-i**M**provising/**E**xtraverted/Static. Are characterized by impulsive and unpredictable behavior,
-* IR<sub>+IR</sub>, IR/ir - balanced-stable, **R**ational-**R**igid/**I**ntroverted/Static. Are characterized by slow and methodical behavior,
-* IM<sub>−ER</sub>, IM/⁠-⁠er - receptive-adaptive, Ir**R**ational-i**M**provising/**I**ntroverted/Dynamic. Are characterized by lack of motivation, inertia, and unstable moods and energy levels,
-* ER<sub>+ER</sub>, ER/er - linear-assertive, **R**ational-**R**igid/**E**xtraverted/Dynamic. Are characterized by energetic and proactive behavior.
+* EM<sub>−IR</sub> (EM, −IR) - flexible-maneuvering, Ir**R**ational-i**M**provising/**E**xtraverted/Static. Are characterized by impulsive and unpredictable behavior,
+* IR<sub>+IR</sub> (IR, +IR) - balanced-stable, **R**ational-**R**igid/**I**ntroverted/Static. Are characterized by slow and methodical behavior,
+* IM<sub>−ER</sub> (IM, −ER) - receptive-adaptive, Ir**R**ational-i**M**provising/**I**ntroverted/Dynamic. Are characterized by lack of motivation, inertia, and unstable moods and energy levels,
+* ER<sub>+ER</sub> (ER, +ER) - linear-assertive, **R**ational-**R**igid/**E**xtraverted/Dynamic. Are characterized by energetic and proactive behavior.
 
 Note that −IR, +IR, −ER, +ER are enough to encode all 4 temperaments.
 
