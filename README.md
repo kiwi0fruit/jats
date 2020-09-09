@@ -37,7 +37,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 2. Standard MBTI acronyms for Jung cognitive functions (**Se, Si, Ne, Ni, Fe, Fi, Te, Ti**) and original dichotomies (**E/I, N/S, T/F**) are used for MBTI partial compatibility purpose (**P/J** was dropped). Dichotomies that are measured by tests are compatible enough in Socionics, MBTI and Big Five to be called the same term (good **infographics on Big Five** is given here: [psychologycharts.com/big-five-personality-traits.html](http://www.psychologycharts.com/big-five-personality-traits.html)). Congnitive functions deviate more but not enough to deserve a separate name. Standard Socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird.
 3. All cognitive functions are called **kinds of thinking**. “**Sensory thinking**” is used instead of Sensing/Sensorics, “**Intuitive thinking**” is used instead of Intuition, “**Task-oriented thinking**” is used instead of Thinking/Logic, “**Feelings-oriented thinking**” is used instead of Feeling/Ethics. I like HBDI approach [en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument](https://en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument) that calls all them the kinds of thinking.
 4. Single-noun terms like **intuiter, sensor, feeler and tasker** are used.
-5. **irrational-iMprovising/rational-Rigid** (**M/R**) names were used instead of **Perceiving/Judging** to make Socionics vs. MBTI contradictions more clear.
+5. **Irrational/Rational** names functions and **iMprovising/Rigid** (**M/R**) names for types and temperaments were used instead of **Perceiving/Judging** to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INTR** (LII) vs. **INTM** (ILI) those are dominant introverted tasker & rational intuiter vs. dominant introverted intuiter & irrational tasker
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-Delta vs. Beta-Gamma types are translated as **Lateral** vs. **Central** types (**L/C** ). The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
 8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx(+ad)**, **uNTu(+ad)** that are unknown and mixed types from ENTM (ENTP) and INTR (LII).
@@ -57,10 +57,10 @@ But there are some differences between definitions of **cognitive functions** in
 - Additional **function attitude**:
     - [**Introverted** functions (**I**)]. Introverted, passed through oneself, passive, restoring, energy saving functions vs.
     - [**Extraverted** functions (**E**)]. Extraverted, directed outwards, active, energy-consuming functions.
-- [**Irrational-improvising** functions (**M**, i**M**provising)]. Impulsive, perceiving, instinctive functions:
+- [**Irrational** functions]. Perceiving, instinctive, improvising, impulsive functions:
     - [**Intuitive** thinking (**N**, i**N**tuitive)]. Abstract, imaginative, assumptive, associative thinking / perception (breadth of associations) vs.
     - [**Sensory** thinking (**S**)]. Tangible-oriented, detailed, concrete, materially-oriented thinking / perception (orientation to physical reality and physical qualities).
-- [**Rational-Rigid** functions (**R**)]. Judging, stable, impulse controlling functions (decision-making):
+- [**Rational** functions (**R**)]. Judging, rigid, stable, impulse controlling functions (decision-making):
     - [**Task-oriented** thinking (**T**)]. Logical, analytical, algorithmic, task-oriented thinking, reasoning (orientation to formal side and facs) vs.
     - [**Feelings-oriented** thinking (**F**)]. Moral, empathic, sentimental, social-oriented, interpersonal emotional thinking (feelings, emotional regulation of society).
 
@@ -75,8 +75,8 @@ But there are some differences between definitions of **cognitive functions** in
 
 Another useful section of the functions is:
 
-- [**Dynamic** functions (**±ER**, +ER and +IM=−ER functions)] Ni, Si, Te, Fe vs.
-- [**Static** functions (**±IR**, +IR and +EM=−IR functions)] Ne, Se, Ti, Fi (see [Model A chapter](#7-model-a) on conscious vs. semiconscious functions for more details).
+- [**Dynamic** functions (**±ER**, ER and anti-ER functions)] Ni, Si, Te, Fe vs.
+- [**Static** functions (**±IR**, IR and anti-IR functions)] Ne, Se, Ti, Fi (see [Model A chapter](#7-model-a) on conscious vs. semiconscious functions for more details).
 
 Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se and Si are good at dealing with physical qualities. Both strong Ne and Ni are good at dealing with associations.
 
