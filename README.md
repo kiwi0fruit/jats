@@ -52,7 +52,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 
 ## 1. Jung-Augustinavichiute-Talanov cognitive functions
 
-But there are some differences between definitions of **cognitive functions** in MBTI and in *Jung-Augustinavichiute-Talanov Socionics* (JATS). Actually my understanding of Talanov's ideas is a outdated. **JAT cognitive functions** roughly speaking are the ways of perception and judging (thinking):
+But there are some differences between definitions of **cognitive functions** in MBTI and in *Jung-Augustinavichiute-Talanov Socionics* (JATS). Actually my understanding of Talanov's ideas is a outdated. **JAT cognitive functions** roughly speaking are the ways of perception, judging aka thinking:
 
 - Additional **function attitude**:
     - [**Introverted** functions (**I**)]. Introverted, passed through oneself, passive, restoring, energy saving functions vs.
