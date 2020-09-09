@@ -39,7 +39,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 4. Single-noun terms like **intuiter, sensor, feeler and tasker** are used.
 5. **Rational/Irrational** (**+R/−R**) names were used instead of **Judging/Perceiving** to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INT<sub>+ir</sub>** (INT/ir, LII) vs. **INT<sub>−er</sub>** (INT/&#x2060;-&#x2060;er, ILI) those are dominant introverted tasker & rational intuiter vs. dominant introverted intuiter & irrational tasker
-7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-Delta vs. Beta-Gamma types are translated as **Lateral** vs. **Central** types (**−C/+C**). The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
+7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-Delta vs. Beta-Gamma types are translated as **Lateral** vs. **Central** types (**−C/+C, −L/−L** ). The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
 8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNT(+ad)**, **uNT(+ad)** that are unknown and mixed types from ENT<sub>−ir</sub> (ENTP) and INT<sub>+ir</sub> (LII).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for ENT<sub>−ir</sub> (ENTP), Enthusiast for ESF<sub>+er</sub> (ESFJ), General for EST<sub>−ir</sub> (ESTP), Poet for INF<sub>−er</sub> (IEI), **Inspirer** for ENF<sub>+er</sub> (ENFJ), **Foreseer** for INT<sub>−er</sub> (ILI), Entrepreneur for ENT<sub>+er</sub> (ENTJ), **Journalist** for ENF<sub>−ir</sub> (ENFP).
@@ -385,8 +385,8 @@ It's possible to drop postfix for introverts too but then it can easily be mista
 
 |     Quadras | Abbr.          | 1st or 2nd function | Valuable functions | Adj.        | More fond of:                                                          |
 | -----------:| -------------- | ------------------- | ------------------ | ----------- | ---------------------------------------------------------------------- |
-| Alpha-delta | **Ad**, **−C** | Ne or Si            | Ne and Si          | Lateral     | Pacific, peaceful, cooperative, sensible, and leisurely unhurried ways |
-|  Beta-gamma | **Bg**, **+C** | Se or Ni            | Se and Ni          | **C**entral | Rival, competitive, argessive, time-bound and fast resolutive ways     |
+| Alpha-delta | **Ad**, **+L/−C** | Ne or Si            | Ne and Si          | **L**ateral | Pacific, peaceful, cooperative, sensible, and leisurely unhurried ways |
+|  Beta-gamma | **Bg**, **+C/−L** | Se or Ni            | Se and Ni          | **C**entral | Rival, competitive, argessive, time-bound and fast resolutive ways     |
 |  Alpha-beta | **Ab**         | Fe or Ti            | Fe and Ti          |             |                                                                        |
 | Gamma-delta | **Gd**         | Te or Fi            | Te and Fi          |             |                                                                        |
 
@@ -436,7 +436,8 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 * **^** stands for **simplex**,
 * **v** stands for **or**,
 * **-** and **−** stand for **minus**,
-* **~** stands for **approximately equals**.
+* **~** stands for **approximately equals**,
+* lowercase L (l) is not recommended to be used as it can be mixed with uppercase i (I). Use −c instead.
 
 
 ## 10. Further reading and notable discussions
@@ -464,7 +465,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 | N=−S            | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                                                                             | OAd.YBg=−YAd.OBg                     | N=−S       |                                                                                 |
 | NESI=−NISE      | NISE=>NESI (Farsighted=>Carefree)                                                                                           | PAd.JBg=−JAd.PBg                     | NESI=−NISE | &vert;&#x2060;±SI&#x2060;&vert;&#x2060;−&#x2060;&vert;&#x2060;±NI&#x2060;&vert; |
 | NPSJ=−NJSP      | NJSP=>NPSJ (Strategic=>Tactical)                                                                                            | EAd.IBg=−IAd.EBg                     | NPSJ=−NJSP | &vert;&#x2060;±SR&#x2060;&vert;&#x2060;−&#x2060;&vert;&#x2060;±NR&#x2060;&vert; |
-| −C, Ad=−Bg      | **C**entral=>Lateral, **B**eta-**g**amma=>**A**lpha-**d**elta (Decisive=>Judicious, Resolute=>Pacific, Central=>Peripheral) | Ad=−Bg                               | NOSY=−NYSO |                                                                                 |
+| L=−C, Ad=−Bg    | **C**entral=>Lateral, **B**eta-**g**amma=>**A**lpha-**d**elta (Decisive=>Judicious, Resolute=>Pacific, Central=>Peripheral) | Ad=−Bg                               | NOSY=−NYSO |                                                                                 |
 |                 |                                                                                                                             |                                      |            |                                                                                 |
 | T=−F            | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking)                                              | OAb.YGd=−YAb.OGd                     | T=−F       |                                                                                 |
 | TEFI=−TIFE      | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                                                                      | PAb.JGd=−JAb.PGd                     | TEFI=−TIFE | &vert;&#x2060;±FI&#x2060;&vert;&#x2060;−&#x2060;&vert;&#x2060;±TI&#x2060;&vert; |
@@ -534,7 +535,7 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | 4   |      N=−S       |   3 |   3 |   3 |   3 |  −3 |  −3 |  −3 |  −3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 | 5   |   NESI=−NISE    |   3 |  −3 |  −3 |   3 |  −3 |   3 |   3 |  −3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 | 6   |   NPSJ=−NJSP    |   3 |  −3 |   3 |  −3 |  −3 |   3 |  −3 |   3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
-| 7   |   −C, Ad=−Bg    |   3 |   3 |  −3 |  −3 |  −3 |  −3 |   3 |   3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+| 7   |  L=−C, Ad=−Bg   |   3 |   3 |  −3 |  −3 |  −3 |  −3 |   3 |   3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 |     |                 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 8   |      T=−F       |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |   3 |   3 |   3 |  −3 |  −3 |  −3 |  −3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 | 9   |   TEFI=−TIFE    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |  −3 |  −3 |   3 |  −3 |   3 |   3 |  −3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
@@ -589,7 +590,7 @@ From previous table can be seen that not all Reinin axes can influence Khizhnyak
 | 1   |    E=−I    |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |   1 |
 | 2   |     −R     |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |
 | 3   |    N=−S    |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
-| 4   | −C, Ad=−Bg |   3 |   3 |  −3 |  −3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+| 4   | L=−C, Ad=−Bg |   3 |   3 |  −3 |  −3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 | 5   |    T=−F    |   0 |   0 |   0 |   0 |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |
 | 6   |   Ab=−Gd   |   0 |   0 |   0 |   0 |   3 |   3 |  −3 |  −3 |   0 |   0 |   0 |   0 |
 | 7   |  +Q, Q=−D  |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   3 |   3 |   3 |   3 |
@@ -805,6 +806,6 @@ Version without MBTI abbreviations (font used is STIX Two Text):
 
 --------
 
-PS. Used: I E S N F T J P x, A B G d, D Q C R U u. Free: Y O H K M L V W Z.
+PS. Used: I E S N F T J P x, A B G d, D Q C L R U u. Free: Y O H K M V W Z.
 
 *([Source code](https://github.com/kiwi0fruit/jats/blob/master/README.md) at GitHub)*
