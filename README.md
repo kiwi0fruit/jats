@@ -57,7 +57,7 @@ But there are some differences between definitions of **cognitive functions** in
 - Additional **function attitude**:
     - [**Introverted** functions (**I**)]. Introverted, passed through oneself, passive, restoring, energy saving functions vs.
     - [**Extraverted** functions (**E**)]. Extraverted, directed outwards, active, energy-consuming functions.
-- [Irrational, improvising functions (**M**, i**M**provising)]. Impulsive, perceiving, instinctive functions:
+- [**Irrational, improvising** functions (**M**, i**M**provising)]. Impulsive, perceiving, instinctive functions:
     - [**Intuitive** thinking (**N**, i**N**tuitive)]. Abstract, imaginative, assumptive, associative thinking / perception (breadth of associations) vs.
     - [**Sensory** thinking (**S**)]. Tangible-oriented, detailed, concrete, materially-oriented thinking / perception (orientation to physical reality and physical qualities).
 - [**Rational** functions (**R**)]. Rigid, judging, stable, impulse controlling functions (decision-making):
@@ -75,8 +75,8 @@ But there are some differences between definitions of **cognitive functions** in
 
 Another useful section of the functions is:
 
-- [**±ER** *Dynamic* functions] Ni, Si, Te, Fe vs.
-- [**±IR** *Static* functions] Ne, Se, Ti, Fi (see [Model A chapter](#7-model-a) on conscious vs. semiconscious functions for more details).
+- [**Dynamic** functions (**±ER**, +ER and +IM=−ER functions)] Ni, Si, Te, Fe vs.
+- [**Static** functions (**±IR**, +IR and +EM=−IR functions)] Ne, Se, Ti, Fi (see [Model A chapter](#7-model-a) on conscious vs. semiconscious functions for more details).
 
 Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se and Si are good at dealing with physical qualities. Both strong Ne and Ni are good at dealing with associations.
 
