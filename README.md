@@ -756,11 +756,12 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 
 \*Value-dependent notation details:
 
-* UPPERCASE if 0.9 ≤ |x|
-* lowercase if 0.3 ≤ |x| < 0.9
-* axis is skipped if 0.00 ≤ |x| < 0.3
-* notation example: ENT(−iR+er−iC+ec−U), INt(+iR−ic−U)
+* UPPERCASE if 0.9 ≤ |x|,
+* lowercase if 0.3 ≤ |x| < 0.9,
+* axis is skipped if 0.00 ≤ |x| < 0.3,
+* notation example: ENT(−iR+er−iC+ec−U), INt(+iR−ic−U),
 * first E is obtained from (−iR, +eR, −iC, +eC) vector via projecting on (0.5, 0.5, 0.5, 0.5) direction.
+* lowercase L (l) is not recommended to be used as it can be mixed with uppercase i (I). Use −c instead (like `-ic` instead of `+el`).
 
 
 ### 11.9 Bright/deep rainbow colors to plot 16 probability density functions on a single image
