@@ -58,11 +58,11 @@ But there are some differences between definitions of **cognitive functions** in
     - [**Introverted** functions (**I**)]. Introverted, passed through oneself, passive, restoring, energy saving functions vs.
     - [**Extraverted** functions (**E**)]. Extraverted, directed outwards, active, energy-consuming functions.
 - [Irrational, improvising functions (**M**, i**M**provising)]. Impulsive, perceiving, instinctive functions:
-    - [**Intuitive** perception (**N**, i**N**tuitive)]. Abstract, imaginative, assumptive, associative thinking / perception (breadth of associations) vs.
-    - [**Sensory** perception (**S**)]. Tangible-oriented, detailed, concrete, materially-oriented thinking / perception (orientation to physical reality and physical qualities).
+    - [**Intuitive** thinking (**N**, i**N**tuitive)]. Abstract, imaginative, assumptive, associative thinking / perception (breadth of associations) vs.
+    - [**Sensory** thinking (**S**)]. Tangible-oriented, detailed, concrete, materially-oriented thinking / perception (orientation to physical reality and physical qualities).
 - [**Rational** functions (**R**)]. Rigid, judging, stable, impulse controlling functions (decision-making):
-    - [**Task-oriented** judging (**T**)]. Logical, analytical, algorithmic, task-oriented thinking, reasoning (orientation to formal side and facs) vs.
-    - [**Feelings-oriented** judging (**F**)]. Moral, empathic, sentimental, social-oriented, interpersonal emotional thinking (feelings, emotional regulation of society).
+    - [**Task-oriented** thinking (**T**)]. Logical, analytical, algorithmic, task-oriented thinking, reasoning (orientation to formal side and facs) vs.
+    - [**Feelings-oriented** thinking (**F**)]. Moral, empathic, sentimental, social-oriented, interpersonal emotional thinking (feelings, emotional regulation of society).
 
 - **Ne** - _Extraverted intuitive thinking_. Conjectures, guesses and speculations (e.g. about the essence), ideas, curiosity, novelty seeking.
 - **Ni** - _Introverted intuitive thinking_. Fantasy, fictional reality, imagining processes in time, prognostication, prediction, forecasting
