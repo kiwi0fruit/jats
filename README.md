@@ -37,7 +37,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 2. Standard MBTI acronyms for Jung cognitive functions (**Se, Si, Ne, Ni, Fe, Fi, Te, Ti**) and original dichotomies (**E/I, N/S, T/F**) are used for MBTI partial compatibility purpose (**P/J** was dropped). Dichotomies that are measured by tests are compatible enough in Socionics, MBTI and Big Five to be called the same term (good **infographics on Big Five** is given here: [psychologycharts.com/big-five-personality-traits.html](http://www.psychologycharts.com/big-five-personality-traits.html)). Congnitive functions deviate more but not enough to deserve a separate name. Standard Socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird.
 3. All cognitive functions are called **kinds of thinking**. “**Sensory thinking**” is used instead of Sensing/Sensorics, “**Intuitive thinking**” is used instead of Intuition, “**Task-oriented thinking**” is used instead of Thinking/Logic, “**Feelings-oriented thinking**” is used instead of Feeling/Ethics. I like HBDI approach [en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument](https://en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument) that calls all them the kinds of thinking.
 4. Single-noun terms like **intuiter, sensor, feeler and tasker** are used.
-5. **iMprovising-iMpulsive/Rigid-Rational** (**M/R**) names were used instead of **Perceiving/Judging** to make Socionics vs. MBTI contradictions more clear.
+5. **irrational-iMprovising/rational-Rigid** (**M/R**) names were used instead of **Perceiving/Judging** to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INTR** (LII) vs. **INTM** (ILI) those are dominant introverted tasker & rational intuiter vs. dominant introverted intuiter & irrational tasker
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-Delta vs. Beta-Gamma types are translated as **Lateral** vs. **Central** types (**L/C** ). The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
 8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx(+ad)**, **uNTu(+ad)** that are unknown and mixed types from ENTM (ENTP) and INTR (LII).
@@ -57,10 +57,10 @@ But there are some differences between definitions of **cognitive functions** in
 - Additional **function attitude**:
     - [**Introverted** functions (**I**)]. Introverted, passed through oneself, passive, restoring, energy saving functions vs.
     - [**Extraverted** functions (**E**)]. Extraverted, directed outwards, active, energy-consuming functions.
-- [**Irrational, improvising** functions (**M**, i**M**provising)]. Impulsive, perceiving, instinctive functions:
+- [**Irrational-improvising** functions (**M**, i**M**provising)]. Impulsive, perceiving, instinctive functions:
     - [**Intuitive** thinking (**N**, i**N**tuitive)]. Abstract, imaginative, assumptive, associative thinking / perception (breadth of associations) vs.
     - [**Sensory** thinking (**S**)]. Tangible-oriented, detailed, concrete, materially-oriented thinking / perception (orientation to physical reality and physical qualities).
-- [**Rational** functions (**R**)]. Rigid, judging, stable, impulse controlling functions (decision-making):
+- [**Rational-Rigid** functions (**R**)]. Judging, stable, impulse controlling functions (decision-making):
     - [**Task-oriented** thinking (**T**)]. Logical, analytical, algorithmic, task-oriented thinking, reasoning (orientation to formal side and facs) vs.
     - [**Feelings-oriented** thinking (**F**)]. Moral, empathic, sentimental, social-oriented, interpersonal emotional thinking (feelings, emotional regulation of society).
 
@@ -109,9 +109,9 @@ In works of Victor Talanov types are groped by Quadras (see section 8.) and temp
 Gulenko's Temperaments:
 
 * EM<sub>−IR</sub> (EM aka −IR) - flexible-maneuvering, **E**xtraverted/irrational-i**M**provising/Static. Are characterized by impulsive and unpredictable behavior,
-* IR<sub>+IR</sub> (IR aka +IR) - balanced-stable, **I**ntroverted/**R**ational-rigid/Static. Are characterized by slow and methodical behavior,
+* IR<sub>+IR</sub> (IR aka +IR) - balanced-stable, **I**ntroverted/rational-**R**igid/Static. Are characterized by slow and methodical behavior,
 * IM<sub>−ER</sub> (IM aka −ER) - receptive-adaptive, **I**ntroverted/irrational-i**M**provising/Dynamic. Are characterized by lack of motivation, inertia, and unstable moods and energy levels,
-* ER<sub>+ER</sub> (ER aka +ER) - linear-assertive, **E**xtraverted/**R**ational-rigid/Dynamic. Are characterized by energetic and proactive behavior.
+* ER<sub>+ER</sub> (ER aka +ER) - linear-assertive, **E**xtraverted/rational-**R**igid/Dynamic. Are characterized by energetic and proactive behavior.
 
 Note that −IR, +IR, −ER, +ER are enough to encode all 4 temperaments but EM, IR, IM, ER are easier to read.
 
