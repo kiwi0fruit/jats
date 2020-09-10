@@ -414,12 +414,12 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |       ENxR        |           ENTR v ENFR v ENuR v ...            |       ENuR       |
 |       INTx        |           INTR v INTM v INTu v ...            |       INTu       |
 |       IxTR        |           INTR v ISTR v IuTR v ...            |       IuTR       |
-| xNTx(+ad), xNTxL  |           ENTM v INTR v uNTuL v ...           | uNTu(+ad), uNTuL |
+| xNTx(+ad), xNTxL, xNTxQ |     ENTM v INTR v uNTuL v ...    | uNTu(+ad), uNTuL, uNTuQ |
 |       xNTR        |           ENTR v INTR v uNTR v ...            |       uNTR       |
 |       INxR        |           INTR v INFR v INuR v ...            |       INuR       |
-| IxTx(+ad), IxTxL  |           INTR v ISTM v IuTuL v ...           |      IuTuL       |
-| INxx(+ab), INxxQ  |         INTR v INFM v INuu(+ab) v ...         |    INuu(+ab)     |
-|     IxxR(+ag)     |         INTR v ISFR v IuuR(+ag) v ...         |    IuuR(+ag)     |
+| IxTx(+ad), IxTxL, IxTxQ |     INTR v ISTM v IuTuL v ...           |   IuTuL, IuTuQ   |
+| INxx(+ab), INxxQ  |         INTR v INFM v INuu(+ab) v ...         | INuu(+ab), INuuQ |
+| IxxR(+ag), IxxRQ  |         INTR v ISFR v IuuR(+ag) v ...         | IuuR(+ag), IuuRQ |
 |     ENxM(−13)     |         ENTM v ENuM v ... (not ENFM)          |    ENTM(+13)     |
 |     xNTxL(−1)     |         INTR v uNTuL v ... (not ENTM)         |     INTR(+1)     |
 |     IxTR(−6)      |         INTR v IuTR v ... (not ISTR)          |     INTR(+6)     |
@@ -429,13 +429,15 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |       IxTx        |    INTR v ISTR v INTM v ISTM v IuTM v ...     |        ?         |
 |     ENxM(−13)     |         ENTM v ENuM v ... (not ENFM)          |    ENTM(+13)     |
 |   ENxM(1^1\~13)   |         ENTM v ENuM v ... (not ENFM)          |    ENTM(+13)     |
-|    IxTx(2^15)     |         INTR v ISTM v IuT(+ad) v ...          |   IuTu(2\~15)    |
+|    IxTx(2^15)     |         INTR v ISTM v IuTuL v ...             |   IuTu(2\~15)    |
 
 * **^** stands for **simplex**,
 * **v** stands for **or**,
 * **-** and **−** stand for **minus**,
 * **~** stands for **approximately equals**,
 * lowercase L (l) is not recommended to be used as it can be mixed with uppercase i (I). Use −c or +L instead.
+* For details on Questioning/Declaring (Q/D) notation see chapter *11. Symmetries of Reinin dichotomies*.
+  * Do not mix it with delta quadra that is always lowercase (like Ad/ad) and in brackets.
 
 
 ## 10. Further reading and notable discussions
