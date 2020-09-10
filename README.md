@@ -136,18 +136,18 @@ Names are in the following order:
 |:------- |:-------------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------------:|:-----------------------------------------------:|
 | α alpha |                  **ENTM**  **1**                  |                 **INTR**  **2**                 |                  **ISFM**  **3**                  |                 **ESFR**  **4**                 |
 |         |               ILE  ENTP  NeT  ENTa                |              LII  INTx  TiN  INTa               |               SEI  ISFx  SiF  ISFa                |              ESE  ESFJ  FeS  ESFa               |
-|         | dominant extraverted intuiter & irrational tasker | dominant introverted tasker & rational intuiter |  dominant introverted sensor & irrational feeler  |  dominant extraverted feeler & rational sensor  |
+|         | dominant extraverted intuiter & improvising tasker | dominant introverted tasker & rigid intuiter |  dominant introverted sensor & improvising feeler  |  dominant extraverted feeler & rigid sensor  |
 | β beta  |                  **ESTM**  **5**                  |                 **ISTR**  **6**                 |                  **INFM**  **7**                  |                 **ENFR**  **8**                 |
 |         |               SLE  ESTP  SeT  ESTb                |              LSI  ISTx  TiS  ISTb               |               IEI  INFx  NiF  INFb                |              EIE  ENFJ  FeN  ENFb               |
-|         |  dominant extraverted sensor & irrational tasker  |  dominant introverted tasker & rational sensor  | dominant introverted intuiter & irrational feeler | dominant extraverted feeler & rational intuiter |
+|         |  dominant extraverted sensor & improvising tasker  |  dominant introverted tasker & rigid sensor  | dominant introverted intuiter & improvising feeler | dominant extraverted feeler & rigid intuiter |
 | γ gamma |                  **ESFM**  **9**                  |                **ISFR**  **10**                 |                 **INTM**  **11**                  |                **ENTR**  **12**                 |
 |         |               SEE  ESFP  SeF  ESFg                |              ESI  ISFx  FiS  ISFg               |               ILI  INTx  NiT  INTg                |              LIE  ENTJ  TeN  ENTg               |
-|         |  dominant extraverted sensor & irrational feeler  |  dominant introverted feeler & rational sensor  | dominant introverted intuiter & irrational tasker | dominant extraverted tasker & rational intuiter |
+|         |  dominant extraverted sensor & improvising feeler  |  dominant introverted feeler & rigid sensor  | dominant introverted intuiter & improvising tasker | dominant extraverted tasker & rigid intuiter |
 | δ delta |                 **ENFM**  **13**                  |                **INFR**  **14**                 |                 **ISTM**  **15**                  |                **ESTR**  **16**                 |
 |         |               IEE  ENFP  NeF  ENFd                |              EII  INFx  FiN  INFd               |               SLI  ISTx  SiT  ISTd                |              LSE  ESTJ  TeS  ESTd               |
-|         | dominant extraverted intuiter & irrational feeler | dominant introverted feeler & rational intuiter |  dominant introverted sensor & irrational tasker  |  dominant extraverted tasker & rational sensor  |
+|         | dominant extraverted intuiter & improvising feeler | dominant introverted feeler & rational intuiter |  dominant introverted sensor & improvising tasker  |  dominant extraverted tasker & rigid sensor  |
 
-For example INTR is *intuitive task-oriented rational introvert with dominant Ti* or *dominant introverted tasker & rational intuiter*.
+For example INTR is *intuitive task-oriented rigid introvert with dominant Ti* or *dominant introverted tasker & rigid intuiter*.
 
 - **N** - intuitive, intuiter,
 - **S** - sensory, sensor,
@@ -155,8 +155,8 @@ For example INTR is *intuitive task-oriented rational introvert with dominant Ti
 - **F** - feelings-oriented, feeler,
 - **E** - extraverted, extravert,
 - **I** - introverted, introvert,
-- **M** - irrational/improvising, improviser,
-- **R** - rational/rigid.
+- **M** - improvising, improviser,
+- **R** - rigid, ?
 
 Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor detectors. My favourite is "sensing feelers" 🐙.
 
