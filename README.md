@@ -99,7 +99,7 @@ This approach is also useful in determining of 1-3 closest reference types witho
 
 ## 4. Socionics reference types names vs. MBTI types names
 
-In my translation of Socionics types names to English 3 letter code shows the position on 3 axes I/E, S/N, F/T. And then Gulenko's temperament using I/E and R/M (that is equivalent to J/P). Axes can be measured by MBTI or Big Five tests (where MBTI J/P axis measures roughly the same as big Five conscientiousness). MBTI does not have counterpart types for introverts. For example the closest counterpart for INTR is INTx that is one of two types INTJ/INTP (or their mixture).
+In my translation of Socionics types names to English 4 letter code shows the position on 4 axes I/E, S/N, F/T, R/M (that is equivalent to J/P in tests practice). Axes can be measured by MBTI, Gulenko's test or Big Five tests (where MBTI J/P axis measures roughly the same as big Five conscientiousness and as R/M). But at the same time MBTI does not have counterpart types for introverts. For example the closest counterpart for INTR is INTx that is one of two types INTJ/INTP (or their mixture).
 
 
 ### 4.1 Gulenko's Temperaments translated
