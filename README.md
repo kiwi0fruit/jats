@@ -145,7 +145,7 @@ Names are in the following order:
 |         |  dominant extraverted sensor & improvising feeler  |  dominant introverted feeler & rigid sensor  | dominant introverted intuiter & improvising tasker | dominant extraverted tasker & rigid intuiter |
 | δ delta |                 **ENFM**  **13**                  |                **INFR**  **14**                 |                 **ISTM**  **15**                  |                **ESTR**  **16**                 |
 |         |               IEE  ENFP  NeF  ENFd                |              EII  INFx  FiN  INFd               |               SLI  ISTx  SiT  ISTd                |              LSE  ESTJ  TeS  ESTd               |
-|         | dominant extraverted intuiter & improvising feeler | dominant introverted feeler & rational intuiter |  dominant introverted sensor & improvising tasker  |  dominant extraverted tasker & rigid sensor  |
+|         | dominant extraverted intuiter & improvising feeler | dominant introverted feeler & rigid intuiter |  dominant introverted sensor & improvising tasker  |  dominant extraverted tasker & rigid sensor  |
 
 For example INTR is *intuitive task-oriented rigid introvert with dominant Ti* or *dominant introverted tasker & rigid intuiter*.
 
