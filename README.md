@@ -774,24 +774,24 @@ Types are in standard Talanov's order.
 Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.  
 8 deep rainbow colors from crimson to magenta are mapped to beta+gamma quadras in *reverse order*.  
 
-| Color           |         |     | Type |     | Alt. names     | xkcd color    |
-|:--------------- |:------- |:--- |:---- | --- |:-------------- |:------------- |
-| ![](pic/1.png)  | red     | 1   | ENTM | α   | ILE, ENTP, NeT | bright red    |
-| ![](pic/2.png)  | orange  | 2   | INTR | α   | LII, INTx, TiN | tangerine     |
-| ![](pic/3.png)  | yellow  | 3   | ISFM | α   | SEI, ISFx, SiF | dandelion     |
-| ![](pic/4.png)  | lime    | 4   | ESFR | α   | ESE, ESFJ, FeS | apple green   |
-| ![](pic/5.png)  | magenta | 5   | ESTM | β   | SLE, ESTP, SeT | magenta       |
-| ![](pic/6.png)  | purple  | 6   | ISTR | β   | LSI, ISTx, TiS | purple        |
-| ![](pic/7.png)  | blue    | 7   | INFM | β   | IEI, INFx, NiF | blue          |
-| ![](pic/8.png)  | teal    | 8   | ENFR | β   | EIE, ENFJ, FeN | teal blue     |
-| ![](pic/9.png)  | green   | 9   | ESFM | γ   | SEE, ESFP, SeF | grass green   |
-| ![](pic/10.png) | mustard | 10  | ISFR | γ   | ESI, ISFx, FiS | gold          |
-| ![](pic/11.png) | brown   | 11  | INTM | γ   | ILI, INTx, NiT | dark orange   |
-| ![](pic/12.png) | crimson | 12  | ENTR | γ   | LIE, ENTJ, TeN | blood red     |
-| ![](pic/13.png) | cyan    | 13  | ENFM | δ   | IEE, ENFP, NeF | aqua blue     |
-| ![](pic/14.png) | azure   | 14  | INFR | δ   | EII, INFx, FiN | azure         |
-| ![](pic/15.png) | violet  | 15  | ISTM | δ   | SLI, ISTx, SiT | bright violet |
-| ![](pic/16.png) | pink    | 16  | ESTR | δ   | LSE, ESTJ, TeS | bright pink   |
+| Color           |         |     | Type |     | Gulenko's     | Alt. names     | xkcd color    |
+|:--------------- |:------- |:--- |:---- | --- | ------------- |:-------------- |:------------- |
+| ![](pic/1.png)  | red     | 1   | ENTM | α   | Inventor      | ILE, ENTP, NeT | bright red    |
+| ![](pic/2.png)  | orange  | 2   | INTR | α   | Analyst       | LII, INTx, TiN | tangerine     |
+| ![](pic/3.png)  | yellow  | 3   | ISFM | α   | Mediator      | SEI, ISFx, SiF | dandelion     |
+| ![](pic/4.png)  | lime    | 4   | ESFR | α   | Enthusiast    | ESE, ESFJ, FeS | apple green   |
+| ![](pic/5.png)  | magenta | 5   | ESTM | β   | General       | SLE, ESTP, SeT | magenta       |
+| ![](pic/6.png)  | purple  | 6   | ISTR | β   | Inspector     | LSI, ISTx, TiS | purple        |
+| ![](pic/7.png)  | blue    | 7   | INFM | β   | Poet          | IEI, INFx, NiF | blue          |
+| ![](pic/8.png)  | teal    | 8   | ENFR | β   | Inspirer      | EIE, ENFJ, FeN | teal blue     |
+| ![](pic/9.png)  | green   | 9   | ESFM | γ   | Politician    | SEE, ESFP, SeF | grass green   |
+| ![](pic/10.png) | mustard | 10  | ISFR | γ   | Guardian      | ESI, ISFx, FiS | gold          |
+| ![](pic/11.png) | brown   | 11  | INTM | γ   | Foreseer      | ILI, INTx, NiT | dark orange   |
+| ![](pic/12.png) | crimson | 12  | ENTR | γ   | Entrepreneur  | LIE, ENTJ, TeN | blood red     |
+| ![](pic/13.png) | cyan    | 13  | ENFM | δ   | Journalist    | IEE, ENFP, NeF | aqua blue     |
+| ![](pic/14.png) | azure   | 14  | INFR | δ   | Humanist      | EII, INFx, FiN | azure         |
+| ![](pic/15.png) | violet  | 15  | ISTM | δ   | Craftsman     | SLI, ISTx, SiT | bright violet |
+| ![](pic/16.png) | pink    | 16  | ESTR | δ   | Administrator | LSE, ESTJ, TeS | bright pink   |
 
 * Bright colors: red, orange, yellow, lime, cyan, azure, violet, pink (Яркие цвета: красный, оранжевый, жёлтый, салатовый, циановый, голубой, фиолетовый, розовый),
 * Deep colors: crimson, brown, mustard, green, teal, blue, purple, magenta (Густые цвета: бордовый, коричневый, горчичный, зеленый, бирюзовый, синий, сливовый, пурпурный).
