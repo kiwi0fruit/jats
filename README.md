@@ -346,7 +346,7 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
   1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only.
 
 
-7.1 Determining Socionics type
+### 7.1 Determining Socionics type
 
 You can give a try to [**this table**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fkiwi0fruit.tumblr.com%2Ffunctions&sandbox=1). Go per row and mark which one or two cells fits you most in each row. After the table ends you can check which types are the most common in marked cells.
 
