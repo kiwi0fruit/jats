@@ -348,7 +348,11 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 
 ### 7.1 Determining Socionics type
 
+#### Selecting best fitting functions descriptions from 8x8 table
+
 You can give a try to [**this table**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fkiwi0fruit.tumblr.com%2Ffunctions&sandbox=1) (autotranslated). Go per row and mark which one or two cells fits you most in each row. After the table ends you can check which types are the most common in marked cells.
+
+#### 160 questions test
 
 Or you can take this [**Socionics test**](http://www.aimtoknow.com/test_beta). It would give you likeness to 16 types measured and information to think about.
 
