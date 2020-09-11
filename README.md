@@ -14,6 +14,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 * [5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics](#5-revised-gulenkos-names-for-types-1-16-numbers-as-names-for-types-with-mnemonics)
 * [6. On dichotomies, MBTI incompatibility, Big Five](#6-on-dichotomies-mbti-incompatibility-big-five)
 * [7. Model A](#7-model-a)
+  - [7.1 Determining Socionics type](#71-determining-socionics-type)
 * [8. Quadras and functions. Why quadras grouped this way? Central vs. Lateral types](#8-quadras-and-functions-why-quadras-grouped-this-way-central-vs-lateral-types)
   - [8.1 Interactive table of intertype relationships](#81-interactive-table-of-intertype-relationships)
 * [9. Intermediate and unknown types names](#9-intermediate-and-unknown-types-names)
@@ -343,6 +344,13 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
   puts additional constraints to functions strengths. H7 [EI]: 1>7; 8>2; 3>5; 6>4; H2 [strong-weak]: 1,2,7,8 > 3,4,5,6; H3 [dominant]: 1>8; H10 [IE>RM]: 1>2; 8>7; 3>4; 6>5 where “>” means “stronger”.
 * **С7 [pronal-antinal]** H3 [dominant], H6 [most-inferior], H8 [MR], С5 [56-valuable] →  
   1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only.
+
+
+7.1 Determining Socionics type
+
+You can give a try to [**this table**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fkiwi0fruit.tumblr.com%2Ffunctions&sandbox=1). Go per row and mark which one or two cells fits you most in each row. After the table ends you can check which types are the most common in marked cells.
+
+Or you can take this [**Socionics test**](http://www.aimtoknow.com/test_beta). It would give you likeness to 16 types measured and information to think about.
 
 
 ## 8. Quadras and functions. Why quadras grouped this way? Central vs. Lateral types
