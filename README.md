@@ -758,28 +758,28 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 | --- |:--------- | --------------------------------------------------------------------------- |:---------------------------------------------:|
 | 1.  | N=−S      | **S**ensory=>i**N**tuitive                                                  |           S => s => skip => n => N            |
 | 2.  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T            |
-| 3.  | EM=−IR    | **R**ational-**I**ntroverted=>Irrational/i**M**provising-**E**xtraverted    |       +IR => +ir => skip => +em => +EM        |
-| 4.  | ER=−IM    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       +IM => +im => skip => +er => +ER        |
-| 5.  | EL=−IC    | **C**entral-**I**ntroverted=>**L**ateral-**E**xtraverted (IBg=>EAd)         |       +IC => +ic => skip => +el => +EL        |
-| 6.  | EC=−IL    | **L**ateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAd=>EBg)         |       +IL => +il => skip => +ec => +EC        |
-| 7.  | U         | ne**U**roticism                                                             |         −U => −u => skip => +u => +U          |
+| 3.  | EM=−IR    | **R**ational-**I**ntroverted=>Irrational/i**M**provising-**E**xtraverted    |       IR => ir => skip => em => EM        |
+| 4.  | ER=−IM    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       IM => im => skip => er => ER        |
+| 5.  | EL=−IC    | **C**entral-**I**ntroverted=>**L**ateral-**E**xtraverted (IBg=>EAd)         |       IC => ic => skip => el => EL        |
+| 6.  | EC=−IL    | **L**ateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAd=>EBg)         |       IL => il => skip => ec => EC        |
+| 7.  | U         | ne**U**roticism                                                             |         −U => −u => skip => u => U          |
 |     | **FZA1a** | Alternative axes                                                            |                                               |
-| 5a. | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       +FC => +fc => skip => +tl => +TL        |
-| 7a. | +UC       | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       −UC => −uc => skip => +uc => +UC        |
+| 5a. | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL        |
+| 7a. | UC       | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       −UC => −uc => skip => uc => UC        |
 
 \*Value-dependent notation details:
 
 * UPPERCASE if 0.9 ≤ |x|,
 * lowercase if 0.3 ≤ |x| < 0.9,
 * axis is skipped if 0.00 ≤ |x| < 0.3,
-* notation example: ENT(+EM+er+EL+ec−U), INt(+EM+el−U),
+* notation example: ENT(EM,er,EL,ec,−U), INt(EM,el,−U),
 * first E is obtained from (EM, ER, EL, EC) vector via projecting on (0.5, 0.5, 0.5, 0.5) direction.
 
 
 ### 11.9 Bright/deep rainbow colors to plot 16 probability density functions on a single image
 
-* Ad/−C/+L: Bright colors (Lateral types, Alpha-delta),
-* Bg/+C/−L: Deep colors (Central types, Beta-gamma).
+* Ad/L: Bright colors (Lateral types, Alpha-delta),
+* Bg/C: Deep colors (Central types, Beta-gamma).
 
 Types are in standard Talanov's order.  
 8 bright rainbow colors from red to pink are mapped to alpha+delta quadras in *normal order*.  
