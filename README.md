@@ -41,7 +41,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 5. **Irrational/Rational** names for functions and **iMprovising/Rigid** (**M/R**) names for types and temperaments were used instead of **Perceiving/Judging** to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INTR** (LII) vs. **INTM** (ILI) those are dominant introverted tasker & rational intuiter vs. dominant introverted intuiter & irrational tasker
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-Delta vs. Beta-Gamma types are translated as **Lateral** vs. **Central** types (**L/C**). The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
-8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx(+ad)**, **uNTu(+ad)** that are unknown and mixed types from ENTM (ENTP) and INTR (LII).
+8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTxAd**, **uNTuAd** that are unknown and mixed types from ENTM (ENTP) and INTR (LII).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for ENTM (ENTP), Enthusiast for ESFR (ESFJ), General for ESTM (ESTP), Poet for INFM (IEI), **Inspirer** for ENFR (ENFJ), **Foreseer** for INTM (ILI), Entrepreneur for ENTR (ENTJ), **Journalist** for ENFM (ENFP).
 11. The set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions is given. Together hypotheses give **Model A** as consequences. Bonus: **Cognitive functions descriptions per position in Model A (8x8 auto-translated table)**.
@@ -374,7 +374,7 @@ Deltas are: ENFM, INFR, ESTR, ISTM. So as commonly believed in MBTI xNFP and xST
 * ESTR has dominant Te, supporting Si, and suggestive Fi,
 * ISTM has dominant Si, supporting Te, and suggestive Ne
 
-Hence deltas are xNFx(±ir)/xSTx(±er) (or xNFxL/xSTxL or xNFx(+ad)/xSTx(+ad)) - see below.
+Hence deltas are xNFx(±IR)/xSTx(±ER) (or xNFxL/xSTxL or xNFxAd/xSTxAd) - see below.
 
 So the functions the type values most are 1-dominant, 2-supporting and 5-suggestive. For some reason in Socionics believed that commonly ENFM also values Te, INFR also values Si, ESTR also values Ne, ISTM also values Fi (6-activating).
 
@@ -426,17 +426,17 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |       ENxR        |           ENTR v ENFR v ENuR v ...            |       ENuR       |
 |       INTx        |           INTR v INTM v INTu v ...            |       INTu       |
 |       IxTR        |           INTR v ISTR v IuTR v ...            |       IuTR       |
-| xNTx(+ad), xNTxL, xNTxQ |     ENTM v INTR v uNTuL v ...    | uNTu(+ad), uNTuL, uNTuQ |
+| xNTxAd, xNTxL, xNTxQ |     ENTM v INTR v uNTuL v ...    | uNTuAd, uNTuL, uNTuQ |
 |       xNTR        |           ENTR v INTR v uNTR v ...            |       uNTR       |
 |       INxR        |           INTR v INFR v INuR v ...            |       INuR       |
-| IxTx(+ad), IxTxL, IxTxQ |     INTR v ISTM v IuTuL v ...           |   IuTuL, IuTuQ   |
-| INxx(+ab), INxxQ  |         INTR v INFM v INuu(+ab) v ...         | INuu(+ab), INuuQ |
-| IxxR(+ag), IxxRQ  |         INTR v ISFR v IuuR(+ag) v ...         | IuuR(+ag), IuuRQ |
+| IxTxAd, IxTxL, IxTxQ |     INTR v ISTM v IuTuL v ...           |   IuTuL, IuTuQ   |
+| INxxAb, INxxQ  |         INTR v INFM v INuuQ v ...         | INuuAb, INuuQ |
+| IxxRAg, IxxRQ  |         INTR v ISFR v IuuRQ v ...         | IuuRAg, IuuRQ |
 |     ENxM(−13)     |         ENTM v ENuM v ... (not ENFM)          |    ENTM(+13)     |
 |     xNTxL(−1)     |         INTR v uNTuL v ... (not ENTM)         |     INTR(+1)     |
 |     IxTR(−6)      |         INTR v IuTR v ... (not ISTR)          |     INTR(+6)     |
 |       xNxxL       |    INTR v ENTM v INFR v ENFM v ENuM v ...     |        ?         |
-| Ixxx(+bg), IxxxC  |    ISTR v INFM v ISFR v INTM v INuM v ...     |        ?         |
+| IxxxBg, IxxxC  |    ISTR v INFM v ISFR v INTM v INuM v ...     |        ?         |
 |       xNxM        | ENTM v INFM v INTM v ENFM v ENuM v INuM v ... |        ?         |
 |       IxTx        |    INTR v ISTR v INTM v ISTM v IuTM v ...     |        ?         |
 |     ENxM(−13)     |         ENTM v ENuM v ... (not ENFM)          |    ENTM(+13)     |
