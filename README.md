@@ -432,14 +432,14 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 | IxTxAd, IxTxL, IxTxQ |     INTR v ISTM v IuTuL v ...           |   IuTuL, IuTuQ   |
 | INxxAb, INxxQ  |         INTR v INFM v INuuQ v ...         | INuuAb, INuuQ |
 | IxxRAg, IxxRQ  |         INTR v ISFR v IuuRQ v ...         | IuuRAg, IuuRQ |
-|     ENxM(−13)     |         ENTM v ENuM v ... (not ENFM)          |    ENTM(+13)     |
-|     xNTxL(−1)     |         INTR v uNTuL v ... (not ENTM)         |     INTR(+1)     |
-|     IxTR(−6)      |         INTR v IuTR v ... (not ISTR)          |     INTR(+6)     |
+|     ENxM(-13)     |         ENTM v ENuM v ... (not ENFM)          |    ENTM(+13)     |
+|     xNTxL(-1)     |         INTR v uNTuL v ... (not ENTM)         |     INTR(+1)     |
+|     IxTR(-6)      |         INTR v IuTR v ... (not ISTR)          |     INTR(+6)     |
 |       xNxxL       |    INTR v ENTM v INFR v ENFM v ENuM v ...     |        ?         |
 | IxxxBg, IxxxC  |    ISTR v INFM v ISFR v INTM v INuM v ...     |        ?         |
 |       xNxM        | ENTM v INFM v INTM v ENFM v ENuM v INuM v ... |        ?         |
 |       IxTx        |    INTR v ISTR v INTM v ISTM v IuTM v ...     |        ?         |
-|     ENxM(−13)     |         ENTM v ENuM v ... (not ENFM)          |    ENTM(+13)     |
+|     ENxM(-13)     |         ENTM v ENuM v ... (not ENFM)          |    ENTM(+13)     |
 |   ENxM(1^1\~13)   |         ENTM v ENuM v ... (not ENFM)          |    ENTM(+13)     |
 |    IxTx(2^15)     |         INTR v ISTM v IuTuL v ...             |   IuTu(2\~15)    |
 
@@ -749,10 +749,10 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 
 * To summ up briefly in old terms:
   * (1) N=−S, (2) T=−F, (3) PE=−JI, (4) JE=−PI, (5) EAd=−IBg, (6) EBg=−IAd, (7) U (neUroticism),
-  * alternative: (5a) TAd=−FBg, (7a) +UBg.
+  * alternative: (5a) TAd=−FBg, (7a) UBg.
 * In new terms:
   * (1) N=−S, (2) T=−F, (3) EM=−IR, (4) ER=−IM, (5) EL=−IC, (6) EC=−IL, (7) U,
-  * alternative: (5a) TL=−FC, (7a) +UC.
+  * alternative: (5a) TL=−FC, (7a) UC.
 
 |     | FZA1      | Axis name                                                                   | Value-dependent notation for survey results\* |
 | --- |:--------- | --------------------------------------------------------------------------- |:---------------------------------------------:|
@@ -762,17 +762,17 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 | 4.  | ER=−IM    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       IM => im => skip => er => ER        |
 | 5.  | EL=−IC    | **C**entral-**I**ntroverted=>**L**ateral-**E**xtraverted (IBg=>EAd)         |       IC => ic => skip => el => EL        |
 | 6.  | EC=−IL    | **L**ateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAd=>EBg)         |       IL => il => skip => ec => EC        |
-| 7.  | U         | ne**U**roticism                                                             |         −U => −u => skip => u => U          |
+| 7.  | U         | ne**U**roticism                                                             |         -U => -u => skip => u => U          |
 |     | **FZA1a** | Alternative axes                                                            |                                               |
 | 5a. | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL        |
-| 7a. | UC       | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       −UC => −uc => skip => uc => UC        |
+| 7a. | UC       | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC        |
 
 \*Value-dependent notation details:
 
 * UPPERCASE if 0.9 ≤ |x|,
 * lowercase if 0.3 ≤ |x| < 0.9,
 * axis is skipped if 0.00 ≤ |x| < 0.3,
-* notation example: ENT(EM,er,EL,ec,−U), INt(EM,el,−U),
+* notation example: ENT(EM,er,EL,ec,-U), INt(EM,el,-U),
 * first E is obtained from (EM, ER, EL, EC) vector via projecting on (0.5, 0.5, 0.5, 0.5) direction.
 
 
