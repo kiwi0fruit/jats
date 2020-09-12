@@ -808,13 +808,13 @@ Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.
 * Bright colors: red, orange, yellow, lime, cyan, azure, violet, pink (Яркие цвета: красный, оранжевый, жёлтый, салатовый, циановый, голубой, фиолетовый, розовый),
 * Deep colors: crimson, brown, mustard, green, teal, blue, purple, magenta (Густые цвета: бордовый, коричневый, горчичный, зеленый, бирюзовый, синий, сливовый, пурпурный).
 
-Socionics rainbow mnemonics (truncated MBTI abbreviations were used):
+Socionics rainbow mnemonics (MBTI-like abbreviations were used):
 
-![Socionics rainbow mnemonics flag (truncated MBTI abbreviations were used)](pic/all.png)
+![Socionics rainbow mnemonics flag (MBTI-like abbreviations were used)](pic/all.png)
 
-Version without MBTI abbreviations (font used is STIX Two Text):
+Version without MBTI-like abbreviations and info (font used is STIX Two Text):
 
-![Socionics rainbow mnemonics flag (version without MBTI abbreviations)](pic/all2.png)
+![Socionics rainbow mnemonics flag (version without MBTI-like abbreviations and info)](pic/all2.png)
 
 
 --------
