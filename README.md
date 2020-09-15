@@ -751,19 +751,26 @@ To summ up briefly in old terms:
 
 * FZA1:
   * (1) PE=−JI, (2) JE=−PI, (3) N=−S, (4a) T=−F, (5a) EBg=−IAd,
-  * (6a) EAd=−IBg, (7a) U (neUroticism),
+  * (6a) EAd=−IBg, (7a) U (neUroticism).
 * FZA2 - alternative axes:
   * (1), (2), (3), (4a), (5a),
   * (6b) TAd=−FBg, (7b) UBg.
+* FZA3 - alternative axes:
+  * (1), (2), (3),
+  * (4c) TAd=−FBg, (5c) TBg=−FAd, (6c) U.
 
 In new terms:
 
 * FZA1:
   * (1) EM=−IR, (2) ER=−IM, (3) N=−S, (4a) T=−F, (5a) EC=−IL,
-  * (6a) EL=−IC, (7a) U,
+  * (6a) EL=−IC, (7a) U.
 * FZA2 - alternative axes:
   * (1), (2), (3), (4a), (5a),
   * (6b) TL=−FC, (7b) UC.
+* FZA3 - alternative axes:
+  * (1), (2), (3),
+  * (4c) TL=−FC, (5c) TC=−FL, (6c) U.
+
 
 |     | FZA1      | Axes: 1, 2, 3, 4a, 5a, 6a, 7a                                               | Value-dependent notation for survey results\* |
 | --- |:--------- |:---------------------------------------------------------------------------:|:---------------------------------------------:|
@@ -777,6 +784,10 @@ In new terms:
 |     | **FZA2**  | **Alternative axes: 1, 2, 3, 4a, 5a, (6b), (7b)**                           |                                               |
 | 6b. | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL        |
 | 7b. | UC        | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC        |
+|     | **FZA3**  | **Alternative axes: 1, 2, 3, (4c), (5c), (6c)**                             |                                               |
+| 4c. | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL        |
+| 5c. | TC=−FL    | **L**ateral-**F**eelings-oriented=>**C**entral-**T**ask-oriented (FAd=>TBg) |       -FL => -fl => skip => fl => FL        |
+| 6c. | U         | ne**U**roticism                                                             |         -U => -u => skip => u => U          |
 
 \*Value-dependent notation details:
 
