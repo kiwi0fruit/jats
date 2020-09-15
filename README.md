@@ -772,8 +772,8 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 * UPPERCASE if 0.9 ≤ |x|,
 * lowercase if 0.3 ≤ |x| < 0.9,
 * axis is skipped if 0.00 ≤ |x| < 0.3,
-* notation example: ENT(EM,er,EL,ec,-U), INt(EM,el,-U),
-* first E is obtained from (EM, ER, EL, EC) vector via projecting on (0.5, 0.5, 0.5, 0.5) direction.
+* notation example: ENT(EM,er,ec,EL,-U), INt(EM,el,-U),
+* first E is obtained from (EM, ER, EC, EL) vector via projecting on (0.5, 0.5, 0.5, 0.5) direction.
 
 
 ### 11.9 Bright/deep rainbow colors to plot 16 probability density functions on a single image
