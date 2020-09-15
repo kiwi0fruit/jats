@@ -748,11 +748,11 @@ If we take another hypothetical person example with T<sub>ER</sub>=0.5, T<sub>IR
 Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstracted Khizhnyak axes) might be axes of independent variation in factorized traits space. But I'm of opinion (based on almost ready model fitted to the Socionics database of \~10000 surveys) that it's not the case. More likely that it would be **Factorized Axes 1 (FZA1)**:
 
 * To summ up briefly in old terms:
-  * (1) N=−S, (2) T=−F, (3) PE=−JI, (4) JE=−PI, (5) EAd=−IBg, (6) EBg=−IAd, (7) U (neUroticism),
-  * alternative: (5a) TAd=−FBg, (7a) UBg.
+  * FZA1: (1) N=−S, (2) T=−F, (3) PE=−JI, (4) JE=−PI, (5a) EAd=−IBg, (6) EBg=−IAd, (7a) U (neUroticism),
+  * FZA2: alternative axes. (1), (2), (3), (4), (6) plus (5b) TAd=−FBg, (7b) UBg.
 * In new terms:
-  * (1) N=−S, (2) T=−F, (3) EM=−IR, (4) ER=−IM, (5) EL=−IC, (6) EC=−IL, (7) U,
-  * alternative: (5a) TL=−FC, (7a) UC.
+  * FZA1: (1) N=−S, (2) T=−F, (3) EM=−IR, (4) ER=−IM, (5a) EL=−IC, (6) EC=−IL, (7a) U,
+  * FZA2: alternative axes. (1), (2), (3), (4), (6) plus (5b) TL=−FC, (7b) UC.
 
 |     | FZA1      | Axis name                                                                   | Value-dependent notation for survey results\* |
 | --- |:--------- | --------------------------------------------------------------------------- |:---------------------------------------------:|
@@ -760,12 +760,12 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 | 2.  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T            |
 | 3.  | EM=−IR    | **R**ational-**I**ntroverted=>Irrational/i**M**provising-**E**xtraverted    |       IR => ir => skip => em => EM        |
 | 4.  | ER=−IM    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       IM => im => skip => er => ER        |
-| 5.  | EL=−IC    | **C**entral-**I**ntroverted=>**L**ateral-**E**xtraverted (IBg=>EAd)         |       IC => ic => skip => el => EL        |
+| 5a. | EL=−IC    | **C**entral-**I**ntroverted=>**L**ateral-**E**xtraverted (IBg=>EAd)         |       IC => ic => skip => el => EL        |
 | 6.  | EC=−IL    | **L**ateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAd=>EBg)         |       IL => il => skip => ec => EC        |
-| 7.  | U         | ne**U**roticism                                                             |         -U => -u => skip => u => U          |
-|     | **FZA1a** | Alternative axes                                                            |                                               |
-| 5a. | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL        |
-| 7a. | UC       | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC        |
+| 7a. | U         | ne**U**roticism                                                             |         -U => -u => skip => u => U          |
+|     | **FZA2**  | Alternative axes. 1., 2., 3., 4., 6. plus:                                  |                                               |
+| 5b. | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL        |
+| 7b. | UC        | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC        |
 
 \*Value-dependent notation details:
 
