@@ -751,7 +751,7 @@ To summ up briefly:
 
 * FZA1:
   * [EM] EM=−IR (PE=−JI), [ER] ER=−IM (JE=−PI), [N] N=−S, [T] T=−F, [EC] EC=−IL (EBg=−IAd),
-  * [EL] EL=−IC (EAd=−IBg), [U] U.
+  * [EL] EL=−IC (EAd=−IBg), [U] U (neUroticism).
 * FZA2 - alternative axes:
   * [EM], [ER], [N], [T], [EC],
   * [TL] TL=−FC (TAd=−FBg), [UC] UC (UBg).
