@@ -751,11 +751,11 @@ To summ up briefly:
 
 * FZA1: **[EM], [ER], [N], [T], [EC], [EL], [U]**
   * [EM] EM=−IR (PE=−JI), [ER] ER=−IM (JE=−PI), [N] N=−S, [T] T=−F, [EC] EC=−IL (EBg=−IAd), [EL] EL=−IC (EAd=−IBg), [U] U (neUroticism).
-* FZA2 (alt. axes): **[EM], [ER], [N], [T], [EC], [TL], [UC]**
+* FZA2: **[EM], [ER], [N], [T], [EC], [TL], [UC]**  (alt. axes)
   * [TL] TL=−FC (TAd=−FBg), [UC] UC (UBg).
-* FZA3 (alt. axes): **[EM], [ER], [N], [TL], [TC], [U]**
+* FZA3: **[EM], [ER], [N], [TL], [TC], [U]**  (alt. axes)
   * [TC] TC=−FL (TBg=−FAd), [U].
-* FZA4 (alt. axes): **[EM], [ER], [N], [TL], [TC], [EC], [EL]**
+* FZA4: **[EM], [ER], [N], [TL], [TC], [EC], [EL]**  (alt. axes)
 
 |      | FZA1      | Axes: [EM], [ER], [N], [T], [EC], [EL], [U]                                 | Value-dependent notation for survey results\* |
 | ---- |:--------- |:---------------------------------------------------------------------------:|:----------------------------------------------:|
@@ -766,10 +766,10 @@ To summ up briefly:
 | [EC] | EC=−IL    | **L**ateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAd=>EBg)         |       IL => il => skip => ec => EC            |
 | [EL] | EL=−IC    | **C**entral-**I**ntroverted=>**L**ateral-**E**xtraverted (IBg=>EAd)         |       IC => ic => skip => el => EL            |
 | [U]  | U         | ne**U**roticism                                                             |         -U => -u => skip => u => U             |
-|      | **FZA2**  | Alternative axes: [EM], [ER], [N], [T], [EC], **[TL], [UC]**                |                                                |
+|      | **FZA2**  | Alt. axes: [EM], [ER], [N], [T], [EC], **[TL], [UC]**                       |                                                |
 | [TL] | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL            |
 | [UC] | UC        | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC            |
-|      | **FZA3**  | Alternative axes: [EM], [ER], [N], [TL], **[TC]**, [U]                      |                                                |
+|      | **FZA3**  | Alt. axes: [EM], [ER], [N], [TL], **[TC]**, [U]                             |                                                |
 | [TC] | TC=−FL    | **L**ateral-**F**eelings-oriented=>**C**entral-**T**ask-oriented (FAd=>TBg) |       FL => fl => skip => tc => TC            |
 |      | **FZA4**  | Alternative axes: [EM], [ER], [N], [TL], [TC], [EC], [EL]                   |                                                |
 
