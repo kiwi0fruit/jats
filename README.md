@@ -762,20 +762,20 @@ To summ up briefly:
   * [EM], [ER], [N], [TL], [TC], [EC], [EL].
 
 |      | FZA1      | Axes: [EM], [ER], [N], [T], [EC], [EL], [U]                                 | Value-dependent notation for survey results\* |
-| ---- |:--------- |:---------------------------------------------------------------------------:|:---------------------------------------------:|
-| [EM] | EM=−IR    | **R**ational-**I**ntroverted=>Irrational/i**M**provising-**E**xtraverted    |       IR => ir => skip => em => EM        |
-| [ER] | ER=−IM    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       IM => im => skip => er => ER        |
-| [N]  | N=−S      | **S**ensory=>i**N**tuitive                                                  |           S => s => skip => n => N            |
-| [T]  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T            |
-| [EC] | EC=−IL    | **L**ateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAd=>EBg)         |       IL => il => skip => ec => EC        |
-| [EL] | EL=−IC    | **C**entral-**I**ntroverted=>**L**ateral-**E**xtraverted (IBg=>EAd)         |       IC => ic => skip => el => EL        |
-| [U]  | U         | ne**U**roticism                                                             |         -U => -u => skip => u => U          |
-|      | **FZA2**  | Alternative axes: [EM], [ER], [N], [T], [EC], **[TL], [UC]**                |                                               |
-| [TL] | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL        |
-| [UC] | UC        | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC        |
-|      | **FZA3**  | Alternative axes: [EM], [ER], [N], [TL], **[TC]**, [U]                      |                                               |
-| [TC] | TC=−FL    | **L**ateral-**F**eelings-oriented=>**C**entral-**T**ask-oriented (FAd=>TBg) |       -FL => -fl => skip => fl => FL        |
-|      | **FZA4**  | Alternative axes: [EM], [ER], [N], [TL], [TC], [EC], [EL]                   |                                               |
+| ---- |:--------- |:---------------------------------------------------------------------------:|:----------------------------------------------:|
+| [EM] | EM=−IR    | **R**ational-**I**ntroverted=>Irrational/i**M**provising-**E**xtraverted    |       IR => ir => skip => em => EM            |
+| [ER] | ER=−IM    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       IM => im => skip => er => ER            |
+| [N]  | N=−S      | **S**ensory=>i**N**tuitive                                                  |           S => s => skip => n => N             |
+| [T]  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T             |
+| [EC] | EC=−IL    | **L**ateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAd=>EBg)         |       IL => il => skip => ec => EC            |
+| [EL] | EL=−IC    | **C**entral-**I**ntroverted=>**L**ateral-**E**xtraverted (IBg=>EAd)         |       IC => ic => skip => el => EL            |
+| [U]  | U         | ne**U**roticism                                                             |         -U => -u => skip => u => U             |
+|      | **FZA2**  | Alternative axes: [EM], [ER], [N], [T], [EC], **[TL], [UC]**                |                                                |
+| [TL] | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL            |
+| [UC] | UC        | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC            |
+|      | **FZA3**  | Alternative axes: [EM], [ER], [N], [TL], **[TC]**, [U]                      |                                                |
+| [TC] | TC=−FL    | **L**ateral-**F**eelings-oriented=>**C**entral-**T**ask-oriented (FAd=>TBg) |       FL => fl => skip => tc => TC            |
+|      | **FZA4**  | Alternative axes: [EM], [ER], [N], [TL], [TC], [EC], [EL]                   |                                                |
 
 \*Value-dependent notation details:
 
