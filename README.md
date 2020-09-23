@@ -786,7 +786,7 @@ To summ up briefly:
 * UPPERCASE if 0.9 ≤ |x|,
 * lowercase if 0.3 ≤ |x| < 0.9,
 * axis is skipped if 0.00 ≤ |x| < 0.3,
-* notation example: ENTML(EM,er,ec,EL,-U), INt(EM,el,-U),
+* notation example: ENTML(EM,er,ec,EL,-U), INtrl(IR,el,-U),
 * ENTML is obtained from 8 FZA4 axes via non-linear mapping.
 
 
