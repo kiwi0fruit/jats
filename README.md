@@ -750,13 +750,20 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 To summ up briefly:
 
 * FZA1: **[EM], [ER], [N], [T], [EC], [EL], [U]**
-  * [EM] EM=−IR (PE=−JI), [ER] ER=−IM (JE=−PI), [N] N=−S, [T] T=−F, [EC] EC=−IL (EBg=−IAd), [EL] EL=−IC (EAd=−IBg), [U] U (neUroticism).
+  * [EM] EM=−IR (PE=−JI),
+  * [ER] ER=−IM (JE=−PI),
+  * [N] N=−S,
+  * [T] T=−F,
+  * [EC] EC=−IL (EBg=−IAd),
+  * [EL] EL=−IC (EAd=−IBg),
+  * [U] U (neUroticism).
 * FZA2: **[EM], [ER], [N], [T], [EC], [TL], [UC]**  (alt. axes)
-  * [TL] TL=−FC (TAd=−FBg), [UC] UC (UBg).
+  * [TL] TL=−FC (TAd=−FBg),
+  * [UC] UC (UBg).
 * FZA3: **[EM], [ER], [N], [TL], [TC], [U]**  (alt. axes)
-  * [TC] TC=−FL (TBg=−FAd), [U].
-* **FZA4**: **[EM], [ER], [N], [TL], [TC], [EC], [EL], [U]**  (alt. axes)  
-  **My favourite at the moment!**
+  * [TC] TC=−FL (TBg=−FAd).
+* **_FZA4_**: **[EM], [ER], [N], [TL], [TC], [EC], [EL], [U]**  (alt. axes)  
+  _**My favourite at the moment!**_
 
 |      | FZA1      | Axes: [EM], [ER], [N], [T], [EC], [EL], [U]                                 | Value-dependent notation for survey results\* |
 | ---- |:--------- |:---------------------------------------------------------------------------:|:---------------------------------------------:|
