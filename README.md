@@ -763,7 +763,7 @@ To summ up briefly:
 * FZA3: **[EM], [ER], [N], [TL], [TC], [U]**  (alt. axes)
   * [TC] TC=−FL (TBg=−FAd).
 * **_FZA4_**: **[EM], [ER], [N], [TL], [TC], [EC], [EL], [U]**  (alt. axes)  
-  _**My favourite at the moment!**_
+  _**My favourite at the moment!**_ At the moment this combination gives best results.
 
 |      | FZA1      | Axes: [EM], [ER], [N], [T], [EC], [EL], [U]                                 | Value-dependent notation for survey results\* |
 | ---- |:--------- |:---------------------------------------------------------------------------:|:---------------------------------------------:|
