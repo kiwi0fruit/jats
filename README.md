@@ -745,27 +745,27 @@ If we take another hypothetical person example with T<sub>ER</sub>=0.5, T<sub>IR
 
 ### 11.8 FZA4: Hypothesis for 8 axes of independent variation in factorized traits space
 
-Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstracted Khizhnyak axes) might be axes of independent variation in factorized traits space. But I'm of opinion (based on almost ready model fitted to the Socionics database of \~10000 surveys) that it's not the case. More likely that it would be **Factorized Axes 1 / FZA1** (or FZA2 / FZA3):
+Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstracted Khizhnyak axes) might be axes of independent variation in factorized traits space. But I'm of opinion (based on almost ready model fitted to the Socionics database of \~10000 surveys) that it's not the case. More likely that it would be **Factorized Axes 1 / FZA1** (or FZA2, FZA3, FZA4):
 
 To summ up briefly:
 
-* FZA1: **[EM], [ER], [N], [T], [EC], [EL], [U]**
+* FZA1: **[EM], [ER], [N], [T], [EC], [EL], [U\*]**
   * [EM] EM=−IR (PE=−JI),
   * [ER] ER=−IM (JE=−PI),
   * [N] N=−S,
   * [T] T=−F,
   * [EC] EC=−IL (EBg=−IAd),
   * [EL] EL=−IC (EAd=−IBg),
-  * [U] U (neUroticism).
+  * [U\*] U\* (neUroticism but JATS specific one).
 * FZA2: **[EM], [ER], [N], [T], [EC], [TL], [UC]**  (alt. axes)
   * [TL] TL=−FC (TAd=−FBg),
   * [UC] UC (UBg).
-* FZA3: **[EM], [ER], [N], [TL], [TC], [U]**  (alt. axes)
+* FZA3: **[EM], [ER], [N], [TL], [TC], [U\*]**  (alt. axes)
   * [TC] TC=−FL (TBg=−FAd).
-* **_FZA4_**: **[EM], [ER], [N], [TL], [TC], [EC], [EL], [U]**  (alt. axes)  
+* **_FZA4_**: **[EM], [ER], [N], [TL], [TC], [EC], [EL], [U\*]**  (alt. axes)  
   _**My favourite at the moment!**_ At the moment this combination gives best results.
 
-|      | FZA1      | Axes: [EM], [ER], [N], [T], [EC], [EL], [U]                                 | Value-dependent notation for survey results\* |
+|      | FZA1      | Axes: [EM], [ER], [N], [T], [EC], [EL], [U\*]                               | Value-dependent notation for survey results\* |
 | ---- |:--------- |:---------------------------------------------------------------------------:|:---------------------------------------------:|
 | [EM] | EM=−IR    | **R**ational-**I**ntroverted=>Irrational/i**M**provising-**E**xtraverted    |       IR => ir => skip => em => EM            |
 | [ER] | ER=−IM    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       IM => im => skip => er => ER            |
@@ -773,20 +773,20 @@ To summ up briefly:
 | [T]  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T            |
 | [EC] | EC=−IL    | **L**ateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAd=>EBg)         |       IL => il => skip => ec => EC            |
 | [EL] | EL=−IC    | **C**entral-**I**ntroverted=>**L**ateral-**E**xtraverted (IBg=>EAd)         |       IC => ic => skip => el => EL            |
-| [U]  | U         | ne**U**roticism                                                             |         -U => -u => skip => u => U            |
+| [U\*] | U\*      | ne**U**roticism but JATS specific one                                       |         -U\* => -u\* => skip => u\* => U\*    |
 |      | **FZA2**  | Alt. axes: [EM], [ER], [N], [T], [EC], **[TL], [UC]**                       |                                               |
 | [TL] | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL            |
 | [UC] | UC        | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC          |
-|      | **FZA3**  | Alt. axes: [EM], [ER], [N], [TL], **[TC]**, [U]                             |                                               |
+|      | **FZA3**  | Alt. axes: [EM], [ER], [N], [TL], **[TC]**, [U\*]                           |                                               |
 | [TC] | TC=−FL    | **L**ateral-**F**eelings-oriented=>**C**entral-**T**ask-oriented (FAd=>TBg) |       FL => fl => skip => tc => TC            |
-|      | **FZA4**  | Alternative axes: [EM], [ER], [N], [TL], [TC], [EC], [EL], [U]              |                                               |
+|      | **FZA4**  | Alternative axes: [EM], [ER], [N], [TL], [TC], [EC], [EL], [U\*]            |                                               |
 
 \*Value-dependent notation details:
 
 * UPPERCASE if 0.9 ≤ |x|,
 * lowercase if 0.3 ≤ |x| < 0.9,
 * axis is skipped if 0.00 ≤ |x| < 0.3,
-* notation example: ENTML(EM,er,ec,EL,-U), INtrl(IR,el,-U),
+* notation example: ENTML(EM,er,ec,EL,-U\*), INtrl(IR,el,-U\*),
 * ENTML is obtained from 8 FZA4 axes via non-linear mapping.
 
 
