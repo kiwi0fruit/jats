@@ -755,23 +755,24 @@ To summ up briefly:
   * [TL] TL=−FC (TAd=−FBg), [UC] UC (UBg).
 * FZA3: **[EM], [ER], [N], [TL], [TC], [U]**  (alt. axes)
   * [TC] TC=−FL (TBg=−FAd), [U].
-* FZA4: **[EM], [ER], [N], [TL], [TC], [EC], [EL]**  (alt. axes)
+* **FZA4**: **[EM], [ER], [N], [TL], [TC], [EC], [EL], [U]**  (alt. axes)  
+  **My favourite at the moment!**
 
 |      | FZA1      | Axes: [EM], [ER], [N], [T], [EC], [EL], [U]                                 | Value-dependent notation for survey results\* |
-| ---- |:--------- |:---------------------------------------------------------------------------:|:----------------------------------------------:|
+| ---- |:--------- |:---------------------------------------------------------------------------:|:---------------------------------------------:|
 | [EM] | EM=−IR    | **R**ational-**I**ntroverted=>Irrational/i**M**provising-**E**xtraverted    |       IR => ir => skip => em => EM            |
 | [ER] | ER=−IM    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       IM => im => skip => er => ER            |
-| [N]  | N=−S      | **S**ensory=>i**N**tuitive                                                  |           S => s => skip => n => N             |
-| [T]  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T             |
+| [N]  | N=−S      | **S**ensory=>i**N**tuitive                                                  |           S => s => skip => n => N            |
+| [T]  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T            |
 | [EC] | EC=−IL    | **L**ateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAd=>EBg)         |       IL => il => skip => ec => EC            |
 | [EL] | EL=−IC    | **C**entral-**I**ntroverted=>**L**ateral-**E**xtraverted (IBg=>EAd)         |       IC => ic => skip => el => EL            |
-| [U]  | U         | ne**U**roticism                                                             |         -U => -u => skip => u => U             |
-|      | **FZA2**  | Alt. axes: [EM], [ER], [N], [T], [EC], **[TL], [UC]**                       |                                                |
+| [U]  | U         | ne**U**roticism                                                             |         -U => -u => skip => u => U            |
+|      | **FZA2**  | Alt. axes: [EM], [ER], [N], [T], [EC], **[TL], [UC]**                       |                                               |
 | [TL] | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL            |
-| [UC] | UC        | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC            |
-|      | **FZA3**  | Alt. axes: [EM], [ER], [N], [TL], **[TC]**, [U]                             |                                                |
+| [UC] | UC        | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC          |
+|      | **FZA3**  | Alt. axes: [EM], [ER], [N], [TL], **[TC]**, [U]                             |                                               |
 | [TC] | TC=−FL    | **L**ateral-**F**eelings-oriented=>**C**entral-**T**ask-oriented (FAd=>TBg) |       FL => fl => skip => tc => TC            |
-|      | **FZA4**  | Alternative axes: [EM], [ER], [N], [TL], [TC], [EC], [EL]                   |                                                |
+|      | **FZA4**  | Alternative axes: [EM], [ER], [N], [TL], [TC], [EC], [EL], [U]              |                                               |
 
 \*Value-dependent notation details:
 
