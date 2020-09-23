@@ -756,7 +756,7 @@ To summ up briefly:
   * [T] T=−F,
   * [EC] EC=−IL (EBg=−IAd),
   * [EL] EL=−IC (EAd=−IBg),
-  * [U\*] U\* (neUroticism but JATS specific one).
+  * [U\*] U\* (Socionics specific semi-neUroticism alike to Eysenck's).
 * FZA2: **[EM], [ER], [N], [T], [EC], [TL], [UC]**  (alt. axes)
   * [TL] TL=−FC (TAd=−FBg),
   * [UC] UC (UBg).
@@ -773,7 +773,7 @@ To summ up briefly:
 | [T]  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T            |
 | [EC] | EC=−IL    | **L**ateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAd=>EBg)         |       IL => il => skip => ec => EC            |
 | [EL] | EL=−IC    | **C**entral-**I**ntroverted=>**L**ateral-**E**xtraverted (IBg=>EAd)         |       IC => ic => skip => el => EL            |
-| [U\*] | U\*      | ne**U**roticism but JATS specific one                                       |         -U\* => -u\* => skip => u\* => U\*    |
+| [U\*] | U\*      | Socionics specific semi-ne**U**roticism alike to Eysenck's                  |         -U\* => -u\* => skip => u\* => U\*    |
 |      | **FZA2**  | Alt. axes: [EM], [ER], [N], [T], [EC], **[TL], [UC]**                       |                                               |
 | [TL] | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL            |
 | [UC] | UC        | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC          |
