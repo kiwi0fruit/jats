@@ -762,8 +762,9 @@ To summ up briefly:
   * [UC] UC (UBg).
 * FZA3: **[EM], [ER], [N], [TL], [TC], [U\*]**  (alt. axes)
   * [TC] TC=−FL (TBg=−FAd).
-* **_FZA4_**: **[EM], [ER], [N], [TL], [TC], [EC], [EL], [U\*]**  (alt. axes)  
-  _**My favourite at the moment!**_ At the moment this combination gives best results.
+* **_FZA4_**: **[EM], [ER], [N], [TL], [TC], [EC], [EL], [AV]**  (alt. axes)
+  * [AV] AV (Tension AVoidance).
+  * _**My favourite at the moment!**_ At the moment this combination gives best results.
 
 |      | FZA1      | Axes: [EM], [ER], [N], [T], [EC], [EL], [U\*]                               | Value-dependent notation for survey results\* |
 | ---- |:--------- |:---------------------------------------------------------------------------:|:---------------------------------------------:|
@@ -779,14 +780,15 @@ To summ up briefly:
 | [UC] | UC        | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC          |
 |      | **FZA3**  | Alt. axes: [EM], [ER], [N], [TL], **[TC]**, [U\*]                           |                                               |
 | [TC] | TC=−FL    | **L**ateral-**F**eelings-oriented=>**C**entral-**T**ask-oriented (FAd=>TBg) |       FL => fl => skip => tc => TC            |
-|      | **FZA4**  | Alternative axes: [EM], [ER], [N], [TL], [TC], [EC], [EL], [U\*]            |                                               |
+|      | **FZA4**  | Alternative axes: [EM], [ER], [N], [TL], [TC], [EC], [EL], [AV]            |                                               |
+| [AV] | AV      |  Tension **AV**oidance                               |         -AV => -av => skip => av => AV    |
 
 \*Value-dependent notation details:
 
 * UPPERCASE if 0.9 ≤ |x|,
 * lowercase if 0.3 ≤ |x| < 0.9,
 * axis is skipped if 0.00 ≤ |x| < 0.3,
-* notation example: ENTML(EM,er,ec,EL,-U\*), INtrl(IR,el,-U\*),
+* notation example: ENTML(EM,er,ec,EL,-AV), INtrl(IR,el,-AV),
 * ENTML is obtained from 8 FZA4 axes via non-linear mapping.
 
 
