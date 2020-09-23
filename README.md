@@ -29,7 +29,7 @@ This is an alternative translation of the basic concepts of one of the braches o
   - [11.5 Dominant-agnostic type names](#115-dominant-agnostic-type-names)
   - [11.6 Dynamic-static axis as a measure of Khizhnyak functions differentiation](#116-dynamic-static-axis-as-a-measure-of-khizhnyak-functions-differentiation)
   - [11.7 Model A analogue stub with Gulenko's temperaments and Khizhnyak functions](#117-model-a-analogue-stub-with-gulenkos-temperaments-and-khizhnyak-functions)
-  - [11.8 FZA1: Hypothesis for 7 axes of independent variation in factorized traits space](#118-fza1-hypothesis-for-7-axes-of-independent-variation-in-factorized-traits-space)
+  - [11.8 FZA4: Hypothesis for 8 axes of independent variation in factorized traits space](#118-fza4-hypothesis-for-8-axes-of-independent-variation-in-factorized-traits-space)
   - [11.9 Bright/deep rainbow colors to plot 16 probability density functions on a single image](#119-brightdeep-rainbow-colors-to-plot-16-probability-density-functions-on-a-single-image)
 
 ## Summary
@@ -743,7 +743,7 @@ Here I assumed that I need to put functions in 1-dominant/2-supporting pair in a
 If we take another hypothetical person example with T<sub>ER</sub>=0.5, T<sub>IR</sub>=S<sub>IR</sub>=D<sub>IR</sub>=0.3, other Khizhnyak functions ~0 then we can either assume (1T<sub>ER</sub>, 7T<sub>IR</sub>, 8S<sub>IR</sub>, 8D<sub>IR</sub>) or assume (1S<sub>IR</sub>, 2D<sub>IR</sub>, 2T<sub>IR</sub>, 8T<sub>ER</sub>). The second case is tempting because it doesn't have strong 7-restrictive but it uses non-standard Khizhnyak dominant function and would have 8th stronger than 1th. So the first case is more likely (with standard 1-dominant that is the strongest of all).
 
 
-### 11.8 FZA1: Hypothesis for 7 axes of independent variation in factorized traits space
+### 11.8 FZA4: Hypothesis for 8 axes of independent variation in factorized traits space
 
 Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstracted Khizhnyak axes) might be axes of independent variation in factorized traits space. But I'm of opinion (based on almost ready model fitted to the Socionics database of \~10000 surveys) that it's not the case. More likely that it would be **Factorized Axes 1 / FZA1** (or FZA2 / FZA3):
 
