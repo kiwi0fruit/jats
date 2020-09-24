@@ -756,10 +756,10 @@ To summ up briefly:
   * [T] T=−F,
   * [EC] EC=−IL (EBg=−IAd),
   * [EL] EL=−IC (EAd=−IBg),
-  * [UU] UU (q**U**asi-ne**U**roticism).
+  * [UU] UU (q**U**asine**U**roticism).
 * FZA2: **[EM], [ER], [N], [T], [EC], [TL], [UC]**  (alt. axes)
   * [TL] TL=−FC (TAd=−FBg),
-  * [UC] UC (UBg) (quasi-neurotic centraliry).
+  * [UC] UC (UBg) (central quasineuroticism).
 * FZA3: **[EM], [ER], [N], [TL], [TC], [UU]**  (alt. axes)
   * [TC] TC=−FL (TBg=−FAd).
 * **_FZA4_**: **[EM], [ER], [N], [TL], [TC], [EC], [EL], [AV]**  (alt. axes)
@@ -774,10 +774,10 @@ To summ up briefly:
 | [T]  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T             |
 | [EC] | EC=−IL    | **L**ateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAd=>EBg)         |       IL => il => skip => ec => EC            |
 | [EL] | EL=−IC    | **C**entral-**I**ntroverted=>**L**ateral-**E**xtraverted (IBg=>EAd)         |       IC => ic => skip => el => EL            |
-| [UU] | UU        | Socionics specific q**U**asi-ne**U**roticism                                |         -UU => -uu => skip => uu => UU         |
+| [UU] | UU        | Socionics specific q**U**asine**U**roticism                                 |         -UU => -uu => skip => uu => UU         |
 |      | **FZA2**  | Alt. axes: [EM], [ER], [N], [T], [EC], **[TL], [UC]**                       |                                                |
 | [TL] | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL            |
-| [UC] | UC        | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC            |
+| [UC] | UC        | Lateral-anti-quasineuroticism=>**C**entral q**U**asine**U**roticism         |       -UC => -uc => skip => uc => UC            |
 |      | **FZA3**  | Alt. axes: [EM], [ER], [N], [TL], **[TC]**, [U\*]                           |                                                |
 | [TC] | TC=−FL    | **L**ateral-**F**eelings-oriented=>**C**entral-**T**ask-oriented (FAd=>TBg) |       FL => fl => skip => tc => TC            |
 |      | **FZA4**  | Alternative axes: [EM], [ER], [N], [TL], [TC], [EC], [EL], [AV]             |                                                |
