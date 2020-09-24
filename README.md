@@ -749,39 +749,39 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 
 To summ up briefly:
 
-* FZA1: **[EM], [ER], [N], [T], [EC], [EL], [U\*]**
-  * [EM] EM=−IR (Ep=−Ij),
+* FZA1: **[EM], [ER], [N], [T], [EC], [EL], [UU]**
+  * [EM] EM=−IR (Ep=−Ij) (i**M**provising/**R**igid),
   * [ER] ER=−IM (Ej=−Ip),
   * [N] N=−S,
   * [T] T=−F,
   * [EC] EC=−IL (EBg=−IAd),
   * [EL] EL=−IC (EAd=−IBg),
-  * [U\*] U\* (Socionics specific qUasi-neUroticism).
+  * [UU] UU (q**U**asi-ne**U**roticism).
 * FZA2: **[EM], [ER], [N], [T], [EC], [TL], [UC]**  (alt. axes)
   * [TL] TL=−FC (TAd=−FBg),
-  * [UC] UC (UBg).
-* FZA3: **[EM], [ER], [N], [TL], [TC], [U\*]**  (alt. axes)
+  * [UC] UC (UBg) (quasi-neurotic centraliry).
+* FZA3: **[EM], [ER], [N], [TL], [TC], [UU]**  (alt. axes)
   * [TC] TC=−FL (TBg=−FAd).
 * **_FZA4_**: **[EM], [ER], [N], [TL], [TC], [EC], [EL], [AV]**  (alt. axes)
-  * [AV] AV (Tension AVoidance).
+  * [AV] AV (Tension **AV**oidance).
   * _**My favourite at the moment!**_ At the moment this combination gives best results.
 
-|      | FZA1      | Axes: [EM], [ER], [N], [T], [EC], [EL], [U\*]                               | Value-dependent notation for survey results\* |
-| ---- |:--------- |:---------------------------------------------------------------------------:|:---------------------------------------------:|
+|      | FZA1      | Axes: [EM], [ER], [N], [T], [EC], [EL], [UU]                                | Value-dependent notation for survey results\* |
+| ---- |:--------- |:---------------------------------------------------------------------------:|:----------------------------------------------:|
 | [EM] | EM=−IR    | **R**ational-**I**ntroverted=>Irrational/i**M**provising-**E**xtraverted    |       IR => ir => skip => em => EM            |
 | [ER] | ER=−IM    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       IM => im => skip => er => ER            |
-| [N]  | N=−S      | **S**ensory=>i**N**tuitive                                                  |           S => s => skip => n => N            |
-| [T]  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T            |
+| [N]  | N=−S      | **S**ensory=>i**N**tuitive                                                  |           S => s => skip => n => N             |
+| [T]  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T             |
 | [EC] | EC=−IL    | **L**ateral-**I**ntroverted=>**C**entral-**E**xtraverted (IAd=>EBg)         |       IL => il => skip => ec => EC            |
 | [EL] | EL=−IC    | **C**entral-**I**ntroverted=>**L**ateral-**E**xtraverted (IBg=>EAd)         |       IC => ic => skip => el => EL            |
-| [U\*] | U\*      | Socionics specific q**U**asi-ne**U**roticism                                |         -U\* => -u\* => skip => u\* => U\*    |
-|      | **FZA2**  | Alt. axes: [EM], [ER], [N], [T], [EC], **[TL], [UC]**                       |                                               |
+| [UU] | UU        | Socionics specific q**U**asi-ne**U**roticism                                |         -UU => -uu => skip => uu => UU         |
+|      | **FZA2**  | Alt. axes: [EM], [ER], [N], [T], [EC], **[TL], [UC]**                       |                                                |
 | [TL] | TL=−FC    | **C**entral-**F**eelings-oriented=>**L**ateral-**T**ask-oriented (FBg=>TAd) |       FC => fc => skip => tl => TL            |
-| [UC] | UC        | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC          |
-|      | **FZA3**  | Alt. axes: [EM], [ER], [N], [TL], **[TC]**, [U\*]                           |                                               |
+| [UC] | UC        | Lateral-anti-neuroticism=>**C**entral ne**U**roticism                       |       -UC => -uc => skip => uc => UC            |
+|      | **FZA3**  | Alt. axes: [EM], [ER], [N], [TL], **[TC]**, [U\*]                           |                                                |
 | [TC] | TC=−FL    | **L**ateral-**F**eelings-oriented=>**C**entral-**T**ask-oriented (FAd=>TBg) |       FL => fl => skip => tc => TC            |
-|      | **FZA4**  | Alternative axes: [EM], [ER], [N], [TL], [TC], [EC], [EL], [AV]            |                                               |
-| [AV] | AV      |  Tension **AV**oidance                               |         -AV => -av => skip => av => AV    |
+|      | **FZA4**  | Alternative axes: [EM], [ER], [N], [TL], [TC], [EC], [EL], [AV]             |                                                |
+| [AV] | AV        |  Tension **AV**oidance                                                      |         -AV => -av => skip => av => AV         |
 
 \*Value-dependent notation details:
 
