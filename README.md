@@ -750,8 +750,8 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 To summ up briefly:
 
 * FZA1: **[EM], [ER], [N], [T], [EC], [EL], [U\*]**
-  * [EM] EM=−IR (PE=−JI),
-  * [ER] ER=−IM (JE=−PI),
+  * [EM] EM=−IR (Ep=−Ij),
+  * [ER] ER=−IM (Ej=−Ip),
   * [N] N=−S,
   * [T] T=−F,
   * [EC] EC=−IL (EBg=−IAd),
