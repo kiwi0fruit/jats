@@ -745,7 +745,7 @@ If we take another hypothetical person example with T<sub>ER</sub>=0.5, T<sub>IR
 
 ### 11.8 FZA4: Hypothesis for 8 axes of independent variation in factorized traits space
 
-Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstracted Khizhnyak axes) might be axes of independent variation in factorized traits space. But I'm of opinion (based on almost ready model fitted to the Socionics database of \~10000 surveys) that it's not the case. More likely that it would be **Factorized Axes 1 / FZA1** (or FZA2, FZA3, FZA4):
+Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstracted Khizhnyak axes) might be axes of independent variation in factorized traits space. But I'm of opinion (based on almost ready model fitted to the Socionics database of \~10000 surveys) that it's not the case. More likely that it would be **Factorized Axes 4 / FZA4** (or FZA1, FZA2, FZA3):
 
 To summ up briefly:
 
