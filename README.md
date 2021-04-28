@@ -762,7 +762,7 @@ To summ up briefly:
   * [UC] UC (UBg) (central quasineuroticism).
 * FZA3: **[EM], [ER], [N], [TL], [TC], [UU]**  (alt. axes)
   * [TC] TC=−FL (TBg=−FAd).
-* **_FZA4_**: **[EM], [ER], [N], [TL], [TC], [EC], [EL], [AV]**  (alt. axes)
+* **_FZA4_**: **[N], [TL], [TC], [EM], [ER], [EL], [EC], [AV]**  (alt. axes)
   * [AV] AV (Tension **AV**oidance).
   * _**My favourite at the moment!**_ At the moment this combination gives best results.
 
@@ -780,7 +780,7 @@ To summ up briefly:
 | [UC] | UC        | Lateral-anti-quasineuroticism=>**C**entral q**U**asine**U**roticism         |       -UC => -uc => skip => uc => UC            |
 |      | **FZA3**  | Alt. axes: [EM], [ER], [N], [TL], **[TC]**, [U\*]                           |                                                |
 | [TC] | TC=−FL    | **L**ateral-**F**eelings-oriented=>**C**entral-**T**ask-oriented (FAd=>TBg) |       FL => fl => skip => tc => TC            |
-|      | **FZA4**  | Alternative axes: [EM], [ER], [N], [TL], [TC], [EC], [EL], [AV]             |                                                |
+|      | **FZA4**  | Alternative axes: [N], [TL], [TC], [EM], [ER], [EL], [EC], [AV]             |                                                |
 | [AV] | AV        |  Tension **AV**oidance                                                      |         -AV => -av => skip => av => AV         |
 
 \*Value-dependent notation details:
