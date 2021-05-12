@@ -761,8 +761,8 @@ To summ up briefly:
   * [UBg] UBg (central quasineuroticism).
 * FZA3: **[ERr], [ER], [N], [TAd], [TBg], [UU]**  (alt. axes)
   * [TBg] TBg=−FAd.
-* **_FZA4_**: **[N], [TAd], [TBg], [ERr], [ER], [EAd], [EBg], [AV]**  (alt. axes)
-  * [AV] AV (Tension **AV**oidance).
+* **_FZA4_**: **[N], [TAd], [TBg], [ERr], [ER], [EAd], [EBg], [Av]**  (alt. axes)
+  * [Av] Av (Tension **Av**oidance).
   * _**My favourite at the moment!**_ At the moment this combination gives best results.
 
 |      | FZA1      | Axes: [ERr], [ER], [N], [T], [EBg], [EAd], [UU]                                | Value-dependent notation for survey results\* |
@@ -779,15 +779,15 @@ To summ up briefly:
 | [UBg] | UBg        | Lateral-anti-quasineuroticism=>Central q**U**asine**U**roticism         |       -UBg => -ubg => skip => ubg => UBg            |
 |      | **FZA3**  | Alt. axes: [ERr], [ER], [N], [TAd], **[TBg]**, [U\*]                           |                                                |
 | [TBg] | TBg=−FAd    | Lateral-**F**eelings-oriented=>Central-**T**ask-oriented (FAd=>TBg) |       FAd => fad => skip => tbg => TBg            |
-|      | **FZA4**  | Alternative axes: [N], [TAd], [TBg], [ERr], [ER], [EAd], [EBg], [AV]             |                                                |
-| [AV] | AV        |  Tension **AV**oidance                                                      |         -AV => -av => skip => av => AV         |
+|      | **FZA4**  | Alternative axes: [N], [TAd], [TBg], [ERr], [ER], [EAd], [EBg], [Av]             |                                                |
+| [Av] | Av        |  Tension **Av**oidance                                                      |         -Av => -av => skip => av => Av         |
 
 \*Value-dependent notation details:
 
 * UPPERCASE if 0.9 ≤ |x|,
 * lowercase if 0.3 ≤ |x| < 0.9,
 * axis is skipped if 0.00 ≤ |x| < 0.3,
-* notation example: ENTRrAd(ERr,er,ec,EAd,-AV), INtrad(IR,ead,-AV),
+* notation example: ENTRrAd(ERr,er,ec,EAd,-Av), INtrad(IR,ead,-Av),
 * ENTRrAd is obtained from 8 FZA4 axes via non-linear mapping.
 
 
@@ -834,6 +834,6 @@ Version without MBTI-like abbreviations and info (font used is STIX Two Text):
 
 --------
 
-PS. Used: I E S N F T J P x, A B G d, D Q R r U u. Free: C L M Y O H K V W Z.
+PS. Used: I E S N F T J P X, A B G d v, D Q R U. Free: C L M Y O H K V W Z.
 
 *([Source code](https://github.com/kiwi0fruit/jats/blob/master/README.md) at GitHub)*
