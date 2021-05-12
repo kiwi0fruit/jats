@@ -748,24 +748,24 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 
 To summ up briefly:
 
-* FZA1: **[ERr], [ER], [N], [T], [EBg], [EAd], [UU]**
+* FZA1: **[ERr], [ER], [N], [T], [EBg], [EAd], [neU]**
   * [ERr] ERr=−IR (Ep=−Ij) (i**Rr**ational/**R**ational),
   * [ER] ER=−IRr (Ej=−Ip),
   * [N] N=−S,
   * [T] T=−F,
   * [EBg] EBg=−IAd,
   * [EAd] EAd=−IBg,
-  * [UU] UU (q**U**asine**U**roticism).
-* FZA2: **[ERr], [ER], [N], [T], [EBg], [TAd], [UBg]**  (alt. axes)
+  * [neU] neU (quasi-**neU**roticism).
+* FZA2: **[ERr], [ER], [N], [T], [EBg], [TAd], [neUBg]**  (alt. axes)
   * [TAd] TAd=−FBg,
-  * [UBg] UBg (central quasineuroticism).
-* FZA3: **[ERr], [ER], [N], [TAd], [TBg], [UU]**  (alt. axes)
+  * [neUBg] neUBg (central quasi-**neU**roticism).
+* FZA3: **[ERr], [ER], [N], [TAd], [TBg], [neU]**  (alt. axes)
   * [TBg] TBg=−FAd.
 * **_FZA4_**: **[N], [TAd], [TBg], [ERr], [ER], [EAd], [EBg], [Av]**  (alt. axes)
   * [Av] Av (Tension **Av**oidance).
   * _**My favourite at the moment!**_ At the moment this combination gives best results.
 
-|      | FZA1      | Axes: [ERr], [ER], [N], [T], [EBg], [EAd], [UU]                                | Value-dependent notation for survey results\* |
+|      | FZA1      | Axes: [ERr], [ER], [N], [T], [EBg], [EAd], [neU]                                | Value-dependent notation for survey results\* |
 | ---- |:--------- |:---------------------------------------------------------------------------:|:----------------------------------------------:|
 | [ERr] | ERr=−IR    | **R**ational-**I**ntroverted=>i**Rr**ational-**E**xtraverted    |       IR => ir => skip => err => ERr            |
 | [ER] | ER=−IRr    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       IRr => irr => skip => er => ER            |
@@ -773,11 +773,11 @@ To summ up briefly:
 | [T]  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T             |
 | [EBg] | EBg=−IAd    | Lateral-**I**ntroverted=>Central-**E**xtraverted (IAd=>EBg)         |       IAd => iad => skip => ebg => EBg            |
 | [EAd] | EAd=−IBg    | Central-**I**ntroverted=>Lateral-**E**xtraverted (IBg=>EAd)         |       IBg => ibg => skip => ead => EAd            |
-| [UU] | UU        | Socionics specific q**U**asine**U**roticism                                 |         -UU => -uu => skip => uu => UU         |
-|      | **FZA2**  | Alt. axes: [ERr], [ER], [N], [T], [EBg], **[TAd], [UBg]**                       |                                                |
+| [neU] | neU        | Socionics specific quasi-**neU**roticism                                 |         -neU => -neu => skip => neu => neU         |
+|      | **FZA2**  | Alt. axes: [ERr], [ER], [N], [T], [EBg], **[TAd], [neUBg]**                       |                                                |
 | [TAd] | TAd=−FBg    | Central-**F**eelings-oriented=>Lateral-**T**ask-oriented (FBg=>TAd) |       FBg => fbg => skip => tad => TAd            |
-| [UBg] | UBg        | Lateral-anti-quasineuroticism=>Central q**U**asine**U**roticism         |       -UBg => -ubg => skip => ubg => UBg            |
-|      | **FZA3**  | Alt. axes: [ERr], [ER], [N], [TAd], **[TBg]**, [U\*]                           |                                                |
+| [neUBg] | neUBg        | Lateral-anti-quasineuroticism=>Central qUasi-**neU**roticism         |       -neUBg => -neubg => skip => neubg => neUBg            |
+|      | **FZA3**  | Alt. axes: [ERr], [ER], [N], [TAd], **[TBg]**, [neU]                           |                                                |
 | [TBg] | TBg=−FAd    | Lateral-**F**eelings-oriented=>Central-**T**ask-oriented (FAd=>TBg) |       FAd => fad => skip => tbg => TBg            |
 |      | **FZA4**  | Alternative axes: [N], [TAd], [TBg], [ERr], [ER], [EAd], [EBg], [Av]             |                                                |
 | [Av] | Av        |  Tension **Av**oidance                                                      |         -Av => -av => skip => av => Av         |
@@ -787,7 +787,7 @@ To summ up briefly:
 * UPPERCASE if 0.9 ≤ |x|,
 * lowercase if 0.3 ≤ |x| < 0.9,
 * axis is skipped if 0.00 ≤ |x| < 0.3,
-* notation example: ENTRrAd(ERr,er,ec,EAd,-Av), INtrad(IR,ead,-Av),
+* notation example: ENTRrAd(ERr,er,ebg,EAd,-Av), INtrad(IR,ead,-Av),
 * ENTRrAd is obtained from 8 FZA4 axes via non-linear mapping.
 
 
@@ -834,6 +834,6 @@ Version without MBTI-like abbreviations and info (font used is STIX Two Text):
 
 --------
 
-PS. Used: I E S N F T J P X, A B G, D Q R U, d, v, u. Free: C L M Y O H K V W Z.
+PS. Used: I E S N F T J P, X U, A B G, D Q R, Ad,Bd,Gd,Av,neU. Free: C L M Y O H K V W Z.
 
 *([Source code](https://github.com/kiwi0fruit/jats/blob/master/README.md) at GitHub)*
