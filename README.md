@@ -834,6 +834,6 @@ Version without MBTI-like abbreviations and info (font used is STIX Two Text):
 
 --------
 
-PS. Used: I E S N F T J P X, A B G d v, D Q R U. Free: C L M Y O H K V W Z.
+PS. Used: I E S N F T J P X, A B G, D Q R U, d, v, u. Free: C L M Y O H K V W Z.
 
 *([Source code](https://github.com/kiwi0fruit/jats/blob/master/README.md) at GitHub)*
