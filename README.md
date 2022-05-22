@@ -542,7 +542,7 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 |     |                 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |     |   9 |  10 |  11 |  12 |  13 |  14 |  15 |  16 |     |  17 |  18 |  19 |  20 |  21 |  22 |  23 |  24 |
 |     |                 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 1   |      E=−I       |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |   1 |     |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |   1 |     |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |   1 |
-| 2   |      irrational=−rational       |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |     |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |     |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |
+| 2   |      P=−J       |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |     |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |     |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |
 | 3   | static=−dynamic |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |     |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |     |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |
 |     |                 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 4   |      N=−S       |   3 |   3 |   3 |   3 |  −3 |  −3 |  −3 |  −3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
@@ -573,8 +573,8 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | F±ER=>T±ER                | −F<sub>±ER</sub>=T<sub>±ER</sub> |
 | D±IR=>Q±IR                | −D<sub>±IR</sub>=Q<sub>±IR</sub> |
 | D±ER=>Q±ER                | −D<sub>±ER</sub>=Q<sub>±ER</sub> |
-| BS=>FM, IR=>−IR           | −BS=FM, −IR=E(−R)                |
-| RA=>LA, −ER=>ER           | −RA=LA, −I(−R)=ER                |
+| BS=>FM, IR=>−IR           | −BS=FM, −IR                      |
+| RA=>LA, −ER=>ER           | −RA=LA, +ER                      |
 
 
 |     |                                  | N<sub>FM</sub>= | N<sub>BS</sub>= | N<sub>RA</sub>= | N<sub>LA</sub>= | T<sub>FM</sub>= | T<sub>BS</sub>= | T<sub>RA</sub>= | T<sub>LA</sub>= | Q<sub>FM</sub>= | Q<sub>BS</sub>= | Q<sub>RA</sub>= | Q<sub>LA</sub>= |
