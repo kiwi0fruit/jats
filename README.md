@@ -432,15 +432,15 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |   IxTxAd, IxTxQ   |           INTJ-BS v ISTP-RA v IuTuAd v ...          |    IuTuAd, IuTuQ    |
 |   INxxAb, INxxQ   |           INTJ-BS v INFP-RA v INuuQ v ...           |    INuuAb, INuuQ    |
 |   IxxRAg, IxxRQ   |           INTJ-BS v ISFJ-BS v IuuJQ-BS v ...        | IuuJAg-BS, IuuJQ-BS |
-|    ENx(−R)(-13)   |           ENTP-FM v ENuP-FM v ... (not ENFP-FM)     |    ENTP-FM(+13)     |
+|    ENx(-R)(-13)   |           ENTP-FM v ENuP-FM v ... (not ENFP-FM)     |    ENTP-FM(+13)     |
 |    xNTxAd(-1)     |           INTJ-BS v uNTuAd v ... (not ENTP-FM)      |     INTJ-BS(+1)     |
 |     IxTR(-6)      |           INTJ-BS v IuTR v ... (not ISTJ-BS)        |     INTJ-BS(+6)     |
 |      xNxxAd       | INTJ-BS v ENTP-FM v INFJ-BS v ENFP-FM v ENuP-FM v ... |           ?       |
 |      IxxxBg       | ISTJ-BS v INFP-RA v ISFJ-BS v INTP-RA v INuP-RA v ... |           ?       |
 |      xNx(−R)      | ENTP-FM v INFP-RA v INTP-RA v ENFP-FM v ENuP-FM v INuP-RA v ... | ?       |
 |       IxTx        | INTJ-BS v ISTJ-BS v INTP-RA v ISTP-RA v IuTP-RA v ... |           ?       |
-|    ENx(−R)(-13)   |           ENTP-FM v ENuP-FM v ... (not ENFP-FM)     |     ENTP-FM(+13)    |
-| ENx(−R)(1^1\~13)  |           ENTP-FM v ENuP-FM v ... (not ENFP-FM)     |     ENTP-FM(+13)    |
+|    ENx(-R)(-13)   |           ENTP-FM v ENuP-FM v ... (not ENFP-FM)     |     ENTP-FM(+13)    |
+| ENx(-R)(1^1\~13)  |           ENTP-FM v ENuP-FM v ... (not ENFP-FM)     |     ENTP-FM(+13)    |
 |    IxTx(2^15)     |           INTJ-BS v ISTP-RA v IuTuAd v ...          |      IuTu(2\~15)    |
 
 * **^** stands for **simplex**,
@@ -471,22 +471,22 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 |:--------------- |:--------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------- | ------------------------------------- |
 | E=−I            | **I**ntroverted=>**E**xtraverted                                                                                            | E=−I               | E=−I       |                                       |
 | −R=−R            | **R**ational=>**iR**rational                                                      | −R=−R, P=−J\*               | P=−J       |                                       |
-| static=−dynamic | Dynamic=>Static, ±ER=>±IR                                                                                                                  | PE.JI=−JE.PI, O=−Y\* | O=−Y       | &vert;⁠±IR⁠&vert;⁠−⁠&vert;⁠±ER⁠&vert; |
+| static=−dynamic | Dynamic=>Static, ±ER=>±IR                                                                                                                  | PEJI=−JEPI, O=−Y\* | O=−Y       | &vert;⁠±IR⁠&vert;⁠−⁠&vert;⁠±ER⁠&vert; |
 |                 |                                                                                                                             |                    |            |                                       |
-| N=−S            | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                                                                             | OAd.YBg=−YAd.OBg     | N=−S       |                                       |
-| NE.SI=−NI.SE      | NI.SE=>NE.SI (Farsighted=>Carefree)                                                                                           | PAd.JBg=−JAd.PBg     | NE.SI=−NI.SE | &vert;⁠±SI⁠&vert;⁠−⁠&vert;⁠±NI⁠&vert; |
-| NP.SJ=−NJ.SP      | NJ.SP=>NP.SJ (Strategic=>Tactical)                                                                                            | EAd.IBg=−IAd.EBg     | NP.SJ=−NJ.SP | &vert;⁠±SR⁠&vert;⁠−⁠&vert;⁠±NR⁠&vert; |
-| Ad=−Bg    | Central=>Lateral, **B**eta-**g**amma=>**A**lpha-**d**elta (Decisive=>Judicious, Resolute=>Pacific, Central=>Peripheral) | Ad=−Bg             | NO.SY=−NY.SO |                                       |
+| N=−S            | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                                                                             | OAdYBg=−YAdOBg     | N=−S       |                                       |
+| NESI=−NISE      | NISE=>NESI (Farsighted=>Carefree)                                                                                           | PAdJBg=−JAdPBg     | NESI=−NISE | &vert;⁠±SI⁠&vert;⁠−⁠&vert;⁠±NI⁠&vert; |
+| NPSJ=−NJSP      | NJSP=>NPSJ (Strategic=>Tactical)                                                                                            | EAdIBg=−IAdEBg     | NPSJ=−NJSP | &vert;⁠±SR⁠&vert;⁠−⁠&vert;⁠±NR⁠&vert; |
+| Ad=−Bg    | Central=>Lateral, **B**eta-**g**amma=>**A**lpha-**d**elta (Decisive=>Judicious, Resolute=>Pacific, Central=>Peripheral) | Ad=−Bg             | NOSY=−NYSO |                                       |
 |                 |                                                                                                                             |                    |            |                                       |
 | T=−F            | **F**eelings-oriented=>**T**ask-oriented (Ethical=>Logical, Feeling=>Thinking)                                              | OAb.YGd=−YAb.OGd     | T=−F       |                                       |
-| TE.FI=−TI.FE      | TI.FE=>TE.FI (Obstinate=>Yielding, Obstinate=>Compliant)                                                                      | PAb.JGd=−JAb.PGd     | TE.FI=−TI.FE | &vert;⁠±FI⁠&vert;⁠−⁠&vert;⁠±TI⁠&vert; |
-| TP.FJ=−TJ.FP      | TJ.FP=>TJ.FJ (Emotivist=>Constructivist)                                                                                      | EAb.IGd=−IAb.EGd     | TP.FJ=−TJ.FP | &vert;⁠±FR⁠&vert;⁠−⁠&vert;⁠±TR⁠&vert; |
-| Ab=−Gd          | **G**amma-**d**elta=>**A**lpha-**b**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist)                  | Ab=−Gd             | TO.FY=−TY.FO |                                       |
+| TEFI=−TIFE      | TIFE=>TEFI (Obstinate=>Yielding, Obstinate=>Compliant)                                                                      | PAbJGd=−JAbPGd     | TEFI=−TIFE | &vert;⁠±FI⁠&vert;⁠−⁠&vert;⁠±TI⁠&vert; |
+| TPFJ=−TJFP      | TJFP=>TJFJ (Emotivist=>Constructivist)                                                                                      | EAbIGd=−IAbEGd     | TPFJ=−TJFP | &vert;⁠±FR⁠&vert;⁠−⁠&vert;⁠±TR⁠&vert; |
+| Ab=−Gd          | **G**amma-**d**elta=>**A**lpha-**b**eta (Serious=>Merry, Descending=>Ascending, Objectivist=>Subjectivist)                  | Ab=−Gd             | TOFY=−TYFO |                                       |
 |                 |                                                                                                                             |                    |            |                                       |
 | Q=−D            | **D**eclaring=>**Q**uestioning (Declaring=>Asking, Declatim=>Questim)                                                       | OAg.YBd=−YAg.OBd     | Q=−D       |                                       |
-| QE.DI=−QI.DE      | QI.DE=>QE.DI (Result=>Process, Left=>Right)                                                                                   | PAg.JBd=−JAg.PBd     | QE.DI=−QI.DE | &vert;⁠±DI⁠&vert;⁠−⁠&vert;⁠±QI⁠&vert; |
-| QP.DJ=−QJ.DP      | QJ.DP=>QP.DJ (Negativist=>Positivist)                                                                                         | EAg.IBd=−IAg.EBd     | QP.DJ=−QJ.DP | &vert;⁠±DR⁠&vert;⁠−⁠&vert;⁠±QR⁠&vert; |
-| Ag=−Bd          | **B**eta-**d**elta=>**A**lpha-**g**amma (Aristocratic=>Democratic, Elitist=>Egalitarian)                                    | Ag=−Bd             | QO.DY=−QY.DO |                                       |
+| QEDI=−QIDE      | QIDE=>QEDI (Result=>Process, Left=>Right)                                                                                   | PAgJBd=−JAgPBd     | QEDI=−QIDE | &vert;⁠±DI⁠&vert;⁠−⁠&vert;⁠±QI⁠&vert; |
+| QPDJ=−QJDP      | QJDP=>QPDJ (Negativist=>Positivist)                                                                                         | EAgIBd=−IAgEBd     | QPDJ=−QJDP | &vert;⁠±DR⁠&vert;⁠−⁠&vert;⁠±QR⁠&vert; |
+| Ag=−Bd          | **B**eta-**d**elta=>**A**lpha-**g**amma (Aristocratic=>Democratic, Elitist=>Egalitarian)                                    | Ag=−Bd             | QODY=−QYDO |                                       |
 
 \* O=−Y, P=−J are temporal notation.
 
@@ -546,18 +546,18 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | 3   | static=−dynamic |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |     |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |     |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |
 |     |                 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 4   |      N=−S       |   3 |   3 |   3 |   3 |  −3 |  −3 |  −3 |  −3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
-| 5   |   NE.SI=−NI.SE    |   3 |  −3 |  −3 |   3 |  −3 |   3 |   3 |  −3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
-| 6   |   NP.SJ=−NJ.SP    |   3 |  −3 |   3 |  −3 |  −3 |   3 |  −3 |   3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+| 5   |   NESI=−NISE    |   3 |  −3 |  −3 |   3 |  −3 |   3 |   3 |  −3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+| 6   |   NPSJ=−NJSP    |   3 |  −3 |   3 |  −3 |  −3 |   3 |  −3 |   3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 | 7   |  Ad=−Bg   |   3 |   3 |  −3 |  −3 |  −3 |  −3 |   3 |   3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 |     |                 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 8   |      T=−F       |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |   3 |   3 |   3 |  −3 |  −3 |  −3 |  −3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
-| 9   |   TE.FI=−TI.FE    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |  −3 |  −3 |   3 |  −3 |   3 |   3 |  −3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
-| 10  |   TP.FJ=−TJ.FP    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |  −3 |   3 |  −3 |  −3 |   3 |  −3 |   3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+| 9   |   TEFI=−TIFE    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |  −3 |  −3 |   3 |  −3 |   3 |   3 |  −3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+| 10  |   TPFJ=−TJFP    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |  −3 |   3 |  −3 |  −3 |   3 |  −3 |   3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 | 11  |     Ab=−Gd      |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |   3 |  −3 |  −3 |  −3 |  −3 |   3 |   3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 |     |                 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 12  |      Q=−D       |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |   3 |   3 |   3 |  −3 |  −3 |  −3 |  −3 |
-| 13  |   QE.DI=−QI.DE    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |  −3 |  −3 |   3 |  −3 |   3 |   3 |  −3 |
-| 14  |   QP.DJ=−QJ.DP    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |  −3 |   3 |  −3 |  −3 |   3 |  −3 |   3 |
+| 13  |   QEDI=−QIDE    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |  −3 |  −3 |   3 |  −3 |   3 |   3 |  −3 |
+| 14  |   QPDJ=−QJDP    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |  −3 |   3 |  −3 |  −3 |   3 |  −3 |   3 |
 | 15  |     Ag=−Bd      |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   3 |   3 |  −3 |  −3 |  −3 |  −3 |   3 |   3 |
 
 
@@ -581,7 +581,7 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | --- |:--------------------------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
 |     |                                  | <b>=−S<sub>BS</sub></b> | <b>=−S<sub>FM</sub></b> | <b>=−S<sub>LA</sub></b> | <b>=−S<sub>RA</sub></b> | <b>=−F<sub>BS</sub></b> | <b>=−F<sub>FM</sub></b> | <b>=−F<sub>LA</sub></b> | <b>=−F<sub>RA</sub></b> | <b>=−D<sub>BS</sub></b> | <b>=−D<sub>FM</sub></b> | <b>=−D<sub>LA</sub></b> | <b>=−D<sub>RA</sub></b> |
 | 1   |              −IR, FM=−BS              |   1 |  −1 |   0 |   0 |   1 |  −1 |   0 |   0 |   1 |  −1 |   0 |   0 |
-| 2   |              ER, LA=-RA               |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |
+| 2   |              ER, LA=−RA               |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |
 | 3   | N<sub>±IR</sub>=−S<sub>±IR</sub> |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 | 4   | N<sub>±ER</sub>=−S<sub>±ER</sub> |   0 |   0 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 | 5   | T<sub>±IR</sub>=−F<sub>±IR</sub> |   0 |   0 |   0 |   0 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |
@@ -620,12 +620,12 @@ Other 7 Reinin axes can be called Complementary Reinin-Khizhnyak axes. And trans
 | --- |:---------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
 |     |                 | <b>=&vert;S<sub>BS</sub>&vert;</b> | <b>=&vert;S<sub>FM</sub>&vert;</b> | <b>=&vert;S<sub>LA</sub>&vert;</b> | <b>=&vert;S<sub>RA</sub>&vert;</b> | <b>=&vert;F<sub>BS</sub>&vert;</b> | <b>=&vert;F<sub>FM</sub>&vert;</b> | <b>=&vert;F<sub>LA</sub>&vert;</b> | <b>=&vert;F<sub>RA</sub>&vert;</b> | <b>=&vert;D<sub>BS</sub>&vert;</b> | <b>=&vert;D<sub>FM</sub>&vert;</b> | <b>=&vert;D<sub>LA</sub>&vert;</b> | <b>=&vert;D<sub>RA</sub>&vert;</b> |
 | 1   | static=−dynamic |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |
-| 2   |   NE.SI=−NI.SE    |   3 |  −3 |  −3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
-| 3   |   NP.SJ=−NJ.SP    |   3 |  −3 |   3 |  −3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
-| 4   |   TE.FI=−TI.FE    |   0 |   0 |   0 |   0 |   3 |  −3 |  −3 |   3 |   0 |   0 |   0 |   0 |
-| 5   |   TP.FJ=−TJ.FP    |   0 |   0 |   0 |   0 |   3 |  −3 |   3 |  −3 |   0 |   0 |   0 |   0 |
-| 6   |   QE.DI=−QI.DE    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   3 |  −3 |  −3 |   3 |
-| 7   |   QP.DJ=−QJ.DP    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   3 |  −3 |   3 |  −3 |
+| 2   |   NESI=−NISE    |   3 |  −3 |  −3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+| 3   |   NPSJ=−NJSP    |   3 |  −3 |   3 |  −3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+| 4   |   TEFI=−TIFE    |   0 |   0 |   0 |   0 |   3 |  −3 |  −3 |   3 |   0 |   0 |   0 |   0 |
+| 5   |   TPFJ=−TJFP    |   0 |   0 |   0 |   0 |   3 |  −3 |   3 |  −3 |   0 |   0 |   0 |   0 |
+| 6   |   QEDI=−QIDE    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   3 |  −3 |  −3 |   3 |
+| 7   |   QPDJ=−QJDP    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   3 |  −3 |   3 |  −3 |
 
 
 ### 11.4 Non-standard dominant Khizhnyak functions
@@ -759,8 +759,8 @@ Previously there was made a hypothesis that 8 Reinin-Khizhnyak axes (or 8 Abstra
 To summ up briefly:
 
 * FZA1: **[−IR], [+ER], [N], [T], [EBg], [EAd], [neU]**
-  * [−IR] E(−R)=−IR (Ep=−Ij) (**iR**rational/**R**ational),
-  * [+ER] ER=−(I(−R)) (Ej=−Ip),
+  * [−IR] −IR; FM=−BS; EP=−IJ (**iR**rational/**R**ational),
+  * [+ER] ER; LA=−RA; EJ=−IP,
   * [N] N=−S,
   * [T] T=−F,
   * [EBg] EBg=−IAd,
@@ -777,8 +777,8 @@ To summ up briefly:
 
 |      | FZA1      | Axes: [−IR], [+ER], [N], [T], [EBg], [EAd], [neU]                                | Value-dependent notation for survey results\* |
 | ---- |:--------- |:---------------------------------------------------------------------------:|:----------------------------------------------:|
-| [−IR] | E(−R)=−IR    | **R**ational-**I**ntroverted=>**iR**rational-**E**xtraverted    |       IR => ir => skip => −ir => −IR            |
-| [+ER] | ER=−(I(−R))    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       −ER => −er => skip => er => ER            |
+| [−IR] | −IR; FM=−BS    | **R**ational-**I**ntroverted=>**iR**rational-**E**xtraverted    |       IR => ir => skip => −ir => −IR            |
+| [+ER] | ER; LA=−RA    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       −ER => −er => skip => er => ER            |
 | [N]  | N=−S      | **S**ensory=>i**N**tuitive                                                  |           S => s => skip => n => N             |
 | [T]  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T             |
 | [EBg] | EBg=−IAd    | Lateral-**I**ntroverted=>Central-**E**xtraverted (IAd=>EBg)         |       IAd => iad => skip => ebg => EBg            |
