@@ -470,7 +470,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 | Short name      | Full names                                                                                                                  | Alt. symmetry #1   | #2         | #3                                    |
 |:--------------- |:--------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------- | ------------------------------------- |
 | E=−I            | **I**ntroverted=>**E**xtraverted                                                                                            | E=−I               | E=−I       |                                       |
-| −R=−R            | **R**ational=>**iR**rational                                                      | −R=−R, P=−J               | P=−J       |                                       |
+| −R=−R            | **R**ational=>**iR**rational                                                      | −R=−R, P=−J\*               | P=−J       |                                       |
 | static=−dynamic | Dynamic=>Static, ±ER=>±IR                                                                                                                  | PE.JI=−JE.PI, O=−Y\* | O=−Y       | &vert;⁠±IR⁠&vert;⁠−⁠&vert;⁠±ER⁠&vert; |
 |                 |                                                                                                                             |                    |            |                                       |
 | N=−S            | **S**ensory=>i**N**tuitive (Sensing=>Intuitive)                                                                             | OAd.YBg=−YAd.OBg     | N=−S       |                                       |
@@ -488,7 +488,7 @@ There is a nice autotranslated [**interactive table**](https://translate.google.
 | QP.DJ=−QJ.DP      | QJ.DP=>QP.DJ (Negativist=>Positivist)                                                                                         | EAg.IBd=−IAg.EBd     | QP.DJ=−QJ.DP | &vert;⁠±DR⁠&vert;⁠−⁠&vert;⁠±QR⁠&vert; |
 | Ag=−Bd          | **B**eta-**d**elta=>**A**lpha-**g**amma (Aristocratic=>Democratic, Elitist=>Egalitarian)                                    | Ag=−Bd             | QO.DY=−QY.DO |                                       |
 
-\* O=−Y is temporal notation.
+\* O=−Y, P=−J are temporal notation.
 
 +U/−U is reserved for ne**U**roticism from Big Five (in case neuroticism has meaning that is external to Socionics).
 
@@ -542,7 +542,7 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 |     |                 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |     |   9 |  10 |  11 |  12 |  13 |  14 |  15 |  16 |     |  17 |  18 |  19 |  20 |  21 |  22 |  23 |  24 |
 |     |                 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 1   |      E=−I       |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |   1 |     |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |   1 |     |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |   1 |
-| 2   |      P=−J       |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |     |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |     |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |
+| 2   |      irrational=−rational       |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |     |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |     |   1 |  −1 |   1 |  −1 |   1 |  −1 |   1 |  −1 |
 | 3   | static=−dynamic |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |     |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |     |   1 |   1 |  −1 |  −1 |   1 |   1 |  −1 |  −1 |
 |     |                 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 4   |      N=−S       |   3 |   3 |   3 |   3 |  −3 |  −3 |  −3 |  −3 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |     |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
