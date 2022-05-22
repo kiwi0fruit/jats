@@ -658,10 +658,10 @@ Worth noting that non-standard dominant functions do not require abstract static
 
 There can be imagined notation for new types that uses another common notations and takes into account that **Ne** is a N<sub>±IR</sub> function (static intuition), etc.
 
-* **ETiN-FM**: ENTP-FM (with T<sub>FM</sub> dom.) aka T<sub>FM</sub>N,
-* **INeT-BS**: INTJ-BS (with N<sub>BS</sub> dom.) aka N<sub>BS</sub>T,
-* **ENeT-FM**: ENTP-FM (with N<sub>FM</sub> dom.) aka N<sub>FM</sub>T,
-* **ITiN-BS**: INTJ-BS (with T<sub>BS</sub> dom.) aka T<sub>BS</sub>N.
+* **ETiNP**: ENTP-FM (with T<sub>FM</sub> dom.) aka T<sub>FM</sub>N,
+* **INeTJ**: INTJ-BS (with N<sub>BS</sub> dom.) aka N<sub>BS</sub>T,
+* **ENeTP**: ENTP-FM (with N<sub>FM</sub> dom.) aka N<sub>FM</sub>T,
+* **ITiNJ**: INTJ-BS (with T<sub>BS</sub> dom.) aka T<sub>BS</sub>N.
 
 
 ### 11.5 Dominant-agnostic type names
