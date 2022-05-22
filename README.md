@@ -777,8 +777,8 @@ To summ up briefly:
 
 |      | FZA1      | Axes: [−IR], [+ER], [N], [T], [EBg], [EAd], [neU]                                | Value-dependent notation for survey results\* |
 | ---- |:--------- |:---------------------------------------------------------------------------:|:----------------------------------------------:|
-| [−IR] | −IR; FM=−BS    | **R**ational-**I**ntroverted=>**iR**rational-**E**xtraverted    |       IR => ir => skip => −ir => −IR            |
-| [+ER] | ER; LA=−RA    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       −ER => −er => skip => er => ER            |
+| [−IR] | −IR; FM=−BS    | **R**ational-**I**ntroverted=>**iR**rational-**E**xtraverted    |       IR => ir => skip => -ir => -IR            |
+| [+ER] | ER; LA=−RA    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       -ER => -er => skip => er => ER            |
 | [N]  | N=−S      | **S**ensory=>i**N**tuitive                                                  |           S => s => skip => n => N             |
 | [T]  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T             |
 | [EBg] | EBg=−IAd    | Lateral-**I**ntroverted=>Central-**E**xtraverted (IAd=>EBg)         |       IAd => iad => skip => ebg => EBg            |
@@ -797,8 +797,8 @@ To summ up briefly:
 * UPPERCASE if 0.9 ≤ |x|,
 * lowercase if 0.3 ≤ |x| < 0.9,
 * axis is skipped if 0.00 ≤ |x| < 0.3,
-* notation example: ENTPAd(−IR,er,ebg,EAd,-Av), INtjad(IR,ead,-Av),
-* ENTP(−IR)Ad is obtained from 8 FZA4 axes via non-linear mapping.
+* notation example: ENTPAd(-IR,er,ebg,EAd,-Av), INtjad(IR,ead,-Av),
+* ENTP(-IR)Ad is obtained from 8 FZA4 axes via non-linear mapping.
 
 
 ### 11.9 Bright/deep rainbow colors to plot 16 probability density functions on a single image
