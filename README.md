@@ -112,7 +112,7 @@ Gulenko's Temperaments:
 * FM (aka −IR) - **flexible-maneuvering**, **E**xtraverted/**iR**rational/static. Are characterized by impulsive and unpredictable behavior,
 * BS (aka +IR) - **balanced-stable**, **I**ntroverted/**R**ational/static. Are characterized by slow and methodical behavior,
 * RA (aka −ER) - **receptive-adaptive**, **I**ntroverted/**iR**rational/dynamic. Are characterized by lack of motivation, inertia, and unstable moods and energy levels,
-* LA (aka +ER, aka ER) - **linear-assertive**, **E**xtraverted/**R**ational/dynamic. Are characterized by energetic and proactive behavior.
+* LA (aka +ER) - **linear-assertive**, **E**xtraverted/**R**ational/dynamic. Are characterized by energetic and proactive behavior.
 
 Note that −IR, +IR, −ER, +ER are enough to encode all 4 temperaments but FM, BS, RA, LA are easier to read.
 
@@ -573,15 +573,15 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | F±ER=>T±ER                | −F<sub>±ER</sub>=T<sub>±ER</sub> |
 | D±IR=>Q±IR                | −D<sub>±IR</sub>=Q<sub>±IR</sub> |
 | D±ER=>Q±ER                | −D<sub>±ER</sub>=Q<sub>±ER</sub> |
-| BS=>FM, IR=>−IR           | −BS=FM, −IR                      |
-| RA=>LA, −ER=>ER           | −RA=LA, +ER                      |
+| BS=>FM, +IR=>−IR          | −BS=FM, −IR                      |
+| RA=>LA, −ER=>+ER          | −RA=LA, +ER                      |
 
 
 |     |                                  | N<sub>FM</sub>= | N<sub>BS</sub>= | N<sub>RA</sub>= | N<sub>LA</sub>= | T<sub>FM</sub>= | T<sub>BS</sub>= | T<sub>RA</sub>= | T<sub>LA</sub>= | Q<sub>FM</sub>= | Q<sub>BS</sub>= | Q<sub>RA</sub>= | Q<sub>LA</sub>= |
 | --- |:--------------------------------:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
 |     |                                  | <b>=−S<sub>BS</sub></b> | <b>=−S<sub>FM</sub></b> | <b>=−S<sub>LA</sub></b> | <b>=−S<sub>RA</sub></b> | <b>=−F<sub>BS</sub></b> | <b>=−F<sub>FM</sub></b> | <b>=−F<sub>LA</sub></b> | <b>=−F<sub>RA</sub></b> | <b>=−D<sub>BS</sub></b> | <b>=−D<sub>FM</sub></b> | <b>=−D<sub>LA</sub></b> | <b>=−D<sub>RA</sub></b> |
 | 1   |              −IR, FM=−BS              |   1 |  −1 |   0 |   0 |   1 |  −1 |   0 |   0 |   1 |  −1 |   0 |   0 |
-| 2   |              ER, LA=−RA               |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |
+| 2   |              +ER, LA=−RA              |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |   0 |   0 |  −1 |   1 |
 | 3   | N<sub>±IR</sub>=−S<sub>±IR</sub> |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 | 4   | N<sub>±ER</sub>=−S<sub>±ER</sub> |   0 |   0 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
 | 5   | T<sub>±IR</sub>=−F<sub>±IR</sub> |   0 |   0 |   0 |   0 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |
@@ -734,7 +734,7 @@ In the table below the strong above weak and weak above strong pairs of Khizhnya
 
 If we reduce 24 Khizhnyak functions table to 12 Khizhnyak axes table we would get the following axes directed towards strong functions (weak functions are obtained via sign negation):
 
-|     | ENTP-FM  1                                      |     |                                              |
+|     | ENTP-FM  1                                   |     |                                              |
 | --- |:-------------------------------------------- | --- |:-------------------------------------------- |
 | Dm  | N<sub>FM</sub> T<sub>FM</sub> Q<sub>FM</sub> | Rv  | N<sub>BS</sub> T<sub>BS</sub> Q<sub>BS</sub> |
 | Rq  | N<sub>LA</sub> T<sub>LA</sub> Q<sub>LA</sub> | Dl  | N<sub>RA</sub> T<sub>RA</sub> Q<sub>RA</sub> |
@@ -760,7 +760,7 @@ To summ up briefly:
 
 * FZA1: **[−IR], [+ER], [N], [T], [EBg], [EAd], [neU]**
   * [−IR] −IR; FM=−BS; EP=−IJ (**iR**rational/**R**ational),
-  * [+ER] ER; LA=−RA; EJ=−IP,
+  * [+ER] +ER; LA=−RA; EJ=−IP,
   * [N] N=−S,
   * [T] T=−F,
   * [EBg] EBg=−IAd,
@@ -777,8 +777,8 @@ To summ up briefly:
 
 |      | FZA1      | Axes: [−IR], [+ER], [N], [T], [EBg], [EAd], [neU]                                | Value-dependent notation for survey results\* |
 | ---- |:--------- |:---------------------------------------------------------------------------:|:----------------------------------------------:|
-| [−IR] | −IR; FM=−BS    | **R**ational-**I**ntroverted=>**iR**rational-**E**xtraverted    |       IR => ir => skip => -ir => -IR            |
-| [+ER] | ER; LA=−RA    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       -ER => -er => skip => er => ER            |
+| [−IR] | −IR; FM=−BS    | **R**ational-**I**ntroverted=>**iR**rational-**E**xtraverted    |       +IR => +ir => skip => -ir => -IR            |
+| [+ER] | +ER; LA=−RA    | Irrational-Introverted=>**R**ational-**E**xtraverted                        |       -ER => -er => skip => +er => +ER            |
 | [N]  | N=−S      | **S**ensory=>i**N**tuitive                                                  |           S => s => skip => n => N             |
 | [T]  | T=−F      | **F**eelings-oriented=>**T**ask-oriented                                    |           F => f => skip => t => T             |
 | [EBg] | EBg=−IAd    | Lateral-**I**ntroverted=>Central-**E**xtraverted (IAd=>EBg)         |       IAd => iad => skip => ebg => EBg            |
@@ -797,7 +797,7 @@ To summ up briefly:
 * UPPERCASE if 0.9 ≤ |x|,
 * lowercase if 0.3 ≤ |x| < 0.9,
 * axis is skipped if 0.00 ≤ |x| < 0.3,
-* notation example: ENTPAd(-IR,er,ebg,EAd,-Av), INtjad(IR,ead,-Av),
+* notation example: ENTPAd(-IR,+er,ebg,EAd,-Av), INtjad(+IR,ead,-Av),
 * ENTP(-IR)Ad is obtained from 8 FZA4 axes via non-linear mapping.
 
 
@@ -811,8 +811,8 @@ Types are in standard Talanov's order.
 Deep/Bright switch would be Rational/Irrational switch to quasi-identity type.  
 8 deep rainbow colors from crimson to magenta are mapped to beta+gamma quadras in *reverse order*.  
 
-| Color           |         |     | Type |     | Gulenko's     | Alt. names     | xkcd color    |
-|:--------------- |:------- |:--- |:---- | --- | ------------- |:-------------- |:------------- |
+| Color           |         |     | Type    |     | Gulenko's     | Alt. names     | xkcd color    |
+|:--------------- |:------- |:--- |:------- | --- | ------------- |:-------------- |:------------- |
 | ![](pic/1.png)  | red     | 1   | ENTP-FM | α   | Inventor      | ILE, ENTP, NeT | bright red    |
 | ![](pic/2.png)  | orange  | 2   | INTJ-BS | α   | Analyst       | LII, INTx, TiN | tangerine     |
 | ![](pic/3.png)  | yellow  | 3   | ISFP-RA | α   | Mediator      | SEI, ISFx, SiF | dandelion     |
