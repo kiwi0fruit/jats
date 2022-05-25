@@ -656,7 +656,7 @@ Worth noting that non-standard dominant functions do not require abstract static
 
 **UPD:**
 
-There can be created a notation for these hypothetical new types that uses another common notations and takes into account that **Ne** is a N<sub>±IR</sub> **static** intuition, etc.
+There can be created a notation for these hypothetical new types:
 
 * **FM-TNE**: ENTP-FM with T<sub>FM</sub> dom. aka **T<sub>FM</sub>N**,
 * **BS-NTI**: INTJ-BS with N<sub>BS</sub> dom. aka **N<sub>BS</sub>T**,
