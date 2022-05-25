@@ -43,7 +43,7 @@ This is an alternative translation of the basic concepts of one of the braches o
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-Delta vs. Beta-Gamma types are translated as **Lateral** vs. **Central** types (**Ad/Bg**). The link to the autotranslated **interactive table of intertype relationships** with descriptions is provided.
 8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTxAd**, **uNTuAd** that are unknown and mixed types from ENTP-FM (ENTP) and INTJ-BS (LII).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
-10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for ENTP-FM (ENTP), Enthusiast for ESFJ-LA (ESFJ), General for ESTP-FM (ESTP), Poet for INFP-RA (IEI), **Inspirer** for ENFJ-LA (ENFJ), **Foreseer** for INTP-RA (ILI), Entrepreneur for ENTJ-LA (ENTJ), **Journalist** for ENFP-FM (ENFP).
+10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). General for ESTP-FM (ESTP), Poet for INFP-RA (IEI), **Inspirer** for ENFJ-LA (ENFJ), **Foreseer** for INTP-RA (ILI), **Journalist** for ENFP-FM (ENFP).
 11. The set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions is given. Together hypotheses give **Model A** as consequences. Bonus: **Cognitive functions descriptions per position in Model A (8x8 auto-translated table)**.
 12. Unambiguous translation of Model A was proposed: 1-Dominant, 2-Supporting, 3-Role, 4-Vulnerable, 5-Suggestive, 6-Activating, 7-Restrictive, 8-Background. **Ambiguity because of the Model G** was described.
 13. Further reading: [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus).
@@ -168,10 +168,10 @@ Both translations and names were revised. Lytov's translation of Gulenko's names
 
 |  ID | JATS¹   | Mnemonic               | Revised Gulenko's | Gulenko (Gulenko-Lytov), Keirsey³ (Keirsey-1984²)         |
 | ---:| ------- | ---------------------- | ----------------- |:---------------------------------------------------------:|
-|   1 | ENTP-FM | The very first curious | **Inventor**      |               Searcher (Seeker), *Inventor*               |
+|   1 | ENTP-FM | The very first curious | Searcher          |               *Searcher* (Seeker), Inventor               |
 |   2 | INTJ-BS | The second one curious | Analyst           |              *Analyst*, Mastermind (Scientist)            |
 |   3 | ISFP-RA | Three Musketeers Dumas | Mediator          |                *Mediator*, Composer (Artist)              |
-|   4 | ESFJ-LA | Four elements          | **Enthusiast**    |         *Enthusiast* (Bonvivant), Provider (Seller)       |
+|   4 | ESFJ-LA | Four elements          | Enthusiast        |         *Enthusiast* (Bonvivant), Provider (Seller)       |
 |   5 | ESTP-FM | The five senses        | **General**       |               Marshal (Commander), Promoter               |
 |   6 | ISTJ-BS | Has no sixth sense     | Inspector         |              *Inspector*, *Inspector* (Trustee)           |
 |   7 | INFP-RA | Seven Sins / Wonders   | **Poet**          |             Lyrist (Lyricist), Healer (Questor)           |
@@ -179,7 +179,7 @@ Both translations and names were revised. Lytov's translation of Gulenko's names
 |   9 | ESFP-FM | Nine lives of a cat    | Politician        |            *Politician*, Performer (Entertainer)          |
 |  10 | ISFJ-BS | Proper as a dozen      | Guardian          |             *Guardian*, Protector (Conservator)           |
 |  11 | INTP-RA | 11 football players    | **Foreseer**      |                     Critic, Architect                     |
-|  12 | ENTJ-LA | 12 hours, dozen        | **Entrepreneur**  |         *Entrepreneur* (Enterpriser), Fieldmarshal        |
+|  12 | ENTJ-LA | 12 hours, dozen        | Entrepreneur      |         *Entrepreneur* (Enterpriser), Fieldmarshal        |
 |  13 | ENFP-FM | Devil's/Baker's dozen  | **Journalist**    |       Advisor (Psychologist), Champion\* (*Journalist*)   |
 |  14 | INFJ-BS | Twice sinful as 7 type | Humanist          |               *Humanist*, Counselor (Author)              |
 |  15 | ISTP-RA | Finishes the job too   | Craftsman         |               *Craftsman*, Crafter (Artisan)              |
