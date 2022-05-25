@@ -651,7 +651,7 @@ So T<sub>FM</sub>N would have dominant drive of spontaneous proactivity concerni
 
 More thought experiments on non-standard dominant functions is [**here**](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=http%3A%2F%2Fdanidin.ucoz.net%2Findex%2Fzazerkalnaja_socionika%2F0-56&sandbox=1) (Autotranslated. And [original in Russian](http://danidin.ucoz.net/index/zazerkalnaja_socionika/0-56)).
 
-Worth noting that non-standard dominant functions do not require abstract static-dynamic functions. Underlying cognitive functions can actually have EI and RrR roots in them that make some combination manifestations more common. For example if NS functions stem from some more ancient instinctual subsystem of the brain. And TF stem from more young and impulse-controlling subsystem. But the brain can be flexible enough to be FM<sub>−IR</sub> temperament that is more instinctual but actually have dominant T<sub>±IR</sub> that's from the impulse-controlling subsystem. Like N<sub>FM</sub> part is a thin proxy to the T<sub>FM</sub>.
+Worth noting that non-standard dominant functions do not require abstract static-dynamic functions. Underlying cognitive functions can actually have E/I and −R/+R roots in them that make some combination manifestations more common. For example if N/S functions stem from some more ancient instinctual subsystem of the brain. And T/F stem from more young and impulse-controlling subsystem. But the brain can be flexible enough to be FM<sub>−IR</sub> temperament that is more instinctual but actually have dominant T<sub>±IR</sub> that's from the impulse-controlling subsystem. Like N<sub>FM</sub> part is a thin proxy to the T<sub>FM</sub>.
 
 
 **UPD:**
