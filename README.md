@@ -166,24 +166,24 @@ Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor 
 
 Both translations and names were revised. Lytov's translation of Gulenko's names is the main translation used now.
 
-|  ID | JATS¹ | Mnemonic               | Revised Gulenko's | Literal Gulenko (Gulenko-Lytov), Keirsey³ (Keirsey-1984²) |
-| ---:| ----- | ---------------------- | ----------------- |:---------------------------------------------------------:|
-|   1 | ENTP-FM  | The very first curious | **Inventor**      |                     Seeker, Inventor                      |
-|   2 | INTJ-BS  | The second one curious | Analyst           |              Analyst, Mastermind (Scientist)              |
-|   3 | ISFP-RA  | Three Musketeers Dumas | Mediator          |                Mediator, Composer (Artist)                |
-|   4 | ESFJ-LA  | Four elements          | **Enthusiast**    |         Enthusiast (Bonvivant), Provider (Seller)         |
-|   5 | ESTP-FM  | The five senses        | **General**       |               Marshal (Commander), Promoter               |
-|   6 | ISTJ-BS  | Has no sixth sense     | Inspector         |              Inspector, Inspector (Trustee)               |
-|   7 | INFP-RA  | Seven Sins / Wonders   | **Poet**          |                Lyricist, Healer (Questor)                 |
-|   8 | ENFJ-LA  | Eight-bit              | **Inspirer**      |                Mentor, Teacher (Pedagogue)                |
-|   9 | ESFP-FM  | Nine lives of a cat    | Politician        |            Politician, Performer (Entertainer)            |
-|  10 | ISFJ-BS  | Proper as a dozen      | Guardian          |             Guardian, Protector (Conservator)             |
-|  11 | INTP-RA  | 11 football players    | **Foreseer**      |                     Critic, Architect                     |
-|  12 | ENTJ-LA  | 12 hours, dozen        | **Entrepreneur**  |         Entrepreneur (Enterpriser), Fieldmarshal          |
-|  13 | ENFP-FM  | Devil's/Baker's dozen  | **Journalist**    |   Advise-giver (Psychologist), Champion\* (Journalist)    |
-|  14 | INFJ-BS  | Twice sinful as 7 type | Humanist          |               Humanist, Counselor (Author)                |
-|  15 | ISTP-RA  | Finishes the job too   | Craftsman         |               Craftsman, Crafter (Artisan)                |
-|  16 | ESTJ-LA  | Finishes the job       | Administrator     |         Administrator, Supervisor (Administrator)         |
+|  ID | JATS¹   | Mnemonic               | Revised Gulenko's | Gulenko (Gulenko-Lytov), Keirsey³ (Keirsey-1984²)         |
+| ---:| ------- | ---------------------- | ----------------- |:---------------------------------------------------------:|
+|   1 | ENTP-FM | The very first curious | **Inventor**      |               Searcher (Seeker), *Inventor*               |
+|   2 | INTJ-BS | The second one curious | Analyst           |              *Analyst*, Mastermind (Scientist)            |
+|   3 | ISFP-RA | Three Musketeers Dumas | Mediator          |                *Mediator*, Composer (Artist)              |
+|   4 | ESFJ-LA | Four elements          | **Enthusiast**    |         *Enthusiast* (Bonvivant), Provider (Seller)       |
+|   5 | ESTP-FM | The five senses        | **General**       |               Marshal (Commander), Promoter               |
+|   6 | ISTJ-BS | Has no sixth sense     | Inspector         |              *Inspector*, *Inspector* (Trustee)           |
+|   7 | INFP-RA | Seven Sins / Wonders   | **Poet**          |             Lyrist (Lyricist), Healer (Questor)           |
+|   8 | ENFJ-LA | Eight-bit              | **Inspirer**      |                Mentor, Teacher (Pedagogue)                |
+|   9 | ESFP-FM | Nine lives of a cat    | Politician        |            *Politician*, Performer (Entertainer)          |
+|  10 | ISFJ-BS | Proper as a dozen      | Guardian          |             *Guardian*, Protector (Conservator)           |
+|  11 | INTP-RA | 11 football players    | **Foreseer**      |                     Critic, Architect                     |
+|  12 | ENTJ-LA | 12 hours, dozen        | **Entrepreneur**  |         *Entrepreneur* (Enterpriser), Fieldmarshal        |
+|  13 | ENFP-FM | Devil's/Baker's dozen  | **Journalist**    |       Advisor (Psychologist), Champion\* (*Journalist*)   |
+|  14 | INFJ-BS | Twice sinful as 7 type | Humanist          |               *Humanist*, Counselor (Author)              |
+|  15 | ISTP-RA | Finishes the job too   | Craftsman         |               *Craftsman*, Crafter (Artisan)              |
+|  16 | ESTJ-LA | Finishes the job       | Administrator     |         *Administrator*, Supervisor (*Administrator*)     |
 
 ¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
 ² David Keirsey, Marilyn Bates, *Please understand Me, Character and Temperament Types*, 1984,  
