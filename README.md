@@ -589,7 +589,6 @@ Hypothetical connections between Reinin dichotomies and Khizhnyak functions:
 | 7   | Q<sub>±IR</sub>=−D<sub>±IR</sub> |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   3 |   3 |   0 |   0 |
 | 8   | Q<sub>±ER</sub>=−D<sub>±ER</sub> |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   3 |   3 |
 
-
 8 Abstracted Khizhnyak axes might be a good representation for measure of functions differentiation. See [section 11.6](#116-dynamic-nondynamic-yo-axis-as-a-measure-of-khizhnyak-functions-differentiation).
 
 
@@ -741,7 +740,8 @@ If we reduce 24 Khizhnyak functions table to 12 Khizhnyak axes table we would ge
 
 Now that we have 12 values of strong Khizhnyak functions (12 values of weak functions are redundant) lets try interpret them via roles from Model A: 1-dominant, 2-supporting, 7-restrictive, 8-background (I'm aware that lack of weak functions interpretation is not OK but lets restrict the scope for now).
 
-**Some examples:**
+
+#### Some examples
 
 If we have a hypothetical person with T<sub>BS</sub>=N<sub>BS</sub>=Q<sub>BS</sub>=0.5, T<sub>LA</sub>=N<sub>LA</sub>=D<sub>LA</sub>=0.2, other Khizhnyak functions ~0 (that's values of Khizhnyak axes - not just functions) then we can assume T<sub>BS</sub> as 1-dominant like role, and *both* N<sub>BS</sub> and Q<sub>BS</sub> as 2-supporting like role. Yep. Supporting functions are from the same temperament as dominant function (strong base temperament group). N<sub>LA</sub> and D<sub>LA</sub> *both* can be assumed with 8-background like role. And T<sub>LA</sub> would be something like strong 7-restrictive role (all three from strong dual temperament group).
 
@@ -750,6 +750,18 @@ This would give: (1T<sub>BS</sub>, 2N<sub>BS</sub>, 2Q<sub>BS</sub>, 7T<sub>LA</
 Here I assumed that I need to put functions in 1-dominant/2-supporting pair in a way that they are of different nature (T/N or T/Q are fine but T/F or T<sub>BS</sub>/T<sub>FM</sub> are not) but of the **same** dynamic/static axis (T<sub>±IR</sub>/N<sub>±IR</sub> is fine but T<sub>±IR</sub>/N<sub>±ER</sub> is not). Hence I need to mix functions from conscious temperaments for this. I also assumed that I need to put functions in 1-dominant/8-background pair in a way that they are of different nature (T/N or T/Q are fine but T/F or T<sub>BS</sub>/T<sub>LA</sub> are not) and of **different** dynamic/static axis (T<sub>±IR</sub>/N<sub>±ER</sub> is fine but T<sub>±IR</sub>/N<sub>±IR</sub> is not). This way I emulate Model A behaviour of 1-2-8 functions with Abstracted Khizhnyak X<sub>±IR</sub>/X<sub>±ER</sub> functions.
 
 If we take another hypothetical person example with T<sub>LA</sub>=0.5, T<sub>BS</sub>=S<sub>BS</sub>=D<sub>BS</sub>=0.3, other Khizhnyak functions ~0 then we can either assume (1T<sub>LA</sub>, 7T<sub>BS</sub>, 8S<sub>BS</sub>, 8D<sub>BS</sub>) or assume (1S<sub>BS</sub>, 2D<sub>BS</sub>, 2T<sub>BS</sub>, 8T<sub>LA</sub>). The second case is tempting because it doesn't have strong 7-restrictive but it uses non-standard Khizhnyak dominant function and would have 8th stronger than 1th. So the first case is more likely (with standard 1-dominant that is the strongest of all).
+
+
+#### Subtypes names for examples
+
+As we have seen in the previous *Some examples* section there can be expected some order of functions if we are to try to preserve Model A ideas. And the main idea is that a person has a **1-dominant** function (one of 8 abstract-dynamic functions: N<sub>±IR</sub>, N<sub>±ER</sub>, S<sub>±IR</sub>, S<sub>±ER</sub>, T<sub>±IR</sub>, F<sub>±IR</sub>, T<sub>±ER</sub>, F<sub>±ER</sub> — let's for now leave Q/D functions behind), an auxiliary function (one of 4: N, S, T, F), and when using auxiliary function there can be preference for using either **2-supporting** function (static function for static dominant) or **8-background** (dymamic function for static dominant). Let's construct all possible subtypes for dominant static T using names from *11.4 Non-standard dominant Khizhnyak functions*:
+
+* **BS-TNI-2**: 1-BS-T / 2-BS-N,
+* **BS-TNI-8RA**: 1-BS-T / 8-RA-N,
+* **BS-TNI-8LA**: 1-BS-T / 8-LA-N,
+* **FM-TNE-2**: 1-FM-T / 2-FM-N,
+* **FM-TNE-8RA**: 1-FM-T / 8-RA-N,
+* **FM-TNE-8LA**: 1-FM-T / 8-LA-N.
 
 
 ### 11.8 FZA4: Hypothesis for 8 axes of independent variation in factorized traits space
