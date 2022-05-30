@@ -757,11 +757,16 @@ If we take another hypothetical person example with T<sub>LA</sub>=0.5, T<sub>BS
 As we have seen in the previous *Some examples* section there can be expected some order of functions if we are to try to preserve Model A ideas. And the main idea is that a person has a **1-dominant** function (one of 8 abstract-dynamic functions: N<sub>±IR</sub>, N<sub>±ER</sub>, S<sub>±IR</sub>, S<sub>±ER</sub>, T<sub>±IR</sub>, F<sub>±IR</sub>, T<sub>±ER</sub>, F<sub>±ER</sub> — let's for now leave Q/D functions behind), an auxiliary function (one of 4: N, S, T, F), and when using auxiliary function there can be preference for using either **2-supporting** function (static function for static dominant) or **8-background** (dymamic function for static dominant). Both 2nd and 8th functions can be strong hence it would be possible to combine them into 1-2-8 triplet only one particular way (or several not arbitrary ways). In these combinations dominant function can be not the strongest one but the one of right static-dynamic property. Let's construct some possible subtypes for dominant static T using names from *11.4 Non-standard dominant Khizhnyak functions*:
 
 * **BS-TNI-2**: 1-BS-T / 2-BS-N,
+* **BS-TNI-2-8RA**: 1-BS-T / 2-BS-N / 8-RA-N,
 * **BS-TNI-8RA**: 1-BS-T / 8-RA-N,
 * **BS-TNI-8LA**: 1-BS-T / 8-LA-N,
 * **FM-TNE-2**: 1-FM-T / 2-FM-N,
 * **FM-TNE-8RA**: 1-FM-T / 8-RA-N,
 * **FM-TNE-8LA**: 1-FM-T / 8-LA-N.
+
+You can contrast it with:
+
+* **BS-NTI-2-8RA**: 1-BS-N / 2-BS-T / 8-RA-T.
 
 
 ### 11.8 FZA4: Hypothesis for 8 axes of independent variation in factorized traits space
